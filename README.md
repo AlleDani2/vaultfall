@@ -65,6 +65,17 @@ The maintainers may publish the content later. When they do, the exporter that p
 (`--con-contenuto`) adds exactly the content modules and the tools that depend on them.
 
 
+## Quick start (no Godot, no game data needed)
+
+These two checks run on the repository exactly as published (Python 3.11+, standard library only) and are what the CI runs:
+
+```
+python tests/test_framework_standalone.py   # formulas vs reference values, small config/string files
+python tools/gd_lint.py game                # syntax-level lint of every GDScript file
+```
+
+A good first contribution is anything that these checks cover: formula fixes, lint rules, documentation, localisation strings.
+
 ## Building and trying it
 
 Requirements: **Godot 4.7.2** (standard edition, not .NET), **Python 3.11+**, Git.
