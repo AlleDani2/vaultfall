@@ -1,0 +1,82 @@
+keys,en,it
+UI_M10_MONTHS,"Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec","gen,feb,mar,apr,mag,giu,lug,ago,set,ott,nov,dic"
+UI_M10_NO_CLASS,Hero with no class yet,Eroe senza classe
+UI_M10_HERO_LEVEL,Hero lv. {n},Eroe liv. {n}
+UI_M10_TOTAL_LEVEL_SHORT,Total lv. {n},Liv. totale {n}
+UI_M10_VERSION,Version {v},Versione {v}
+UI_M10_COPYRIGHT,© 2026 VAULTFALL contributors,© 2026 VAULTFALL contributors
+UI_M10_COOP,Co-op (LAN),Cooperativa (LAN)
+UI_M10_COOP_TIP,Loads your latest game and opens the Lobby to play with other people on a local network. It unlocks with your first Raid.,Carica l'ultima partita e apre la Lobby per giocare in rete locale con altre persone. Si sblocca con la prima Incursione.
+UI_M10_COOP_NEEDS_GAME,Co-op needs a saved game. Start yours with New game: co-op unlocks after the first Raid.,La Cooperativa richiede una partita salvata. Comincia la tua con «Nuova partita»: si sblocca dopo la prima Incursione.
+UI_M10_COOP_LOCKED,"Co-op unlocks when you win your first Raid. Keep playing, then come back here.",La Cooperativa si sblocca con la prima Incursione vinta. Continua la partita e poi torna qui.
+UI_M10_SLOT_DAMAGED_BADGE,Damaged,Danneggiato
+UI_M10_SLOT_RECOVERED,"The main save file is damaged, but your data is safe: a backup from {date} (total level {level}) is being read. Restoring it makes the slot healthy again.","Il file principale del salvataggio è danneggiato, ma i dati sono al sicuro: si legge una copia di sicurezza del {date} (livello totale {level}). Ripristinandola, lo slot torna in ordine."
+UI_M10_SLOT_NO_BACKUP,"This save cannot be read and there is no usable backup. You can export the file for support, or start over in this slot.",Questo salvataggio non può essere letto e non c'è nessuna copia di sicurezza utilizzabile. Puoi esportare il file per l'assistenza oppure ricominciare in questo slot.
+UI_M10_SLOT_HAS_BACKUP,"The main save file cannot be read, but a backup from {date} (total level {level}) exists. You can restore it.","Il file principale non può essere letto, ma esiste una copia di sicurezza del {date} (livello totale {level}). Puoi ripristinarla."
+UI_M10_SLOT_RESTORE,Restore the backup,Ripristina la copia
+UI_M10_SLOT_EXPORT,Export file for support,Esporta il file per l'assistenza
+UI_M10_SLOT_EXPORT_TIP,"Copies the file to your Desktop, unchanged, so you can send it to support. Nothing is ever sent on its own.","Copia il file sul Desktop, senza modificarlo, così puoi inviarlo all'assistenza. Non parte nulla da solo."
+UI_M10_DELETE_DOTS,Delete…,Elimina…
+UI_M10_DELETE_BODY,Delete slot {n}? This is permanent: its backup copies are erased too.,Eliminare lo slot {n}? L'operazione è definitiva: vengono cancellate anche le sue copie di sicurezza.
+UI_M10_RESTORE_TITLE,Restore the backup?,Ripristinare la copia di sicurezza?
+UI_M10_RESTORE_BODY,"The slot goes back to the backup from {date} (total level {level}). The damaged file is not deleted: it stays next to it with a .danneggiato extension, for support.","Lo slot tornerà alla copia del {date} (livello totale {level}). Il file danneggiato non viene cancellato: resta accanto, con estensione .danneggiato, per l'assistenza."
+UI_M10_RESTORE_DONE,Backup restored. The slot can be read again.,Copia di sicurezza ripristinata. Lo slot è di nuovo leggibile.
+UI_M10_RESTORE_FAILED,The restore did not work. Check the free space on the disk and try again.,Il ripristino non è riuscito. Controlla lo spazio libero sul disco e riprova.
+UI_M10_EXPORT_DONE,File copied to: {path},File copiato in: {path}
+UI_M10_EXPORT_FAILED,The file could not be copied. Check the free disk space and the folder permissions.,Non è stato possibile copiare il file. Controlla lo spazio sul disco e i permessi della cartella.
+UI_M10_LESS_THAN_MIN,under 1 min,meno di 1 min
+UI_M10_LOADING,Loading…,Caricamento…
+UI_M10_PAUSE_SAVE,Save now,Salva adesso
+UI_M10_PAUSE_SAVED,Game saved.,Partita salvata.
+UI_M10_PAUSE_MANUAL,Manual,Manuale
+UI_M10_PAUSE_QUIT,Quit to desktop,Esci dal gioco
+UI_M10_CRED_TEAM_H,Who made the game,Chi ha fatto il gioco
+UI_M10_CRED_DEV,"Concept, game design, writing and development: VAULTFALL contributors.","Ideazione, game design, scrittura e sviluppo: VAULTFALL contributors."
+UI_M10_CRED_ART_BY,Art direction and recoloring of the images: the developer.,Direzione artistica e ricolorazione delle immagini: lo sviluppatore.
+UI_M10_CRED_MUSIC_BY,Music and sound effects: synthesized by the project's own tools (no third-party samples).,Musica ed effetti sonori: sintetizzati dagli strumenti del progetto (nessun campione di terzi).
+UI_M10_CRED_TEST,Testing and feedback: the people who tried the game during development.,Prove e segnalazioni: le persone che hanno provato il gioco durante lo sviluppo.
+UI_M10_CRED_AI_H,Use of AI tools,Uso di strumenti di intelligenza artificiale
+UI_M10_CRED_AI,"Part of the code and texts was written with the help of Claude (Anthropic), an AI assistant. The game uses no AI while you play and sends nothing over the network.","Parte del codice e dei testi è stata scritta con l'aiuto di Claude (Anthropic), un assistente basato su IA. Durante la partita il gioco non usa nessuna IA e non invia nulla in rete."
+UI_M10_CRED_THANKS_H,Thanks,Ringraziamenti
+UI_M10_CRED_THANKS,"To everyone who tried the game and shared ideas, to the open source communities behind the projects listed here, and to everyone who chooses to play VAULTFALL.","A chi ha provato il gioco e ha dato suggerimenti, alle comunità open source dei progetti elencati qui e a chiunque scelga di giocare a VAULTFALL."
+UI_M10_CRED_COPYRIGHT,© 2026 VAULTFALL contributors. Source code released under the MIT licence.,© 2026 VAULTFALL contributors. Codice sorgente rilasciato con licenza MIT.
+UI_M10_LIC_BUTTON,Third-party licenses,Licenze di terze parti
+UI_M10_LIC_FOLDER,Open the licenses folder,Apri la cartella delle licenze
+UI_M10_LIC_GODOT_H,Godot Engine 4.7 (MIT license),Godot Engine 4.7 (licenza MIT)
+UI_M10_LIC_GODOT,"Copyright (c) 2014-present Godot Engine contributors. Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.","(Testo originale in inglese, l'unico con valore legale.)
+
+Copyright (c) 2014-present Godot Engine contributors. Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+UI_M10_LIC_FONTS_H,Fonts (SIL Open Font License 1.1),Caratteri (SIL Open Font License 1.1)
+UI_M10_LIC_FONTS,"Atkinson Hyperlegible Next. © 2020-2024 The Atkinson Hyperlegible Next Project Authors (Braille Institute).
+Departure Mono. © 2022-2024 Helena Zhang.
+Vaultfall Symbols (modified subset of Noto Sans Symbols 2). © 2022 The Noto Project Authors.
+All three are licensed under the SIL Open Font License, Version 1.1 (https://openfontlicense.org). The full license text is in the licenses folder next to the game.","Atkinson Hyperlegible Next. © 2020-2024 The Atkinson Hyperlegible Next Project Authors (Braille Institute).
+Departure Mono. © 2022-2024 Helena Zhang.
+Vaultfall Symbols (sottoinsieme modificato di Noto Sans Symbols 2). © 2022 The Noto Project Authors.
+Tutti e tre sono distribuiti con la SIL Open Font License, versione 1.1 (https://openfontlicense.org). Il testo completo della licenza è nella cartella licenses accanto al gioco."
+UI_M10_LIC_IMAGES_H,Images,Immagini
+UI_M10_LIC_IMAGES,Interface frames are drawn by scripts of the project. Music and sound effects are synthesized by the project: they contain no third-party material.,I telai dell'interfaccia sono disegnati da script del progetto. Musica ed effetti sono sintetizzati dal progetto: non contengono materiale di terzi.
+UI_M10_LIC_MORE_H,Other components,Altri componenti
+UI_M10_LIC_MORE,"The licenses and copyright notices of the third-party components built into Godot Engine (libraries for fonts, audio, compression and more) are in the file licenses/GODOT_LICENSES.txt shipped with the game. The game uses no other third-party code or material.","Le licenze e i copyright dei componenti di terze parti inclusi in Godot Engine (librerie per caratteri, audio, compressione e altro) sono nel file licenses/GODOT_LICENSES.txt distribuito con il gioco. Il gioco non usa altro codice o materiale di terzi."
+UI_CRED_INTRO,"VAULTFALL is a single-player idle game of trades, crates and vaults. It runs offline and needs no account.","VAULTFALL è un gioco idle da giocare in singolo, fatto di mestieri, casse e caveau. Funziona offline e non richiede nessun account."
+UI_FB_SECTION,Support,Assistenza
+UI_FB_SUPPORT_NOTE,"If something does not work, “Report a problem” prepares a ZIP file on your Desktop that you can send to support. Nothing is ever sent on its own.","Se qualcosa non funziona, «Segnala un problema» prepara sul Desktop un file ZIP da inviare all'assistenza. Non parte nulla da solo."
+UI_FB_NEWS_INTRO,What changed since last time.,Cosa è cambiato dall'ultima volta.
+UI_FB_NEWS_EMPTY,No news to show.,Nessuna novità da mostrare.
+UI_MAN2_FEEDBACK_JOKE,Mistress Ilde files every report in triplicate.,Maestra Ilde protocolla ogni segnalazione in triplice copia.
+UI_SLOT_EMPTY,Empty slot,Slot libero
+UI_SLOT_CORRUPT,Damaged save: it cannot be read.,Salvataggio danneggiato: non può essere letto.
+UI_SLOT_NEWER,Saved with a newer version of the game. Update the game to open it: the data has not been changed.,Salvato con una versione più recente del gioco. Aggiorna il gioco per aprirlo: i dati non sono stati modificati.
+UI_LOAD_FAILED,"The save could not be loaded. The data has not been changed: try another slot, or restore a backup from New game.",Non è stato possibile caricare il salvataggio. I dati non sono stati modificati: prova un altro slot o ripristina una copia di sicurezza da «Nuova partita».

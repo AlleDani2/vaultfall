@@ -1,0 +1,17 @@
+keys,en,it
+UI_USE_SCOPE_IN,"only in {name}","solo in {name}"
+UI_USE_MATERIAL_OTHER,"Material: used for {other}.","Materiale: serve per {other}."
+UI_USE_MATERIAL_ALSO,"Material: an ingredient for {where}; also used for {other}.","Materiale: un ingrediente per {where}; serve anche per {other}."
+UI_USE_OTHER_ESTATE,"building and upgrading Estate buildings","costruire e potenziare gli edifici della Tenuta"
+UI_USE_OTHER_SECRETS,"revealing Secret Places","rivelare i Luoghi Segreti"
+UI_USE_OTHER_ERA,"advancing Eras and buying item Rank","avanzare di Era e comprare il Rango degli oggetti"
+UI_YOU_WERE_AWAY,You were away for,Tempo di assenza:
+UI_COOPNET_LOG_JOIN,{a} joined the guild. Welcome!,{a} si unisce alla gilda. Un applauso!
+UI_COOPNET_REJECT_KICKED,You were removed from the guild. Unconfirmed deposits have been given back.,Non fai più parte della gilda. I versamenti non confermati ti sono stati restituiti.
+UI_Q97_PREP_TITLE,Not ready to fight,Meglio prepararsi prima di combattere
+UI_SKILLS_STOP_SINGLE,"One piece at a time: you built one and the work stopped. To make several while you are away, line them up in the Queue (one entry per piece).","Una costruzione per volta: ne hai fatta una e il lavoro si è fermato. Per farne di più mentre sei via, mettile in fila nella Coda (una voce per pezzo)."
+UI_DLG_CONFIRM_TITLE,Please confirm,Conferma
+UI_DLG_OK,OK,OK
+UI_DLG_CANCEL,Cancel,Annulla
+UI_SKILLS_TOOL_HINT,"A better tool makes this skill faster and more generous. You build it in: {where}. Then wear it from the Hero screen or the Bank.","Un attrezzo migliore rende questa mansione più veloce e generosa. Si costruisce in: {where}. Poi lo indossi dalla scheda Eroe o dal Deposito."
+UI_APPRENTICES_REASON_SINGLE,"Apprentices do not build single pieces: gear and tools are made by hand, one at a time.","Gli apprendisti non costruiscono pezzi singoli: equipaggiamento e attrezzi si fanno a mano, uno per volta."

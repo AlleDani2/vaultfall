@@ -1,0 +1,93 @@
+keys,en,it
+UI_EQ_HELP,One piece per slot. Click a slot to see what fits there; right-click a slot to take the piece off (it stays in storage).,Un solo pezzo per slot. Clic su uno slot per vedere cosa ci puoi mettere; tasto destro sullo slot per togliere il pezzo (resta nel Deposito).
+UI_EQ_DUNGEON_LOCK,Gear can't be changed inside a dungeon.,Dentro un dungeon l'equipaggiamento non si cambia.
+UI_EQ_TOOLS,Skill tools,Utensili di mansione
+UI_EQ_TOOL_OF,Tool: {skill},Utensile: {skill}
+UI_EQ_EMPTY,Empty,Vuoto
+UI_EQ_AVAILABLE_ONE,1 available,1 disponibile
+UI_EQ_SLOT_WEAPON,Weapon,Arma
+UI_EQ_SLOT_OFFHAND,Off-hand,Secondaria
+UI_EQ_SLOT_AMMO,Ammunition,Munizioni
+UI_EQ_SLOT_HELM,Helm,Elmo
+UI_EQ_SLOT_BODY,Body,Corazza
+UI_EQ_SLOT_LEGS,Legs,Gambali
+UI_EQ_SLOT_GLOVES,Gloves,Guanti
+UI_EQ_SLOT_BOOTS,Boots,Stivali
+UI_EQ_SLOT_CAPE,Cape,Mantello
+UI_EQ_SLOT_AMULET,Amulet,Amuleto
+UI_EQ_SLOT_RING,Ring 1,Anello 1
+UI_EQ_SLOT_RING2,Ring 2,Anello 2
+UI_EQ_SLOT_INSIGNIA,Insignia,Insegna
+UI_EQ_AVAILABLE,{n} available,{n} disponibili
+UI_EQ_EMPTY_TIP,{slot}: empty. Click to pick what goes here.,{slot}: vuoto. Clic per scegliere cosa metterci.
+UI_EQ_LOCKED_2H,Two-handed,A due mani
+UI_EQ_RULE_DEFAULT,One piece per slot: wearing another sends the old one back to storage (not worn). The level on the piece is the Hero level it needs.,"Un solo pezzo per slot: se ne indossi un altro, il vecchio torna nel Deposito (non indossato). Il livello scritto sul pezzo è il livello Eroe che serve."
+UI_EQ_RULE_WEAPON,"The weapon sets your style (melee, ranged or arcane): class abilities only work with a weapon of your class's style. A two-handed weapon frees the off-hand slot.","L'arma decide lo stile (mischia, distanza o arcano): le abilità di classe funzionano solo con un'arma dello stile della tua classe. Un'arma a due mani svuota la mano secondaria."
+UI_EQ_RULE_OFFHAND,Not usable with a two-handed weapon. One piece only.,Non si usa con un'arma a due mani. Un solo pezzo.
+UI_EQ_RULE_AMMO,Ammunition must match your weapon's style. The whole stack in storage goes into the slot.,Le munizioni devono essere dello stile dell'arma. Tutta la scorta del Deposito va nello slot.
+UI_EQ_RULE_RING,You have two ring slots; each takes one ring. The same slot can't hold two rings.,"Hai due slot per gli anelli, uno per anello: nello stesso slot non ne entrano due."
+UI_EQ_RULE_RING2,You have two ring slots; each takes one ring. The same slot can't hold two rings.,"Hai due slot per gli anelli, uno per anello: nello stesso slot non ne entrano due."
+UI_EQ_RULE_TOOL,One tool per skill. It only improves that skill.,Un utensile per mansione. Migliora solo quella mansione.
+UI_EQ_NOTHING_WORN,Empty slot,Slot vuoto
+UI_EQ_NOTHING_WORN_HINT,Pick a piece from the list below.,Scegli un pezzo dall'elenco qui sotto.
+UI_EQ_WORN_NOW,Equipped now,Equipaggiato ora
+UI_EQ_REMOVE,Take off,Togli
+UI_EQ_PICK_FIRST,Click a piece in the list to compare it.,Clicca un pezzo dell'elenco per confrontarlo.
+UI_EQ_EQUIP,Equip,Equipaggia
+UI_EQ_LIST_HEAD,"In storage, fit for this slot: {n}","Nel Deposito, adatti a questo slot: {n}"
+UI_EQ_LIST_HINT,"Double-click to equip, or drag a piece onto the slot.","Doppio clic per equipaggiare, oppure trascina il pezzo sullo slot."
+UI_EQ_LIST_EMPTY,Nothing in storage for this slot.,Nel Deposito non c'è niente per questo slot.
+UI_EQ_LIST_EMPTY_AMMO,No ammunition in storage that fits your weapon.,Nel Deposito non c'è nessuna munizione adatta all'arma.
+UI_EQ_GO_MARKET,Go to the Market,Vai al Mercato
+UI_EQ_GO_CRAFT,Go to {skill},Vai a {skill}
+UI_EQ_GO_COOK,Go to Cooking,Vai alla Cucina
+UI_EQ_AMMO_DMG,Ammo damage {d},Danno munizione {d}
+UI_EQ_STYLE_SHORT,Style {style}: not your class's,Stile {style}: non è quello della classe
+UI_EQ_NEED_LEVEL,Needs Hero level {n},Serve livello Eroe {n}
+UI_EQ_LEVEL_TAG,Lv {n},Lv {n}
+UI_EQ_WHY_MISSING,This piece is no longer in storage.,Questo pezzo non c'è più nel Deposito.
+UI_EQ_WHY_NOT_GEAR,This is not wearable gear.,Questo non è un pezzo da indossare.
+UI_EQ_WHY_WRONG_SLOT,It doesn't go in this slot.,Non va in questo slot.
+UI_EQ_WHY_WORN,Already worn: {slot},Già indossato: {slot}
+UI_EQ_OFFHAND_REMOVED,"The two-handed weapon took the place of the off-hand piece, which went back to storage.",L'arma a due mani ha preso il posto della mano secondaria: quel pezzo è tornato nel Deposito.
+UI_EQ_EQUIPPED_NOTICE,Equipped: {name} ({slot}).,Equipaggiato: {name} ({slot}).
+UI_EQ_REPLACED_NOTICE,{old} went back to storage.,{old} è tornato nel Deposito.
+UI_EQ_REMOVED_NOTICE,Taken off: {name}. It stays in storage.,Tolto: {name}. Resta nel Deposito.
+UI_EQ_FOOD_INTRO,Assign food here: the hero eats on their own when health drops below the threshold.,Assegna il cibo qui: l'Eroe mangia da solo quando la vita scende sotto la soglia.
+UI_EQ_FOOD_ORDER,Click a slot to pick its food from storage (right-click empties it). Each slot holds a different food and uses every portion of it in storage; the hero eats from the first slot that has portions.,Clic su uno slot per scegliere il suo cibo dal Deposito (tasto destro: lo svuota). Ogni slot ha un cibo diverso e usa tutte le porzioni di quel cibo nel Deposito; l'Eroe mangia dal primo slot che ne ha.
+UI_EQ_FOOD_SLIDER_TIP,Move the threshold: the hero eats when health falls below this percentage. Far right = the highest value you can set.,Sposta la soglia: l'Eroe mangia quando la vita scende sotto questa percentuale. Tutto a destra = il valore più alto che puoi impostare.
+UI_EQ_FOOD_SLOT,Food {n},Cibo {n}
+UI_EQ_FOOD_PICK,Choose,Scegli
+UI_EQ_FOOD_SLOT_TIP_EMPTY,Empty food slot. Click to choose what to assign from storage.,Slot del cibo vuoto. Clic per scegliere dal Deposito cosa assegnare.
+UI_EQ_FOOD_SLOT_OUT,Run out!,Finito!
+UI_EQ_FOOD_SLOT_LASTS,lasts ~{t},dura ~{t}
+UI_EQ_FOOD_SLOT_HEAL,heals {heal},cura {heal}
+UI_EQ_FOOD_EXPLAIN,Below the threshold the hero eats one portion after another until health is back to {target}%. Each portion restores {eff}% of the food's value (all of it with “Eat now”). A higher threshold is safer but uses more food; the most you can set is {max}%. The white line on the health bar shows it.,Sotto la soglia l'Eroe mangia una porzione dopo l'altra finché la vita torna al {target}%. Ogni porzione cura il {eff}% del suo valore (tutto con «Mangia ora»). Soglia più alta = più sicuro ma più cibo consumato; il massimo che puoi impostare è {max}%. La linea bianca sulla barra della vita la mostra.
+UI_EQ_FOOD_STOCK,Supply: {n} portions in storage (shared by all slots),Scorta: {n} porzioni nel Deposito (condivise da tutti gli slot)
+UI_EQ_FOOD_NOT_USED,this monster doesn't hurt you: no food is used,questo mostro non ti toglie vita: il cibo non si consuma
+UI_EQ_FOOD_LASTS,lasts about {t} against {name},dura circa {t} contro {name}
+UI_EQ_FOOD_PICK_TARGET,pick a monster to see how long it lasts,scegli un mostro per vedere quanto dura
+UI_EQ_FOOD_ASSIGN_HINT,You have food in storage: click a slot above to assign it.,Hai del cibo nel Deposito: clicca su uno slot qui sopra per assegnarlo.
+UI_EQ_FOOD_NONE_GO,No food. Cook something or buy some at the Market.,Nessun cibo. Cucina qualcosa o compra al Mercato.
+UI_EQ_FOOD_PICK_ROW,{name} ×{n} · heals {heal},{name} ×{n} · cura {heal}
+UI_EQ_FOOD_PICK_NONE,No food in storage,Nessun cibo nel Deposito
+UI_EQ_FOOD_CLEAR,Empty this slot,Svuota lo slot
+UI_EQ_FOOD_ASSIGNED,Food {n}: {name}.,Cibo {n}: {name}.
+UI_EQ_SUP_CHOOSE,Change,Cambia
+UI_EQ_SUP_DRINK,Drink,Bevi
+UI_EQ_SUP_AMMO,Ammunition: {name} ×{n},Munizioni: {name} ×{n}
+UI_EQ_SUP_AMMO_NONE,Ammunition: none,Munizioni: nessuna
+UI_EQ_BANK_BADGE,E,E
+UI_EQ_BANK_BADGE_TIP,Equipped: {slot},Equipaggiato: {slot}
+UI_EQ_BANK_FOOD_BADGE_TIP,Assigned to the hero's food: slot {n},Assegnato al cibo dell'Eroe: slot {n}
+UI_EQ_BANK_FILTER_WORN,Equipped only,Solo equipaggiati
+UI_EQ_BANK_SORT_WORN,Equipped first,Equipaggiati prima
+UI_EQ_BANK_D_WORN,EQUIPPED in slot: {slot},EQUIPAGGIATO nello slot: {slot}
+UI_EQ_BANK_D_NOT_WORN,Not equipped (in storage).,Non equipaggiato (nel Deposito).
+UI_EQ_BANK_D_FOOD,Assigned to the hero's food (slot {n}).,Assegnato al cibo dell'Eroe (slot {n}).
+UI_EQ_BANK_D_ID,Code: {id},Codice: {id}
+UI_EQ_BANK_D_FINISH,Finish: {name},Finitura: {name}
+UI_EQ_BANK_UNEQUIP,Take off (stays in storage),Togli (resta nel Deposito)
+UI_EQ_BANK_EQUIP,Equip,Equipaggia
+UI_EQ_BANK_EQUIP_WHERE,Goes in: {slot},Va nello slot: {slot}
+UI_EQ_BANK_OPEN_HERO,Open the Hero screen,Apri la schermata Eroe

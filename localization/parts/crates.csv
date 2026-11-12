@@ -1,0 +1,104 @@
+keys,en,it
+UI_MENU_ALBUM,Album,Album
+UI_MENU_WARDROBE,Wardrobe,Guardaroba
+UI_CRATES_SUBTITLE,"Crates open only with keys. Not with a shrug, not with a firm handshake. Below you can read every probability before touching anything.","Le casse si aprono con le chiavi. Non con una scrollata di spalle, nemmeno con una stretta di mano convinta. Qui sotto trovi tutte le probabilità, da leggere prima di toccare qualunque cosa."
+UI_CRATES_TAB_CRATES,Crates,Casse
+UI_CRATES_TAB_ALBUM,Album,Album
+UI_CRATES_TAB_WARDROBE,Wardrobe,Guardaroba
+UI_CRATES_TAB_TRADE,Reshuffles,Rimpasti
+UI_CRATES_TAB_REFINE,Refinery,Affinatura
+UI_CRATES_TAB_BANK,Vault Bank,Banco
+UI_CRATES_TAB_CHALLENGE,Challenge,Sfida
+UI_CRATES_TAB_SOON,"Not ready yet. The carpenter said “tomorrow,” but he said that last week too.","Non è ancora pronto. Il falegname ha detto ""domani"", ma l'aveva detto anche la settimana scorsa."
+UI_CRATES_EMPTY,No crates yet. The Vault is emptier than a fridge the night before payday. Go play a bit: crates turn up on their own.,"Nessuna cassa, per ora. Il Caveau è più vuoto del frigo a fine mese. Vai a giocare un po': le casse saltano fuori da sole."
+UI_CRATES_HAVE,Crates: {n},Casse: {n}
+UI_CRATES_KEY_HAVE,{key}: {n},{key}: {n}
+UI_CRATES_COST_HAVE,Cost: {c} × {item} (you have {n}),Costo: {c} × {item} (ne hai {n})
+UI_CRATES_NO_KEY,"No key needed. For once, Gunilde is off the hook.",Nessuna chiave richiesta. Per una volta Gunilde può rilassarsi.
+UI_CRATES_NEED_KEY,You need at least one crate and its key. Keys are forged at the Keysmith or earned by playing. They are never sold for real money.,Servono almeno una cassa e la sua chiave. Le chiavi si forgiano alla Forgiachiavi o si guadagnano giocando. Non si comprano mai con denaro reale.
+UI_CRATES_ODDS,Odds,Probabilità
+UI_CRATES_PITY,"★ {nom} per opening (with the pity counter, on average {eff}: about 1 in {mean} openings)",★ {nom} per apertura (con la pity in media {eff}: circa 1 ogni {mean} aperture)
+UI_CRATES_PITY_COUNT,"Openings without ★: {n} (the pity bonus starts at {soft}, guaranteed at {hard})","Aperture senza ★: {n} (la pity parte da {soft}, garantita alla {hard}ª)"
+UI_CRATES_PITY_NEXT,★ chance on the next opening: {p},Probabilità di ★ alla prossima apertura: {p}
+UI_CRATES_EFFECTIVE,"Long-run odds, pity included: {list}","Probabilità sul lungo periodo, pity inclusa: {list}"
+UI_CRATES_NO_PITY,This crate has no pity counter: the odds above are always the real ones.,Questa cassa non ha il contatore pity: le probabilità qui sopra sono sempre quelle vere.
+UI_CRATES_ANNALIST_ODDS,Annalist chance for every skin: {p},Probabilità Annalista per ogni finitura: {p}
+UI_CRATES_CONTENTS,Contents (hover for patina and condition odds),Contenuto (passa il mouse per patina e probabilità delle condizioni)
+UI_CRATES_OPEN,Open,Apri
+UI_CRATES_OPEN_N,Open ×{n},Apri ×{n}
+UI_CRATES_QUICK,Quick open,Apertura rapida
+UI_CRATES_SKIP,Skip (Space),Salta (Spazio)
+UI_CRATES_CLOSE,Close,Chiudi
+UI_CRATES_EQUIP,Equip in the Wardrobe,Equipaggia nel Guardaroba
+UI_CRATES_EQUIPPED,Skin equipped in the Wardrobe. Looking sharp.,Finitura equipaggiata nel Guardaroba. Che stile.
+UI_CRATES_FOUND,You found: {name}. Bertoldo has already priced it.,Hai trovato: {name}. Bertoldo ne ha già fatto il prezzo.
+UI_CRATES_FOUND_N,You found {n} items,Hai trovato {n} oggetti
+UI_CRATES_NEW,New for your Album,Nuovo per il tuo Album
+UI_CRATES_PET_FOUND,A companion! It joined the Menagerie by itself.,Un famiglio! Si è unito da solo al serraglio.
+UI_CRATES_ANNALIST,Annalist,Annalista
+UI_CRATES_PATTERN,Pattern {n},Motivo {n}
+UI_CRATES_TIP_ITEM_PCT,Chance in this crate: {p} (within its rarity: {r}),Probabilità in questa cassa: {p} (nella sua rarità: {r})
+UI_CRATES_TIP_FLOAT,Patina range: {a} to {b}. Condition odds for this skin:,Intervallo di patina: da {a} a {b}. Probabilità delle condizioni per questa finitura:
+UI_CRATES_TIP_ANNALIST,Annalist chance: {p},Probabilità Annalista: {p}
+UI_CRATES_LEGAL,"Crates open only with keys earned or crafted in game. No real-money purchases, no trading: items have no real-world value. The odds of every crate are always shown in game.","Le Casse si aprono solo con chiavi ottenute o forgiate giocando. Nessun acquisto con denaro reale, nessuno scambio: gli oggetti non hanno alcun valore nel mondo reale. Le probabilità di ogni Cassa sono sempre visibili nel gioco."
+UI_CRATES_BACK_HALL,Back to the Vault Hall,Torna alla Sala dei Caveau
+UI_CRATES_ALBUM_SUB,"Every crate is a collection. Missing items show up as silhouettes, like a sticker album with fewer stickers and more arithmetic.","Ogni cassa è una collezione. Gli oggetti che mancano sono sagome, come in un album di figurine, ma con più matematica."
+UI_CRATES_ALBUM_COUNT,Skins {o}/{t} · Relics {ro}/{rt},Finiture {o}/{t} · Reliquie {ro}/{rt}
+UI_CRATES_ALBUM_BONUS,Bonus when complete: {b},Bonus a collezione completa: {b}
+UI_CRATES_ALBUM_COMPLETE,Collection complete: the bonus is active.,Collezione completa: il bonus è attivo.
+UI_CRATES_ALBUM_GOLDEN,"Golden Collection: bonus doubled. Frame it, or at least tell someone.","Collezione Aurea: bonus raddoppiato. Incorniciala, o almeno raccontalo a qualcuno."
+UI_CRATES_ALBUM_MISSING,???,???
+UI_CRATES_ALBUM_BEST,Best patina {f} · Annalists {a},Patina migliore {f} · Annalisti {a}
+UI_CRATES_ALBUM_TIP,"Found: {n}×, Annalists: {a}","Trovata {n} volte, di cui {a} Annalista"
+UI_CRATES_WARDROBE_SUB,"One skin per slot. The bonus is always active, you don't even need to hold the item. Wearing is optional, bonuses are not.","Una finitura per slot. Il bonus vale sempre, non serve nemmeno impugnare l'oggetto. Indossarla è facoltativo, i bonus no."
+UI_CRATES_SLOT_EMPTY,empty,vuoto
+UI_CRATES_PICK_SLOT,Pick a slot on the left to see the skins you can put in it.,Scegli uno slot a sinistra per vedere le finiture che ci puoi mettere.
+UI_CRATES_CHOICES,Skins for: {slot},Finiture per: {slot}
+UI_CRATES_UNEQUIP,Take off,Togli
+UI_CRATES_NO_SKINS,"No skins for this slot in your Bank yet. Open a Crate, or sulk.","Nessuna finitura per questo slot nel Deposito, per ora. Apri una Cassa, oppure fai il broncio."
+UI_CRATES_MORE,…and {n} more (showing the strongest ones),...e altre {n} (qui vedi le più forti)
+UI_CRATES_TOTALS,Active bonuses:,Bonus attivi:
+UI_CRATES_TOTALS_NONE,None yet. The wardrobe is as bare as a hotel room.,"Nessuno, per ora. Il guardaroba è spoglio come una stanza d'albergo."
+UI_CRATES_RELIQUARY,Reliquary ({used}/{n}),Reliquiario ({used}/{n})
+UI_CRATES_NO_RELICS,"No Relics ★ to place. Patience, they are rare on purpose.","Nessuna Reliquia ★ da sistemare. Pazienza, sono rare apposta."
+UI_CRATES_RARITY_RARE,Rare,Rara
+UI_CRATES_RARITY_EPIC,Epic,Epica
+UI_CRATES_RARITY_LEGENDARY,Legendary,Leggendaria
+UI_CRATES_RARITY_MYTHIC,Mythic,Mitica
+UI_CRATES_RARITY_RELIC,Relic,Reliquia
+UI_CRATES_GROUP_COMBAT,Combat,Combattimento
+UI_CRATES_GROUP_TOOL,Tools,Attrezzi
+UI_CRATES_GROUP_WORKSHOP,Workshop,Bottega
+UI_CRATES_GROUP_MERCHANT,Merchant,Mercante
+UI_CRATES_GROUP_ROGUE,Gray Hand,Mano Grigia
+UI_CRATES_GROUP_BOUNTY,Bounties,Taglie
+UI_CRATES_SLOT_WEAPON,Weapon,Arma
+UI_CRATES_SLOT_OFFHAND,Off-hand,Mano secondaria
+UI_CRATES_SLOT_HELM,Head,Testa
+UI_CRATES_SLOT_BODY,Torso,Torso
+UI_CRATES_SLOT_LEGS,Legs,Gambe
+UI_CRATES_SLOT_GLOVES,Hands,Mani
+UI_CRATES_SLOT_BOOTS,Feet,Piedi
+UI_CRATES_SLOT_CAPE,Cloak,Mantello
+UI_CRATES_SLOT_AXE,Axe,Ascia
+UI_CRATES_SLOT_PICKAXE,Pickaxe,Piccone
+UI_CRATES_SLOT_ROD,Fishing rod,Canna
+UI_CRATES_SLOT_SICKLE,Sickle,Falcetto
+UI_CRATES_SLOT_TRAP,Trap,Trappola
+UI_CRATES_SLOT_LOCKPICK,Lockpick,Grimaldello
+UI_CRATES_SLOT_HAMMER,Hammer,Martello
+UI_CRATES_SLOT_SAW,Saw,Sega
+UI_CRATES_SLOT_NEEDLE,Needle,Ago
+UI_CRATES_SLOT_PAN,Pan,Padella
+UI_CRATES_SLOT_ALEMBIC,Alembic,Alambicco
+UI_CRATES_SLOT_CHISEL,Chisel,Scalpello
+UI_CRATES_SLOT_STYLUS,Stylus,Stilo
+UI_CRATES_SLOT_FILE,File,Lima
+UI_CRATES_SLOT_BANNER,Banner,Stendardo
+UI_CRATES_SLOT_LEDGER,Ledger,Libro mastro
+UI_CRATES_SLOT_PURSE,Purse,Borsa
+UI_CRATES_SLOT_SEEDBAG,Seed bag,Sacca dei semi
+UI_CRATES_SLOT_MASK,Mask,Maschera
+UI_CRATES_SLOT_KEYRING,Key ring,Portachiavi
+UI_CRATES_SLOT_BADGE,Badge,Distintivo
+UI_CRATES_BANK_FULL,"The Bank is full: free some room before opening crates. Nothing was spent.","Il Deposito è pieno: libera dello spazio prima di aprire le casse. Non è stato speso nulla."

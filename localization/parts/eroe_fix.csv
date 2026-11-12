@@ -1,0 +1,8 @@
+keys,en,it
+UI_HERO_POTION_NONE_NOTE,"You have no combat potions in storage. Brew them with Alchemy; one at a time, each attack uses up a charge.","Non hai pozioni di combattimento nel Deposito. Si preparano con l'Alchimia; una alla volta, ogni attacco consuma una carica."
+UI_HERO_GO_ALCHEMY,Go to Alchemy,Vai all'Alchimia
+UI_HERO_GLYPH_NOTE,"Pick a worn item and socket the glyphs you have in storage. Removing a glyph destroys it.","Scegli un oggetto indossato e incastona i Glifi che hai nel Deposito. Rimuovere un Glifo lo distrugge."
+UI_HERO_GLYPH_NOTE_NONE,"Only crafted items of Fine quality or better have sockets. Wear one and it shows up here; glyphs are made with Runecarving.","Solo gli oggetti creati di qualità Fine o superiore hanno incastri. Indossane uno e comparirà qui; i Glifi si ricavano con l'Incisione Runica."
+UI_HERO_ATTR_NOTE_AUTO,"Points are spent for you at every level. Turn off “Automatic points” to choose yourself.","I punti si assegnano da soli a ogni livello. Disattiva «Punti automatici» per scegliere."
+UI_HERO_ATTR_NOTE_COMBAT,You can't spend points while fighting.,Non puoi assegnare punti mentre combatti.
+UI_HERO_ATTR_NOTE_MANUAL,Press “+” to spend a free point.,Premi «+» per spendere un punto libero.

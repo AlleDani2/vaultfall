@@ -1,0 +1,38 @@
+[
+  {
+    "version": "1.0.0",
+    "date": "2026-10-29",
+    "it": [
+      "Prima versione completa di VAULTFALL: mestieri, combattimento a classi, Casse, Tenuta, missioni e prestigio infinito, da giocare in singolo e senza connessione.",
+      "Nuovo menù principale con illustrazione a tutta pagina, schermata di caricamento e voci Continua, Nuova partita, Cooperativa (LAN), Impostazioni, Crediti ed Esci. Si adatta a schermi Full HD e 4K.",
+      "Slot di salvataggio più chiari: classe dell'eroe, capitolo, tempo di gioco e data dell'ultimo salvataggio. Un salvataggio danneggiato propone il ripristino dalla copia di sicurezza, e prima di sovrascrivere o eliminare uno slot viene chiesta conferma.",
+      "Menù di pausa con il tasto Esc: Riprendi, Salva adesso, Impostazioni, Manuale, Segnala un problema, Menù principale ed Esci dal gioco.",
+      "Crediti completi, con strumenti, uso di intelligenza artificiale e licenze di terze parti.",
+      "Il Manuale in gioco copre tutti i sistemi (indice, ricerca, numeri generati dai dati). Premi F1 o l'icona «?» in alto: si apre alla pagina della schermata in cui sei.",
+      "Amici e Coop. Dopo la prima Incursione trovi nel menù Progresso le voci Amici (Compagni d'armi e Breccia della settimana), Amici (Lobby) e Gilda di amici. Per giocare in rete servono la stessa versione del gioco e una rete in comune (stessa casa, Hamachi o ZeroTier).",
+      "Rango degli oggetti, Set di equipaggiamento, Clessidra del Custode, Vendita automatica, Modalità Cozy e scorciatoie da tastiera (1-9 per il menù, L per la colonna destra, Q, B, C, F1).",
+      "Commissioni giornaliere e settimanali, Sfida dei Collezionisti, Casse ritirate, e Stendardi ed Emblemi da mostrare nel profilo dal Compendio.",
+      "Su Steam: 118 imprese, salvataggi nel Cloud e stato di gioco visibile agli amici Steam. Fuori da Steam il gioco resta identico e completamente offline.",
+      "Dopo Incursioni, boss mondiali e Breccia l'Eroe riprende da solo l'attività di prima. Se il cibo finisce mentre sei via, la finestra «Rieccoti» lo dice e indica cosa fare.",
+      "Salvataggi più sicuri: copie di sicurezza giornaliere e per versione, importazione con conferma e avviso se il salvataggio all'uscita non riesce.",
+      "Primi capitoli più scorrevoli: la prima Cassa arriva dopo circa 10 minuti e le gemme trovate a gioco chiuso contano per le missioni.",
+      "«Segnala un problema» (Impostazioni e menù di pausa) crea un file ZIP sul Desktop da inviare all'assistenza: non viene inviato nulla da solo. Le statistiche di gioco anonime sono spente di default e restano sul tuo PC."
+    ],
+    "en": [
+      "First full release of VAULTFALL: trades, class-based combat, Crates, the Estate, quests and endless prestige, for one player, fully offline.",
+      "New main menu with full-screen artwork, a loading screen and the entries Continue, New game, Co-op (LAN), Settings, Credits and Quit. It adapts to Full HD and 4K screens.",
+      "Clearer save slots: hero class, chapter, play time and the date of the last save. A damaged save offers to restore from its backup copy, and you are asked to confirm before a slot is overwritten or deleted.",
+      "Pause menu on the Esc key: Resume, Save now, Settings, Manual, Report a problem, Main menu and Quit to desktop.",
+      "Full credits, including tools, the use of artificial intelligence and third-party licenses.",
+      "The in-game Manual covers every system (index, search, numbers generated from the game's data). Press F1 or the “?” icon at the top: it opens at the page for the screen you are on.",
+      "Friends and Co-op. After your first Raid you find the Friends (Companions in Arms and Rift of the Week), Friends (Lobby) and Friends' Guild entries in the Progress menu. To play over a network you need the same game version and a shared network (same home, Hamachi or ZeroTier).",
+      "Item Rank, Loadouts, Keeper's Hourglass, Auto-sell, Cozy Mode and keyboard shortcuts (1-9 for the menu, L for the right column, Q, B, C, F1).",
+      "Daily and weekly Commissions, the Collectors' Challenge, Retired Crates, and Banners and Emblems you can show on your profile from the Compendium.",
+      "On Steam: 118 achievements, Cloud saves and your play status shown to Steam friends. Outside Steam the game is unchanged and fully offline.",
+      "After Raids, World Bosses and the Rift the Hero goes back to what they were doing before. If the food runs out while you are away, the welcome-back screen tells you and says what to do.",
+      "Safer saves: daily and per-version backup copies, import with confirmation, and a warning if the save on exit fails.",
+      "Smoother first chapters: the first Crate arrives after about 10 minutes and gems found while the game is closed now count for quests.",
+      "“Report a problem” (Settings and the pause menu) makes a ZIP file on your Desktop to send to support: nothing is ever sent on its own. Anonymous play statistics are off by default and stay on your PC."
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+keys,en,it
+UI_GB_DETAIL_TIP,Technical details (wear value and pattern),Dettagli tecnici (valore di usura e motivo)
+UI_GB_OPEN_AGAIN,Open another ({n} left),Apri un'altra (ne hai {n})
+UI_GB_SHOP_READY,Ready to buy,Comprabile
+UI_GB_SHOP_MISSING_GOLD,{n} gold short,Mancano {n} oro
+UI_GB_MK_COL_ITEM,Item,Oggetto
+UI_GB_MK_COL_QTY,Qty,Qtà
+UI_GB_MK_COL_PRICE,Price (gold),Prezzo (oro)
+UI_GB_MK_COL_TREND,Trend,Tendenza
+UI_GB_FAC_DETAILS,Ranks and assignments,Gradi e incarichi
+UI_GB_WD_READY,Ready to wear,Pronte da indossare
+UI_GB_ALB_DONE,Collections complete,Collezioni complete
+UI_GB_ALB_FOUND,Pieces found,Pezzi trovati
+UI_GB_ALB_BONUS,Collection bonuses active,Bonus di collezione attivi

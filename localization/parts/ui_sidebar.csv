@@ -1,0 +1,10 @@
+keys,en,it
+UI_SIDE_GROUP_VAULT,Vault,Caveau
+UI_SIDE_ALL_SKILLS,All ({n}),Tutte ({n})
+UI_SIDE_ALL_TIP,Show or hide the full list of skills.,Mostra o nasconde l'elenco completo delle mansioni.
+UI_SIDE_HEADER_TIP,Click to open or close this group.,Clic per aprire o chiudere questo gruppo.
+UI_SIDE_DISCOVERY,Things to discover in the Guide: {n},Novità da scoprire nella Guida: {n}
+UI_SIDE_NEW_ENTRY,Unlocked and never opened,Sbloccata e mai aperta
+UI_SIDE_DANGER_BANK,Bank full: free some slots.,Deposito pieno: libera dei posti.
+UI_SIDE_DANGER_PANTRY,Pantry empty: your settlers work slower.,Dispensa vuota: i coloni lavorano più piano.
+UI_SIDE_DANGER_FOOD,Out of food in a risky fight: the hero may fall.,Cibo finito in uno scontro a rischio: l'eroe può cadere.

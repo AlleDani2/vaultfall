@@ -1,0 +1,18 @@
+keys,en,it
+UI_CARRO_STASHED,The Bank is full: {n} items went to the Pickup Cart ({waiting} waiting there). They unload by themselves as soon as there is room.,Deposito pieno: {n} pezzi sono finiti nel Carro di Ritiro ({waiting} in attesa). Si scaricano da soli appena c'è posto.
+UI_CARRO_TITLE_N,Pickup Cart: {n} items waiting,Carro di Ritiro: {n} pezzi in attesa
+UI_CARRO_BODY,"The Bank is full, but nothing is lost: prizes, keys and purchases wait in the Cart and unload by themselves as soon as there is room ({skins} of them are Finishes). The Cart holds {cap} single pieces (gear and Finishes): beyond that, surplus common and rare Finishes are sold at market price and the Log says so. Relics, locked, unique and Annalist pieces are never sold.","Il Deposito è pieno, ma nulla va perso: premi, chiavi e acquisti aspettano nel Carro e si scaricano da soli appena c'è posto ({skins} sono Finiture). Il Carro tiene {cap} pezzi non impilabili: oltre, le Finiture comuni e rare in eccesso si vendono al prezzo del Mercato e il Registro lo dice. Reliquie, pezzi bloccati, unici e Annalisti non si vendono mai."
+UI_CARRO_TITLE_EMPTY,Bank full,Deposito pieno
+UI_CARRO_BODY_EMPTY,"No slot left, but nothing stops: crates still open and prizes wait in the Pickup Cart until you make room.","Non c'è più un posto libero, ma nulla si ferma: le Casse si aprono lo stesso e i premi aspettano nel Carro di Ritiro finché non fai posto."
+UI_CARRO_SKINS_BTN,Sell common and rare Finishes ({n} · {gold} gold),Vendi Finiture comuni e rare ({n} · {gold} oro)
+UI_CARRO_SKINS_TIP,"Sells at market price the Finishes up to rare in the Bank. Locked, worn, unique and Annalist pieces and Relics stay with you.","Vende al prezzo del Mercato le Finiture fino a rara che hai nel Deposito. Pezzi bloccati, indossati, unici e Annalisti e le Reliquie restano a te."
+UI_CARRO_AUTO_BTN,Auto-sell,Vendita automatica
+UI_CARRO_AUTO_ON,Auto-sell on,Vendita automatica attiva
+UI_CARRO_AUTO_ON_TIP,Duplicates and common and rare Finishes are sold by themselves. Manage the rules in the Bank screen.,Doppioni e Finiture comuni e rare si vendono da soli. Le regole si gestiscono nella schermata Deposito.
+UI_CARRO_AUTO_TIP,"One click: turns on the sale of duplicates and the recommended rule (common and rare Finishes). Locked, worn, unique and Annalist pieces and Relics are never sold.","Un clic: attiva la vendita dei doppioni e la regola consigliata (Finiture comuni e rare). Pezzi bloccati, indossati, unici e Annalisti e le Reliquie non si vendono mai."
+UI_CARRO_AUTO_LOCKED_TIP,Auto-sell needs the Market and the Auto-Sell Constellation node. Click to see how to unlock it.,La vendita automatica richiede il Mercato e il nodo di Costellazione Vendita Automatica. Clicca per vedere come ottenerla.
+UI_CARRO_AUTO_DONE,Auto-sell is on: duplicates and common and rare Finishes are sold by themselves.,Vendita automatica attiva: doppioni e Finiture comuni e rare si vendono da soli.
+UI_CARRO_CRATE_LINE,Bank full: the prize is in the Pickup Cart ({n} items).,Deposito pieno: il premio è nel Carro di Ritiro ({n} pezzi).
+UI_QG_WHERE_SHOP,"can be bought at the Emporium ({price} gold each)","si compra all'Emporio ({price} oro l'uno)"
+UI_UIB_REQ_HINT_SHOP,"Click to open the Emporium","Clic per aprire l'Emporio"
+UI_QG_BOSS_FOOD_BEST,"The best food in your Bank is {food} (x{have}): with it about {need} portions are enough. Put it in a food slot on the Hero screen.","Il cibo migliore che hai nel Deposito è {food} (×{have}): con quello bastano circa {need} porzioni. Mettilo in uno slot cibo nella schermata Eroe."

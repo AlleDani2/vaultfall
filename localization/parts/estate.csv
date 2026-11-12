@@ -1,0 +1,152 @@
+keys,en,it
+UI_ESTATE_NO_SYSTEM,The Estate is closed. The settlers have gone on a very long lunch.,La Tenuta è chiusa. I coloni sono andati a pranzo e non si sa quando tornino.
+UI_ESTATE_INTRO,"Build, assign settlers, feed them, collect. Each building level needs 1 settler (not the Cottage). Settlers arrive slowly, eat 1 ration per hour from the Pantry (an empty Pantry restocks itself from the Bank; with no food at all production drops by a quarter) and produce while you are away. Collect the goods into your Bank or let the Shopfront sell them.","Costruisci, assegna i coloni, sfamali, raccogli. Ogni livello di un edificio richiede 1 colono (il Casolare no). I coloni arrivano con calma, mangiano 1 razione all'ora dalla Dispensa (la Dispensa vuota si rifornisce da sola dal Deposito; senza cibo la produzione cala di un quarto) e lavorano anche mentre sei via. Porta la merce al Deposito oppure lascia che la Bottega la venda."
+UI_ESTATE_BUILDINGS,Buildings,Edifici
+UI_ESTATE_H_SETTLERS,Settlers {n}/{cap} ({free} free) – next arrival in {next},Coloni {n}/{cap} ({free} liberi) - prossimo arrivo tra {next}
+UI_ESTATE_H_PANTRY,Pantry rations: {n} ({t} of food),Dispensa: {n} razioni ({t} di scorta)
+UI_ESTATE_H_PANTRY_EMPTY,Pantry EMPTY and no spare food in the Bank: production is down {pct}%. The settlers are looking at you. Not kindly.,Dispensa VUOTA e nessun cibo di scorta nel Deposito: produzione ridotta del {pct}%. I coloni ti guardano. Non con affetto.
+UI_ESTATE_STOCK_WITH,Stock the Pantry with:,Rifornisci la Dispensa con:
+UI_ESTATE_STOCK_10,Stock 10,Rifornisci 10
+UI_ESTATE_STOCK_ALL,Stock all,Rifornisci tutto
+UI_ESTATE_H_STORAGE,Warehouse {n}/{cap} units,Magazzino {n}/{cap} unità
+UI_ESTATE_H_PROSPERITY,Prosperity {n} (first Refounding at {need}),Prosperità {n} (prima Rifondazione a {need})
+UI_ESTATE_H_PARTNERS,Partners {n} (+{bonus}% production) – refound now: +{new} Partners (+{rel}% more),Soci {n} (+{bonus}% produzione) - se rifondi ora: +{new} Soci (+{rel}% in più)
+UI_ESTATE_H_INCOME,Production: {units} units/h. Shopfront pays at most {gold} gold/h.,Produzione: {units} unità/h. La Bottega paga al massimo {gold} oro/h.
+UI_ESTATE_COLLECT,Collect all,Raccogli tutto
+UI_ESTATE_REFOUND,Refound the Estate,Rifondazione
+UI_ESTATE_REFOUND_TIP,"Needs enough Prosperity (see the counter above) and at least 1 new Partner. Resets building levels, Warehouse and settlers; Partners stay.","Servono abbastanza Punti Prosperità (guarda il contatore qui sopra) e almeno 1 Socio nuovo. Azzera livelli degli edifici, Magazzino e coloni; i Soci restano."
+UI_ESTATE_REFOUND_ADVISED,Good moment: the new Partners are at least 50% of the ones you own.,Buon momento: i Soci nuovi sono almeno il 50% di quelli che hai.
+UI_ESTATE_REFOUND_CONFIRM,"Refound the Estate? Buildings go back to zero (the Cottage to 1), the Warehouse is emptied and the settlers leave. You keep the Partners (+2% production each). The settlers say it's nothing personal.","Rifondare la Tenuta? Gli edifici tornano a zero (il Casolare a 1), il Magazzino si svuota e i coloni se ne vanno. Tieni i Soci (+2% produzione ciascuno). I coloni dicono che non è niente di personale."
+UI_ESTATE_SELL_TITLE,Goods for sale,Merci in vendita
+UI_ESTATE_SELL_HINT,"The Shopfront sells ticked goods from the Warehouse at 80% of their value, within its hourly limit. Untick what you want to keep.","La Bottega vende le merci spuntate dal Magazzino all'80% del valore, entro il suo limite orario. Togli la spunta a ciò che vuoi tenere."
+UI_ESTATE_SELL_NONE,No Shopfront yet: everything stays in the Warehouse until you collect it. Berta says it keeps better that way.,Ancora nessuna Bottega: tutto resta nel Magazzino finché non lo raccogli. Berta dice che si conserva meglio.
+UI_ESTATE_CARD_NAME,{name} – level {lv},{name} - livello {lv}
+UI_ESTATE_PROD,"{n} units/h of {item} (grade {g}, max tier {t})","{n} unità/h di {item} (grado {g}, tier massimo {t})"
+UI_ESTATE_PROD_NONE,Not producing yet (grade {g}). It's thinking about it.,Ancora non produce (grado {g}). Ci sta pensando.
+UI_ESTATE_PRODUCT,Product:,Prodotto:
+UI_ESTATE_HOUSING,Room for {cap} settlers.,Posti per {cap} coloni.
+UI_ESTATE_STORAGE,Capacity {cap} units.,Capienza {cap} unità.
+UI_ESTATE_SELLER,"Sells up to {n} units/h at {pct}% of value, never more than {gold} gold/h.","Vende fino a {n} unità/h al {pct}% del valore, mai più di {gold} oro/h."
+UI_ESTATE_VAULT,"One Crate every {t}, sometimes with a key.","Una Cassa ogni {t}, ogni tanto con la chiave."
+UI_ESTATE_VAULT_NONE,"Builds a Crate every few hours once it exists. It doesn't exist yet, so the Crates are procrastinating.","Quando esiste, produce una Cassa ogni qualche ora. Per ora non esiste, quindi le Casse rimandano."
+UI_ESTATE_ACADEMY,"{slots} apprentice slots, efficiency {eff}%. Manage them in the Guild.","{slots} posti per apprendisti, efficienza {eff}%. Si gestiscono nella Gilda."
+UI_ESTATE_TAVERN,Up to {roster} mercenaries and {exp} expeditions at once. Manage them in the Guild.,Fino a {roster} mercenari e {exp} spedizioni insieme. Si gestiscono nella Gilda.
+UI_ESTATE_MILESTONE,Milestone {a}/{b} → production ×2,Traguardo {a}/{b} -> produzione x2
+UI_ESTATE_MILESTONE_MAX,All milestones reached. Show-off.,Tutti i traguardi raggiunti. Che esibizionista.
+UI_ESTATE_COST,Next level:,Prossimo livello:
+UI_ESTATE_GOLD,gold,oro
+UI_ESTATE_LOCKED,Unlocked by the story. Keep going with the quests.,Si sblocca con la storia. Continua con le missioni.
+UI_ESTATE_BTN_1,+1,+1
+UI_ESTATE_BTN_10,+10,+10
+UI_ESTATE_BTN_MAX,Max,Max
+UI_ESTATE_REASON_UNKNOWN,Unknown building.,Edificio sconosciuto.
+UI_ESTATE_REASON_LOCKED,Not unlocked yet.,Non ancora sbloccato.
+UI_ESTATE_REASON_SETTLERS,No free settler: wait for the next arrival or build Cottage levels.,Nessun colono libero: aspetta il prossimo arrivo o potenzia il Casolare.
+UI_ESTATE_REASON_GOLD,Not enough gold.,Oro insufficiente.
+UI_ESTATE_REASON_MATERIALS,Missing materials in the Bank.,Mancano materiali nel Deposito.
+UI_ESTATE_REASON_NOBANK,No Bank available.,Deposito non disponibile.
+UI_ESTATE_EVENTS,Estate gossip,Voci dalla Tenuta
+UI_ESTATE_EVENTS_NONE,Nothing happened. Suspicious.,Non è successo niente. Sospetto.
+UI_ESTATE_EV_CAT_NAP,A cat fell asleep on the stock ledger. Nobody dares to move it.,Un gatto si è addormentato sul registro delle scorte. Nessuno ha il coraggio di spostarlo.
+UI_ESTATE_EV_POSTMAN,The postman brought a parcel and a tip for the Shopfront. He also asked if we have a spare sandwich.,Il postino ha portato un pacco e una mancia per la Bottega. Ha anche chiesto se avanza un panino.
+UI_ESTATE_EV_SETTLERS_DEBATE,The settlers argued for an hour about whether bread is sliced before or after blessing it.,I coloni hanno discusso un'ora se il pane si affetta prima o dopo averlo benedetto.
+UI_ESTATE_EV_CAT_RATION,The cat stole some rations. Nobody saw anything. The cat looks very fat.,Il gatto ha rubato qualche razione. Nessuno ha visto niente. Il gatto è molto in forma.
+UI_ESTATE_EV_FORGOTTEN_LARDER,A settler found a forgotten larder behind a wall. The wall was not thrilled.,Un colono ha trovato una dispensa dimenticata dietro un muro. Il muro non era entusiasta.
+UI_ESTATE_EV_GOAT_INSPECTION,A goat inspected the fences and gave a positive opinion. Or a bleat. Same thing.,Una capra ha ispezionato le recinzioni e ha dato parere favorevole. O ha belato. Fa lo stesso.
+UI_ESTATE_EV_SCARECROW_UNION,The scarecrows have formed a union. Their first demand: a hat.,Gli spaventapasseri hanno fondato un sindacato. Prima richiesta: un cappello.
+UI_ESTATE_EV_NAP_CONTEST,Unofficial napping contest in the barn. The winner is still asleep.,Gara non ufficiale di pisolini nel fienile. Il vincitore dorme ancora.
+UI_ESTATE_WB_PRODUCED,Estate: units produced: +{n},Tenuta: +{n} unità prodotte
+UI_ESTATE_WB_GOLD,Shopfront: +{n} gold,Bottega: +{n} oro
+UI_ESTATE_WB_SETTLERS,Estate: new settlers arrived: {n},Tenuta: {n} nuovi coloni arrivati
+UI_ESTATE_WB_EVENTS,Estate: odd things that happened: {n} (see the gossip),Tenuta: {n} stranezze successe (vedi le voci)
+UI_ESTATE_WB_PANTRY,The Estate Pantry ran out and the Bank had no spare food: production was down {pct}%. Cook something and put it in the Bank (food in the hero's food slots is never touched).,La Dispensa della Tenuta si è svuotata e nel Deposito non c'era cibo di scorta: produzione ridotta del {pct}%. Cucina qualcosa e tienilo nel Deposito (il cibo negli slot cibo dell'Eroe non viene mai toccato).
+UI_QUESTS_FEATURE_GUILD,Guild,Gilda
+UI_APPRENTICES_REASON_UNKNOWN,Unknown action.,Azione sconosciuta.
+UI_APPRENTICES_REASON_KIND,"Apprentices only do gathering or crafting (no combat, no farming).",Gli apprendisti fanno solo raccolta o produzione (niente combattimento né coltivazione).
+UI_APPRENTICES_REASON_LOCKED,Skill not unlocked yet.,Mansione non ancora sbloccata.
+UI_APPRENTICES_REASON_LEVEL,Your skill level is too low for this action.,Il livello della mansione è troppo basso per questa azione.
+UI_APPRENTICES_WB_GOLD,Apprentices: +{n} gold,Apprendisti: +{n} oro
+UI_APPRENTICES_WB_STALLED,"An apprentice stopped: out of ingredients ({action}). Standing still, arms crossed.",Un apprendista si è fermato: ingredienti finiti ({action}). Se ne sta fermo a braccia conserte.
+UI_GUILD_NO_SYSTEM,The Guild is unavailable. The door is stuck.,La Gilda non è disponibile. La porta è bloccata.
+UI_GUILD_INTRO,"Apprentices work for you in parallel, mercenaries are hired for gold, expeditions send them out for loot. Everything keeps going while you are away.","Gli apprendisti lavorano per te in parallelo, i mercenari si assumono a pagamento, le spedizioni li mandano a cercare bottino. Tutto continua anche mentre sei via."
+UI_GUILD_NO_TAVERN,Build the Tavern in the Estate to open this section. Nobody serves drinks here yet.,Costruisci la Taverna nella Tenuta per aprire questa sezione. Per ora qui non si serve nemmeno l'acqua.
+UI_GUILD_TAB_APPRENTICES,Apprentices,Apprendisti
+UI_GUILD_TAB_MERCS,Mercenaries,Mercenari
+UI_GUILD_TAB_EXPEDITIONS,Expeditions,Spedizioni
+UI_GUILD_AP_NONE,No apprentices yet: build the Academy in the Estate. The desks are polished and waiting.,Ancora nessun apprendista: costruisci l'Accademia nella Tenuta. I banchi sono lucidi e aspettano.
+UI_GUILD_AP_HEAD,"Academy level {lv}: apprentices at work {active}/{n}, efficiency {eff}%","Accademia livello {lv}: {active}/{n} apprendisti al lavoro, efficienza {eff}%"
+UI_GUILD_AP_HELP,"Pick a skill and an action for each apprentice. They do it slower than you (efficiency) but give full XP per cycle, use your bonuses and need the usual ingredients from the Bank.","Scegli una mansione e un'azione per ogni apprendista. Lavorano più lentamente di te (efficienza) ma danno l'XP intero a ogni ciclo, usano i tuoi bonus e consumano gli ingredienti soliti dal Deposito."
+UI_GUILD_AP_SLOT,Apprentice {n},Apprendista {n}
+UI_GUILD_AP_PICK_SKILL,Skill…,Mansione...
+UI_GUILD_AP_PICK_ACTION,Action…,Azione...
+UI_GUILD_AP_IDLE,Idle. Looking at the ceiling with great dedication.,Fermo. Guarda il soffitto con grande dedizione.
+UI_GUILD_AP_RATE,"{c} cycles/h, {xp} XP/h","{c} cicli/h, {xp} XP/h"
+UI_GUILD_AP_STALLED,(no ingredients),(mancano ingredienti)
+UI_GUILD_MC_ROSTER,Your mercenaries,I tuoi mercenari
+UI_GUILD_MC_BOARD,Recruitment board,Bacheca dei reclutamenti
+UI_GUILD_MC_HEAD,Mercenaries {n}/{cap} – Gold {gold},Mercenari {n}/{cap} - Oro {gold}
+UI_GUILD_MC_EMPTY,Nobody on the payroll. The Tavern is oddly quiet.,Nessuno a libro paga. La Taverna è stranamente silenziosa.
+UI_GUILD_MC_LINE,"{name} – {role}, {rarity} (level {lv}/{max})","{name} - {role}, {rarity} (livello {lv}/{max})"
+UI_GUILD_MC_POWER,Power {p} – equipment tier {eq},Potere {p} - tier equipaggiamento {eq}
+UI_GUILD_MC_KIT,Gear kit tier {t},Kit equipaggiamento tier {t}
+UI_GUILD_MC_KIT_TIP,Uses 1 weapon and 1 armor of that tier from your Bank: +5% power per tier.,Consuma 1 arma e 1 corazza di quel tier dal Deposito: +5% potere per tier.
+UI_GUILD_MC_DISMISS,Dismiss,Congeda
+UI_GUILD_MC_NEXT,New candidates in {t},Nuovi candidati tra {t}
+UI_GUILD_MC_REROLL,New candidates now ({cost} gold),Candidati nuovi subito ({cost} oro)
+UI_GUILD_MC_BOARD_EMPTY,Nobody applied. Maybe the sign is upside down.,Nessuno si è presentato. Forse il cartello è al contrario.
+UI_GUILD_MC_CAND,"{name} – {role}, {rarity} (power {p})","{name} - {role}, {rarity} (potere {p})"
+UI_GUILD_MC_HIRE,Hire ({cost} gold),Assumi ({cost} oro)
+UI_GUILD_ST_READY,Ready,Pronto
+UI_GUILD_ST_BUSY,On expedition,In spedizione
+UI_GUILD_ST_INJURED,"Injured, back in {t}","Infortunato, torna tra {t}"
+UI_GUILD_RARITY_COMMON,Common,Comune
+UI_GUILD_RARITY_UNCOMMON,Uncommon,Non comune
+UI_GUILD_RARITY_RARE,Rare,Raro
+UI_GUILD_RARITY_EPIC,Epic,Epico
+UI_GUILD_RARITY_LEGENDARY,Legendary,Leggendario
+UI_GUILD_EFF_CRATE_REWARD_PCT,{s}{v}% crates,{s}{v}% casse
+UI_GUILD_EFF_DURATION_PCT,{s}{v}% duration,{s}{v}% durata
+UI_GUILD_EFF_SUCCESS_PCT,{s}{v}% success,{s}{v}% successo
+UI_GUILD_EFF_GOLD_REWARD_PCT,{s}{v}% gold,{s}{v}% oro
+UI_GUILD_EFF_MERC_XP_PCT,{s}{v}% XP,{s}{v}% XP
+UI_GUILD_EFF_INJURY_CHANCE_PCT,{s}{v}% injury risk,{s}{v}% rischio di infortunio
+UI_GUILD_EFF_MATERIAL_ROLLS,+{v} material roll,+{v} estrazione di materiali
+UI_GUILD_EFF_MAP_FRAGMENT_CHANCE_PCT,{s}{v}% map fragments,{s}{v}% frammenti di mappa
+UI_GUILD_EFF_POWER_PCT,{s}{v}% power,{s}{v}% potere
+UI_GUILD_EFF_TEAM_POWER_PCT,{s}{v}% team power,{s}{v}% potere della squadra
+UI_GUILD_EFF_RAID_ROLE_PCT,{s}{v}% raid role,{s}{v}% effetto di ruolo nelle incursioni
+UI_GUILD_REASON_GONE,No longer available.,Non più disponibile.
+UI_GUILD_REASON_NOTAVERN,You need the Tavern.,Serve la Taverna.
+UI_GUILD_REASON_FULL,Roster full: raise the Tavern level or dismiss someone.,Squadra al completo: potenzia la Taverna o congeda qualcuno.
+UI_GUILD_REASON_GOLD,Not enough gold.,Oro insufficiente.
+UI_GUILD_REASON_SLOTS,All expedition slots are busy.,Tutti i posti per spedizioni sono occupati.
+UI_GUILD_REASON_NOTEAM,Pick at least one mercenary.,Scegli almeno un mercenario.
+UI_GUILD_REASON_TOOBIG,At most 4 mercenaries per expedition.,Al massimo 4 mercenari per spedizione.
+UI_GUILD_REASON_UNAVAILABLE,Someone is busy or injured.,Qualcuno è occupato o infortunato.
+UI_GUILD_EX_HELP,"Pick a mission, choose 1-4 mercenaries and check risk and reward before leaving. More power than required = better odds. On failure you only get 25% of the loot and someone may get hurt.","Scegli una missione, assegna da 1 a 4 mercenari e controlla rischio e ricompensa prima di partire. Più potere di quello richiesto = più probabilità. Se fallisci prendi solo il 25% del bottino e qualcuno può farsi male."
+UI_GUILD_EX_HEAD,Expeditions underway: {n}/{cap},Spedizioni in corso: {n}/{cap}
+UI_GUILD_EX_ACTIVE,In progress,In corso
+UI_GUILD_EX_NONE_ACTIVE,"No expeditions underway. Somewhere, a map is lounging.",Nessuna spedizione in corso. Da qualche parte una mappa si riposa.
+UI_GUILD_EX_BOARD,Mission board,Tabellone delle missioni
+UI_GUILD_EX_BOARD_EMPTY,"The board is empty. Build the Tavern, and perhaps a sign that says “open.”","Il tabellone è vuoto. Costruisci la Taverna, e magari un cartello con scritto «aperto»."
+UI_GUILD_EX_OFFER,{type} – {zone} – {h} h – team of {size} – required power {req},{type} - {zone} - {h} h - squadra da {size} - potere richiesto {req}
+UI_GUILD_EX_SELECT,Choose,Scegli
+UI_GUILD_EX_PICK_TEAM,Pick the team:,Scegli la squadra:
+UI_GUILD_EX_MEMBER,"{name} ({role}, power {p})","{name} ({role}, potere {p})"
+UI_GUILD_EX_PV_POWER,Team power [color={c}]{p}[/color] / required {req},Potere della squadra [color={c}]{p}[/color] / richiesto {req}
+UI_GUILD_EX_PV_RISK,Success chance [color={c}]{p}[/color]. On failure: {fail}% of the loot and {inj} injury risk per mercenary ({inj_h} h out).,Probabilità di successo [color={c}]{p}[/color]. Se fallisci: {fail}% del bottino e {inj} di rischio infortunio a testa ({inj_h} h fuori uso).
+UI_GUILD_EX_PV_REWARD,"Reward: {what}, worth about {value} gold. Map fragment chance {frag}.","Ricompensa: {what}, per un valore di circa {value} oro. Probabilità di un frammento di mappa {frag}."
+UI_GUILD_EX_PV_TIME,Duration: {t},Durata: {t}
+UI_GUILD_EX_START,Send them out,Mandali in missione
+UI_GUILD_EX_TEAM,Team: {who} – success chance {p},Squadra: {who} - probabilità di successo {p}
+UI_GUILD_EX_LEFT,Back in {t},Di ritorno tra {t}
+UI_GUILD_EX_LOG,Latest results,Ultimi esiti
+UI_GUILD_EX_LOG_NONE,No expeditions finished yet. Livia is drawing the first map. Scale: roughly.,Ancora nessuna spedizione conclusa. Livia sta disegnando la prima mappa. Scala: circa.
+UI_GUILD_EX_RES_OK,{type} in {zone}: success. {rew},{type} in {zone}: successo. {rew}
+UI_GUILD_EX_RES_FAIL,"{type} in {zone}: failed (reduced loot). {rew} Not a disaster, just a dignified shrug.","{type} in {zone}: fallita (bottino ridotto). {rew} Non è un disastro, è una scrollata di spalle dignitosa."
+UI_GUILD_EX_NOTHING,Not even a sandwich.,Nemmeno un panino.
+UI_GUILD_EX_INJURED,Injured: {who}.,Infortunati: {who}.
+UI_EXPEDITIONS_WB_DONE,Expeditions: {n} finished ({wins} successful),Spedizioni: {n} concluse ({wins} riuscite)
+UI_EXPEDITIONS_WB_GOLD,Expeditions: +{n} gold,Spedizioni: +{n} oro
+UI_EXPEDITIONS_WB_HURT,Expeditions: injured mercenaries: {n} (they say it's a scratch),Spedizioni: {n} mercenari infortunati (dicono che è un graffio)
+UI_EXPEDITIONS_WB_LEVELS,Mercenary levels gained: {n},I mercenari hanno guadagnato {n} livelli

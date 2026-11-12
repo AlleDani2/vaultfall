@@ -1,0 +1,15 @@
+keys,en,it
+UI_MENUACT_SKILL,In progress: {action} · {xp} XP/h,In corso: {action} · {xp} XP/h
+UI_MENUACT_SKILL_NOXP,In progress: {action},In corso: {action}
+UI_MENUACT_COMBAT,In progress: Combat · {zone},In corso: Combattimento · {zone}
+UI_MENUACT_COMBAT_NOZONE,In progress: Combat,In corso: Combattimento
+UI_MENUACT_DUNGEON,In progress: {name} · wave {n}/{total},In corso: {name} · ondata {n}/{total}
+UI_MENUACT_RAID,In progress: Raid · {name},In corso: Incursione · {name}
+UI_MENUACT_WBOSS,In progress: World boss · {name},In corso: Boss mondiale · {name}
+UI_MENUACT_RIFT,In progress: The Rift · floor {n},In corso: La Breccia · piano {n}
+UI_MENUACT_ALSO,Also running: {what},Anche in corso: {what}
+UI_MENUACT_ESTATE,Estate · produces {n} units/h,Tenuta · produce {n} unità all'ora
+UI_MENUACT_QUEUE,Action queue: {n} waiting,Coda azioni: {n} in attesa
+UI_MENUACT_PAUSED,Paused: it goes on when you press Resume.,In pausa: riprende con «Riprendi».
+UI_MENUACT_EDGE,In progress: {name},In corso: {name}
+UI_MENUACT_EDGE_TIP,Click to bring the entry into view.,Clic per portare la voce in vista.

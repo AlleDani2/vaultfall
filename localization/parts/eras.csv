@@ -1,0 +1,73 @@
+keys,en,it
+UI_PRESTIGE_TAB_ERA,Eras,Ere del Mondo
+UI_PRESTIGE_TAB_TRIALS,Keeper's Trials,Prove del Custode
+UI_ERA_INTRO,"Each Era is the same world, only angrier and richer: tougher monsters, bigger rewards. Beating the Vault Warden unlocks the next one. Switching Era takes nothing from you and you can go back whenever you like. Nobody is forced to climb.","Ogni Era è lo stesso mondo, ma più arrabbiato e più ricco: mostri più duri, ricompense più grosse. Battere il Custode del Caveau sblocca la successiva. Cambiare Era non ti toglie niente e puoi tornare indietro quando vuoi. Nessuno ti obbliga a salire."
+UI_ERA_CURRENT,You are in Era {era} · highest unlocked: Era {max},Sei nell'Era {era} · la più alta sbloccata: Era {max}
+UI_ERA_SELECT,Era to look at:,Era da guardare:
+UI_ERA_HEAD,Era {era},Era {era}
+UI_ERA_STATS,"Monsters ×{mm} (life, damage, accuracy, evasion, armor, ward) · XP and gold ×{rm} · Era Essence: {ess} per drop · Era Crate bonus ×{crate}","Mostri ×{mm} (vita, danno, precisione, evasione, armatura, barriera) · XP e oro ×{rm} · Essenza d'Era: {ess} per drop · Bonus Cassa dell'Era ×{crate}"
+UI_ERA_RANKS,To keep up you want about {ranks} item Ranks in total. The Rank cap with your highest Era is {cap}.,Per stare al passo servono circa {ranks} Ranghi degli oggetti in tutto. Il tetto dei Ranghi con la tua Era più alta è {cap}.
+UI_ERA_WARDEN,"Vault Warden, Era {era}: beaten {kills} times. Next kill pays {dust} Stardust.","Custode del Caveau, Era {era}: battuto {kills} volte. La prossima uccisione paga {dust} Polvere Stellare."
+UI_ERA_WARDEN_NOTE,Only the FIRST kill of each Era pays Stardust. Beating him again is just personal satisfaction.,Solo la PRIMA uccisione di ogni Era paga Polvere Stellare. Batterlo di nuovo è solo una soddisfazione personale.
+UI_ERA_LOSE_HARDER,Monsters get tougher: ×{from} → ×{to} (about {ranks} more item Ranks to keep up).,I mostri si irrobustiscono: ×{from} → ×{to} (servono circa {ranks} Ranghi in più per stargli dietro).
+UI_ERA_GAIN_REWARDS,XP and gold: ×{from} → ×{to}.,XP e oro: ×{from} → ×{to}.
+UI_ERA_GAIN_ESSENCE,Era Essence: {qty} per drop.,Essenza d'Era: {qty} per drop.
+UI_ERA_LOSE_REWARDS,Smaller rewards: XP and gold ×{from} → ×{to}.,Ricompense più magre: XP e oro ×{from} → ×{to}.
+UI_ERA_GAIN_EASIER,Gentler monsters: ×{from} → ×{to}. Good for a quiet evening.,Mostri più gentili: ×{from} → ×{to}. Ottimo per una serata tranquilla.
+UI_ERA_KEEP_ALL,"Everything: items, levels, Stars, Estate. Switching Era costs nothing and takes nothing.","Tutto: oggetti, livelli, Stelle, Tenuta. Cambiare Era non costa niente e non toglie niente."
+UI_ERA_SWITCH,Go to Era {era},Vai all'Era {era}
+UI_ERA_REASON_TRIAL,"A Trial is running, and Trials are fought in Era I. Finish it or abandon it first.","C'è una Prova in corso, e le Prove si combattono nell'Era I. Finiscila o abbandonala prima."
+UI_ERA_REASON_INVALID,"That Era does not exist. Not yet, anyway.","Quell'Era non esiste. Non ancora, almeno."
+UI_ERA_REASON_LOCKED,Locked: the Vault Warden of the previous Era still needs a talking-to.,Bloccata: il Custode del Caveau dell'Era precedente ha ancora bisogno di una strigliata.
+UI_ERA_REASON_SAME,"You are already here. Nice view, isn't it?","Sei già qui. Bella vista, vero?"
+UI_ERA_UNLOCKED_NOTICE,The Vault Warden falls. Era {era} unlocked! +{dust} Stardust. He says he will file a complaint.,Il Custode del Caveau cade. Era {era} sbloccata! +{dust} Polvere Stellare. Dice che presenterà reclamo.
+UI_ERA_FX_SWITCH,Era {era},Era {era}
+UI_TRIALS_INTRO,"The Keeper's Trials are fights with silly rules: no food, a ticking clock, bare skin. There are 8 Trials with 5 grades each. Every grade you win gives a small PERMANENT bonus and some Stardust, once. Failing costs nothing but dignity. You fight in Era I and your Era comes back when it is over.","Le Prove del Custode sono scontri con regole stupide: niente cibo, un orologio che corre, pelle nuda. Sono 8 Prove da 5 gradi. Ogni grado vinto dà un piccolo bonus PERMANENTE e un po' di Polvere Stellare, una volta sola. Fallire non costa niente tranne la dignità. Si combatte nell'Era I e la tua Era torna alla fine."
+UI_TRIALS_GRADES,Grades {done}/{n},Gradi {done}/{n}
+UI_TRIALS_BTN_DETAILS,Details,Dettagli
+UI_TRIALS_BTN_ACTIVE,In progress,In corso
+UI_TRIALS_BTN_COMPLETE,Complete,Completa
+UI_TRIALS_HEAD,{name} · grade {tier},{name} · grado {tier}
+UI_TRIALS_TARGET_BOSS,Goal: defeat {target} ({zone}).,Obiettivo: sconfiggi {target} ({zone}).
+UI_TRIALS_TARGET_DUNGEON,Goal: clear {target} ({zone}).,Obiettivo: completa {target} ({zone}).
+UI_TRIALS_RULES,The rules:,Le regole:
+UI_TRIALS_RULE_NO_FOOD,No food: eat anything and you fail. Not even a biscuit.,"Niente cibo: se mangi, hai fallito. Nemmeno un biscotto."
+UI_TRIALS_RULE_MAX_FOOD,"Food: limit of {n}, not one more. Ottavio counts them.","Cibo: al massimo {n} porzioni, non una di più. Ottavio le conta."
+UI_TRIALS_RULE_MAX_GEAR_TIER,Gear up to tier {n} only.,Equipaggiamento solo fino al tier {n}.
+UI_TRIALS_RULE_TIME_LIMIT_S,"Win within {n} seconds. The clock starts when the boss shows up, not when you press Start: the walk there is free.","Vinci entro {n} secondi. Il cronometro parte quando compare il boss, non quando premi Inizia: la passeggiata fin lì è gratis."
+UI_TRIALS_RULE_NO_ABILITIES,No active abilities: basic attacks only. Your hero behaves.,Nessuna abilità attiva: solo attacchi base. L'eroe fa il bravo.
+UI_TRIALS_RULE_HP_MULT,Max HP reduced by {n}%. Handle with care.,Vita massima ridotta del {n}%. Maneggiare con cura.
+UI_TRIALS_RULE_FORCED_DISADVANTAGE,You always fight at a style-triangle disadvantage.,Combatti sempre in svantaggio di triangolo.
+UI_TRIALS_RULE_NO_ARMOR,No armor pieces: weapon and accessories only. Bring a sweater in spirit.,Niente pezzi d'armatura: solo arma e accessori. Porta un maglione col pensiero.
+UI_TRIALS_RULE_DUNGEON,"Clear the whole dungeon of the zone, no retreating.","Completa tutto il dungeon della zona, senza ritirarti."
+UI_TRIALS_RULE_MONSTER_HP_MULT,Enemies have {n}% more HP.,I nemici hanno il {n}% di vita in più.
+UI_TRIALS_LOSE_ERA,You leave Era {era} for the fight. It comes back when the Trial ends.,Lasci l'Era {era} per il combattimento. Torna quando la Prova finisce.
+UI_TRIALS_KEEP_ALL,"Items, levels and progress stay yours. Failing or quitting costs nothing.","Oggetti, livelli e progressi restano tuoi. Fallire o ritirarsi non costa niente."
+UI_TRIALS_GAIN_BONUS,Forever: +{n}% {desc}.,Per sempre: +{n}% {desc}.
+UI_TRIALS_START,Start the Trial,Inizia la Prova
+UI_TRIALS_ABANDON,Abandon the Trial,Abbandona la Prova
+UI_TRIALS_ACTIVE_BANNER,"Trial in progress: {name}, grade {tier}. Defeat {target} ({zone}).","Prova in corso: {name}, grado {tier}. Sconfiggi {target} ({zone})."
+UI_TRIALS_FIGHT_HINT,The fight is on: open the Combat screen if it did not start by itself.,Lo scontro è partito: apri la schermata Combattimento se non è partito da solo.
+UI_TRIALS_NONE_SELECTED,Pick a Trial from the list to see its rules and rewards before starting. Ilde insists on reading the small print aloud.,Scegli una Prova dall'elenco per vedere regole e premi prima di iniziare. Ilde insiste per leggere le clausole ad alta voce.
+UI_TRIALS_REASON_INVALID,This Trial does not exist. Ilde checked three times.,Questa Prova non esiste. Ilde ha controllato tre volte.
+UI_TRIALS_REASON_LOCKED,The Trials open after the Gall Witch (Chapter 5). Ilde is still looking for the stamp.,Le Prove si aprono dopo la Strega di Fiele (Capitolo 5). Ilde sta ancora cercando il timbro.
+UI_TRIALS_REASON_ACTIVE,Another Trial is already running. One humiliation at a time.,C'è già un'altra Prova in corso. Un'umiliazione alla volta.
+UI_TRIALS_REASON_DONE,Grade already passed. The Warden remembers.,Grado già superato. Il Custode se lo ricorda.
+UI_TRIALS_REASON_ORDER,Pass the previous grade first.,Supera prima il grado precedente.
+UI_TRIALS_REASON_ZONE,The zone of this grade is still locked.,La zona di questo grado è ancora bloccata.
+UI_TRIALS_REASON_GEAR_ARMOR,Take off your armor pieces first (weapon and accessories are fine).,Togli prima i pezzi d'armatura (arma e accessori vanno bene).
+UI_TRIALS_REASON_GEAR_TIER,Some of your gear is above tier {tier}: swap it first.,Qualcosa del tuo equipaggiamento supera il tier {tier}: cambialo prima.
+UI_TRIALS_REASON_NONE,No Trial is running. Enjoy the silence.,Nessuna Prova in corso. Goditi il silenzio.
+UI_TRIALS_FAIL_ABANDON,you gave up,hai mollato
+UI_TRIALS_FAIL_TIME,time ran out (the clock was not impressed),il tempo è scaduto (l'orologio non si è commosso)
+UI_TRIALS_FAIL_FOOD,you ate something (a crumb counts),hai mangiato qualcosa (anche una briciola conta)
+UI_TRIALS_FAIL_ABILITIES,you used an ability (the hero could not resist),hai usato un'abilità (l'eroe non ha resistito)
+UI_TRIALS_FAIL_RETREAT,you backed out of the dungeon,hai battuto in ritirata dal dungeon
+UI_TRIALS_FAIL_DEATH,you went down,sei a terra
+UI_TRIALS_FAIL_GEAR_ARMOR,"you wore armor (shiny, but not allowed)","hai indossato un'armatura (lucida, ma vietata)"
+UI_TRIALS_FAIL_GEAR_TIER,your gear was too good,il tuo equipaggiamento era troppo buono
+UI_TRIALS_FAIL_NOTICE,"Trial “{name}” failed: {why}. Nothing lost. Ilde stamped it anyway.","Prova ""{name}"" fallita: {why}. Non hai perso niente. Ilde ha timbrato lo stesso."
+UI_TRIALS_WON_NOTICE,"Trial “{name}” grade {tier} passed! +{dust} Stardust and a permanent bonus. Ilde stamped it. She almost smiled.","Prova ""{name}"" grado {tier} superata! +{dust} Polvere Stellare e un bonus permanente. Ilde ha timbrato. Ha quasi sorriso."
+UI_TRIALS_FX_BIG,Trial passed!,Prova superata!
+UI_TRIALS_FX_SMALL,+{dust} Stardust,+{dust} Polvere Stellare
+UI_TRIALS_CONFIRM_START,Start (ready for this?),Inizia (ci siamo?)

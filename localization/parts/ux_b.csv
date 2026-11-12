@@ -1,0 +1,15 @@
+keys,en,it
+UI_QUESTS_FEATURE_TRIALS,Trials,Prove
+UI_PRESTIGE_ROW_STAR_ONE,{n} Star,{n} Stella
+UI_ESTATE_H_SETTLERS_FULL,Settlers {n}/{cap} ({free} free) – the Estate is full,Coloni {n}/{cap} ({free} liberi) - la Tenuta è al completo
+UI_ESTATE_H_PANTRY_NOUSE,Pantry rations: {n} (nobody to feed yet),Dispensa: {n} razioni (nessuno da sfamare per ora)
+UI_ESTATE_H_PARTNERS_NEW,Partners 0 – refound now: +{new} Partners,Soci 0 - se rifondi ora: +{new} Soci
+UI_ESTATE_H_INCOME_NOSHOP,Production: {units} units/h. Build the Shopfront to sell on your own.,Produzione: {units} unità/h. Costruisci la Bottega per vendere da sola.
+UI_MARKET_DETAIL_FRESH,"{name}  (you own {own})
+Price now: {price} gold each  |  base value: {base}
+Category trend: {trend}  |  demand: {demand}  |  tax: {tax}
+Demand is at full strength.","{name}  (ne hai {own})
+Prezzo ora: {price} oro l'uno  |  valore base: {base}
+Tendenza della categoria: {trend}  |  domanda: {demand}  |  tassa: {tax}
+La domanda è al massimo."
+UI_MARKET_CHART_NODATA,Not enough history yet: check back in a few days.,Ancora poca storia: ripassa fra qualche giorno.

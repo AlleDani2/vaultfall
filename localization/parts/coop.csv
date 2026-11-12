@@ -1,0 +1,82 @@
+keys,en,it
+UI_MENU_COOP,Friends,Amici
+UI_QUESTS_FEATURE_COOP,Friends,Amici
+UI_QUESTS_TUT_COOP_1,"Friends is a no-server corner: you swap short codes (plain text) in any chat, like a message in a bottle.","Amici è un angolo senza server: ci si scambiano codici brevi (solo testo) in una chat qualsiasi, come un messaggio in bottiglia."
+UI_QUESTS_TUT_COOP_2,"A friend's hero code turns their hero into a Companion in Arms: it stands in for a mercenary in Raids, helps in World Bosses and in the Rift.",Il codice-eroe di chi gioca con te ne fa un Compagno d'armi: prende il posto di un mercenario nelle Incursioni e aiuta nei Boss mondiali e nella Breccia.
+UI_QUESTS_TUT_COOP_3,"Nothing is ever traded: no items, no gold, no Crates. Loot is yours alone, and your friend gets nothing but bragging rights.","Non si scambia mai nulla: né oggetti, né oro, né Casse. Il bottino è solo tuo, e a chi lo ha inviato restano soltanto i diritti di vanteria."
+UI_COOP_TITLE,Friends,Amici
+UI_COOP_INTRO,"No server, no account, nobody watching: friends only swap text (a code you copy and paste into a chat). No item or coin ever moves between two games. Everyone keeps their own loot, and their own coffee.","Niente server, niente account, nessuno che ti guarda: gli amici si scambiano solo testo (un codice da copiare e incollare in una chat). Nessun oggetto o moneta passa mai da una partita all'altra. Ognuno si tiene il suo bottino, e il suo caffè."
+UI_COOP_STEPS_TITLE,"How it works (3 minutes, promise)","Come funziona (3 minuti, promesso)"
+UI_COOP_STEP1,"1. Press “Copy my code” below, then paste it into your friend's chat (Discord, WhatsApp, carrier pigeon). It is one long line starting with VF: copy all of it.","1. Premi ""Copia il mio codice"" qui sotto e incollalo nella chat con chi vuoi invitare (Discord, WhatsApp, piccione viaggiatore). È una riga lunga che comincia con VF: copiala tutta."
+UI_COOP_STEP2,"2. When your friend sends theirs, paste it into the “A friend's code” box and press “Import.” Yes, you can also paste their weekly result there.","2. Quando l'altra persona ti manda il suo, incollalo nella casella ""Il codice di chi gioca con te"" e premi ""Importa"". Sì, ci puoi incollare anche il suo risultato della settimana."
+UI_COOP_STEP3,"3. Their hero becomes a Companion in Arms: in Raids, World Bosses and the Rift it fights next to yours, truly simulated. All the loot is yours; they get nothing. It is a friendship, not a market.","3. Il suo Eroe diventa un Compagno d'armi: nelle Incursioni, nei Boss mondiali e nella Breccia combatte al fianco del tuo, simulato davvero. Il bottino è tutto tuo e a chi lo ha creato non arriva niente: è un'amicizia, non un mercato."
+UI_COOP_MY_TITLE,Your code,Il tuo codice
+UI_COOP_MY_NAME,Your name inside the codes,Il tuo nome dentro i codici
+UI_COOP_MY_NAME_HINT,"Letters and numbers only. No surnames, please.","Solo lettere e numeri. Niente cognomi, per favore."
+UI_COOP_MY_CODE_HINT,Press “Copy my code”: it appears here and goes to your clipboard.,"Premi ""Copia il mio codice"": compare qui e finisce negli appunti."
+UI_COOP_BTN_COPY_MINE,Copy my code,Copia il mio codice
+UI_COOP_COPIED,Copied! Now paste it into the chat.,Copiato! Ora incollalo nella chat.
+UI_COOP_COPY_MANUAL,The code is selected above: press Ctrl+C and paste it into the chat.,Il codice è selezionato qui sopra: premi Ctrl+C e incollalo nella chat.
+UI_COOP_ERR_EXPORT,Could not build the code. Try again.,Non sono riuscito a costruire il codice. Riprova.
+UI_COOP_MY_NOTE,"The code holds ONLY: class, level, combat numbers, abilities, name and title. No items, no personal data. Make a new one whenever your hero improves: old sheets expire after {days} days.","Il codice contiene SOLO: classe, livello, numeri di combattimento, abilità, nome e titolo. Nessun oggetto, nessun dato personale. Rifanne uno quando il tuo Eroe migliora: le schede vecchie scadono dopo {days} giorni."
+UI_COOP_PASTE_TITLE,A friend's code,Il codice di chi gioca con te
+UI_COOP_PASTE_HINT,Paste the code here (it starts with VF)...,Incolla qui il codice (comincia con VF)...
+UI_COOP_BTN_PASTE,Paste from clipboard,Incolla dagli appunti
+UI_COOP_BTN_IMPORT,Import,Importa
+UI_COOP_CLAMPED,(a few over-the-top numbers were brought back to the game's limits),(qualche numero esagerato è stato riportato ai limiti del gioco)
+UI_COOP_OK_ADDED,{name} is now a Companion in Arms. The first coffee is on you.,{name} è ora un Compagno d'armi. Il primo caffè lo offri tu.
+UI_COOP_OK_UPDATED,{name}'s sheet was updated: fresher muscles.,La scheda di {name} è stata aggiornata: muscoli freschi.
+UI_COOP_OK_SAME,You already had this exact sheet from {name}.,Questa identica scheda di {name} ce l'avevi già.
+UI_COOP_OK_OLDER,You already have a newer sheet from {name}: this one was ignored.,Hai già una scheda più recente di {name}: questa è stata ignorata.
+UI_COOP_OK_RESULT_ADDED,{name}'s result joined the board.,Il risultato di {name} è entrato in classifica.
+UI_COOP_OK_RESULT_UPDATED,{name}'s result was improved on the board.,Il risultato di {name} è stato migliorato in classifica.
+UI_COOP_OK_RESULT_SAME,You already had this result from {name}.,Questo risultato di {name} ce l'avevi già.
+UI_COOP_OK_RESULT_OLDER,You already have a better result from {name}: this one was ignored.,Hai già un risultato migliore di {name}: questo è stato ignorato.
+UI_COOP_ERR_EMPTY,The box is empty. Paste a code first.,La casella è vuota. Incolla prima un codice.
+UI_COOP_ERR_TOO_LONG,That is too long to be a code. Did you paste a whole novel?,È troppo lungo per essere un codice. Hai incollato un romanzo intero?
+UI_COOP_ERR_PREFIX,This does not look like a Vaultfall code (it should start with VF).,Non sembra un codice di Vaultfall (dovrebbe cominciare con VF).
+UI_COOP_ERR_KIND,This is not the kind of code expected here.,Questo non è il tipo di codice che serve qui.
+UI_COOP_ERR_VERSION_NEWER,This code comes from a newer version of the game. Update the game and try again.,Questo codice viene da una versione più nuova del gioco. Aggiorna il gioco e riprova.
+UI_COOP_ERR_BASE64,"The code is damaged: some characters got lost on the way. Copy it again, all of it.","Il codice è rovinato: qualche carattere si è perso per strada. Copialo di nuovo, tutto."
+UI_COOP_ERR_GZIP,The code is damaged and cannot be opened. Copy it again.,Il codice è rovinato e non si apre. Copialo di nuovo.
+UI_COOP_ERR_TOO_BIG,The code unpacks to something suspiciously huge. Refused.,"Il codice, aperto, è sospettosamente enorme. Rifiutato."
+UI_COOP_ERR_JSON,The code is damaged inside. Copy it again.,Il codice è rovinato dentro. Copialo di nuovo.
+UI_COOP_ERR_SHAPE,The code has the wrong shape. Someone has been fiddling with it.,Il codice ha la forma sbagliata. Qualcuno ci ha messo le mani.
+UI_COOP_ERR_CHECKSUM,The code does not add up: it was edited or copied badly. Ask your friend for a fresh one.,Il codice non torna: è stato modificato o copiato male. Chiedine uno nuovo a chi te lo ha mandato.
+UI_COOP_ERR_FORBIDDEN,This code carries things it should not (items?). Refused: nothing is ever traded here.,Questo codice porta cose che non dovrebbe (oggetti?). Rifiutato: qui non si scambia mai nulla.
+UI_COOP_ERR_UID,The code has no valid author id.,Il codice non ha un autore valido.
+UI_COOP_ERR_CLASS,The code names a class this game does not know.,Il codice nomina una classe che questo gioco non conosce.
+UI_COOP_ERR_DATE,The code has no valid date.,Il codice non ha una data valida.
+UI_COOP_ERR_FUTURE,The code claims to come from the future. Check your clock (or your friend's).,Il codice dice di venire dal futuro. Controlla l'orologio (o quello di chi lo ha creato).
+UI_COOP_ERR_OLD,This result is far too old to matter.,Questo risultato è troppo vecchio per contare.
+UI_COOP_ERR_STATS,The combat numbers in the code are not usable.,I numeri di combattimento nel codice non sono utilizzabili.
+UI_COOP_ERR_SELF,That is your own code! Send it to a friend instead.,"Questo è il tuo stesso codice! Mandalo a qualcun altro, piuttosto."
+UI_COOP_ERR_FULL,You already have the maximum number of companions: dismiss one before adding {name}.,Hai già il numero massimo di compagni: congedane uno prima di aggiungere {name}.
+UI_COOP_COMP_TITLE,Companions in Arms,Compagni d'armi
+UI_COOP_COMP_RULE,"Companions on the team take free Raid slots (or the weakest mercenary's), help in World Bosses and in the Rift. They recharge on their own, never get hurt and do not ask for a share of the loot.","I compagni in squadra occupano i posti liberi delle Incursioni (o quello del mercenario più debole) e aiutano nei Boss mondiali e nella Breccia. Si ricaricano da soli, non si feriscono e non chiedono la loro parte di bottino."
+UI_COOP_COMP_EMPTY,No companions yet. A friend would help: mercenaries do not laugh at your jokes.,Ancora nessun compagno. Un po' di compagnia farebbe comodo: i mercenari non ridono alle tue battute.
+UI_COOP_COMP_ROW,"{name} - {cls}, level {lv} ({role})","{name} - {cls}, livello {lv} ({role})"
+UI_COOP_COMP_ON,On the team,In squadra
+UI_COOP_COMP_REMOVE,Dismiss,Congeda
+UI_COOP_STATUS_OK,Fresh sheet.,Scheda fresca.
+UI_COOP_STATUS_EXPIRED,"Expired sheet: ask your friend for a new code and import it, it will update this one.","Scheda scaduta: chiedi un codice nuovo a chi lo ha creato e importalo, aggiornerà questa."
+UI_COOP_STATUS_OUTDATED,Made with another version of the game: some abilities may be missing.,Fatta con un'altra versione del gioco: potrebbe mancare qualche abilità.
+UI_COOP_WEEK_TITLE,Rift of the Week,Breccia della settimana
+UI_COOP_WEEK_HEAD,{id} - {name},{id} - {name}
+UI_COOP_WEEK_INFO,"Same Rift for every friend, picked by the week (UTC). You try it with your hero alone: no companions, no rewards, only your build counts. Bring food: a hero on an empty stomach makes a bad impression.","La stessa Breccia per tutti gli amici, decisa dalla settimana (UTC). La provi con il tuo Eroe da solo: niente compagni, niente ricompense, conta solo il tuo assetto. Porta del cibo: un Eroe a stomaco vuoto fa brutta figura."
+UI_COOP_WEEK_RESETS,Changes in {t},Cambia tra {t}
+UI_COOP_WEEK_AFFIX,From floor {fl}: {name},Dal piano {fl}: {name}
+UI_COOP_WEEK_GUARD,Guardian tricks: {list},Trucchi del Guardiano: {list}
+UI_COOP_BTN_WEEK_RUN,Face the trial,Affronta la prova
+UI_COOP_WEEK_LOCKED,Unlock the Rift first.,Prima sblocca la Breccia.
+UI_COOP_WEEK_NONE,You have not tried this week's trial yet.,Non hai ancora provato la prova di questa settimana.
+UI_COOP_WEEK_RESULT,"Your result: floor {fl}, time {t}, damage {dmg}.","Il tuo risultato: piano {fl}, tempo {t}, danni {dmg}."
+UI_COOP_WEEK_DONE,Trial done. Your best result of the week is kept.,Prova fatta. Il tuo miglior risultato della settimana resta registrato.
+UI_COOP_BTN_COPY_RESULT,Copy my result,Copia il mio risultato
+UI_COOP_BOARD_TITLE,Friends' board (this week),Classifica degli amici (questa settimana)
+UI_COOP_BOARD_NOTE,"Only yours: it lists the results you paste. No network, no server, nobody spies on you. Friends are believed on their word, like at a card table.","Solo tua: elenca i risultati che incolli. Nessuna rete, nessun server, nessuno ti spia. Agli amici si crede sulla parola, come a un tavolo di carte."
+UI_COOP_BOARD_EMPTY,Empty. Face the trial and ask your friends for their result codes.,Vuota. Affronta la prova e chiedi ai tuoi amici i loro codici-risultato.
+UI_COOP_BOARD_ROW,{rank}. {name} - {cls} Lv {lv} - floor {fl} - {t} - {dmg} damage,{rank}. {name} - {cls} Lv {lv} - piano {fl} - {t} - {dmg} di danni
+UI_COOP_BOARD_COZY,(cozy: bonus XP on),(cozy: bonus XP attivo)
+UI_COOP_BOARD_ME,(you),(tu)
+UI_COOP_ETHICS,"Golden rule: no trades, no gifts, no shared Crates. Company only.","Regola d'oro: niente scambi, niente regali, niente Casse in comune. Solo compagnia."

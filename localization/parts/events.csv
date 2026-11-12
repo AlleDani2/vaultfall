@@ -1,0 +1,53 @@
+keys,en,it
+UI_MENU_EVENTS,Events,Eventi
+UI_EVENTS_INTRO,"Four seasonal events a year. Nothing here can be lost for good: every reward comes back each year, can be replayed through the Echo, and is sold in the Shop at a fixed price.","Quattro eventi stagionali l'anno. Qui nulla si perde per sempre: ogni ricompensa torna ogni anno, si rigioca con l'Eco e si compra nel Negozio a prezzo fisso."
+UI_EVENTS_SETTING,Seasonal events,Eventi stagionali
+UI_EVENTS_SETTING_HINT,"Turn off to hide event currency, missions and temporary bonuses. Your progress and currency are kept.","Spegni per nascondere valuta, missioni e bonus temporanei degli eventi. Progressi e valuta restano."
+UI_EVENTS_OFF_TITLE,Events are turned off,Gli eventi sono disattivati
+UI_EVENTS_OFF_TEXT,"No event currency drops, no event missions and no temporary bonuses. Nothing is lost: your progress and currency are kept. Turn them back on whenever you like.","Niente valuta, missioni o bonus temporanei degli eventi. Non si perde nulla: progressi e valuta restano. Riattivali quando vuoi."
+UI_EVENTS_TURN_ON,Turn events on,Attiva gli eventi
+UI_EVENTS_TURN_OFF,Turn events off,Disattiva gli eventi
+UI_EVENTS_NOW,Happening now: {name},In corso: {name}
+UI_EVENTS_ENDS_IN,Ends in {t},Finisce tra {t}
+UI_EVENTS_NEXT,"Next: {name}, starts in {t}","Prossimo: {name}, inizia tra {t}"
+UI_EVENTS_NOTHING_NOW,No event right now.,Nessun evento in questo momento.
+UI_EVENTS_ECHO_NOW,"The Echo of {name} is playing: event currency drops every {m} minutes of activity, without the temporary bonus.","È attiva l'Eco di {name}: la valuta cade ogni {m} minuti di attività, senza il bonus temporaneo."
+UI_EVENTS_BONUS,Temporary bonus (only during the dates):,Bonus temporaneo (solo durante le date):
+UI_EVENTS_CLOCK_VIRTUAL,"The system clock looks wrong (date missing or set back), so events follow your play time instead. Nothing is lost and no extra rewards are given.",L'orologio del sistema sembra sbagliato (data mancante o rimessa indietro): gli eventi seguono il tempo di gioco. Non si perde nulla e non si ricevono premi extra.
+UI_EVENTS_NO_DATE,"No valid date is available yet, so the calendar is paused. Fix the system clock and events will resume.","Non c'è ancora una data valida, quindi il calendario è fermo. Sistema l'orologio del sistema e gli eventi ripartono."
+UI_EVENTS_HOW,"Event currency drops by itself: 1 every {m} minutes of any activity (offline too), up to {cap} per edition. Missions pay extra. {cost} units open one event Crate, and the Crate holds cosmetics only: no power.","La valuta evento cade da sola: 1 ogni {m} minuti di qualsiasi attività (anche offline), fino a {cap} per edizione. Le missioni ne pagano di più. {cost} unità aprono una Cassa evento, che contiene solo cosmetici: nessun potere."
+UI_EVENTS_HAVE,{item}: {n},{item}: {n}
+UI_EVENTS_EARNED,Collected this edition: {n} of {cap},Raccolte in questa edizione: {n} su {cap}
+UI_EVENTS_EARNED_ECHO,Collected through the Echo: {n} of {cap},Raccolte con l'Eco: {n} su {cap}
+UI_EVENTS_MISSIONS,Missions,Missioni
+UI_EVENTS_MISSIONS_NOTE,"Missions pay event currency. Claim all four to earn the title, yours for good.","Le missioni pagano valuta evento. Riscuotile tutte e quattro per ottenere il titolo, tuo per sempre."
+UI_EVENTS_MISSIONS_PAST,Showing your last edition of this event.,Mostro la tua ultima edizione di questo evento.
+UI_EVENTS_PROGRESS,{n} / {qty},{n} / {qty}
+UI_EVENTS_CLAIM,Claim +{n},Riscuoti +{n}
+UI_EVENTS_CLAIMED,Claimed,Riscossa
+UI_EVENTS_TITLE_REWARD,Title for all four: {name},Titolo per tutte e quattro: {name}
+UI_EVENTS_SHOP,"Shop: fixed prices, no luck involved","Negozio: prezzi fissi, nessuna fortuna"
+UI_EVENTS_SHOP_NOTE,"Always open, even outside the dates: leftover currency is never wasted.","Sempre aperto, anche fuori dalle date: la valuta avanzata non va mai sprecata."
+UI_EVENTS_BUY,Buy for {price},Compra per {price}
+UI_EVENTS_OWNED,Owned,Posseduto
+UI_EVENTS_NEED,Need {n} more,Ne servono ancora {n}
+UI_EVENTS_KIND_COSMETIC,Cosmetic,Cosmetico
+UI_EVENTS_KIND_PET,Companion (no power),Compagno (nessun potere)
+UI_EVENTS_CRATE,Event Crate: cosmetics only,Cassa evento: solo cosmetici
+UI_EVENTS_ODDS,"Odds, exactly what the draw uses (no pity, nothing hidden):","Probabilità, esattamente quelle usate dall'estrazione (nessuna pity, niente di nascosto):"
+UI_EVENTS_ODDS_LINE,{rarity}: {pct} ({n} items),{rarity}: {pct} ({n} oggetti)
+UI_EVENTS_OPEN_VAULT,Open it in the Vault,Aprila nel Caveau
+UI_EVENTS_RECOVERY,"Missed something? You lose nothing: each reward returns every year, can be replayed at any time through the Echo, and is sold in the Shop at a fixed price.","Ti è sfuggito qualcosa? Non perdi nulla: ogni ricompensa torna ogni anno, si rigioca in qualsiasi momento con l'Eco e si compra nel Negozio a prezzo fisso."
+UI_EVENTS_ECHO_HEAD,Echo: replay a past event,Eco: rigioca un evento passato
+UI_EVENTS_ECHO_NOTE,"The Echo runs only outside event dates, at half the currency rate and without the temporary bonus. Pick which event to replay.","L'Eco funziona solo fuori dalle date degli eventi, a metà ritmo e senza il bonus temporaneo. Scegli quale evento rigiocare."
+UI_EVENTS_ECHO_USE,Replay this one,Rigioca questo
+UI_EVENTS_ECHO_ACTIVE,Replaying,In rigioco
+UI_EVENTS_ALL,All events,Tutti gli eventi
+UI_EVENTS_DATES,"Every year, {a} to {b}","Ogni anno, dal {a} al {b}"
+UI_EVENTS_CLAIMABLE,You have missions ready to claim.,Hai missioni pronte da riscuotere.
+UI_EVENTS_NOTICE_START,{name} has begun! Find it under Events.,{name} è iniziato! Lo trovi nella voce Eventi.
+UI_EVENTS_NOTICE_END,"{name} is over. Nothing is lost: it returns next year, and you can replay it any time through the Echo.",{name} è finito. Non si perde nulla: torna l'anno prossimo e puoi rigiocarlo quando vuoi con l'Eco.
+UI_EVENTS_BOUGHT,Bought: {name},Comprato: {name}
+UI_EVENTS_WHY_FUNDS,Not enough currency yet.,Valuta insufficiente per ora.
+UI_EVENTS_WHY_OWNED,You already have it.,Ce l'hai già.
+UI_EVENTS_WHY_OFF,Events are turned off.,Gli eventi sono disattivati.

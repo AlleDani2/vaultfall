@@ -1,0 +1,4 @@
+# VAULTFALL Python tools (Python 3.11+)
+pillow>=10.0        # placeholder images, UI frames, image checks
+numpy>=1.26         # audio synthesis (tools/make_audio.py)
+fonttools>=4.50     # tools/make_symbol_font.py

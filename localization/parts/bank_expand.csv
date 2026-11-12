@@ -1,0 +1,34 @@
+keys,en,it
+UI_BANKX_TITLE,Expand Bank,Espandi Deposito
+UI_BANKX_CLOSE,Close,Chiudi
+UI_BANKX_BTN,Expand Bank,Espandi Deposito
+UI_BANKX_BTN_PRICE,Expand Bank · {price} gold,Espandi Deposito · {price} oro
+UI_BANKX_BTN_MAX,Expand Bank (limit reached),Espandi Deposito (limite raggiunto)
+UI_BANKX_BTN_TIP,"Buy extra Bank slots with gold, right here. No need to go to the Store.","Compra spazi extra con l'oro, direttamente da qui. Non serve passare dall'Emporio."
+UI_BANKX_NOW,Slots now: {used} used of {cap} ({free} free),Spazi ora: {used} usati su {cap} ({free} liberi)
+UI_BANKX_GOLD,You have {gold} gold. The next slot costs {price} gold.,Hai {gold} oro. Il prossimo spazio costa {price} oro.
+UI_BANKX_OPT_1,+1 slot,+1 spazio
+UI_BANKX_OPT_N,+{n} slots,+{n} spazi
+UI_BANKX_OPT_COST,Cost: {cost} gold,Costo: {cost} oro
+UI_BANKX_OPT_AFTER,After buying: {cap} slots,Dopo l'acquisto: {cap} spazi
+UI_BANKX_OPT_BUY,Buy,Compra
+UI_BANKX_WHY_GOLD,Not enough gold: you still need {missing}.,Oro insufficiente: te ne servono ancora {missing}.
+UI_BANKX_WHY_MAX,You reached the limit of {max} purchases.,Hai raggiunto il limite di {max} acquisti.
+UI_BANKX_WHY_LEFT,Only {left} purchases left.,Ne restano solo {left} da comprare.
+UI_BANKX_WHY_OTHER,Not available right now.,Non disponibile in questo momento.
+UI_BANKX_FREE_TIPS,"No gold? Make room instead: Sell duplicates, Auto-sell or Discard in the Bank.","Niente oro? Libera invece spazio: «Vendi i doppioni», Vendita automatica o Scarta nel Deposito."
+UI_BANKX_SRC_TITLE,Where your slots come from,Da dove arrivano i tuoi spazi
+UI_BANKX_SRC_BASE,Bank base,Base del Deposito
+UI_BANKX_SRC_BOUGHT,Bought slots,Spazi comprati
+UI_BANKX_SRC_QUESTS,Main story rewards,Ricompense della storia principale
+UI_BANKX_SRC_QUESTS_HINT,"{slots} of {total} collected: the next one comes at the end of chapter {ch}.","{slots} su {total} ottenuti: il prossimo arriva a fine Capitolo {ch}."
+UI_BANKX_SRC_QUESTS_ALL,All story rewards collected.,Tutte le ricompense della storia ottenute.
+UI_BANKX_SRC_CONST,"Constellation “{name}”","Costellazione «{name}»"
+UI_BANKX_SRC_CONST_HINT,"Level {lv}/{max}, +{per} slots per level (Prestige, Constellations).","Livello {lv}/{max}, +{per} spazi a ogni livello (Prestigio, Costellazioni)."
+UI_BANKX_SRC_RELIC,Equipped relics,Reliquie equipaggiate
+UI_BANKX_SRC_RELIC_HINT,"“{name}” gives +{slots} while it is in a Reliquary slot. You find it in Crates.","«{name}» dà +{slots} finché sta in un posto del Reliquiario. Si trova nelle Casse."
+UI_BANKX_SRC_OTHER,Other bonuses,Altri bonus
+UI_BANKX_SRC_TOTAL,Total slots,Spazi totali
+UI_BANKX_BOUGHT,Bank expanded by {n}: now {cap} slots.,Deposito ampliato di {n}: ora {cap} spazi.
+UI_BANKX_QUEST_GAIN,Reward: the Bank grows by {n} slots!,Ricompensa: il Deposito cresce di {n} spazi!
+UI_BANKX_RW,+{n} Bank slots,+{n} spazi del Deposito

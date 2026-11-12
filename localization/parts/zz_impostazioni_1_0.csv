@@ -1,0 +1,105 @@
+keys,en,it
+UI_I10_TAB_GAME,Game,Gioco
+UI_I10_TAB_SCREEN,Display,Schermo
+UI_I10_TAB_AUDIO,Audio,Audio
+UI_I10_TAB_A11Y,Accessibility,Accessibilità
+UI_I10_TAB_CONTROLS,Controls,Comandi
+UI_I10_TAB_DATA,Saves and data,Salvataggi e dati
+UI_I10_SCR_TITLE,Screen and window,Schermo e finestra
+UI_I10_SCR_MODE,Window mode,Modalità finestra
+UI_I10_SCR_MODE_TIP,"Window, borderless window (covers the whole monitor) or full screen. F11 switches full screen on and off.","Finestra, finestra senza bordi (copre tutto il monitor) o schermo intero. F11 attiva e disattiva lo schermo intero."
+UI_I10_SCR_MODE_WINDOWED,Window,Finestra
+UI_I10_SCR_MODE_BORDERLESS,Borderless window,Finestra senza bordi
+UI_I10_SCR_MODE_FULLSCREEN,Full screen,Schermo intero
+UI_I10_SCR_RES,Resolution (window),Risoluzione (finestra)
+UI_I10_SCR_MONITOR,Monitor,Monitor
+UI_I10_SCR_VSYNC,VSync,VSync
+UI_I10_SCR_VSYNC_OFF,Off,Spento
+UI_I10_SCR_VSYNC_ON,On,Acceso
+UI_I10_SCR_VSYNC_ADAPTIVE,Adaptive,Adattivo
+UI_I10_SCR_FPS_UNLIMITED,No limit,Senza limite
+UI_I10_SCR_F11_NOTE,"The resolution can be chosen only in window mode. Changes apply immediately and are kept for next time. After changing mode, resolution or monitor you have 10 seconds to confirm; otherwise the previous settings come back.","La risoluzione si sceglie solo in modalità finestra. Le modifiche valgono subito e restano per la volta dopo. Dopo aver cambiato modalità, risoluzione o monitor hai 10 secondi per confermare; altrimenti tornano le impostazioni di prima."
+UI_I10_SCR_RESET,Restore screen defaults,Ripristina i predefiniti dello schermo
+UI_I10_KEEP_TITLE,Keep these settings?,Mantenere queste impostazioni?
+UI_I10_KEEP_TEXT,"Keep these display settings? Without an answer, the previous ones come back in {n} seconds.","Mantenere queste impostazioni dello schermo? Senza risposta, tra {n} secondi tornano quelle di prima."
+UI_I10_KEEP_YES,Keep,Mantieni
+UI_I10_KEEP_NO,Go back,Torna indietro
+UI_I10_A11Y_TITLE,Accessibility,Accessibilità
+UI_I10_A11Y_INTRO,"These options change only colors and text size, never the shape of the images. Everything applies immediately.","Queste opzioni cambiano solo i colori e la dimensione del testo, mai la forma delle immagini. Tutto vale subito."
+UI_I10_A11Y_TEXT,Text size,Dimensione del testo
+UI_I10_A11Y_TEXT_TIP,"Makes all text larger, independently from the interface size.","Ingrandisce tutto il testo, indipendentemente dalla dimensione dell'interfaccia."
+UI_I10_A11Y_TEXT_NOTE,Text size is separate from “Interface size” in the Display tab. Some very full screens may scroll more at 150%.,La dimensione del testo è separata da «Dimensione interfaccia» nella scheda Schermo. Alcune schermate molto piene possono scorrere di più al 150%.
+UI_I10_A11Y_CONTRAST,High contrast,Alto contrasto
+UI_I10_A11Y_CONTRAST_NOTE,"Darker darks and brighter lights, slightly stronger colors.","Scuri più scuri e chiari più chiari, colori un po' più decisi."
+UI_I10_A11Y_COLORBLIND,Color vision mode,Modalità per la visione dei colori
+UI_I10_A11Y_CB_OFF,Off,Spenta
+UI_I10_A11Y_CB_PROTAN,Protanopia (red-weak),Protanopia (rosso debole)
+UI_I10_A11Y_CB_DEUTAN,Deuteranopia (green-weak),Deuteranopia (verde debole)
+UI_I10_A11Y_CB_TRITAN,Tritanopia (blue-weak),Tritanopia (blu debole)
+UI_I10_A11Y_CB_NOTE,Shifts colors so that red/green or blue/yellow differences stay visible. The preview below changes with the mode.,Sposta i colori perché restino visibili le differenze tra rosso e verde o tra blu e giallo. L'anteprima qui sotto cambia con la modalità.
+UI_I10_A11Y_PREVIEW,Preview,Anteprima
+UI_I10_A11Y_SWATCH_OK,Good,Bene
+UI_I10_A11Y_SWATCH_DANGER,Danger,Pericolo
+UI_I10_A11Y_SWATCH_RARE,Rare,Raro
+UI_I10_A11Y_SWATCH_GOLD,Gold,Oro
+UI_I10_A11Y_MOTION,Motion and effects,Movimento ed effetti
+UI_I10_A11Y_MOTION_NOTE,"Reduce animations: no bounces, fades or moving bars; values jump straight to their final state.","Riduci animazioni: niente rimbalzi, dissolvenze o barre in movimento; i valori passano direttamente allo stato finale."
+UI_I10_A11Y_FX_NOTE,"Reduced visual effects: fewer particles, no screen shake and no flashes.","Effetti visivi ridotti: meno particelle, niente scosse dello schermo e niente lampi."
+UI_I10_A11Y_NOCOLOR,Not only color,Non solo colore
+UI_I10_A11Y_PERCENT,Show percentages on bars,Mostra la percentuale sulle barre
+UI_I10_A11Y_NOCOLOR_NOTE,Writes the value on progress bars. Rarities and log categories already carry a letter or a name next to the color.,Scrive il valore sulle barre di avanzamento. Rarità e categorie del Registro hanno già una lettera o un nome accanto al colore.
+UI_I10_CTL_TITLE,Keyboard and controller,Tastiera e controller
+UI_I10_CTL_HELP,"Press the Change button, then the new key (or the new controller button). Esc cancels. If the key is already used you can swap the two commands.",Premi «Cambia» e poi il nuovo tasto (o il nuovo pulsante del controller). Esc annulla. Se il tasto è già usato puoi scambiare i due comandi.
+UI_I10_CTL_CHANGE,Change,Cambia
+UI_I10_CTL_FIXED_SHORT,Fixed,Fisso
+UI_I10_CTL_PRESS,Press a key…,Premi un tasto…
+UI_I10_CTL_PRESS_PAD,Press a button…,Premi un pulsante…
+UI_I10_CTL_RESET_ONE,Restore this command,Ripristina questo comando
+UI_I10_CTL_RESET_ALL,Restore all defaults,Ripristina tutti i predefiniti
+UI_I10_CTL_CONFLICT,“{key}” is already used by: {names}.,«{key}» è già usato da: {names}.
+UI_I10_CTL_SWAP,Swap the two,Scambia i due
+UI_I10_CTL_KEEP_OLD,Cancel,Annulla
+UI_I10_CTL_FIXED,This command cannot be changed.,Questo comando non si può cambiare.
+UI_I10_CTL_NEED_KEY,"Press a key (not only Ctrl, Alt or Shift).","Premi un tasto (non solo Ctrl, Alt o Maiusc)."
+UI_I10_CTL_NEED_BUTTON,Press a controller button.,Premi un pulsante del controller.
+UI_I10_CTL_RESERVED,"That key is used to move around the menus and cannot be assigned. Try a letter, a number or a key with Ctrl or Alt.","Quel tasto serve a muoversi nei menù e non si può assegnare. Prova una lettera, un numero o un tasto con Ctrl o Alt."
+UI_I10_GRP_NAV,Side menu entries,Voci del menù laterale
+UI_I10_GRP_SCREENS,Screens,Schermate
+UI_I10_GRP_GAME,Game,Gioco
+UI_I10_GRP_WINDOW,Window,Finestra
+UI_I10_GRP_BANK,Storage keys,Tasti del Deposito
+UI_I10_GRP_PAD,Controller buttons,Pulsanti del controller
+UI_I10_ACT_MENU_N,Side menu entry {n},Voce {n} del menù laterale
+UI_I10_ACT_FULLSCREEN,Full screen on/off,Schermo intero sì/no
+UI_I10_ACT_BANK_TAB_LEFT,Move the tab left,Sposta la scheda a sinistra
+UI_I10_ACT_BANK_TAB_RIGHT,Move the tab right,Sposta la scheda a destra
+UI_I10_PAD_CONFIRM,Confirm,Conferma
+UI_I10_PAD_BACK,Back,Indietro
+UI_I10_PAD_TAB_PREV,Previous tab,Scheda precedente
+UI_I10_PAD_TAB_NEXT,Next tab,Scheda successiva
+UI_I10_PAD_MENU,Pause menu,Menù di pausa
+UI_I10_PAD_SAND,Keeper's Sand,Sabbia del Custode
+UI_I10_PAD_CONTEXT,Item menu / Sort,Menù dell'oggetto / Ordina
+UI_I10_PAD_BANK,Storage,Deposito
+UI_I10_PAD_OPTIONS,Controller options,Opzioni del controller
+UI_I10_PAD_GLYPHS,Button symbols,Simboli dei pulsanti
+UI_I10_GLYPHS_AUTO,Automatic,Automatici
+UI_I10_PAD_HINTS,Button hints bar,Barra dei suggerimenti
+UI_I10_HINTS_AUTO,Only when using a controller,Solo quando usi il controller
+UI_I10_HINTS_ALWAYS,Always,Sempre
+UI_I10_HINTS_NEVER,Never,Mai
+UI_I10_PAD_OSK,On-screen keyboard in text fields,Tastiera a schermo nei campi di testo
+UI_I10_PAD_OSK_NOTE,"With a controller, the confirm button on a text field opens a simple on-screen keyboard.","Con il controller, il pulsante di conferma su un campo di testo apre una semplice tastiera a schermo."
+UI_I10_HINT_CONFIRM,Confirm,Conferma
+UI_I10_HINT_BACK,Back,Indietro
+UI_I10_HINT_TABS,Tabs,Schede
+UI_I10_HINT_MENU,Menu,Menù
+UI_I10_HINT_SAND,Sand,Sabbia
+UI_I10_OSK_SHIFT,Shift,Maiusc
+UI_I10_OSK_SPACE,Space,Spazio
+UI_I10_OSK_CANCEL,Cancel,Annulla
+UI_I10_OSK_DONE,Done,Fatto
+UI_I10_PS_CROSS,Cross,Croce
+UI_I10_PS_CIRCLE,Circle,Cerchio
+UI_I10_PS_SQUARE,Square,Quadrato
+UI_I10_PS_TRIANGLE,Triangle,Triangolo

@@ -1,0 +1,4353 @@
+{
+ "generated_from": "tools/gamedata/core.py",
+ "cases": [
+  {
+   "fn": "xp_to_next",
+   "args": [
+    1
+   ],
+   "expected": 86,
+   "tol": 0
+  },
+  {
+   "fn": "xp_to_next",
+   "args": [
+    2
+   ],
+   "expected": 93,
+   "tol": 0
+  },
+  {
+   "fn": "xp_to_next",
+   "args": [
+    10
+   ],
+   "expected": 172,
+   "tol": 0
+  },
+  {
+   "fn": "xp_to_next",
+   "args": [
+    25
+   ],
+   "expected": 547,
+   "tol": 0
+  },
+  {
+   "fn": "xp_to_next",
+   "args": [
+    50
+   ],
+   "expected": 3752,
+   "tol": 0
+  },
+  {
+   "fn": "xp_to_next",
+   "args": [
+    75
+   ],
+   "expected": 25696,
+   "tol": 0
+  },
+  {
+   "fn": "xp_to_next",
+   "args": [
+    99
+   ],
+   "expected": 162945,
+   "tol": 0
+  },
+  {
+   "fn": "xp_total_for_level",
+   "args": [
+    2
+   ],
+   "expected": 86,
+   "tol": 0
+  },
+  {
+   "fn": "xp_total_for_level",
+   "args": [
+    10
+   ],
+   "expected": 1074,
+   "tol": 0
+  },
+  {
+   "fn": "xp_total_for_level",
+   "args": [
+    50
+   ],
+   "expected": 45796,
+   "tol": 0
+  },
+  {
+   "fn": "xp_total_for_level",
+   "args": [
+    100
+   ],
+   "expected": 2198634,
+   "tol": 0,
+   "tol_rel": 1e-09
+  },
+  {
+   "fn": "tier_of_level",
+   "args": [
+    1
+   ],
+   "expected": 1,
+   "tol": 0
+  },
+  {
+   "fn": "tier_of_level",
+   "args": [
+    9
+   ],
+   "expected": 1,
+   "tol": 0
+  },
+  {
+   "fn": "tier_of_level",
+   "args": [
+    10
+   ],
+   "expected": 2,
+   "tol": 0
+  },
+  {
+   "fn": "tier_of_level",
+   "args": [
+    19
+   ],
+   "expected": 2,
+   "tol": 0
+  },
+  {
+   "fn": "tier_of_level",
+   "args": [
+    20
+   ],
+   "expected": 3,
+   "tol": 0
+  },
+  {
+   "fn": "tier_of_level",
+   "args": [
+    94
+   ],
+   "expected": 10,
+   "tol": 0
+  },
+  {
+   "fn": "tier_of_level",
+   "args": [
+    95
+   ],
+   "expected": 11,
+   "tol": 0
+  },
+  {
+   "fn": "tier_of_level",
+   "args": [
+    100
+   ],
+   "expected": 11,
+   "tol": 0
+  },
+  {
+   "fn": "xph",
+   "args": [
+    1
+   ],
+   "expected": 8000.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "gph",
+   "args": [
+    1
+   ],
+   "expected": 2000.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "food_heal",
+   "args": [
+    1
+   ],
+   "expected": 25,
+   "tol": 0
+  },
+  {
+   "fn": "weapon_damage",
+   "args": [
+    1,
+    1.0
+   ],
+   "expected": 6,
+   "tol": 0
+  },
+  {
+   "fn": "xph",
+   "args": [
+    2
+   ],
+   "expected": 10000.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "gph",
+   "args": [
+    2
+   ],
+   "expected": 2900.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "food_heal",
+   "args": [
+    2
+   ],
+   "expected": 35,
+   "tol": 0
+  },
+  {
+   "fn": "weapon_damage",
+   "args": [
+    2,
+    1.0
+   ],
+   "expected": 8,
+   "tol": 0
+  },
+  {
+   "fn": "xph",
+   "args": [
+    3
+   ],
+   "expected": 12500.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "gph",
+   "args": [
+    3
+   ],
+   "expected": 4205.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "food_heal",
+   "args": [
+    3
+   ],
+   "expected": 49,
+   "tol": 0
+  },
+  {
+   "fn": "weapon_damage",
+   "args": [
+    3,
+    1.0
+   ],
+   "expected": 12,
+   "tol": 0
+  },
+  {
+   "fn": "xph",
+   "args": [
+    4
+   ],
+   "expected": 15625.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "gph",
+   "args": [
+    4
+   ],
+   "expected": 6097.25,
+   "tol": 1e-06
+  },
+  {
+   "fn": "food_heal",
+   "args": [
+    4
+   ],
+   "expected": 69,
+   "tol": 0
+  },
+  {
+   "fn": "weapon_damage",
+   "args": [
+    4,
+    1.0
+   ],
+   "expected": 16,
+   "tol": 0
+  },
+  {
+   "fn": "xph",
+   "args": [
+    5
+   ],
+   "expected": 19531.25,
+   "tol": 1e-06
+  },
+  {
+   "fn": "gph",
+   "args": [
+    5
+   ],
+   "expected": 8841.012499999999,
+   "tol": 1e-06
+  },
+  {
+   "fn": "food_heal",
+   "args": [
+    5
+   ],
+   "expected": 96,
+   "tol": 0
+  },
+  {
+   "fn": "weapon_damage",
+   "args": [
+    5,
+    1.0
+   ],
+   "expected": 23,
+   "tol": 0
+  },
+  {
+   "fn": "xph",
+   "args": [
+    6
+   ],
+   "expected": 24414.0625,
+   "tol": 1e-06
+  },
+  {
+   "fn": "gph",
+   "args": [
+    6
+   ],
+   "expected": 12819.468124999998,
+   "tol": 1e-06
+  },
+  {
+   "fn": "food_heal",
+   "args": [
+    6
+   ],
+   "expected": 134,
+   "tol": 0
+  },
+  {
+   "fn": "weapon_damage",
+   "args": [
+    6,
+    1.0
+   ],
+   "expected": 32,
+   "tol": 0
+  },
+  {
+   "fn": "xph",
+   "args": [
+    7
+   ],
+   "expected": 30517.578125,
+   "tol": 1e-06
+  },
+  {
+   "fn": "gph",
+   "args": [
+    7
+   ],
+   "expected": 18588.228781249996,
+   "tol": 1e-06
+  },
+  {
+   "fn": "food_heal",
+   "args": [
+    7
+   ],
+   "expected": 188,
+   "tol": 0
+  },
+  {
+   "fn": "weapon_damage",
+   "args": [
+    7,
+    1.0
+   ],
+   "expected": 45,
+   "tol": 0
+  },
+  {
+   "fn": "xph",
+   "args": [
+    8
+   ],
+   "expected": 38146.97265625,
+   "tol": 1e-06
+  },
+  {
+   "fn": "gph",
+   "args": [
+    8
+   ],
+   "expected": 26952.931732812496,
+   "tol": 1e-06
+  },
+  {
+   "fn": "food_heal",
+   "args": [
+    8
+   ],
+   "expected": 264,
+   "tol": 0
+  },
+  {
+   "fn": "weapon_damage",
+   "args": [
+    8,
+    1.0
+   ],
+   "expected": 63,
+   "tol": 0
+  },
+  {
+   "fn": "xph",
+   "args": [
+    9
+   ],
+   "expected": 47683.7158203125,
+   "tol": 1e-06
+  },
+  {
+   "fn": "gph",
+   "args": [
+    9
+   ],
+   "expected": 39081.75101257812,
+   "tol": 1e-06
+  },
+  {
+   "fn": "food_heal",
+   "args": [
+    9
+   ],
+   "expected": 369,
+   "tol": 0
+  },
+  {
+   "fn": "weapon_damage",
+   "args": [
+    9,
+    1.0
+   ],
+   "expected": 89,
+   "tol": 0
+  },
+  {
+   "fn": "xph",
+   "args": [
+    10
+   ],
+   "expected": 59604.644775390625,
+   "tol": 1e-06
+  },
+  {
+   "fn": "gph",
+   "args": [
+    10
+   ],
+   "expected": 56668.53896823827,
+   "tol": 1e-06
+  },
+  {
+   "fn": "food_heal",
+   "args": [
+    10
+   ],
+   "expected": 517,
+   "tol": 0
+  },
+  {
+   "fn": "weapon_damage",
+   "args": [
+    10,
+    1.0
+   ],
+   "expected": 124,
+   "tol": 0
+  },
+  {
+   "fn": "xph",
+   "args": [
+    11
+   ],
+   "expected": 74505.80596923828,
+   "tol": 1e-06
+  },
+  {
+   "fn": "gph",
+   "args": [
+    11
+   ],
+   "expected": 82169.3815039455,
+   "tol": 1e-06
+  },
+  {
+   "fn": "food_heal",
+   "args": [
+    11
+   ],
+   "expected": 723,
+   "tol": 0
+  },
+  {
+   "fn": "weapon_damage",
+   "args": [
+    11,
+    1.0
+   ],
+   "expected": 174,
+   "tol": 0
+  },
+  {
+   "fn": "mastery_to_next",
+   "args": [
+    1
+   ],
+   "expected": 65,
+   "tol": 0
+  },
+  {
+   "fn": "mastery_to_next",
+   "args": [
+    10
+   ],
+   "expected": 142,
+   "tol": 0
+  },
+  {
+   "fn": "mastery_to_next",
+   "args": [
+    25
+   ],
+   "expected": 517,
+   "tol": 0
+  },
+  {
+   "fn": "mastery_to_next",
+   "args": [
+    49
+   ],
+   "expected": 4093,
+   "tol": 0
+  },
+  {
+   "fn": "hit_chance",
+   "args": [
+    100,
+    100
+   ],
+   "expected": 0.75,
+   "tol": 1e-09
+  },
+  {
+   "fn": "hit_chance",
+   "args": [
+    200,
+    100
+   ],
+   "expected": 0.98,
+   "tol": 1e-09
+  },
+  {
+   "fn": "hit_chance",
+   "args": [
+    50,
+    100
+   ],
+   "expected": 0.5303300858899107,
+   "tol": 1e-09
+  },
+  {
+   "fn": "hit_chance",
+   "args": [
+    10,
+    1000
+   ],
+   "expected": 0.07500000000000001,
+   "tol": 1e-09
+  },
+  {
+   "fn": "hit_chance",
+   "args": [
+    1000,
+    10
+   ],
+   "expected": 0.98,
+   "tol": 1e-09
+  },
+  {
+   "fn": "hit_chance",
+   "args": [
+    775,
+    681
+   ],
+   "expected": 0.8000894773749792,
+   "tol": 1e-09
+  },
+  {
+   "fn": "damage_reduction",
+   "args": [
+    0,
+    10
+   ],
+   "expected": 0.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "damage_reduction",
+   "args": [
+    40,
+    1
+   ],
+   "expected": 0.562390158172232,
+   "tol": 1e-09
+  },
+  {
+   "fn": "damage_reduction",
+   "args": [
+    500,
+    50
+   ],
+   "expected": 0.7256597388310144,
+   "tol": 1e-09
+  },
+  {
+   "fn": "damage_reduction",
+   "args": [
+    1157,
+    100
+   ],
+   "expected": 0.492748266847803,
+   "tol": 1e-09
+  },
+  {
+   "fn": "damage_reduction",
+   "args": [
+    100000,
+    1
+   ],
+   "expected": 0.85,
+   "tol": 1e-09
+  },
+  {
+   "fn": "triangle_mult",
+   "args": [
+    "melee",
+    "ranged"
+   ],
+   "expected": 1.15,
+   "tol": 1e-09
+  },
+  {
+   "fn": "triangle_mult",
+   "args": [
+    "ranged",
+    "melee"
+   ],
+   "expected": 0.85,
+   "tol": 1e-09
+  },
+  {
+   "fn": "triangle_mult",
+   "args": [
+    "arcane",
+    "arcane"
+   ],
+   "expected": 1.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "triangle_mult",
+   "args": [
+    "arcane",
+    "melee"
+   ],
+   "expected": 1.15,
+   "tol": 1e-09
+  },
+  {
+   "fn": "triangle_mult",
+   "args": [
+    "ranged",
+    "arcane"
+   ],
+   "expected": 1.15,
+   "tol": 1e-09
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    1,
+    "normal"
+   ],
+   "expected": {
+    "hp": 25,
+    "max_hit": 14,
+    "accuracy": 28,
+    "evasion": 22,
+    "armor": 4,
+    "ward": 4,
+    "attack_interval_s": 2.8,
+    "xp": 21,
+    "gold_min": 2,
+    "gold_max": 4
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    1,
+    "elite"
+   ],
+   "expected": {
+    "hp": 75,
+    "max_hit": 17,
+    "accuracy": 30,
+    "evasion": 24,
+    "armor": 5,
+    "ward": 5,
+    "attack_interval_s": 2.6,
+    "xp": 68,
+    "gold_min": 7,
+    "gold_max": 13
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    1,
+    "boss"
+   ],
+   "expected": {
+    "hp": 249,
+    "max_hit": 22,
+    "accuracy": 32,
+    "evasion": 24,
+    "armor": 6,
+    "ward": 6,
+    "attack_interval_s": 3.0,
+    "xp": 253,
+    "gold_min": 29,
+    "gold_max": 54
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    1,
+    "dungeon_boss"
+   ],
+   "expected": {
+    "hp": 348,
+    "max_hit": 24,
+    "accuracy": 33,
+    "evasion": 25,
+    "armor": 6,
+    "ward": 6,
+    "attack_interval_s": 3.0,
+    "xp": 380,
+    "gold_min": 43,
+    "gold_max": 80
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    1,
+    "raid_boss"
+   ],
+   "expected": {
+    "hp": 1118,
+    "max_hit": 29,
+    "accuracy": 36,
+    "evasion": 26,
+    "armor": 7,
+    "ward": 7,
+    "attack_interval_s": 3.2,
+    "xp": 1267,
+    "gold_min": 144,
+    "gold_max": 268
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    50,
+    "normal"
+   ],
+   "expected": {
+    "hp": 385,
+    "max_hit": 81,
+    "accuracy": 395,
+    "evasion": 348,
+    "armor": 23,
+    "ward": 23,
+    "attack_interval_s": 2.8,
+    "xp": 63,
+    "gold_min": 15,
+    "gold_max": 28
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    50,
+    "elite"
+   ],
+   "expected": {
+    "hp": 1154,
+    "max_hit": 101,
+    "accuracy": 435,
+    "evasion": 383,
+    "armor": 28,
+    "ward": 28,
+    "attack_interval_s": 2.6,
+    "xp": 202,
+    "gold_min": 44,
+    "gold_max": 83
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    50,
+    "boss"
+   ],
+   "expected": {
+    "hp": 3847,
+    "max_hit": 129,
+    "accuracy": 454,
+    "evasion": 383,
+    "armor": 33,
+    "ward": 33,
+    "attack_interval_s": 3.0,
+    "xp": 756,
+    "gold_min": 178,
+    "gold_max": 331
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    50,
+    "dungeon_boss"
+   ],
+   "expected": {
+    "hp": 5385,
+    "max_hit": 141,
+    "accuracy": 474,
+    "evasion": 400,
+    "armor": 35,
+    "ward": 35,
+    "attack_interval_s": 3.0,
+    "xp": 1134,
+    "gold_min": 267,
+    "gold_max": 496
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    50,
+    "raid_boss"
+   ],
+   "expected": {
+    "hp": 17310,
+    "max_hit": 169,
+    "accuracy": 514,
+    "evasion": 418,
+    "armor": 40,
+    "ward": 40,
+    "attack_interval_s": 3.2,
+    "xp": 3780,
+    "gold_min": 890,
+    "gold_max": 1653
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    100,
+    "normal"
+   ],
+   "expected": {
+    "hp": 6297,
+    "max_hit": 482,
+    "accuracy": 770,
+    "evasion": 681,
+    "armor": 137,
+    "ward": 137,
+    "attack_interval_s": 2.8,
+    "xp": 192,
+    "gold_min": 95,
+    "gold_max": 177
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    100,
+    "elite"
+   ],
+   "expected": {
+    "hp": 18890,
+    "max_hit": 603,
+    "accuracy": 847,
+    "evasion": 749,
+    "armor": 165,
+    "ward": 165,
+    "attack_interval_s": 2.6,
+    "xp": 615,
+    "gold_min": 285,
+    "gold_max": 530
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    100,
+    "boss"
+   ],
+   "expected": {
+    "hp": 62966,
+    "max_hit": 771,
+    "accuracy": 885,
+    "evasion": 749,
+    "armor": 192,
+    "ward": 192,
+    "attack_interval_s": 3.0,
+    "xp": 2307,
+    "gold_min": 1141,
+    "gold_max": 2119
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    100,
+    "dungeon_boss"
+   ],
+   "expected": {
+    "hp": 88152,
+    "max_hit": 844,
+    "accuracy": 924,
+    "evasion": 783,
+    "armor": 206,
+    "ward": 206,
+    "attack_interval_s": 3.0,
+    "xp": 3461,
+    "gold_min": 1711,
+    "gold_max": 3178
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    100,
+    "raid_boss"
+   ],
+   "expected": {
+    "hp": 283347,
+    "max_hit": 1012,
+    "accuracy": 1001,
+    "evasion": 817,
+    "armor": 234,
+    "ward": 234,
+    "attack_interval_s": 3.2,
+    "xp": 11536,
+    "gold_min": 5704,
+    "gold_max": 10593
+   },
+   "tol": 0
+  },
+  {
+   "fn": "echo_multiplier",
+   "args": [
+    10,
+    100
+   ],
+   "expected": 3.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "echo_multiplier",
+   "args": [
+    49,
+    100
+   ],
+   "expected": 3.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "echo_multiplier",
+   "args": [
+    50,
+    100
+   ],
+   "expected": 2.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "echo_multiplier",
+   "args": [
+    89,
+    100
+   ],
+   "expected": 2.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "echo_multiplier",
+   "args": [
+    90,
+    100
+   ],
+   "expected": 1.5,
+   "tol": 1e-09
+  },
+  {
+   "fn": "echo_multiplier",
+   "args": [
+    99,
+    100
+   ],
+   "expected": 1.5,
+   "tol": 1e-09
+  },
+  {
+   "fn": "echo_multiplier",
+   "args": [
+    100,
+    100
+   ],
+   "expected": 1.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "echo_multiplier",
+   "args": [
+    5,
+    0
+   ],
+   "expected": 1.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_haste_pct",
+   "args": [
+    0
+   ],
+   "expected": 0.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_xp_pct",
+   "args": [
+    0
+   ],
+   "expected": 0.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_curve",
+   "args": [
+    40,
+    0.95,
+    0
+   ],
+   "expected": 0.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_haste_pct",
+   "args": [
+    1
+   ],
+   "expected": 2.4999999999999996,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_xp_pct",
+   "args": [
+    1
+   ],
+   "expected": 4.799999999999997,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_curve",
+   "args": [
+    40,
+    0.95,
+    1
+   ],
+   "expected": 2.0000000000000018,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_haste_pct",
+   "args": [
+    5
+   ],
+   "expected": 10.237749999999998,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_xp_pct",
+   "args": [
+    5
+   ],
+   "expected": 20.455108607999993,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_curve",
+   "args": [
+    40,
+    0.95,
+    5
+   ],
+   "expected": 9.04876250000001,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_haste_pct",
+   "args": [
+    10
+   ],
+   "expected": 16.2830389975,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_xp_pct",
+   "args": [
+    10
+   ],
+   "expected": 33.93669274658207,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_curve",
+   "args": [
+    40,
+    0.95,
+    10
+   ],
+   "expected": 16.050522430464852,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_haste_pct",
+   "args": [
+    50
+   ],
+   "expected": 24.871155619817,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_xp_pct",
+   "args": [
+    50
+   ],
+   "expected": 59.07201145008939,
+   "tol": 1e-09
+  },
+  {
+   "fn": "star_curve",
+   "args": [
+    40,
+    0.95,
+    50
+   ],
+   "expected": 36.92220098893147,
+   "tol": 1e-09
+  },
+  {
+   "fn": "stardust_for_star",
+   "args": [
+    1
+   ],
+   "expected": 10,
+   "tol": 0
+  },
+  {
+   "fn": "stardust_for_star",
+   "args": [
+    2
+   ],
+   "expected": 12,
+   "tol": 0
+  },
+  {
+   "fn": "stardust_for_star",
+   "args": [
+    10
+   ],
+   "expected": 28,
+   "tol": 0
+  },
+  {
+   "fn": "soci_total",
+   "args": [
+    0
+   ],
+   "expected": 0,
+   "tol": 0
+  },
+  {
+   "fn": "soci_total",
+   "args": [
+    10000
+   ],
+   "expected": 15,
+   "tol": 0
+  },
+  {
+   "fn": "soci_total",
+   "args": [
+    50000
+   ],
+   "expected": 33,
+   "tol": 0
+  },
+  {
+   "fn": "soci_total",
+   "args": [
+    1000000
+   ],
+   "expected": 150,
+   "tol": 0
+  },
+  {
+   "fn": "estate_units_per_hour",
+   "args": [
+    0
+   ],
+   "expected": 0.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "estate_units_per_hour",
+   "args": [
+    1
+   ],
+   "expected": 30.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "estate_units_per_hour",
+   "args": [
+    9
+   ],
+   "expected": 270.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "estate_units_per_hour",
+   "args": [
+    10
+   ],
+   "expected": 600.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "estate_units_per_hour",
+   "args": [
+    25
+   ],
+   "expected": 3000.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "estate_units_per_hour",
+   "args": [
+    100
+   ],
+   "expected": 48000.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "estate_cost_gold",
+   "args": [
+    0,
+    1
+   ],
+   "expected": 40,
+   "tol": 0
+  },
+  {
+   "fn": "estate_cost_gold",
+   "args": [
+    10,
+    2
+   ],
+   "expected": 160,
+   "tol": 0
+  },
+  {
+   "fn": "estate_cost_gold",
+   "args": [
+    55,
+    6
+   ],
+   "expected": 80000,
+   "tol": 0
+  },
+  {
+   "fn": "quality_chances",
+   "args": [
+    0,
+    0
+   ],
+   "expected": [
+    0.89,
+    0.1,
+    0.01,
+    0.0
+   ],
+   "tol": 1e-09
+  },
+  {
+   "fn": "quality_chances",
+   "args": [
+    10,
+    20
+   ],
+   "expected": [
+    0.595,
+    0.28,
+    0.09,
+    0.035
+   ],
+   "tol": 1e-09
+  },
+  {
+   "fn": "quality_chances",
+   "args": [
+    60,
+    50
+   ],
+   "expected": [
+    0.2,
+    0.45,
+    0.25,
+    0.1
+   ],
+   "tol": 1e-09
+  },
+  {
+   "fn": "key_shop_price",
+   "args": [
+    1
+   ],
+   "expected": 200,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    1,
+    "rare"
+   ],
+   "expected": 20,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    1,
+    "epic"
+   ],
+   "expected": 100,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    1,
+    "legendary"
+   ],
+   "expected": 500,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    1,
+    "mythic"
+   ],
+   "expected": 2500,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    1,
+    "relic"
+   ],
+   "expected": 10000,
+   "tol": 0
+  },
+  {
+   "fn": "key_shop_price",
+   "args": [
+    2
+   ],
+   "expected": 420,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    2,
+    "rare"
+   ],
+   "expected": 42,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    2,
+    "epic"
+   ],
+   "expected": 210,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    2,
+    "legendary"
+   ],
+   "expected": 1100,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    2,
+    "mythic"
+   ],
+   "expected": 5300,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    2,
+    "relic"
+   ],
+   "expected": 21000,
+   "tol": 0
+  },
+  {
+   "fn": "key_shop_price",
+   "args": [
+    3
+   ],
+   "expected": 880,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    3,
+    "rare"
+   ],
+   "expected": 88,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    3,
+    "epic"
+   ],
+   "expected": 440,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    3,
+    "legendary"
+   ],
+   "expected": 2200,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    3,
+    "mythic"
+   ],
+   "expected": 11000,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    3,
+    "relic"
+   ],
+   "expected": 44000,
+   "tol": 0
+  },
+  {
+   "fn": "key_shop_price",
+   "args": [
+    4
+   ],
+   "expected": 1900,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    4,
+    "rare"
+   ],
+   "expected": 190,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    4,
+    "epic"
+   ],
+   "expected": 930,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    4,
+    "legendary"
+   ],
+   "expected": 4600,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    4,
+    "mythic"
+   ],
+   "expected": 23000,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    4,
+    "relic"
+   ],
+   "expected": 93000,
+   "tol": 0
+  },
+  {
+   "fn": "key_shop_price",
+   "args": [
+    5
+   ],
+   "expected": 3900,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    5,
+    "rare"
+   ],
+   "expected": 390,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    5,
+    "epic"
+   ],
+   "expected": 2000,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    5,
+    "legendary"
+   ],
+   "expected": 9800,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    5,
+    "mythic"
+   ],
+   "expected": 49000,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    5,
+    "relic"
+   ],
+   "expected": 200000,
+   "tol": 0
+  },
+  {
+   "fn": "key_shop_price",
+   "args": [
+    6
+   ],
+   "expected": 8200,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    6,
+    "rare"
+   ],
+   "expected": 820,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    6,
+    "epic"
+   ],
+   "expected": 4100,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    6,
+    "legendary"
+   ],
+   "expected": 21000,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    6,
+    "mythic"
+   ],
+   "expected": 100000,
+   "tol": 0
+  },
+  {
+   "fn": "skin_value",
+   "args": [
+    6,
+    "relic"
+   ],
+   "expected": 410000,
+   "tol": 0
+  },
+  {
+   "fn": "era_monster_mult",
+   "args": [
+    1
+   ],
+   "expected": 1.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "era_reward_mult",
+   "args": [
+    1
+   ],
+   "expected": 1.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "era_monster_mult",
+   "args": [
+    2
+   ],
+   "expected": 1.35,
+   "tol": 1e-09
+  },
+  {
+   "fn": "era_reward_mult",
+   "args": [
+    2
+   ],
+   "expected": 1.3,
+   "tol": 1e-09
+  },
+  {
+   "fn": "era_monster_mult",
+   "args": [
+    5
+   ],
+   "expected": 3.321506250000001,
+   "tol": 1e-09
+  },
+  {
+   "fn": "era_reward_mult",
+   "args": [
+    5
+   ],
+   "expected": 2.2,
+   "tol": 1e-09
+  },
+  {
+   "fn": "era_monster_mult",
+   "args": [
+    10
+   ],
+   "expected": 14.893745087865243,
+   "tol": 1e-09
+  },
+  {
+   "fn": "era_reward_mult",
+   "args": [
+    10
+   ],
+   "expected": 3.6999999999999997,
+   "tol": 1e-09
+  },
+  {
+   "fn": "rank_essence_cost",
+   "args": [
+    1
+   ],
+   "expected": 3,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    1,
+    1
+   ],
+   "expected": 275,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    6,
+    1
+   ],
+   "expected": 1650,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    11,
+    1
+   ],
+   "expected": 3025,
+   "tol": 0
+  },
+  {
+   "fn": "rank_essence_cost",
+   "args": [
+    2
+   ],
+   "expected": 3,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    1,
+    2
+   ],
+   "expected": 300,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    6,
+    2
+   ],
+   "expected": 1800,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    11,
+    2
+   ],
+   "expected": 3300,
+   "tol": 0
+  },
+  {
+   "fn": "rank_essence_cost",
+   "args": [
+    3
+   ],
+   "expected": 4,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    1,
+    3
+   ],
+   "expected": 325,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    6,
+    3
+   ],
+   "expected": 1950,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    11,
+    3
+   ],
+   "expected": 3575,
+   "tol": 0
+  },
+  {
+   "fn": "rank_essence_cost",
+   "args": [
+    8
+   ],
+   "expected": 6,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    1,
+    8
+   ],
+   "expected": 450,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    6,
+    8
+   ],
+   "expected": 2700,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    11,
+    8
+   ],
+   "expected": 4950,
+   "tol": 0
+  },
+  {
+   "fn": "rank_essence_cost",
+   "args": [
+    12
+   ],
+   "expected": 8,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    1,
+    12
+   ],
+   "expected": 550,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    6,
+    12
+   ],
+   "expected": 3300,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    11,
+    12
+   ],
+   "expected": 6050,
+   "tol": 0
+  },
+  {
+   "fn": "rank_essence_cost",
+   "args": [
+    24
+   ],
+   "expected": 14,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    1,
+    24
+   ],
+   "expected": 850,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    6,
+    24
+   ],
+   "expected": 5100,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    11,
+    24
+   ],
+   "expected": 9350,
+   "tol": 0
+  },
+  {
+   "fn": "rank_essence_cost",
+   "args": [
+    100
+   ],
+   "expected": 52,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    1,
+    100
+   ],
+   "expected": 2750,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    6,
+    100
+   ],
+   "expected": 16500,
+   "tol": 0
+  },
+  {
+   "fn": "rank_gold_cost",
+   "args": [
+    11,
+    100
+   ],
+   "expected": 30250,
+   "tol": 0
+  },
+  {
+   "fn": "push_regen",
+   "args": [
+    0.1,
+    5.0
+   ],
+   "expected": 0.005,
+   "tol": 1e-09
+  },
+  {
+   "fn": "push_regen",
+   "args": [
+    3600.0,
+    5.0
+   ],
+   "expected": 180.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "push_regen",
+   "args": [
+    43200.0,
+    0.3
+   ],
+   "expected": 129.6,
+   "tol": 1e-09
+  },
+  {
+   "fn": "push_regen",
+   "args": [
+    86400.0,
+    0.3
+   ],
+   "expected": 259.2,
+   "tol": 1e-09
+  },
+  {
+   "fn": "push_regen",
+   "args": [
+    0.0,
+    5.0
+   ],
+   "expected": 0.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "push_regen",
+   "args": [
+    10.0,
+    0.0
+   ],
+   "expected": 0.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "push_spend",
+   "args": [
+    600.0,
+    0.3
+   ],
+   "expected": 0.3,
+   "tol": 1e-09
+  },
+  {
+   "fn": "push_spend",
+   "args": [
+    0.2,
+    0.3
+   ],
+   "expected": 0.2,
+   "tol": 1e-09
+  },
+  {
+   "fn": "push_spend",
+   "args": [
+    0.0,
+    0.3
+   ],
+   "expected": 0.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "push_spend",
+   "args": [
+    0.3,
+    0.3
+   ],
+   "expected": 0.3,
+   "tol": 1e-09
+  },
+  {
+   "fn": "push_spend",
+   "args": [
+    12.5,
+    0.3
+   ],
+   "expected": 0.3,
+   "tol": 1e-09
+  },
+  {
+   "fn": "round_nice",
+   "args": [
+    1
+   ],
+   "expected": 1,
+   "tol": 0
+  },
+  {
+   "fn": "round_nice",
+   "args": [
+    99
+   ],
+   "expected": 99,
+   "tol": 0
+  },
+  {
+   "fn": "round_nice",
+   "args": [
+    100
+   ],
+   "expected": 100,
+   "tol": 0
+  },
+  {
+   "fn": "round_nice",
+   "args": [
+    125
+   ],
+   "expected": 130,
+   "tol": 0
+  },
+  {
+   "fn": "round_nice",
+   "args": [
+    135
+   ],
+   "expected": 140,
+   "tol": 0
+  },
+  {
+   "fn": "round_nice",
+   "args": [
+    1234
+   ],
+   "expected": 1200,
+   "tol": 0
+  },
+  {
+   "fn": "round_nice",
+   "args": [
+    1250
+   ],
+   "expected": 1300,
+   "tol": 0
+  },
+  {
+   "fn": "round_nice",
+   "args": [
+    56789
+   ],
+   "expected": 57000,
+   "tol": 0
+  },
+  {
+   "fn": "round_nice",
+   "args": [
+    123456
+   ],
+   "expected": 120000,
+   "tol": 0
+  },
+  {
+   "fn": "rhalf",
+   "args": [
+    0.5
+   ],
+   "expected": 1,
+   "tol": 0
+  },
+  {
+   "fn": "rhalf",
+   "args": [
+    1.5
+   ],
+   "expected": 2,
+   "tol": 0
+  },
+  {
+   "fn": "rhalf",
+   "args": [
+    2.5
+   ],
+   "expected": 3,
+   "tol": 0
+  },
+  {
+   "fn": "rhalf",
+   "args": [
+    3.49
+   ],
+   "expected": 3,
+   "tol": 0
+  },
+  {
+   "fn": "rhalf",
+   "args": [
+    12.5
+   ],
+   "expected": 13,
+   "tol": 0
+  },
+  {
+   "fn": "condition_odds",
+   "args": [
+    0.0,
+    1.0
+   ],
+   "expected": {
+    "pristine": 5.0,
+    "polished": 25.0,
+    "marked": 34.0,
+    "worn": 21.0,
+    "scarred": 15.0
+   },
+   "tol": 0.005
+  },
+  {
+   "fn": "condition_odds",
+   "args": [
+    0.1,
+    0.9
+   ],
+   "expected": {
+    "polished": 26.32,
+    "marked": 35.79,
+    "worn": 22.11,
+    "scarred": 15.79
+   },
+   "tol": 0.005
+  },
+  {
+   "fn": "condition_odds",
+   "args": [
+    0.06,
+    0.8
+   ],
+   "expected": {
+    "pristine": 5.0,
+    "polished": 25.0,
+    "marked": 34.0,
+    "worn": 21.0,
+    "scarred": 15.0
+   },
+   "tol": 0.005
+  },
+  {
+   "fn": "condition_odds",
+   "args": [
+    0.0,
+    0.7
+   ],
+   "expected": {
+    "pristine": 5.88,
+    "polished": 29.41,
+    "marked": 40.0,
+    "worn": 24.71
+   },
+   "tol": 0.005
+  },
+  {
+   "fn": "condition_odds",
+   "args": [
+    0.0,
+    0.08
+   ],
+   "expected": {
+    "pristine": 100.0
+   },
+   "tol": 0.005
+  },
+  {
+   "fn": "condition_odds",
+   "args": [
+    0.02,
+    1.0
+   ],
+   "expected": {
+    "pristine": 5.0,
+    "polished": 25.0,
+    "marked": 34.0,
+    "worn": 21.0,
+    "scarred": 15.0
+   },
+   "tol": 0.005
+  },
+  {
+   "fn": "condition_odds",
+   "args": [
+    0.0,
+    0.5
+   ],
+   "expected": {
+    "pristine": 7.81,
+    "polished": 39.06,
+    "marked": 53.13
+   },
+   "tol": 0.005
+  },
+  {
+   "fn": "relic_pity_mean_openings",
+   "args": [],
+   "expected": 175.00208630912937,
+   "tol": 1e-06
+  },
+  {
+   "fn": "relic_pity_effective_rate",
+   "args": [],
+   "expected": 0.005714217590718133,
+   "tol": 1e-09
+  },
+  {
+   "fn": "effective_rarity_pct",
+   "args": [],
+   "expected": {
+    "rare": 78.984,
+    "epic": 15.757,
+    "legendary": 3.79,
+    "mythic": 0.898,
+    "relic": 0.571
+   },
+   "tol": 0.0005
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    1,
+    1.0
+   ],
+   "expected": 1,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    1,
+    3.0
+   ],
+   "expected": 2,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    1,
+    4.5
+   ],
+   "expected": 3,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    1,
+    12.0
+   ],
+   "expected": 7,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    2,
+    1.0
+   ],
+   "expected": 1,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    2,
+    3.0
+   ],
+   "expected": 2,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    2,
+    4.5
+   ],
+   "expected": 4,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    2,
+    12.0
+   ],
+   "expected": 10,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    3,
+    1.0
+   ],
+   "expected": 1,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    3,
+    3.0
+   ],
+   "expected": 4,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    3,
+    4.5
+   ],
+   "expected": 5,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    3,
+    12.0
+   ],
+   "expected": 14,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    4,
+    1.0
+   ],
+   "expected": 2,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    4,
+    3.0
+   ],
+   "expected": 5,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    4,
+    4.5
+   ],
+   "expected": 8,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    4,
+    12.0
+   ],
+   "expected": 20,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    5,
+    1.0
+   ],
+   "expected": 2,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    5,
+    3.0
+   ],
+   "expected": 7,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    5,
+    4.5
+   ],
+   "expected": 11,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    5,
+    12.0
+   ],
+   "expected": 29,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    6,
+    1.0
+   ],
+   "expected": 4,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    6,
+    3.0
+   ],
+   "expected": 11,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    6,
+    4.5
+   ],
+   "expected": 16,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    6,
+    12.0
+   ],
+   "expected": 43,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    7,
+    1.0
+   ],
+   "expected": 5,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    7,
+    3.0
+   ],
+   "expected": 15,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    7,
+    4.5
+   ],
+   "expected": 23,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    7,
+    12.0
+   ],
+   "expected": 62,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    8,
+    1.0
+   ],
+   "expected": 7,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    8,
+    3.0
+   ],
+   "expected": 22,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    8,
+    4.5
+   ],
+   "expected": 34,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    8,
+    12.0
+   ],
+   "expected": 90,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    9,
+    1.0
+   ],
+   "expected": 11,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    9,
+    3.0
+   ],
+   "expected": 33,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    9,
+    4.5
+   ],
+   "expected": 49,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    9,
+    12.0
+   ],
+   "expected": 130,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    10,
+    1.0
+   ],
+   "expected": 16,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    10,
+    3.0
+   ],
+   "expected": 47,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    10,
+    4.5
+   ],
+   "expected": 71,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    10,
+    12.0
+   ],
+   "expected": 189,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    11,
+    1.0
+   ],
+   "expected": 23,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    11,
+    3.0
+   ],
+   "expected": 68,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    11,
+    4.5
+   ],
+   "expected": 103,
+   "tol": 0
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    11,
+    12.0
+   ],
+   "expected": 274,
+   "tol": 0
+  },
+  {
+   "fn": "set_value",
+   "args": [
+    1.0,
+    1
+   ],
+   "expected": 1.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "set_value",
+   "args": [
+    1.0,
+    5
+   ],
+   "expected": 3.8415999999999992,
+   "tol": 1e-06
+  },
+  {
+   "fn": "set_value",
+   "args": [
+    1.0,
+    11
+   ],
+   "expected": 28.925465497599983,
+   "tol": 1e-06
+  },
+  {
+   "fn": "set_value",
+   "args": [
+    12.5,
+    1
+   ],
+   "expected": 12.5,
+   "tol": 1e-06
+  },
+  {
+   "fn": "set_value",
+   "args": [
+    12.5,
+    5
+   ],
+   "expected": 48.01999999999999,
+   "tol": 1e-06
+  },
+  {
+   "fn": "set_value",
+   "args": [
+    12.5,
+    11
+   ],
+   "expected": 361.5683187199998,
+   "tol": 1e-06
+  },
+  {
+   "fn": "set_value",
+   "args": [
+    100.0,
+    1
+   ],
+   "expected": 100.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "set_value",
+   "args": [
+    100.0,
+    5
+   ],
+   "expected": 384.1599999999999,
+   "tol": 1e-06
+  },
+  {
+   "fn": "set_value",
+   "args": [
+    100.0,
+    11
+   ],
+   "expected": 2892.5465497599985,
+   "tol": 1e-06
+  },
+  {
+   "fn": "set_value",
+   "args": [
+    1234.5,
+    1
+   ],
+   "expected": 1234.5,
+   "tol": 1e-06
+  },
+  {
+   "fn": "set_value",
+   "args": [
+    1234.5,
+    5
+   ],
+   "expected": 4742.455199999999,
+   "tol": 1e-06
+  },
+  {
+   "fn": "set_value",
+   "args": [
+    1234.5,
+    11
+   ],
+   "expected": 35708.48715678718,
+   "tol": 1e-06
+  },
+  {
+   "fn": "estate_milestone_mult",
+   "args": [
+    0
+   ],
+   "expected": 1,
+   "tol": 0
+  },
+  {
+   "fn": "estate_milestone_mult",
+   "args": [
+    1
+   ],
+   "expected": 1,
+   "tol": 0
+  },
+  {
+   "fn": "estate_milestone_mult",
+   "args": [
+    9
+   ],
+   "expected": 1,
+   "tol": 0
+  },
+  {
+   "fn": "estate_milestone_mult",
+   "args": [
+    10
+   ],
+   "expected": 2,
+   "tol": 0
+  },
+  {
+   "fn": "estate_milestone_mult",
+   "args": [
+    24
+   ],
+   "expected": 2,
+   "tol": 0
+  },
+  {
+   "fn": "estate_milestone_mult",
+   "args": [
+    25
+   ],
+   "expected": 4,
+   "tol": 0
+  },
+  {
+   "fn": "estate_milestone_mult",
+   "args": [
+    49
+   ],
+   "expected": 4,
+   "tol": 0
+  },
+  {
+   "fn": "estate_milestone_mult",
+   "args": [
+    50
+   ],
+   "expected": 8,
+   "tol": 0
+  },
+  {
+   "fn": "estate_milestone_mult",
+   "args": [
+    99
+   ],
+   "expected": 8,
+   "tol": 0
+  },
+  {
+   "fn": "estate_milestone_mult",
+   "args": [
+    100
+   ],
+   "expected": 16,
+   "tol": 0
+  },
+  {
+   "fn": "estate_milestone_mult",
+   "args": [
+    200
+   ],
+   "expected": 64,
+   "tol": 0
+  },
+  {
+   "fn": "dr_k",
+   "args": [
+    1
+   ],
+   "expected": 31.125000000000004,
+   "tol": 1e-06
+  },
+  {
+   "fn": "dr_k",
+   "args": [
+    10
+   ],
+   "expected": 43.35131827892512,
+   "tol": 1e-06
+  },
+  {
+   "fn": "dr_k",
+   "args": [
+    50
+   ],
+   "expected": 189.02816739628406,
+   "tol": 1e-06
+  },
+  {
+   "fn": "dr_k",
+   "args": [
+    100
+   ],
+   "expected": 1191.0549356399194,
+   "tol": 1e-06
+  },
+  {
+   "fn": "dr_k",
+   "args": [
+    150
+   ],
+   "expected": 7504.764391743767,
+   "tol": 1e-06
+  },
+  {
+   "fn": "dr_k",
+   "args": [
+    500
+   ],
+   "expected": 2959197468.5174456,
+   "tol": 1e-06,
+   "tol_rel": 1e-09
+  },
+  {
+   "fn": "hero_hp",
+   "args": [
+    5,
+    1,
+    0,
+    0
+   ],
+   "expected": 115.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_hp",
+   "args": [
+    100,
+    50,
+    300,
+    10
+   ],
+   "expected": 1771.0000000000002,
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_hp",
+   "args": [
+    1000,
+    100,
+    5000,
+    25
+   ],
+   "expected": 19450.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_hp",
+   "args": [
+    50000,
+    150,
+    1000000.0,
+    0
+   ],
+   "expected": 1500810.0,
+   "tol": 1e-06,
+   "tol_rel": 1e-09
+  },
+  {
+   "fn": "hero_ap",
+   "args": [
+    5,
+    0
+   ],
+   "expected": 7.5,
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_ap",
+   "args": [
+    300,
+    40
+   ],
+   "expected": 490.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_ap",
+   "args": [
+    4000,
+    900
+   ],
+   "expected": 6900.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_acc",
+   "args": [
+    1,
+    5,
+    0
+   ],
+   "expected": 28.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_acc",
+   "args": [
+    50,
+    200,
+    120
+   ],
+   "expected": 490.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_acc",
+   "args": [
+    100,
+    4000,
+    3000
+   ],
+   "expected": 7320.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_eva",
+   "args": [
+    1,
+    5,
+    0
+   ],
+   "expected": 16.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_eva",
+   "args": [
+    50,
+    200,
+    120
+   ],
+   "expected": 390.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_eva",
+   "args": [
+    100,
+    4000,
+    3000
+   ],
+   "expected": 6410.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "max_hit",
+   "args": [
+    5,
+    0,
+    0
+   ],
+   "expected": 5.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "max_hit",
+   "args": [
+    40,
+    300,
+    0
+   ],
+   "expected": 160.0,
+   "tol": 1e-06
+  },
+  {
+   "fn": "max_hit",
+   "args": [
+    250,
+    4000,
+    35
+   ],
+   "expected": 13837.500000000002,
+   "tol": 1e-06
+  },
+  {
+   "fn": "max_hit",
+   "args": [
+    10000.0,
+    100000.0,
+    100
+   ],
+   "expected": 20020000.0,
+   "tol": 1e-06,
+   "tol_rel": 1e-09
+  },
+  {
+   "fn": "xp_to_next",
+   "args": [
+    100
+   ],
+   "expected": 175980,
+   "tol": 0
+  },
+  {
+   "fn": "tier_of_level",
+   "args": [
+    100
+   ],
+   "expected": 11,
+   "tol": 0
+  },
+  {
+   "fn": "xp_to_next",
+   "args": [
+    101
+   ],
+   "expected": 190059,
+   "tol": 0
+  },
+  {
+   "fn": "tier_of_level",
+   "args": [
+    101
+   ],
+   "expected": 11,
+   "tol": 0
+  },
+  {
+   "fn": "xp_to_next",
+   "args": [
+    120
+   ],
+   "expected": 820239,
+   "tol": 0
+  },
+  {
+   "fn": "tier_of_level",
+   "args": [
+    120
+   ],
+   "expected": 11,
+   "tol": 0
+  },
+  {
+   "fn": "xp_to_next",
+   "args": [
+    150
+   ],
+   "expected": 8253788,
+   "tol": 0,
+   "tol_rel": 1e-09
+  },
+  {
+   "fn": "tier_of_level",
+   "args": [
+    150
+   ],
+   "expected": 11,
+   "tol": 0
+  },
+  {
+   "fn": "era_monster_mult",
+   "args": [
+    100
+   ],
+   "expected": 7999136006459.4,
+   "tol": 1e-09,
+   "tol_rel": 1e-09
+  },
+  {
+   "fn": "era_reward_mult",
+   "args": [
+    100
+   ],
+   "expected": 30.7,
+   "tol": 1e-09
+  },
+  {
+   "fn": "era_monster_mult",
+   "args": [
+    500
+   ],
+   "expected": 1.08780356809759e+65,
+   "tol": 1e-09,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "era_reward_mult",
+   "args": [
+    500
+   ],
+   "expected": 150.7,
+   "tol": 1e-09
+  },
+  {
+   "fn": "era_monster_mult",
+   "args": [
+    1000
+   ],
+   "expected": 1.5974774137338953e+130,
+   "tol": 1e-09,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "era_reward_mult",
+   "args": [
+    1000
+   ],
+   "expected": 300.7,
+   "tol": 1e-09
+  },
+  {
+   "fn": "era_monster_mult",
+   "args": [
+    2000
+   ],
+   "expected": 3.445111017976413e+260,
+   "tol": 1e-09,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "era_reward_mult",
+   "args": [
+    2000
+   ],
+   "expected": 600.6999999999999,
+   "tol": 1e-09
+  },
+  {
+   "fn": "estate_cost_gold",
+   "args": [
+    100,
+    11
+   ],
+   "expected": 56000000,
+   "tol": 0,
+   "tol_rel": 1e-09
+  },
+  {
+   "fn": "estate_cost_gold",
+   "args": [
+    200,
+    11
+   ],
+   "expected": 1900000000000,
+   "tol": 0,
+   "tol_rel": 1e-09
+  },
+  {
+   "fn": "estate_cost_gold",
+   "args": [
+    300,
+    11
+   ],
+   "expected": 65000000000000000,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "xp_to_next",
+   "args": [
+    1000
+   ],
+   "expected": 4611686018427387904,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "xp_to_next",
+   "args": [
+    9000
+   ],
+   "expected": 4611686018427387904,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "mastery_to_next",
+   "args": [
+    500
+   ],
+   "expected": 4611686018427387904,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    680,
+    "normal"
+   ],
+   "expected": {
+    "hp": 761594105850836864,
+    "max_hit": 488617145094,
+    "accuracy": 5120,
+    "evasion": 4544,
+    "armor": 111350884103,
+    "ward": 111350884103,
+    "attack_interval_s": 2.8,
+    "xp": 80297306,
+    "gold_min": 217445211684,
+    "gold_max": 403826821699
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    5000,
+    "normal"
+   ],
+   "expected": {
+    "hp": 4611686018427387904,
+    "max_hit": 4611686018427387904,
+    "accuracy": 37520,
+    "evasion": 33315,
+    "armor": 4611686018427387904,
+    "ward": 4611686018427387904,
+    "attack_interval_s": 2.8,
+    "xp": 4611686018427387904,
+    "gold_min": 4611686018427387904,
+    "gold_max": 4611686018427387904
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    1500,
+    "world_boss"
+   ],
+   "expected": {
+    "hp": 4611686018427387904,
+    "max_hit": 4611686018427387904,
+    "accuracy": 13524,
+    "evasion": 10005,
+    "armor": 4611686018427387904,
+    "ward": 4611686018427387904,
+    "attack_interval_s": 3.5,
+    "xp": 568083307776811008,
+    "gold_min": 4611686018427387904,
+    "gold_max": 4611686018427387904
+   },
+   "tol": 0
+  },
+  {
+   "fn": "monster_stats",
+   "args": [
+    100000,
+    "normal"
+   ],
+   "expected": {
+    "hp": 4611686018427387904,
+    "max_hit": 4611686018427387904,
+    "accuracy": 750020,
+    "evasion": 666015,
+    "armor": 4611686018427387904,
+    "ward": 4611686018427387904,
+    "attack_interval_s": 2.8,
+    "xp": 4611686018427387904,
+    "gold_min": 4611686018427387904,
+    "gold_max": 4611686018427387904
+   },
+   "tol": 0
+  },
+  {
+   "fn": "food_heal",
+   "args": [
+    1000
+   ],
+   "expected": 4611686018427387904,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "raw_value",
+   "args": [
+    200,
+    3600.0
+   ],
+   "expected": 4611686018427387904,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "soci_total",
+   "args": [
+    1e+300
+   ],
+   "expected": 4611686018427387904,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "estate_cost_gold",
+   "args": [
+    2000,
+    1
+   ],
+   "expected": 4611686018427387904,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "rhalf",
+   "args": [
+    9.3e+18
+   ],
+   "expected": 4611686018427387904,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "rhalf",
+   "args": [
+    1e+19
+   ],
+   "expected": 4611686018427387904,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "rhalf",
+   "args": [
+    1e+30
+   ],
+   "expected": 4611686018427387904,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "rhalf",
+   "args": [
+    -1e+30
+   ],
+   "expected": -4611686018427387904,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "rhalf",
+   "args": [
+    9007199254740992.0
+   ],
+   "expected": 9007199254740992,
+   "tol": 0,
+   "tol_rel": 1e-09
+  },
+  {
+   "fn": "round_nice",
+   "args": [
+    1e+17
+   ],
+   "expected": 100000000000000000,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "round_nice",
+   "args": [
+    1e+19
+   ],
+   "expected": 4611686018427387904,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "round_nice",
+   "args": [
+    1e+25
+   ],
+   "expected": 4611686018427387904,
+   "tol": 0,
+   "tol_rel": 1e-09,
+   "oltre_2_alla_53": true
+  },
+  {
+   "fn": "round_nice",
+   "args": [
+    -5.0
+   ],
+   "expected": 1,
+   "tol": 0
+  },
+  {
+   "fn": "triangle_mult",
+   "args": [
+    "",
+    ""
+   ],
+   "expected": 1.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "triangle_mult",
+   "args": [
+    "melee",
+    ""
+   ],
+   "expected": 1.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "hit_chance",
+   "args": [
+    0,
+    10
+   ],
+   "expected": 0.05,
+   "tol": 1e-09
+  },
+  {
+   "fn": "hit_chance",
+   "args": [
+    -10,
+    10
+   ],
+   "expected": 0.05,
+   "tol": 1e-09
+  },
+  {
+   "fn": "hit_chance",
+   "args": [
+    100,
+    0
+   ],
+   "expected": 0.98,
+   "tol": 1e-09
+  },
+  {
+   "fn": "hit_chance",
+   "args": [
+    1e+300,
+    1e-300
+   ],
+   "expected": 0.98,
+   "tol": 1e-09
+  },
+  {
+   "fn": "damage_reduction",
+   "args": [
+    100,
+    1000000.0
+   ],
+   "expected": 0.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "damage_reduction",
+   "args": [
+    -5,
+    50
+   ],
+   "expected": 0.0,
+   "tol": 1e-09
+  },
+  {
+   "fn": "damage_reduction",
+   "args": [
+    1000000000.0,
+    100
+   ],
+   "expected": 0.85,
+   "tol": 1e-09
+  },
+  {
+   "fn": "dr_k",
+   "args": [
+    1000000.0
+   ],
+   "expected": "inf",
+   "tol": 0
+  },
+  {
+   "fn": "overlevel_xp_mult",
+   "args": [
+    10,
+    10
+   ],
+   "expected": 1.0,
+   "tol": 1e-12
+  },
+  {
+   "fn": "overlevel_xp_mult",
+   "args": [
+    13,
+    10
+   ],
+   "expected": 1.0,
+   "tol": 1e-12
+  },
+  {
+   "fn": "overlevel_xp_mult",
+   "args": [
+    14,
+    10
+   ],
+   "expected": 0.94,
+   "tol": 1e-12
+  },
+  {
+   "fn": "overlevel_xp_mult",
+   "args": [
+    20,
+    10
+   ],
+   "expected": 0.5800000000000001,
+   "tol": 1e-12
+  },
+  {
+   "fn": "overlevel_xp_mult",
+   "args": [
+    40,
+    25
+   ],
+   "expected": 0.28,
+   "tol": 1e-12
+  },
+  {
+   "fn": "overlevel_xp_mult",
+   "args": [
+    99,
+    5
+   ],
+   "expected": 0.25,
+   "tol": 1e-12
+  },
+  {
+   "fn": "overlevel_xp_mult",
+   "args": [
+    100,
+    91
+   ],
+   "expected": 1.0,
+   "tol": 1e-12
+  },
+  {
+   "fn": "overlevel_xp_mult",
+   "args": [
+    100,
+    95
+   ],
+   "expected": 1.0,
+   "tol": 1e-12
+  },
+  {
+   "fn": "overlevel_xp_mult",
+   "args": [
+    1,
+    50
+   ],
+   "expected": 1.0,
+   "tol": 1e-12
+  },
+  {
+   "fn": "era_monster_mult",
+   "args": [
+    2400
+   ],
+   "expected": "inf",
+   "tol": 0
+  },
+  {
+   "fn": "effective_haste_pct",
+   "args": [
+    -20.0
+   ],
+   "expected": -20.0,
+   "tol": 1e-12
+  },
+  {
+   "fn": "effective_haste_pct",
+   "args": [
+    0.0
+   ],
+   "expected": 0.0,
+   "tol": 1e-12
+  },
+  {
+   "fn": "effective_haste_pct",
+   "args": [
+    35.0
+   ],
+   "expected": 35.0,
+   "tol": 1e-12
+  },
+  {
+   "fn": "effective_haste_pct",
+   "args": [
+    60.0
+   ],
+   "expected": 60.0,
+   "tol": 1e-12
+  },
+  {
+   "fn": "effective_haste_pct",
+   "args": [
+    61.0
+   ],
+   "expected": 60.5,
+   "tol": 1e-12
+  },
+  {
+   "fn": "effective_haste_pct",
+   "args": [
+    100.0
+   ],
+   "expected": 80.0,
+   "tol": 1e-12
+  },
+  {
+   "fn": "effective_haste_pct",
+   "args": [
+    140.0
+   ],
+   "expected": 100.0,
+   "tol": 1e-12
+  },
+  {
+   "fn": "effective_haste_pct",
+   "args": [
+    500.0
+   ],
+   "expected": 100.0,
+   "tol": 1e-12
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "warrior",
+    1,
+    1
+   ],
+   "expected": {
+    "hp": 171.0,
+    "ap": 37.5,
+    "acc": 52.0,
+    "eva": 16.0,
+    "arm": 50.0,
+    "ward": 17.0,
+    "max_hit": 9.769374999999998,
+    "min_ratio": 0.6,
+    "interval": 2.4,
+    "crit": 0.05,
+    "critd": 1.5,
+    "style": "melee",
+    "level": 1
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "warrior",
+    30,
+    4
+   ],
+   "expected": {
+    "hp": 959.0,
+    "ap": 283.5,
+    "acc": 290.0,
+    "eva": 74.0,
+    "arm": 133.0,
+    "ward": 50.0,
+    "max_hit": 79.001,
+    "min_ratio": 0.6,
+    "interval": 2.4,
+    "crit": 0.05,
+    "critd": 1.5,
+    "style": "melee",
+    "level": 30
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "warrior",
+    60,
+    7
+   ],
+   "expected": {
+    "hp": 1881.0,
+    "ap": 567.5,
+    "acc": 578.0,
+    "eva": 135.0,
+    "arm": 366.0,
+    "ward": 133.0,
+    "max_hit": 390.621,
+    "min_ratio": 0.6,
+    "interval": 2.4,
+    "crit": 0.05,
+    "critd": 1.5,
+    "style": "melee",
+    "level": 60
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "warrior",
+    100,
+    11
+   ],
+   "expected": {
+    "hp": 3651.0,
+    "ap": 977.0,
+    "acc": 1125.0,
+    "eva": 214.0,
+    "arm": 1412.0,
+    "ward": 509.0,
+    "max_hit": 2466.0607499999996,
+    "min_ratio": 0.6,
+    "interval": 2.4,
+    "crit": 0.05,
+    "critd": 1.5,
+    "style": "melee",
+    "level": 100
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "warrior2h",
+    1,
+    1
+   ],
+   "expected": {
+    "hp": 165.0,
+    "ap": 37.5,
+    "acc": 51.0,
+    "eva": 16.0,
+    "arm": 41.0,
+    "ward": 14.0,
+    "max_hit": 13.956249999999999,
+    "min_ratio": 0.55,
+    "interval": 3.4,
+    "crit": 0.07,
+    "critd": 1.5,
+    "style": "melee",
+    "level": 1
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "warrior2h",
+    30,
+    4
+   ],
+   "expected": {
+    "hp": 943.0,
+    "ap": 283.5,
+    "acc": 288.0,
+    "eva": 74.0,
+    "arm": 109.0,
+    "ward": 41.0,
+    "max_hit": 106.65135000000001,
+    "min_ratio": 0.55,
+    "interval": 3.4,
+    "crit": 0.07,
+    "critd": 1.5,
+    "style": "melee",
+    "level": 30
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "warrior2h",
+    60,
+    7
+   ],
+   "expected": {
+    "hp": 1836.0,
+    "ap": 567.5,
+    "acc": 571.0,
+    "eva": 135.0,
+    "arm": 300.0,
+    "ward": 109.0,
+    "max_hit": 523.1531249999999,
+    "min_ratio": 0.55,
+    "interval": 3.4,
+    "crit": 0.07,
+    "critd": 1.5,
+    "style": "melee",
+    "level": 60
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "warrior2h",
+    100,
+    11
+   ],
+   "expected": {
+    "hp": 3477.0,
+    "ap": 977.0,
+    "acc": 1096.0,
+    "eva": 214.0,
+    "arm": 1157.0,
+    "ward": 416.0,
+    "max_hit": 3280.4342999999994,
+    "min_ratio": 0.55,
+    "interval": 3.4,
+    "crit": 0.07,
+    "critd": 1.5,
+    "style": "melee",
+    "level": 100
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "ranger",
+    1,
+    1
+   ],
+   "expected": {
+    "hp": 152.0,
+    "ap": 33.5,
+    "acc": 70.0,
+    "eva": 43.2,
+    "arm": 22.0,
+    "ward": 22.0,
+    "max_hit": 8.130149999999999,
+    "min_ratio": 0.6,
+    "interval": 2.0,
+    "crit": 0.08,
+    "critd": 1.5,
+    "style": "ranged",
+    "level": 1
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "ranger",
+    30,
+    4
+   ],
+   "expected": {
+    "hp": 767.0,
+    "ap": 259.5,
+    "acc": 343.0,
+    "eva": 237.4,
+    "arm": 59.0,
+    "ward": 63.0,
+    "max_hit": 62.94845,
+    "min_ratio": 0.6,
+    "interval": 2.0,
+    "crit": 0.08,
+    "critd": 1.5,
+    "style": "ranged",
+    "level": 30
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "ranger",
+    60,
+    7
+   ],
+   "expected": {
+    "hp": 1468.0,
+    "ap": 517.5,
+    "acc": 722.0,
+    "eva": 496.4,
+    "arm": 166.0,
+    "ward": 168.0,
+    "max_hit": 290.379375,
+    "min_ratio": 0.6,
+    "interval": 2.0,
+    "crit": 0.08,
+    "critd": 1.5,
+    "style": "ranged",
+    "level": 60
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "ranger",
+    100,
+    11
+   ],
+   "expected": {
+    "hp": 2717.0,
+    "ap": 887.0,
+    "acc": 1675.0,
+    "eva": 1100.8,
+    "arm": 637.0,
+    "ward": 647.0,
+    "max_hit": 1839.5212499999996,
+    "min_ratio": 0.6,
+    "interval": 2.0,
+    "crit": 0.08,
+    "critd": 1.5,
+    "style": "ranged",
+    "level": 100
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "arcanist",
+    1,
+    1
+   ],
+   "expected": {
+    "hp": 146.0,
+    "ap": 49.5,
+    "acc": 54.0,
+    "eva": 32.0,
+    "arm": 30.0,
+    "ward": 43.0,
+    "max_hit": 10.621974999999999,
+    "min_ratio": 0.65,
+    "interval": 2.6,
+    "crit": 0.05,
+    "critd": 1.5,
+    "style": "arcane",
+    "level": 1
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "arcanist",
+    30,
+    4
+   ],
+   "expected": {
+    "hp": 754.0,
+    "ap": 336.0,
+    "acc": 301.0,
+    "eva": 119.0,
+    "arm": 83.0,
+    "ward": 116.0,
+    "max_hit": 80.83439999999999,
+    "min_ratio": 0.65,
+    "interval": 2.6,
+    "crit": 0.05,
+    "critd": 1.5,
+    "style": "arcane",
+    "level": 30
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "arcanist",
+    60,
+    7
+   ],
+   "expected": {
+    "hp": 1434.0,
+    "ap": 675.0,
+    "acc": 599.0,
+    "eva": 258.0,
+    "arm": 226.0,
+    "ward": 318.0,
+    "max_hit": 404.9375,
+    "min_ratio": 0.65,
+    "interval": 2.6,
+    "crit": 0.05,
+    "critd": 1.5,
+    "style": "arcane",
+    "level": 60
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "hero_stats",
+   "args": [
+    "arcanist",
+    100,
+    11
+   ],
+   "expected": {
+    "hp": 2588.0,
+    "ap": 1165.0,
+    "acc": 1161.0,
+    "eva": 692.0,
+    "arm": 867.0,
+    "ward": 1226.0,
+    "max_hit": 2627.08875,
+    "min_ratio": 0.65,
+    "interval": 2.6,
+    "crit": 0.05,
+    "critd": 1.5,
+    "style": "arcane",
+    "level": 100
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "fight",
+   "args": [
+    "warrior",
+    10,
+    2,
+    "mud_slime",
+    1.0
+   ],
+   "expected": {
+    "ttk": 3.182863079995724,
+    "p_hit": 0.98,
+    "m_hit": 0.7723929758166559,
+    "dmg_per_kill": 2.9683690963810356,
+    "m_dps": 0.9326097358812631,
+    "p_dps": 8.168745983265774,
+    "regen": 0.82,
+    "net_dps_taken": 0.1126097358812631,
+    "time_to_die": 3640.8930079749794
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "fight",
+   "args": [
+    "warrior",
+    10,
+    2,
+    "mud_slime",
+    5.0
+   ],
+   "expected": {
+    "ttk": 29.803032600691342,
+    "p_hit": 0.7001275394016232,
+    "m_hit": 0.98,
+    "dmg_per_kill": 176.32673553347595,
+    "m_dps": 5.916402464673534,
+    "p_dps": 4.361972210740205,
+    "regen": 0.82,
+    "net_dps_taken": 5.096402464673534,
+    "time_to_die": 80.44890544692566
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "fight",
+   "args": [
+    "ranger",
+    40,
+    5,
+    "cave_bat",
+    1.0
+   ],
+   "expected": {
+    "ttk": 1.5213285125846336,
+    "p_hit": 0.98,
+    "m_hit": 0.5751323129229364,
+    "dmg_per_kill": 2.92211182436495,
+    "m_dps": 1.920763201499774,
+    "p_dps": 52.58561798995369,
+    "regen": 1.9820000000000002,
+    "net_dps_taken": 0.0,
+    "time_to_die": "inf"
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "fight",
+   "args": [
+    "ranger",
+    40,
+    5,
+    "cave_bat",
+    5.0
+   ],
+   "expected": {
+    "ttk": 16.731527244358908,
+    "p_hit": 0.5602578771323871,
+    "m_hit": 0.98,
+    "dmg_per_kill": 273.8026980181032,
+    "m_dps": 16.364477313953316,
+    "p_dps": 23.906962834780153,
+    "regen": 1.9820000000000002,
+    "net_dps_taken": 14.382477313953316,
+    "time_to_die": 68.90328963276518
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "fight",
+   "args": [
+    "arcanist",
+    80,
+    9,
+    "plague_rat",
+    1.0
+   ],
+   "expected": {
+    "ttk": 0.5164524207773449,
+    "p_hit": 0.98,
+    "m_hit": 0.6714219360937969,
+    "dmg_per_kill": 1.0840956812573797,
+    "m_dps": 2.0991201466838696,
+    "p_dps": 476.3265503330007,
+    "regen": 3.906,
+    "net_dps_taken": 0.0,
+    "time_to_die": "inf"
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "fight",
+   "args": [
+    "arcanist",
+    80,
+    9,
+    "plague_rat",
+    5.0
+   ],
+   "expected": {
+    "ttk": 5.003434621851817,
+    "p_hit": 0.5676669469960924,
+    "m_hit": 0.98,
+    "dmg_per_kill": 76.64892711786494,
+    "m_dps": 15.319262248998166,
+    "p_dps": 245.8311326040203,
+    "regen": 3.906,
+    "net_dps_taken": 11.413262248998166,
+    "time_to_die": 171.11671995195155
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "fight",
+   "args": [
+    "warrior2h",
+    100,
+    11,
+    "vault_construct",
+    1.0
+   ],
+   "expected": {
+    "ttk": 4.617422348799449,
+    "p_hit": 0.98,
+    "m_hit": 0.98,
+    "dmg_per_kill": 177.73602808794143,
+    "m_dps": 38.49247798052383,
+    "p_dps": 871.9150417433177,
+    "regen": 6.954000000000001,
+    "net_dps_taken": 31.53847798052383,
+    "time_to_die": 110.24628398831344
+   },
+   "tol": 1e-06
+  },
+  {
+   "fn": "fight",
+   "args": [
+    "warrior2h",
+    100,
+    11,
+    "vault_construct",
+    5.0
+   ],
+   "expected": {
+    "ttk": 67.46363322299264,
+    "p_hit": 0.44309996571635435,
+    "m_hit": 0.98,
+    "dmg_per_kill": 12984.212081610907,
+    "m_dps": 192.46238990261924,
+    "p_dps": 298.3829811457499,
+    "regen": 6.954000000000001,
+    "net_dps_taken": 185.50838990261923,
+    "time_to_die": 18.743087586632694
+   },
+   "tol": 1e-06
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+keys,en,it
+UI_SKILLS_QUEUE_BTN,Queue,Coda
+UI_SKILLS_HELP_HINT,Click to open this page of the Manual,Clic per aprire la pagina del Manuale
+UI_SKILLS_IDLE_STRIP,Resting — pick an action below,A riposo — scegli un'azione qui sotto
+UI_SKILLS_IN_PROGRESS,In progress: {name},In corso: {name}
+UI_SKILLS_LOCKED_GROUP,Locked ({n}) — next: {name} at Lv {lv},Bloccate ({n}) — la prossima: {name} al Liv {lv}
+UI_SKILLS_PER_HOUR_SHORT,~{list} / h,~{list} / h
+UI_SKILLS_REQ_LEVEL_SHORT,Level {n} needed,Serve il livello {n}
+UI_SKILLS_REQ_ITEM_SHORT,Missing: {item},Manca: {item}
+UI_FARM_IN_PROGRESS_NONE,Nothing to harvest yet — the plots are growing,Niente da raccogliere — gli appezzamenti crescono
+UI_SKILLS_NONE_FEASIBLE,"Nothing you can make right now. Untick “Only what I can do now” to see every recipe.","Niente di fattibile adesso. Togli la spunta a «Solo ciò che posso fare» per vedere tutte le ricette."

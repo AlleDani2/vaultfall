@@ -1,0 +1,112 @@
+keys,en,it
+UI_RAID_TAB_DUNGEON,Dungeons,Dungeon
+UI_RAID_TAB_RAIDS,Raids,Incursioni
+UI_RAID_TAB_WB,World bosses,Boss mondiali
+UI_RAID_TAB_RIFT,The Rift,La Breccia
+UI_RAID_TITLE,Raids,Incursioni
+UI_RAID_INTRO,"A raid is one big boss with three phases. You bring up to 3 mercenaries from the Tavern: a Defender, a Healer and a Striker. The better the team's power compared with the required power, the stronger their effects (up to ×1.5). An incomplete team is allowed. It is just a little more… memorable.","Un'incursione è un grosso boss a tre fasi. Porti fino a 3 mercenari della Taverna: un Difensore, un Guaritore e un Assaltatore. Più il potere della squadra supera quello richiesto, più forti sono i loro effetti (fino a ×1,5). La squadra incompleta è permessa. Solo un po' più… memorabile."
+UI_RAID_START,Start the raid,Inizia l'incursione
+UI_RAID_RETREAT,Retreat,Ritirata
+UI_RAID_AUTO_PARTY,Pick the team for me,Scegli la squadra per me
+UI_RAID_COOLDOWN,Cooldown: {time},Ricarica: {time}
+UI_RAID_SUB,"{zone} · hero level {lv}+ · clears: {clears} · cooldown {cd} h after a win","{zone} · Eroe livello {lv}+ · completata {clears} volte · ricarica di {cd} h dopo una vittoria"
+UI_RAID_LOCKED,"Locked: finish the story quest that opens it and reach hero level {lv}.","Bloccata: completa la missione della storia che la apre e raggiungi l'Eroe di livello {lv}."
+UI_RAID_PARTY,Team,Squadra
+UI_RAID_NO_ONE,— nobody —,— nessuno —
+UI_RAID_POWER,power,potere
+UI_RAID_NO_MERCS,"No mercenaries yet. Build the Tavern in the Estate and hire a few: they are cheaper than a hero and complain less.","Nessun mercenario. Costruisci la Taverna nella Tenuta e assumine qualcuno: costano meno di un eroe e si lamentano meno."
+UI_RAID_POWER_LINE,Team power {p} / required {r} ({pct}),Potere della squadra {p} / richiesto {r} ({pct})
+UI_RAID_FX_LINE,"Effects: {dr} less damage taken (Defender) · {heal}% of max health per second (Healer) · {dmg} more damage (Striker)","Effetti: {dr} di danni subiti in meno (Difensore) · {heal}% della vita massima al secondo (Guaritore) · {dmg} di danno in più (Assaltatore)"
+UI_RAID_RISK_GREEN,Safe: estimated win chance {win},Sicuro: probabilità di vittoria stimata {win}
+UI_RAID_RISK_YELLOW,"Careful: estimated win chance {win}. More food or a stronger party lowers the risk.","Attenzione: vittoria stimata al {win}. Più cibo o una squadra più forte abbassano il rischio."
+UI_RAID_RISK_RED,Dangerous: estimated win chance {win}. Bring friends or snacks.,Pericoloso: probabilità di vittoria stimata {win}. Porta amici o merenda.
+UI_RAID_RISK_TIP,"Expected fight length {time}. Food needed about {food} (you have {have}). Boss's strongest possible hit {hit}. Your health never drops below {min} in the average fight.","Durata attesa dello scontro {time}. Cibo necessario circa {food} (ne hai {have}). Colpo più forte possibile del boss {hit}. Nello scontro medio la tua vita non scende sotto il {min}."
+UI_RAID_REWARD,Rewards for a win,Ricompense della vittoria
+UI_RAID_UNIQUES,"Boss drops, {p} each: {list}","Dal boss, {p} ciascuno: {list}"
+UI_RAID_ESSENCE,Era Essence: {n},Essenza d'Era: {n}
+UI_RAID_MERC_XP,Experience for each mercenary: {n},Esperienza per ogni mercenario: {n}
+UI_RAID_PHASES,Phases:,Fasi:
+UI_RAID_PHASE_ROW,"{n}) from {pct}% health, {style}","{n}) da {pct}% di vita, {style}"
+UI_RAID_PHASE,Phase,Fase
+UI_RAID_PHASE_BANNER,"Phase {n}: the boss switches to {style}!","Fase {n}: il boss passa allo stile {style}!"
+UI_RAID_STYLE_MELEE,melee,mischia
+UI_RAID_STYLE_RANGED,ranged,distanza
+UI_RAID_STYLE_ARCANE,arcane,arcano
+UI_RAID_RUN_INFO,"Team power at {ratio} of the requirement, {n} mercenaries on the field. The boss changes style at 66% and 33% health.","Potere della squadra al {ratio} del richiesto, {n} mercenari in campo. Il boss cambia stile al 66% e al 33% di vita."
+UI_RAID_VICTORY,Raid cleared!,Incursione completata!
+UI_RAID_DEFEAT,The raid failed,L'incursione è fallita
+UI_RAID_LOG_DONE,"Won in {time}: {gold} gold, {items}. The mercenaries want their pay stub.","Vinta in {time}: {gold} oro, {items}. I mercenari vogliono la busta paga."
+UI_RAID_LOG_FAIL,The fight went badly. Mercenaries injured: {n}. They will rest for a while. No cooldown: try again when they are back.,Hai perso lo scontro. {n} mercenari sono feriti e riposano un po'. Nessuna ricarica: riprova quando tornano.
+UI_RAID_STARTED,The raid has begun. The boss was not expecting company.,L'incursione è iniziata. Il boss non si aspettava compagnia.
+UI_RAID_DENIED,"Cannot start: the raid is locked, on cooldown, or a mercenary is busy or injured.","Impossibile partire: l'incursione è bloccata, in ricarica, o un mercenario è occupato o ferito."
+UI_RAID_OFF_WIN,While you were away the team cleared the raid: {raid}.,Mentre eri via la squadra ha completato l'incursione: {raid}.
+UI_RAID_OFF_RIFT,In the Rift you climbed from floor {from} to floor {to} (floors cleared: {n}).,Nella Breccia hai salito i piani dal {from} al {to} ({n} piani superati).
+UI_RAID_SHOP_TITLE,Trophy Hall (Raid Seals),Sala dei Trofei (Sigilli d'Incursione)
+UI_RAID_SHOP_RIFT_TITLE,Rift Bazaar (Rift Shards),Bazar della Breccia (Frammenti di Breccia)
+UI_RAID_SHOP_PITY,bad-luck protection,protezione dalla sfortuna
+UI_RAID_SHOP_BUY,Buy,Compra
+UI_RAID_WB_TITLE,World bosses,Boss mondiali
+UI_RAID_WB_INTRO,"Every 4 hours of play a world boss shows up for 30 minutes, one after the other. The more damage you deal, the better the prize. Other adventurers (simulated) help, and so do you.","Ogni 4 ore di gioco compare un boss mondiale per 30 minuti, uno dopo l'altro. Più danno fai, migliore è il premio. Altri avventurieri (simulati) aiutano, e anche tu."
+UI_RAID_WB_ATTACK,Attack the boss in the window,Attacca il boss della finestra
+UI_RAID_WB_ATTACK_HORN,Attack the boss you summoned,Attacca il boss evocato
+UI_RAID_WB_RETREAT,Retreat and collect,Ritirata e riscuoti
+UI_RAID_WB_SUMMON,Summon with a Rally Horn,Evoca con un Corno dell'Adunata
+UI_RAID_WB_DENIED,There is no boss to attack right now.,Non c'è nessun boss da attaccare in questo momento.
+UI_RAID_WB_SUMMONED,"The horn sounds. Somewhere, a giant sighs.","Il corno suona. Da qualche parte, un gigante sospira."
+UI_RAID_WB_SUMMON_DENIED,"You need a Rally Horn, and no other summoned boss waiting.","Serve un Corno dell'Adunata, e nessun altro boss evocato in attesa."
+UI_RAID_WB_BUY_DENIED,Not enough Raid Seals.,Sigilli d'Incursione insufficienti.
+UI_RAID_WB_LOCKED,World bosses open in the story chapter about the Wandering Colossus.,I boss mondiali si aprono nel capitolo della storia sul Colosso Errante.
+UI_RAID_WB_OPEN,"Window open: {boss}. It closes in {time}.","Finestra aperta: {boss}. Chiude tra {time}."
+UI_RAID_WB_NEXT,"Next world boss: {boss} in {time} (the clock runs while the game is open).","Prossimo boss mondiale: {boss} tra {time} (l'orologio corre a gioco aperto)."
+UI_RAID_WB_BUY,Buy a Rally Horn ({n} Seals),Compra un Corno dell'Adunata ({n} Sigilli)
+UI_RAID_WB_HORNS,Horns: {n},Corni: {n}
+UI_RAID_WB_HORN_ACTIVE,"Summoned: {boss}, {time} left","Evocato: {boss}, restano {time}"
+UI_RAID_WB_SUB,"Appears every {h} h and stays {m} minutes. Simulated adventurers take {allies}% of its health per minute. No prize is exclusive to the timed window: the Horn gives the same ones.","Compare ogni {h} h e resta {m} minuti. Gli avventurieri simulati gli tolgono il {allies}% di vita al minuto. Nessun premio è esclusivo della finestra: il Corno dà gli stessi."
+UI_RAID_WB_TIERS,Contribution tiers,Livelli di contributo
+UI_RAID_WB_NOTE,"The tier is decided by the share of the boss's health YOU deal. If you fall or retreat you still get the prize for the tier you reached.","Il livello dipende dalla quota di vita del boss che togli TU. Se cadi o ti ritiri ottieni comunque il premio del livello raggiunto."
+UI_RAID_WB_KILLS,Times defeated: {n},Sconfitto {n} volte
+UI_RAID_WB_NEXT_TIER,next: {tier} at {pct},prossimo: {tier} a {pct}
+UI_RAID_WB_MAX_TIER,top tier reached,livello massimo raggiunto
+UI_RAID_WB_CONTRIB,"Your contribution: {pct}% of the boss's health ({dealt} damage) · tier: {tier} · {next}","Il tuo contributo: {pct}% della vita del boss ({dealt} di danno) · livello: {tier} · {next}"
+UI_RAID_WB_ALLIES,Simulated adventurers have taken {pct}% of its health,Gli avventurieri simulati gli hanno tolto il {pct}% di vita
+UI_RAID_WB_TIME_LEFT,Time left: {time},Tempo rimasto: {time}
+UI_RAID_WB_TIER_BANNER,{tier} tier reached!,Livello {tier} raggiunto!
+UI_RAID_WB_DONE,"Encounter over. Tier: {tier} ({pct}% of its health). Prize: {items}","Incontro finito. Livello: {tier} ({pct}% della sua vita). Premio: {items}"
+UI_RAID_WB_VICTORY,The boss is down!,Il boss è a terra!
+UI_RAID_WB_ENDED,Encounter over,Incontro finito
+UI_RAID_WB_REPORT,"World boss {boss}: tier reached {tier}.","Boss mondiale {boss}: livello raggiunto {tier}."
+UI_RAID_TIER_NONE,none,nessuno
+UI_RAID_TIER_BRONZE,Bronze,Bronzo
+UI_RAID_TIER_SILVER,Silver,Argento
+UI_RAID_TIER_GOLD,Gold,Oro
+UI_RAID_TIER_PLATINUM,Platinum,Platino
+UI_RAID_RIFT_TITLE,The Rift,La Breccia
+UI_RAID_RIFT_INTRO,"An endless crack in the Vault. Every floor has 5 monsters, every 10th floor a Guardian too. Monsters get stronger floor after floor, until you need a break or a snack. If you fall, the run ends: you start again from floor 1 or from the floor after the last Guardian you beat.","Una crepa infinita nel Caveau. Ogni piano ha 5 mostri, ogni 10 piani anche un Guardiano. I mostri diventano più forti piano dopo piano, finché ti serve una pausa o una merenda. Se cadi la corsa finisce: riparti dal piano 1 o dal piano dopo l'ultimo Guardiano battuto."
+UI_RAID_RIFT_LOCKED,The Rift opens at the end of the main story (chapter 10).,La Breccia si apre alla fine della storia principale (capitolo 10).
+UI_RAID_RIFT_START_FROM,Start from:,Parti da:
+UI_RAID_RIFT_ENTER,Enter the Rift,Entra nella Breccia
+UI_RAID_RIFT_LEAVE,Leave the Rift,Esci dalla Breccia
+UI_RAID_RIFT_FLOOR,Floor {n},Piano {n}
+UI_RAID_RIFT_STATS,"Best floor {best} · last Guardian beaten: floor {g} · runs {runs} · falls {deaths} · Rift Shards earned {shards}","Piano massimo {best} · ultimo Guardiano battuto: piano {g} · corse {runs} · cadute {deaths} · Frammenti di Breccia ottenuti {shards}"
+UI_RAID_RIFT_RULES,How it works,Come funziona
+UI_RAID_RIFT_RULES_TXT,"Monster level = {lvl} + floor, statistics ×{mult} per floor on top. {n} monsters per floor, a Guardian every {g} floors. Each cleared floor: Rift Shards ({sh} + 1 every {per} floors) and a Rift Crate with {cb} + {cf} per floor chance (max {cm}). Guardian floors also give: {guard}.","Livello dei mostri = {lvl} + piano, statistiche in più del {mult} per piano. {n} mostri per piano, un Guardiano ogni {g} piani. Ogni piano superato: Frammenti di Breccia ({sh} + 1 ogni {per} piani) e una Cassa della Breccia con probabilità {cb} + {cf} per piano (max {cm}). I piani dei Guardiani danno anche: {guard}."
+UI_RAID_RIFT_AFFIXES,Affixes (they add up),Affissi (si sommano)
+UI_RAID_RIFT_FROM,from floor {n}:,dal piano {n}:
+UI_RAID_AFFIX_HP,+{n}% health,+{n}% vita
+UI_RAID_AFFIX_DMG,+{n}% damage,+{n}% danno
+UI_RAID_AFFIX_EVA,+{n}% evasion,+{n}% evasione
+UI_RAID_AFFIX_LS,heals {n}% of the damage it deals,si cura del {n}% del danno inflitto
+UI_RAID_AFFIX_DEF,+{n}% defense,+{n}% difesa
+UI_RAID_RIFT_ESTIMATE,"Estimate: with your current gear and food you should go on until about floor {n}.","Stima: con l'equipaggiamento e il cibo di ora dovresti arrivare fino al piano {n} circa."
+UI_RAID_RIFT_ESTIMATE_MAX,Estimate: you are far stronger than the Rift… for now.,Stima: la tua squadra è molto più forte della Breccia… per ora.
+UI_RAID_RIFT_RUN,Floor {floor} · monster {i} of {n},Piano {floor} · mostro {i} di {n}
+UI_RAID_RIFT_GUARDIAN,Guardian,Guardiano
+UI_RAID_RIFT_ACTIVE_AFFIXES,Active affixes: {list},Affissi attivi: {list}
+UI_RAID_RIFT_NO_AFFIX,none yet,ancora nessuno
+UI_RAID_RIFT_LOG_FLOOR,"Floor {floor} cleared: {items}; Crates: {crates}. Shards this run: {total}.","Piano {floor} superato: {items}, {crates} casse. Frammenti in questa corsa: {total}."
+UI_RAID_RIFT_GUARDIAN_DOWN,Guardian of floor {floor} defeated!,Guardiano del piano {floor} sconfitto!
+UI_RAID_RIFT_FLOOR_DONE,Floor {floor} cleared,Piano {floor} superato
+UI_RAID_RIFT_END_DIED,Knocked out in the Rift,Messo KO nella Breccia
+UI_RAID_RIFT_END,You left the Rift,Hai lasciato la Breccia
+UI_RAID_RIFT_LOG_END,"The run ended on floor {floor}. Shards this run: {total}.","La corsa è finita al piano {floor}. Frammenti in questa corsa: {total}."
+UI_RAID_RIFT_DENIED,"Cannot enter: the Rift is locked, or you picked a floor you have not unlocked.","Impossibile entrare: la Breccia è bloccata, o hai scelto un piano non ancora sbloccato."

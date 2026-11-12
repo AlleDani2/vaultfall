@@ -1,0 +1,15 @@
+VAULTFALL - NOTICE
+==================
+
+Copyright (c) 2026 VAULTFALL contributors. The source code and documents are released under the MIT licence (see LICENSE).
+
+This repository contains or refers to third-party software and assets. Full texts and details are in LICENSES.md.
+
+  Godot Engine 4.7.2 ............ MIT licence ......... (c) 2014-present Godot Engine contributors; (c) 2007-2014 Juan Linietsky, Ariel Manzur
+  GUT 9.7.0 (game/addons/gut) ... MIT licence ......... (c) 2018 Tom "Butch" Wesley   (game/addons/gut/LICENSE.md)
+  Atkinson Hyperlegible Next .... SIL OFL 1.1 ......... game/assets/fonts/OFL-AtkinsonHyperlegibleNext.txt
+  Departure Mono ................ SIL OFL 1.1 ......... game/assets/fonts/OFL-DepartureMono.txt
+  Vaultfall Symbols ............. SIL OFL 1.1 ......... game/assets/fonts/OFL-VaultfallSymbols.txt (modified subset of Noto Sans Symbols 2)
+
+The art, audio and game data are not part of this repository.
+Parts of the code and of the documents were written with the assistance of an AI assistant (Claude, by Anthropic) and reviewed by the developers.

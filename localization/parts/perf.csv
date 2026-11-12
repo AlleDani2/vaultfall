@@ -1,0 +1,4 @@
+keys,en,it
+UI_PERF_FPS_CAP,Frame rate,Fotogrammi al secondo
+UI_PERF_FPS_60,60 (smooth),60 (fluido)
+UI_PERF_FPS_30,30 (power saving for slow PCs),30 (risparmio per PC lenti)

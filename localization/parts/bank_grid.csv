@@ -1,0 +1,121 @@
+keys,en,it
+UI_BANKG_GROUP_ARMORY,Armory,Armeria
+UI_BANKG_GROUP_ARMORY_N,Armory {used}/{cap},Armeria {used}/{cap}
+UI_BANKG_GROUP_ARMORY_TIP,"The Armory holds your gear and tools: it does not use Bank Space. It has a technical cap of {cap} pieces; beyond it, new pieces wait in the Pickup Cart.","L'Armeria tiene equipaggiamento e attrezzi: non occupa Spazio del Deposito. Ha un tetto tecnico di {cap} pezzi; oltre, i pezzi nuovi aspettano nel Carro di Ritiro."
+UI_BANKG_ARMORY_NEARLY,"The Armory is almost full ({used}/{cap}). Sell duplicates to make room: nothing is lost, extra pieces wait in the Pickup Cart.","L'Armeria è quasi piena ({used}/{cap}). Vendi i doppioni per fare posto: nulla va perso, i pezzi in più aspettano nel Carro di Ritiro."
+UI_BANKG_CARRO_TO_ARMORY,Gear has its own Armory now: {n} pieces left the Pickup Cart for the Armory.,"L'equipaggiamento ha ora la sua Armeria: {n} pezzi sono passati dal Carro di Ritiro all'Armeria."
+UI_BANKG_CARRO_GEAR,"{n} of them are gear waiting because the Armory is full ({used}/{cap}): sell duplicates or spare pieces to make room.","{n} sono equipaggiamento in attesa perché l'Armeria è piena ({used}/{cap}): vendi i doppioni o i pezzi di scorta per fare posto."
+UI_BANKG_CARRO_TITLE_GEAR,Pickup Cart: {n} items waiting (Armory full),Carro di Ritiro: {n} pezzi in attesa (Armeria piena)
+UI_MAN2_BANK_HOW_6,"Gear and tools have their own Armory (the “Armory” group, with its counter): they do not use Bank Space. The Armory has a technical cap; beyond it new pieces wait in the Pickup Cart and “Sell duplicates” makes room.","L'equipaggiamento e gli attrezzi hanno la loro Armeria (il gruppo «Armeria», con il suo contatore): non occupano Spazio del Deposito. L'Armeria ha un tetto tecnico; oltre, i pezzi nuovi aspettano nel Carro di Ritiro e «Vendi i doppioni» fa posto."
+UI_MAN2_BANK_F_4,"The Armory holds up to {gearcap} pieces of gear and tools without using Space; a note appears at {gearwarn}% full.","L'Armeria tiene fino a {gearcap} pezzi tra equipaggiamento e attrezzi senza occupare Spazio; un avviso compare al {gearwarn}% di riempimento."
+UI_BANKG_VIEW_GRID,Grid,Griglia
+UI_BANKG_VIEW_LIST,List,Lista
+UI_BANKG_VIEW_TIP,"Grid: one icon per item with its quantity below. List: one row per item, better for comparing gear.","Griglia: un'icona per oggetto con la quantità sotto. Lista: una riga per oggetto, più comoda per confrontare l'equipaggiamento."
+UI_BANKG_SET_VIEW,Bank view,Vista del Deposito
+UI_BANKG_DENSITY_COMPACT,Compact,Compatta
+UI_BANKG_DENSITY_TIP,"Compact: smaller icons, more items on screen. Off: comfortable icons (2x). By default it follows the window width.","Compatta: icone più piccole, più oggetti in vista. Spenta: icone comode (2×). All'inizio segue la larghezza della finestra."
+UI_BANKG_QTY_EXACT,Quantity: {n},Quantità: {n}
+UI_BANKG_ARMORY_LIST_HINT,"Tip: to compare gear the List view is easier (names and slots on one line).","Consiglio: per confrontare l'equipaggiamento è più comoda la vista Lista (nome e slot su una riga)."
+UI_BANKG_CAT_ALL,All categories,Tutte le categorie
+UI_BANKG_CELL_SELECTED,Selected,Selezionato
+UI_BANKG_CELL_TAB,Tab: {name},Scheda: {name}
+UI_BANKG_EMPTY_ACT_EXIT,Exit,Esci
+UI_BANKG_EMPTY_ACT_CLEAR_SEARCH,Clear search,Cancella ricerca
+UI_BANKG_EMPTY_ACT_CLEAR_FILTERS,Reset filters,Azzera filtri
+UI_BANKG_EMPTY_ACT_GO_SMITHING,Go to Smithing,Vai alla Forgiatura
+UI_BANKG_EMPTY_ACT_SELECT_MOVE,Select and move,Seleziona e sposta
+UI_BANKG_EMPTY_ACT_GO_SKILLS,Go to your skills,Vai alle mansioni
+UI_BANKG_EMPTY_ARMORY,No gear here yet: forge your first piece in Smithing.,Nessun pezzo di equipaggiamento: forgiane uno in Forgiatura.
+UI_BANKG_EMPTY_SEARCH,Nothing matches “{q}”. Check the spelling or clear the filters.,Nessun oggetto corrisponde a «{q}». Controlla come l'hai scritto o cancella i filtri.
+UI_BANKG_EMPTY_SELL,"Nothing to sell here: everything is locked, worn or not tradeable.","Niente da vendere qui: tutto è bloccato, indossato o non commerciabile."
+UI_BANKG_EMPTY_TAB,This tab is empty: use the “Move to…” menu or drag items onto its name.,Questa scheda è vuota: usa il menù «Sposta in…» oppure trascina le caselle sul suo nome.
+UI_BANKG_LOCK_SEL,Lock / Unlock,Blocca / Sblocca
+UI_BANKG_MOVED,{n} items moved to “{name}”.,{n} caselle spostate in «{name}».
+UI_BANKG_MOVED_OUT,{n} items taken out of their tab: they stay in All.,{n} caselle tolte dalla scheda: restano in Tutto.
+UI_BANKG_MOVE_NEW,New tab…,Nuova scheda…
+UI_BANKG_MOVE_NONE,Gear stays in the Armory: it cannot go into a tab.,L'equipaggiamento resta nell'Armeria: non va nelle schede.
+UI_BANKG_MOVE_OUT,Take out of the tab,Togli dalla scheda
+UI_BANKG_MOVE_TIP,Put the selected items into one of your tabs (Shift+M). Nothing is sold or lost.,Metti le caselle scelte in una delle tue schede (Maiusc+M). Nulla si vende o si perde.
+UI_BANKG_MOVE_TO,Move to…,Sposta in…
+UI_BANKG_SC_ALL,"Bank, selecting: select everything visible","Deposito, in selezione: seleziona tutto il visibile"
+UI_BANKG_SC_LOCK,Bank: lock / unlock,Deposito: blocca / sblocca
+UI_BANKG_SC_MOVE,Bank: move to a tab,Deposito: sposta in una scheda
+UI_BANKG_SC_RENAME,Bank: rename the tab,Deposito: rinomina la scheda
+UI_BANKG_SC_SELECT,Bank: selection mode,Deposito: modalità selezione
+UI_BANKG_SC_SELL,Bank: sell mode (never sells by itself),Deposito: modalità vendita (non vende mai da sola)
+UI_BANKG_SC_SORT,Bank: sort,Deposito: ordina
+UI_BANKG_SC_TAB_MOVE,Bank: move the tab left / right,Deposito: sposta la scheda a sinistra / destra
+UI_BANKG_SC_TAB_NEXT,Bank: next tab,Deposito: scheda successiva
+UI_BANKG_SC_TAB_PREV,Bank: previous tab,Deposito: scheda precedente
+UI_BANKG_SEARCH_TIP,Search all tabs and the Armory. Several words must all match. Filters: cat:material · t:5 · lock: · q:masterwork · rar:rare,Cerca in tutte le schede e nell'Armeria. Più parole devono corrispondere tutte. Filtri: cat:materiale · t:5 · lock: · q:capolavoro · rar:rara
+UI_BANKG_SELECT,Select,Seleziona
+UI_BANKG_SELECT_BAR,"Selection: pick items, then use the actions below (Move to…, Lock, Sell…).","Selezione: scegli le caselle, poi usa le azioni qui sotto (Sposta in…, Blocca, Vendi…)."
+UI_BANKG_SELECT_EXIT,Exit selection,Esci dalla selezione
+UI_BANKG_SELECT_TIP,"Pick several items to move, lock or sell them together (S).","Scegli più caselle per spostarle, bloccarle o venderle insieme (S)."
+UI_BANKG_SELLMODE,Sell mode,Modalità vendita
+UI_BANKG_SELLMODE_BAR,"⚠ SELL MODE — locked, worn and special items are protected. Nothing is sold until you confirm the preview.","⚠ MODALITÀ VENDITA — bloccati, indossati e speciali sono protetti. Nulla si vende finché non confermi l'anteprima."
+UI_BANKG_SELLMODE_EXIT,Exit sell mode,Esci dalla vendita
+UI_BANKG_SELLMODE_TIP,"Pick what to sell at the Market price, then check the preview (V). Locked, worn, unique and special items cannot be picked.","Scegli cosa vendere al prezzo del Mercato, poi controlla l'anteprima (V). Bloccati, indossati, unici e speciali non si possono scegliere."
+UI_BANKG_SELLP_ALL,All,Tutto
+UI_BANKG_SELLP_BACK,Go back,Torna indietro
+UI_BANKG_SELLP_HALF,Half,Metà
+UI_BANKG_SELLP_HELP,Check what you are selling. You can change the quantity of each pile. There is no undo after selling.,Controlla cosa vendi. Puoi cambiare la quantità di ogni pila. Dopo la vendita non si può annullare.
+UI_BANKG_SELLP_OK,Sell,Vendi
+UI_BANKG_SELLP_SKIPPED,{n} picked items cannot be sold and stay in the Bank.,{n} caselle scelte non si possono vendere e restano nel Deposito.
+UI_BANKG_SELLP_SUMMARY,You sell {n} pieces for about {gold} gold (Market price).,Vendi {n} pezzi per circa {gold} oro (prezzo del Mercato).
+UI_BANKG_SELLP_TITLE,Sell {n} items,Vendi {n} caselle
+UI_BANKG_SELLP_WARN_NEEDED,{name}: you will need it for {what}.,{name}: ti servirà per {what}.
+UI_BANKG_SELLP_WARN_QUALITY,Contains {n} Excellent or Masterwork pieces.,Contiene {n} pezzi Eccellenti o Capolavoro.
+UI_BANKG_SELLP_WARN_RANKED,Contains {n} pieces with a rank or socketed stones.,Contiene {n} pezzi con grado o con pietre incastonate.
+UI_BANKG_SELL_SEL,Sell…,Vendi…
+UI_BANKG_SELL_SPECIAL,"Special item (unique, relic or Annalist): it is never sold.","Oggetto speciale (unico, Reliquia o Annalista): non si vende mai."
+UI_BANKG_SEL_ALL,Select all visible,Seleziona tutto visibile
+UI_BANKG_SEL_ALL_TIP,Ctrl+A: picks every visible item that can be picked.,Ctrl+A: sceglie tutte le caselle visibili che si possono scegliere.
+UI_BANKG_SEL_COUNT,☑ {n} selected · about {gold} gold,☑ {n} selezionati · circa {gold} oro
+UI_BANKG_SEL_COUNT_NOGOLD,☑ {n} selected,☑ {n} selezionati
+UI_BANKG_SEL_NONE,None,Nessuno
+UI_BANKG_SORT_CAT,Category,Categoria
+UI_BANKG_SORT_QTY,Quantity,Quantità
+UI_BANKG_SUGGEST_BTN,Create suggested tabs,Crea schede suggerite
+UI_BANKG_SUGGEST_HELP,These tabs will be created with the items that are not in a tab yet (nothing is sold or lost):,Verranno create queste schede con le caselle che non sono ancora in una scheda (nulla si vende o si perde):
+UI_BANKG_SUGGEST_NONE,"Nothing to arrange: every item is already in a tab, or there is no free tab.","Niente da sistemare: ogni casella è già in una scheda, oppure non ci sono schede libere."
+UI_BANKG_SUGGEST_ROW,{name}: {n} items,{name}: {n} caselle
+UI_BANKG_TABDLG_CANCEL,Cancel,Annulla
+UI_BANKG_TABDLG_CREATE,Create,Crea
+UI_BANKG_TABDLG_EDIT,Edit tab,Modifica scheda
+UI_BANKG_TABDLG_ICON,Icon:,Icona:
+UI_BANKG_TABDLG_ICON_SEARCH,Search an icon among discovered items…,Cerca un'icona tra gli oggetti scoperti…
+UI_BANKG_TABDLG_NAME,Name (up to {n} characters),Nome (fino a {n} caratteri)
+UI_BANKG_TABDLG_NAME_PH,For example: Forge,Per esempio: Forgia
+UI_BANKG_TABDLG_NEW,New tab,Nuova scheda
+UI_BANKG_TABDLG_NO_ICONS,No discovered items yet: the tab keeps the default icon.,Nessun oggetto scoperto: la scheda tiene l'icona predefinita.
+UI_BANKG_TABDLG_SAVE,Save,Salva
+UI_BANKG_TABS_CLEANED,Some Bank tab assignments were not valid and have been cleaned up. No item was lost.,Alcune assegnazioni delle schede del Deposito erano non valide e sono state ripulite. Nessun oggetto è andato perso.
+UI_BANKG_TAB_ADD,+,+
+UI_BANKG_TAB_ADD_TIP,New tab: you name it and pick its icon. Tabs are free and only arrange things.,Nuova scheda: scegli nome e icona. Le schede sono gratis e servono solo a mettere in ordine.
+UI_BANKG_TAB_ALL_N,All {n},Tutto {n}
+UI_BANKG_TAB_ALL_TIP,"Everything that uses Bank Space, including items in your tabs.","Tutto ciò che occupa Spazio del Deposito, anche le caselle nelle tue schede."
+UI_BANKG_TAB_DEFAULT_N,Tab {n},Scheda {n}
+UI_BANKG_TAB_DELETE,Delete tab,Elimina scheda
+UI_BANKG_TAB_DELETE_ASK,Delete “{name}”? Its {n} items go back to All: no item is lost.,Eliminare «{name}»? Le sue {n} caselle tornano in Tutto: nessun oggetto viene perso.
+UI_BANKG_TAB_DELETE_OK,Delete,Elimina
+UI_BANKG_TAB_ICON,Change icon,Cambia icona
+UI_BANKG_TAB_LEFT,Move left (Alt+←),Sposta a sinistra (Alt+←)
+UI_BANKG_TAB_LIST,Tabs ▾,Schede ▾
+UI_BANKG_TAB_LIST_TIP,All tabs in a list.,Tutte le schede in un elenco.
+UI_BANKG_TAB_LOCK_ALL,Lock the whole tab,Blocca tutta la scheda
+UI_BANKG_TAB_LOCK_ASK,Lock all {n} items in “{name}”? Locked items are never sold or melted.,Bloccare tutte le {n} caselle di «{name}»? I bloccati non si vendono né si fondono mai.
+UI_BANKG_TAB_MAX,Up to {n} tabs.,Massimo {n} schede.
+UI_BANKG_TAB_RENAME,Rename (F2),Rinomina (F2)
+UI_BANKG_TAB_RESULTS,Results ({n}),Risultati ({n})
+UI_BANKG_TAB_RESULTS_TIP,Search results across all tabs and the Armory. Esc closes them.,Risultati della ricerca in tutte le schede e nell'Armeria. Esc li chiude.
+UI_BANKG_TAB_RIGHT,Move right (Alt+→),Sposta a destra (Alt+→)
+UI_BANKG_TAB_TIP,"Your tab “{name}”. Right-click, F2 or double-click to rename; drag items onto it.","La tua scheda «{name}». Tasto destro, F2 o doppio clic per rinominarla; trascinaci sopra le caselle."
+UI_BANKG_WELCOME_T,The Bank has changed,Il Deposito è cambiato
+UI_BANKG_WELCOME_1,• Gear has its own Armory: it does not use Space.,• L'equipaggiamento ha la sua Armeria: non occupa Spazio.
+UI_BANKG_WELCOME_2,"• Create your own tabs (+), then drag items onto them or use the “Move to…” menu.","• Crea le tue schede (+), poi trascinaci gli oggetti oppure usa il menù «Sposta in…»."
+UI_BANKG_WELCOME_3,"• “Sell mode” sells only after a preview, and never locked or worn items.","• La «Modalità vendita» vende solo dopo un'anteprima, e mai i pezzi bloccati o indossati."
+UI_BANKG_WELCOME_OK,"Ok, got it","Ok, ho capito"
+UI_TUT_F_BANK_TABS_T,Tidy up the Bank,Metti in ordine il Deposito
+UI_TUT_F_BANK_TABS_B,"Your Bank is filling up. Make your own tabs with the highlighted “+” (name and icon), then drag items onto a tab or use the “Move to…” menu. A tab only arranges things: it costs nothing, gives no space and nothing is ever lost. In the “Tabs ▾” list, “Create suggested tabs” does it for you after a preview.","Il Deposito si sta riempiendo. Crea le tue schede con il «+» evidenziato (nome e icona), poi trascina le caselle su una scheda o usa il menù «Sposta in…». Una scheda serve solo a mettere in ordine: non costa nulla, non dà spazio e nulla si perde. Nell'elenco «Schede ▾», «Crea schede suggerite» lo fa per te dopo un'anteprima."
+UI_MAN2_BANK_HOW_7,"Tabs: “+” creates a tab (name and icon from items you discovered), drag items onto it or use “Move to…” (Shift+M); a tab only arranges. The search looks into every tab and the Armory. “Sell mode” (V) picks items and sells them only after a two-step preview; locked, worn and special items cannot be picked.","Schede: «+» crea una scheda (nome e icona tra gli oggetti scoperti), trascinaci le caselle o usa «Sposta in…» (Maiusc+M); una scheda serve solo a mettere in ordine. La ricerca guarda in tutte le schede e nell'Armeria. La «Modalità vendita» (V) sceglie le caselle e vende solo dopo un'anteprima a due passaggi; bloccati, indossati e speciali non si possono scegliere."

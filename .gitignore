@@ -1,0 +1,46 @@
+# Godot
+game/.godot/
+game/export/
+game/test_results*.xml
+game/_*_tmp/
+
+# Build output
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets and local configuration: never commit these
+.env
+.env.*
+.mcp.json
+steam_appid.txt
+
+# Generated game data and derived files (not part of the public repository; produced locally by the pipeline)
+/data/
+/data_slice/
+game/data/
+game/tests/reference_values.json
+/wiki/
+/reports/
+
+# Art and audio (not part of the public repository)
+game/assets/icons/
+game/assets/portraits/
+game/assets/banners/
+game/assets/ui/
+game/assets/brand/
+game/assets/audio/
+game/assets/_templates/
+game/store/
+store_assets/
+*.translation
+
+# Editor and OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

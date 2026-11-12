@@ -1,0 +1,260 @@
+keys,en,it
+UI_QUESTS_UNLOCK_HINT,"Unlocks with: quest “{quest}”",Si sblocca con: missione «{quest}»
+UI_QUESTS_NEW,New quest: {title},Nuova missione: {title}
+UI_QUESTS_READY,Quest complete: {title}. Claim your reward!,Missione completata: {title}. Riscatta la ricompensa!
+UI_QUESTS_CLAIMED,Reward claimed: {title},Ricompensa riscattata: {title}
+UI_QUESTS_FEATURE_COMBAT,Combat,Combattimento
+UI_QUESTS_FEATURE_CRATES,Crates,Casse
+UI_QUESTS_FEATURE_WARDROBE,Wardrobe,Guardaroba
+UI_QUESTS_FEATURE_MARKET,Market,Mercato
+UI_QUESTS_FEATURE_ESTATE,Estate,Tenuta
+UI_QUESTS_FEATURE_BOUNTIES,Bounties,Taglie
+UI_QUESTS_FEATURE_COLLECTORS_CHALLENGE,Collectors' Challenge,Sfida dei Collezionisti
+UI_QUESTS_FEATURE_CONSTELLATIONS,Constellations,Costellazioni
+UI_QUESTS_FEATURE_ERAS,Eras,Ere
+UI_QUESTS_FEATURE_EXPEDITIONS,Expeditions,Spedizioni
+UI_QUESTS_FEATURE_FACTIONS,Factions,Fazioni
+UI_QUESTS_FEATURE_GOLDEN_CONTRACT,Golden Reshuffle,Rimpasto Aureo
+UI_QUESTS_FEATURE_MERCENARIES,Tavern and mercenaries,Taverna e mercenari
+UI_QUESTS_FEATURE_ORDERS,Orders,Commesse
+UI_QUESTS_FEATURE_REFINERY,Refinery Bench,Banco di Affinatura
+UI_QUESTS_FEATURE_RIFT,The Rift,La Breccia
+UI_QUESTS_FEATURE_SKILL_PRESTIGE,Skill Stars,Stelle di Mansione
+UI_QUESTS_FEATURE_TRADEUP,Reshuffles,Rimpasti
+UI_QUESTS_FEATURE_WORLD_BOSSES,World Bosses,Boss Mondiali
+UI_QUESTS_FEATURE_GUILD,Guild,Gilda
+UI_QUESTS_FEATURE_PRESTIGE,Prestige,Prestigio
+UI_QUESTS_TITLE,Quests,Missioni
+UI_QUESTS_CHAPTER_LABEL,Current chapter,Capitolo corrente
+UI_QUESTS_ACTIVE,Active quests,Missioni attive
+UI_QUESTS_NONE_ACTIVE,No active quests. The story will go on soon. Ilde is looking for the pen.,Nessuna missione attiva. La storia riprenderà presto. Ilde sta cercando la penna.
+UI_QUESTS_STORY_END,"You have reached the end of the story written so far. The writer is on a break (a long one). The Vault is not: Stars, Constellations, Eras and the Keeper's Trials in “Prestige” keep going.","Hai raggiunto la fine della storia scritta finora. Lo scrittore è in pausa (lunga). Il Caveau no: Stelle, Costellazioni, Ere e Prove del Custode in «Prestigio» vanno avanti."
+UI_QUESTS_CLAIM,Claim reward,Riscatta
+UI_QUESTS_DELIVER,Deliver,Consegna
+UI_QUESTS_REWARDS,Rewards,Ricompense
+UI_QUESTS_HISTORY,The story so far,La storia finora
+UI_QUESTS_DONE_COUNT,Quests completed: {n},{n} missioni completate
+UI_QUESTS_GIVER,From {name},Da {name}
+UI_QUESTS_OTHER,Other quests,Altre missioni
+UI_QUESTS_RW_GOLD,{n} gold,{n} monete d'oro
+UI_QUESTS_RW_ITEM,{n} × {name},{n} x {name}
+UI_QUESTS_RW_UNLOCK,Unlocks: {name},Sblocca: {name}
+UI_QUESTS_CLAIM_FANFARE,Well done! Ilde stamps it.,Ben fatto! Ilde mette il timbro.
+UI_QUESTS_BADGE,{n} to claim,{n} da riscattare
+UI_QUESTS_OBJ_GATHER,Gather {name},Raccogli {name}
+UI_QUESTS_OBJ_CRAFT,Craft {name},Produci {name}
+UI_QUESTS_OBJ_CRAFT_ANY,Craft anything with {name},Produci qualsiasi cosa con {name}
+UI_QUESTS_OBJ_CRAFT_CATEGORY,Craft items of type {name},Produci oggetti di tipo {name}
+UI_QUESTS_OBJ_CRAFT_RANK,Craft items of rank {name},Produci oggetti di rango {name}
+UI_QUESTS_OBJ_KILL,Defeat {name},Sconfiggi {name}
+UI_QUESTS_OBJ_KILL_ANY,Defeat monsters,Sconfiggi dei mostri
+UI_QUESTS_OBJ_KILL_ZONE,Defeat monsters in {name},Sconfiggi mostri in {name}
+UI_QUESTS_OBJ_KILL_ANY_AS_CLASS,Defeat monsters as {name},Sconfiggi mostri come {name}
+UI_QUESTS_OBJ_COMPLETE_DUNGEON,Complete dungeons,Completa dungeon
+UI_QUESTS_OBJ_COMPLETE_RAID,Complete raids,Completa incursioni
+UI_QUESTS_OBJ_OPEN_CRATES,Open Crates,Apri Casse
+UI_QUESTS_OBJ_DELIVER,Deliver {name},Consegna {name}
+UI_QUESTS_OBJ_EQUIP,Equip {name},Equipaggia {name}
+UI_QUESTS_OBJ_BUILD,Build {name} (level),Costruisci {name} (livello)
+UI_QUESTS_OBJ_REACH_LEVEL,Reach level in {name},Raggiungi il livello in {name}
+UI_QUESTS_OBJ_REACH_TOTAL_LEVEL,Reach total level,Raggiungi il livello totale
+UI_QUESTS_OBJ_SELL_MARKET,Earn gold at the Market,Incassa oro al Mercato
+UI_QUESTS_OBJ_STEAL,Steal successfully,Borseggia con successo
+UI_QUESTS_OBJ_FARM_HARVEST,Harvest {name},Raccogli {name} dall'orto
+UI_QUESTS_OBJ_SKILL_ACTIONS,Complete {name} actions,Completa azioni di {name}
+UI_QUESTS_OBJ_RECRUIT,Recruit mercenaries,Assumi mercenari
+UI_QUESTS_OBJ_EXPEDITION,Complete expeditions,Completa spedizioni
+UI_QUESTS_OBJ_BOUNTY_COMPLETE,Complete bounties,Completa taglie
+UI_QUESTS_OBJ_TRADEUP,Perform Reshuffles,Esegui rimpasti
+UI_QUESTS_OBJ_REFINE_POLISH,Polish skins,Lucida finiture
+UI_QUESTS_OBJ_SOCKET_GLYPH,Socket glyphs,Incastra glifi
+UI_QUESTS_OBJ_OBTAIN_RARITY,Obtain {name} items from Crates,Ottieni oggetti {name} dalle Casse
+UI_QUESTS_OBJ_ORDERS_COMPLETE,Complete orders,Completa commesse
+UI_QUESTS_OBJ_ESTATE_TOTAL_LEVELS,Raise your Estate buildings,Fai crescere gli edifici della Tenuta
+UI_QUESTS_OBJ_ESTATE_PRESTIGE,Refound the Estate,Rifonda la Tenuta
+UI_QUESTS_OBJ_SECRET_SPOT,Find secret places,Trova luoghi segreti
+UI_QUESTS_OBJ_SECRET_SPOT_ALL,Find all secret places,Trova tutti i luoghi segreti
+UI_QUESTS_OBJ_WORLD_BOSS,Fight world bosses,Affronta boss mondiali
+UI_QUESTS_OBJ_RIFT_FLOOR,Reach floor of the Rift,Raggiungi un piano della Breccia
+UI_QUESTS_OBJ_STAR,Earn Stars,Ottieni Stelle
+UI_QUESTS_OBJ_TALK,Talk to {name},Parla con {name}
+UI_QUESTS_OBJ_GENERIC,{type}: {name},{type}: {name}
+UI_QUESTS_TUT_TITLE,New: {name},Novità: {name}
+UI_QUESTS_TUT_OK,"Got it","Capito"
+UI_QUESTS_TUT_OFF,Do not show tutorials again,Non mostrare più i tutorial
+UI_QUESTS_TUT_SKILL_GATHERING_2,"Pick an action from the list and press Start: it repeats by itself, even while you are away.","Scegli un'azione dalla lista e premi Avvia: si ripete da sola, anche quando sei via."
+UI_QUESTS_TUT_SKILL_ARTISAN_2,"Turn raw materials into useful things. If a material runs out, the action simply waits.","Trasforma i materiali grezzi in cose utili. Se un materiale finisce, l'azione resta ad aspettare."
+UI_QUESTS_TUT_SKILL_SPECIAL_2,A different kind of craft: read each action's card to see what it needs and what it gives.,Un mestiere diverso dagli altri: leggi la scheda di ogni azione per sapere cosa serve e cosa dà.
+UI_QUESTS_TUT_SKILL_COMBAT_2,The hero fights on their own; you choose where and what to wear.,L'eroe combatte da solo; tu scegli dove e cosa indossare.
+UI_QUESTS_TUT_SKILL_GATHERING_3,Each action gives experience: levels unlock better materials.,Ogni azione dà esperienza: i livelli sbloccano materiali migliori.
+UI_QUESTS_TUT_SKILL_ARTISAN_3,Experience raises your level and unlocks new recipes.,L'esperienza fa salire il livello e sblocca nuove ricette.
+UI_QUESTS_TUT_SKILL_SPECIAL_3,Only one action runs at a time: switching is instant and free.,Si svolge una sola azione per volta: cambiare è immediato e gratuito.
+UI_QUESTS_TUT_SKILL_COMBAT_3,"Food heals you while you fight, so keep some in the Bank.",Il cibo ti cura mentre combatti: tieni qualcosa nel Deposito.
+UI_QUESTS_TUT_COMBAT_1,"Combat is another action: you can do only one thing at a time, so choosing combat pauses your trade.","Il combattimento è un'altra azione: si fa una cosa per volta, quindi scegliere di combattere mette in pausa il mestiere."
+UI_QUESTS_TUT_COMBAT_2,"Wear your gear first (Hero screen) and keep food in the Bank: bare-handed you fall in under a minute. Then pick a monster in the Vale.","Prima indossa l'equipaggiamento (schermata Eroe) e tieni del cibo nel Deposito: a mani nude cadi in meno di un minuto. Poi scegli un mostro nella Valle."
+UI_QUESTS_TUT_COMBAT_3,"Eat food to heal; if you fall, nothing is lost but time.","Il cibo ti cura; se cadi non perdi nulla, solo tempo."
+UI_QUESTS_TUT_CRATES_1,Crates drop from actions and monsters. To open one you need the matching Key.,Le Casse cadono dalle azioni e dai mostri. Per aprirle serve la Chiave giusta.
+UI_QUESTS_TUT_CRATES_2,"Opening is only game currency and cosmetics: no real money, ever.","Aprire non costa denaro vero, mai: sono solo monete di gioco e cosmetici."
+UI_QUESTS_TUT_CRATES_3,Every probability is shown on the Crate's page. Skip the animation whenever you like.,Tutte le probabilità sono scritte nella pagina della Cassa. L'animazione si può saltare quando vuoi.
+UI_QUESTS_TUT_WARDROBE_1,The Wardrobe holds the skins you find in Crates.,Il Guardaroba custodisce le finiture trovate nelle Casse.
+UI_QUESTS_TUT_WARDROBE_2,Each skin gives a small permanent bonus while it is in its slot.,Ogni finitura dà un piccolo bonus permanente finché sta nel suo slot.
+UI_QUESTS_TUT_WARDROBE_3,Better condition means a better bonus: the Manual explains the numbers.,Una condizione migliore dà un bonus migliore: il Manuale spiega i numeri.
+UI_QUESTS_TUT_MARKET_1,"The Market buys what you do not need, at prices that move over time.","Il Mercato compra ciò che non ti serve, a prezzi che cambiano col tempo."
+UI_QUESTS_TUT_MARKET_2,Sell when a price is high; the same goods can be worth more tomorrow.,Vendi quando il prezzo è alto: la stessa merce domani può valere di più.
+UI_QUESTS_TUT_MARKET_3,A small tax applies on every sale.,Su ogni vendita si paga una piccola tassa.
+UI_QUESTS_TUT_GENERIC_1,A new part of the game is open to you.,Si apre per te una nuova parte del gioco.
+UI_QUESTS_TUT_GENERIC_2,Look for it in the side menu and take your time exploring it. Livia isn't in a hurry either.,Cercala nel menù laterale ed esplorala con calma. Nemmeno Livia ha fretta.
+UI_QUESTS_TUT_GENERIC_3,"The Manual (F1) explains how it works, with all the numbers.","Il Manuale (F1) spiega come funziona, con tutti i numeri."
+UI_QUESTS_NEXT_TITLE,Next goals,Prossimi traguardi
+UI_QUESTS_NEXT_UNLOCK,Next unlock: {name},Prossimo sblocco: {name}
+UI_QUESTS_NEXT_QUEST,Quest: {title} ({pct}%),Missione: {title} ({pct}%)
+UI_QUESTS_NEXT_QUEST_READY,Quest ready to claim: {title},Missione da riscattare: {title}
+UI_QUESTS_NEXT_CLOSEST,Closest goal: {title} ({pct}%),Obiettivo più vicino: {title} ({pct}%)
+UI_QUESTS_NEXT_NOTHING,"Nothing pending. Enjoy the journey, or a nap.","Niente in sospeso. Goditi il viaggio, o un pisolino."
+UI_QUESTS_NEXT_TOMORROW,Tomorrow: your quests and the Estate keep going while you are away.,Domani: le missioni e la Tenuta proseguono anche mentre sei via.
+UI_QUESTS_WB_TITLE,Welcome back! Nobody touched anything.,Rieccoti! Nessuno ha toccato niente.
+UI_QUESTS_WB_AWAY,You were away for {time} (limit {limit}).,Assente per {time} (limite {limit}).
+UI_QUESTS_WB_XP,Experience gained,Esperienza ottenuta
+UI_QUESTS_WB_LEVELS,Levels,Livelli
+UI_QUESTS_WB_ITEMS,Items obtained,Oggetti ottenuti
+UI_QUESTS_WB_CRATES,Crates found,Casse trovate
+UI_QUESTS_WB_QUESTS,Quests advanced,Missioni avanzate
+UI_QUESTS_WB_QUEST_READY,(ready to claim),(da riscattare)
+UI_QUESTS_WB_STOP,Why it stopped,Perché si è fermato
+UI_QUESTS_WB_NOTHING,Nothing much happened this time. The pigeon says hi.,Questa volta non è successo granché. Il piccione ti saluta.
+UI_QUESTS_WB_COLLECT,Collect everything,Raccogli tutto
+UI_QUESTS_WB_TO_QUESTS,Go to Quests,Vai alle Missioni
+UI_QUESTS_WB_TO_CRATES,Go to Crates,Vai alle Casse
+UI_QUESTS_WB_MORE,…and {n} more,...e altri {n}
+UI_QUESTS_WB_LEVEL_FROM_TO,{skill}: {a} to {b},{skill}: {a} a {b}
+UI_QUESTS_WELCOME_TITLE,"Welcome to Vaelmora","Ti diamo il benvenuto a Vaelmora"
+UI_QUESTS_WELCOME_1,"Crates are falling from the sky over the valley, and the Order of Wardens needs a pair of willing hands. The map is Livia's; the scale is roughly.","Sulla valle piovono Casse dal cielo, e l'Ordine dei Custodi ha bisogno di due mani volenterose. La mappa è di Livia; la scala è circa."
+UI_QUESTS_WELCOME_2,"There is no hurry. Start with a single task, and the rest of the world will open one step at a time, when the time is right. Even Livia agrees, from the couch.","Nessuna fretta. Comincia da un solo mestiere, e il resto del mondo si aprirà un passo alla volta, quando sarà il momento. Persino Livia è d'accordo, dal divano."
+UI_QUESTS_WELCOME_3,"The game keeps working while you are away. When you come back, we will tell you everything that happened.","Il gioco va avanti anche quando non ci sei. Quando tornerai, ti racconteremo tutto quello che è successo."
+UI_QUESTS_WELCOME_GO,Let's begin,Cominciamo
+UI_QUESTS_MAN_TITLE,Manual,Manuale
+UI_QUESTS_MAN_HINT,"Everything here is generated from the game's data, so it is always up to date.","Tutto ciò che leggi qui viene generato dai dati del gioco, quindi è sempre aggiornato."
+UI_QUESTS_MAN_P_START,How to play,Come si gioca
+UI_QUESTS_MAN_P_FORMULAS,Formulas,Formule
+UI_QUESTS_MAN_P_CRATES,Crate odds,Probabilità delle Casse
+UI_QUESTS_MAN_P_DROPS,Monsters and loot,Mostri e bottino
+UI_QUESTS_MAN_P_UNLOCKS,How to unlock,Come si sblocca
+UI_QUESTS_MAN_P_GLOSSARY,Glossary,Glossario
+UI_QUESTS_MAN_START_1,"Choose a task in the side menu and start an action. It repeats by itself, and keeps going while you are away (up to the offline limit).",Scegli un mestiere nel menù laterale e avvia un'azione. Si ripete da sola e prosegue anche quando sei via (fino al limite offline).
+UI_QUESTS_MAN_START_2,Only one active action at a time: a trade or combat. Switching is instant and free.,Una sola azione attiva per volta: un mestiere oppure il combattimento. Cambiare è immediato e gratuito.
+UI_QUESTS_MAN_START_3,Quests tell the story and open new parts of the game one at a time. Locked entries in the menu say how to open them.,Le missioni raccontano la storia e aprono una parte del gioco alla volta. Le voci bloccate nel menù dicono come aprirle.
+UI_QUESTS_MAN_START_4,"Crates contain only game currency and cosmetics. No real money is involved, and there is no trading.","Le Casse contengono solo valuta di gioco e cosmetici. Nessun denaro vero, nessuno scambio."
+UI_QUESTS_MAN_F_XP,Experience for the next level: floor({base} × {growth}^level). Example: level {l} to {l2} needs {xp} XP.,Esperienza per il livello successivo: floor({base} x {growth}^livello). Esempio: dal livello {l} al {l2} servono {xp} XP.
+UI_QUESTS_MAN_F_MASTERY,Mastery of an action (max level {cap}): floor({base} × {growth}^level) mastery XP per level. Example: level 10 needs {xp}.,Maestria di un'azione (livello massimo {cap}): floor({base} x {growth}^livello) XP di maestria per livello. Esempio: il livello 10 richiede {xp}.
+UI_QUESTS_MAN_F_HIT,"Hit chance = {base} × sqrt(accuracy / evasion), kept between {min}% and {max}%. Example: accuracy 100 against evasion 80 gives {ex}%.","Probabilità di colpire = {base} x radice(precisione / evasione), tra {min}% e {max}%. Esempio: precisione 100 contro evasione 80 dà {ex}%."
+UI_QUESTS_MAN_F_DR,"Damage reduction = armor / (armor + K), at most {cap}%. K = {a} × {r}^(attacker level). Example: armor 200 against level 10 gives {ex}%.","Riduzione del danno = armatura / (armatura + K), al massimo {cap}%. K = {a} x {r}^(livello dell'attaccante). Esempio: armatura 200 contro livello 10 dà {ex}%."
+UI_QUESTS_MAN_F_TRIANGLE,"Style triangle: the advantage multiplies damage by {adv}, the disadvantage by {dis}.","Triangolo degli stili: il vantaggio moltiplica il danno per {adv}, lo svantaggio per {dis}."
+UI_QUESTS_MAN_F_STARS,"Stars: bonus XP = {xpcap}% × (1 – {xpdecay}^stars); bonus speed = {hcap}% × (1 – {hdecay}^stars). Example, 3 stars: +{ex1}% XP, +{ex2}% speed.","Stelle: XP bonus = {xpcap}% x (1 - {xpdecay}^stelle); velocità bonus = {hcap}% x (1 - {hdecay}^stelle). Esempio, 3 stelle: +{ex1}% XP, +{ex2}% velocità."
+UI_QUESTS_MAN_F_OFFLINE,"Offline progress: up to {base} hours (up to {max} with upgrades), at {eff}% efficiency.","Progressi offline: fino a {base} ore (fino a {max} con i miglioramenti), al {eff}% di efficienza."
+UI_QUESTS_MAN_C_INTRO,"Rarity odds are the same for every Crate. Over many openings the Relic pity changes the real rates, shown in brackets.","Le probabilità di rarità sono uguali per ogni Cassa. Su molte aperture la pity della Reliquia cambia le percentuali reali, mostrate tra parentesi."
+UI_QUESTS_MAN_C_RARITY,{name}: {nominal}% (long-run with pity: {eff}%),{name}: {nominal}% (sul lungo periodo con la pity: {eff}%)
+UI_QUESTS_MAN_C_PITY,Pity: after {soft} openings without a Relic the chance grows by {step}% per opening; at {hard} openings the Relic is guaranteed. On average one every {mean} openings.,Pity: dopo {soft} aperture senza Reliquia la probabilità cresce dello {step}% a ogni apertura; alla {hard}a apertura la Reliquia è garantita. In media una ogni {mean} aperture.
+UI_QUESTS_MAN_C_CONDITIONS,"Condition of the skin (by patina, from 0 = pristine to 1 = battered):","Condizione della finitura (secondo la patina, da 0 = intatta a 1 = sfregiata):"
+UI_QUESTS_MAN_C_COND,"{name}: {pct}% (patina {a} to {b}, bonus ×{bonus})","{name}: {pct}% (patina da {a} a {b}, bonus x{bonus})"
+UI_QUESTS_MAN_C_CRATE,"{name}: key {key}, {skins} skins, {relics} Relic and pet prizes","{name}: chiave {key}, {skins} finiture, {relics} premi tra Reliquie e famigli"
+UI_QUESTS_MAN_C_NONE,No Crates in this version of the game yet. Gunilde is still looking for the lid.,In questa versione del gioco non ci sono ancora Casse. Gunilde sta ancora cercando il coperchio.
+UI_QUESTS_MAN_D_INTRO,"Monsters of every unlocked zone, with their loot chances.","I mostri di ogni zona sbloccata, con le probabilità del bottino."
+UI_QUESTS_MAN_D_MONSTER,"{name} (level {lv}), gold {g1} to {g2}","{name} (livello {lv}), oro da {g1} a {g2}"
+UI_QUESTS_MAN_D_DROP,{name}: {pct}% (×{q}),{name}: {pct}% (x{q})
+UI_QUESTS_MAN_D_CRATE,Crate {name}: {pct}%,Cassa {name}: {pct}%
+UI_QUESTS_MAN_D_LOCKED,Unlock a zone to read about its monsters. They're shy.,Sblocca una zona per leggere dei suoi mostri. Sono timidi.
+UI_QUESTS_MAN_U_INTRO,"Everything still locked, and how to open it.","Tutto ciò che è ancora bloccato, e come aprirlo."
+UI_QUESTS_MAN_U_ROW,{name}: {hint},{name}: {hint}
+UI_QUESTS_MAN_U_NONE,"Everything you can see is already open. Mysteries remain, though.","Tutto ciò che vedi è già aperto. I misteri, però, restano."
+UI_QUESTS_GLOSS_1_T,Crate,Cassa
+UI_QUESTS_GLOSS_1_D,A sealed container found while playing; needs a Key.,Contenitore sigillato che si trova giocando; serve una Chiave.
+UI_QUESTS_GLOSS_2_T,Key,Chiave
+UI_QUESTS_GLOSS_2_D,Opens a Crate. You can forge them with Keysmithing.,Apre una Cassa. Si forgiano con la Forgiachiavi.
+UI_QUESTS_GLOSS_3_T,Skin,Finitura
+UI_QUESTS_GLOSS_3_D,A cosmetic from Crates that also gives a small bonus.,Un cosmetico dalle Casse che dà anche un piccolo bonus.
+UI_QUESTS_GLOSS_4_T,Relic,Reliquia
+UI_QUESTS_GLOSS_4_D,The rarest prize of a Crate; guaranteed by the pity counter.,Il premio più raro di una Cassa; garantito dal contatore pity.
+UI_QUESTS_GLOSS_5_T,Pity,Pity
+UI_QUESTS_GLOSS_5_D,A counter that guarantees a Relic after enough openings.,Un contatore che garantisce una Reliquia dopo abbastanza aperture.
+UI_QUESTS_GLOSS_6_T,Bank,Deposito
+UI_QUESTS_GLOSS_6_D,Where all your items are kept.,Dove sono conservati tutti i tuoi oggetti.
+UI_QUESTS_GLOSS_7_T,Mastery,Maestria
+UI_QUESTS_GLOSS_7_D,"Experience of a single action, with its own levels.","Esperienza della singola azione, con livelli propri."
+UI_QUESTS_GLOSS_8_T,Star,Stella
+UI_QUESTS_GLOSS_8_D,Local prestige of a skill: restart it to become stronger.,Prestigio locale di una mansione: la ricominci per diventare più forte.
+UI_QUESTS_GLOSS_9_T,Estate,Tenuta
+UI_QUESTS_GLOSS_9_D,Your settlement: it produces even while you are away.,Il tuo insediamento: produce anche quando sei via.
+UI_QUESTS_GLOSS_10_T,Offline progress,Progressi offline
+UI_QUESTS_GLOSS_10_D,What happens while the game is closed.,Quello che accade mentre il gioco è chiuso.
+UI_QUESTS_TUT_ESTATE_1,"This is the Estate: land, a roof and zero plumbing. Build things here and they keep working while you do something else.","Questa è la Tenuta: terra, un tetto e zero idraulica. Quello che costruisci qui continua a lavorare mentre tu fai altro."
+UI_QUESTS_TUT_ESTATE_2,"Every level of a building needs a settler, and settlers eat. Collect the goods from the Warehouse by hand: nobody else has the keys.","Ogni livello di un edificio richiede un colono, e i coloni mangiano. Le merci del Magazzino le ritiri tu a mano: le chiavi le hai solo tu."
+UI_QUESTS_TUT_ESTATE_3,"The Shopfront sells your surplus for you. Past its hourly limit, extra goods only give Prosperity, which pays off at Refounding.","La Bottega vende al posto tuo il surplus. Oltre il suo limite orario le merci in più danno solo Prosperità, che servirà alla Rifondazione."
+UI_QUESTS_TUT_FACTIONS_1,"Five factions, five opinions of you. They all agree on one thing: they like people who do them favors.","Cinque fazioni, cinque opinioni su di te. Concordano su una cosa: amano chi fa loro dei favori."
+UI_QUESTS_TUT_FACTIONS_2,"Reputation grows with Orders and faction tasks. Each new rank unlocks a permanent bonus, no bribes required.","La reputazione cresce con le Commesse e gli incarichi di fazione. Ogni grado nuovo sblocca un bonus permanente, senza bustarelle."
+UI_QUESTS_TUT_FACTIONS_3,Pick a faction whose bonus you like and feed it. The others won't be offended. Much.,Scegli la fazione di cui ti piace il bonus e coccolala. Le altre non si offendono. Molto.
+UI_QUESTS_TUT_ORDERS_1,The Orders board: citizens ask for goods and pay nicely. Nobody asks why they need forty planks. Do not ask.,La bacheca delle Commesse: i cittadini chiedono merci e pagano bene. Nessuno chiede perché servano quaranta assi. Non chiedere.
+UI_QUESTS_TUT_ORDERS_2,Each order pays gold and reputation and stays on the board for 7 days. The board renews itself every few hours.,Ogni commessa paga oro e reputazione e resta in bacheca 7 giorni. La bacheca si rinnova da sola ogni poche ore.
+UI_QUESTS_TUT_ORDERS_3,Reject the silly ones: a new order shows up after a while. Sometimes one even hides a Crate.,Rifiuta quelle assurde: dopo un po' ne arriva un'altra. A volte ce n'è una con dentro una Cassa.
+UI_QUESTS_TUT_MERCENARIES_1,"The Tavern: hire adventurers who work for gold and, strangely, for compliments about their cloaks.","La Taverna: assumi avventurieri che lavorano per oro e, curiosamente, per i complimenti sui loro mantelli."
+UI_QUESTS_TUT_MERCENARIES_2,"Every mercenary has a rarity, a role and some traits. Rarer ones cost more and hit harder; the board changes every few hours.","Ogni mercenario ha una rarità, un ruolo e dei tratti. I più rari costano di più e picchiano meglio; la bacheca cambia ogni poche ore."
+UI_QUESTS_TUT_MERCENARIES_3,"They level up on expeditions and in raids. A mercenary who gets hurt rests for a while: it's not a tantrum, it's a doctor's note.","Salgono di livello con spedizioni e incursioni. Un mercenario ferito riposa un po': non è un capriccio, è un certificato medico."
+UI_QUESTS_TUT_EXPEDITIONS_1,"Expeditions: you stay at home and the mercenaries come back with stories, and also loot. Mostly the loot.",Spedizioni: tu resti a casa e i mercenari tornano con storie e anche bottino. Soprattutto il bottino.
+UI_QUESTS_TUT_EXPEDITIONS_2,"Pick an offer, build a squad and send it off. The stronger the squad compared to the danger, the better the odds.","Scegli un'offerta, forma una squadra e mandala via. Più la squadra è forte rispetto al pericolo, migliori sono le probabilità."
+UI_QUESTS_TUT_EXPEDITIONS_3,The timer runs even when the game is closed. Collect your rewards when they are ready; a failed run still gives a small prize.,Il timer corre anche a gioco chiuso. Ritira le ricompense quando sono pronte; anche una missione fallita dà un piccolo premio.
+UI_QUESTS_TUT_BOUNTIES_1,The Bounty Board: villains with a price on their head and zero sense of humor. Perfect.,La Bacheca delle Taglie: furfanti con una taglia sulla testa e nessun senso dell'umorismo. Perfetto.
+UI_QUESTS_TUT_BOUNTIES_2,"Pick a bounty, fight the target and collect Bounty Marks. Wanted targets are tougher and pay more.","Scegli una taglia, sconfiggi il bersaglio e incassa Marchi di Taglia. I ricercati sono più duri e pagano di più."
+UI_QUESTS_TUT_BOUNTIES_3,"Marks are spent at the Bounty Counter for Crates, keys and other nice things. You can leave it running while you do something else.","I Marchi si spendono al Banco delle Taglie per Casse, chiavi e altre cose belle. Puoi lasciarla andare mentre fai altro."
+UI_QUESTS_TUT_TRADEUP_1,"Reshuffles: ten duplicates go in, one better item comes out. It's recycling, but with ambition.","Rimpasti: dieci doppioni entrano, un oggetto migliore esce. È riciclo, ma con ambizione."
+UI_QUESTS_TUT_TRADEUP_2,You need ten skins of the same rarity and variant that you are not wearing. The result is one skin of the next rarity.,Servono dieci finiture della stessa rarità e variante che non indossi. Il risultato è una finitura della rarità successiva.
+UI_QUESTS_TUT_TRADEUP_3,"The outcome is decided before the animation and the odds are shown. No stakes, no gambling: just game currency and cosmetics.","L'esito è deciso prima dell'animazione e le probabilità sono visibili. Niente puntate, niente azzardo: solo monete di gioco e cosmetici."
+UI_QUESTS_TUT_GOLDEN_CONTRACT_1,The Golden Reshuffle: for anyone with too many Mythics and a worrying attachment to paperwork.,Il Rimpasto Aureo: per chi ha troppi Mitici in collezione e un attaccamento preoccupante alla burocrazia.
+UI_QUESTS_TUT_GOLDEN_CONTRACT_2,"Five Mythic skins go in, one Relic comes out. The outcome is decided before the animation and everything is written in plain sight.","Cinque finiture Mitiche entrano, una Reliquia esce. L'esito è deciso prima dell'animazione e tutto è scritto bene in vista."
+UI_QUESTS_TUT_GOLDEN_CONTRACT_3,"Nothing is lost if you wait: nobody is rushing you, least of all the Magpie.","Non si perde nulla ad aspettare: nessuno ti mette fretta, men che meno la Gazza."
+UI_QUESTS_TUT_REFINERY_1,"The Refinery Bench: where skins get polished until they shine and Annalists get engraved with tiny, smug letters.",Il Banco di Affinatura: dove le finiture vengono lucidate fino a splendere e gli Annalisti incisi con piccole lettere compiaciute.
+UI_QUESTS_TUT_REFINERY_2,"Polishing improves a skin's condition (and its bonus) for Vault Shards, step by step. Engraving turns a skin into its Annalist variant, no dice.","La lucidatura migliora la condizione di una finitura (e il suo bonus) in cambio di Schegge del Caveau, un passo alla volta. L'incisione la trasforma in variante Annalista, senza dadi."
+UI_QUESTS_TUT_REFINERY_3,"Every cost is shown before you confirm. If you do not need it, ignore it: the game keeps running just fine.","Ogni costo è mostrato prima di confermare. Se non ti serve, ignoralo: il gioco va avanti benissimo lo stesso."
+UI_QUESTS_TUT_COLLECTORS_CHALLENGE_1,"The Collectors' Challenge: three rivals compare their finds with yours every week. Friendly rivalry, with sharp elbows.","La Sfida dei Collezionisti: ogni settimana tre rivali confrontano le loro scoperte con le tue. Rivalità amichevole, a gomitate."
+UI_QUESTS_TUT_COLLECTORS_CHALLENGE_2,Open Crates and collect skins during the week to climb the ranking. Rarer finds score more.,Apri Casse e raccogli finiture durante la settimana per salire in classifica. I ritrovamenti più rari valgono di più.
+UI_QUESTS_TUT_COLLECTORS_CHALLENGE_3,"The prizes are cosmetic and in-game currency. Nobody pays real money, and nobody bets anything.",I premi sono cosmetici e monete di gioco. Nessuno paga denaro vero e nessuno scommette niente.
+UI_QUESTS_TUT_CONSTELLATIONS_1,"The Constellations: a sky full of permanent upgrades, paid for in Stardust. Yes, it is a skill tree. Yes, it is shiny.","Le Costellazioni: un cielo pieno di potenziamenti permanenti, pagati in Polvere Stellare. Sì, è un albero di abilità. Sì, brilla."
+UI_QUESTS_TUT_CONSTELLATIONS_2,"You earn Stardust from Skill Stars, achievements and the Warden. Spend it on nodes: they stay with you through every restart.","La Polvere Stellare arriva da Stelle di Mansione, imprese e Custode. Spendila nei nodi: restano con te a ogni ripartenza."
+UI_QUESTS_TUT_CONSTELLATIONS_3,"Some nodes are finite, others keep scaling with ever-higher costs. Plan ahead; the sky isn't going anywhere.","Alcuni nodi sono finiti, altri crescono con costi sempre più alti. Pianifica: il cielo non scappa."
+UI_QUESTS_TUT_SKILL_PRESTIGE_1,Skill Stars: at level 100 a skill can restart from level 1 and come back stronger. It sounds like punishment. It is a reward.,Stelle di Mansione: al livello 100 una mansione può ripartire dal livello 1 e tornare più forte. Sembra una punizione. È un premio.
+UI_QUESTS_TUT_SKILL_PRESTIGE_2,Each Star gives permanent bonuses to that skill and some Stardust. The first one also unlocks automation.,Ogni Stella dà bonus permanenti a quella mansione e un po' di Polvere Stellare. La prima sblocca anche l'automazione.
+UI_QUESTS_TUT_SKILL_PRESTIGE_3,"You choose when: nobody forces you. The Stars make the next climb faster.","Decidi tu quando: nessuno ti obbliga. Le Stelle rendono più veloce la salita successiva."
+UI_QUESTS_TUT_ERAS_1,"Eras: when the world is done, the world starts again. With angrier monsters and juicier rewards.","Le Ere: quando il mondo è finito, il mondo ricomincia. Con mostri più arrabbiati e ricompense più succose."
+UI_QUESTS_TUT_ERAS_2,"Each Era makes monsters stronger and rewards bigger, without end. You choose the Era you want to play.","Ogni Era rende i mostri più forti e le ricompense più grandi, senza fine. L'Era in cui giocare la scegli tu."
+UI_QUESTS_TUT_ERAS_3,Keep an eye on food and gear: your old setup will not impress the new monsters.,Tieni d'occhio cibo e equipaggiamento: il vecchio assetto non impressionerà i mostri nuovi.
+UI_QUESTS_TUT_RIFT_1,The Rift: a crack in the world that spits out increasingly rude monsters. A place to test yourself for fun.,La Breccia: una crepa nel mondo che sputa mostri sempre più maleducati. Un posto per mettersi alla prova per divertimento.
+UI_QUESTS_TUT_RIFT_2,"Fight through the Rift to earn Rift Shards. They are spent at the Rift Bazaar for Crates, Essence and other treats.","Combatti nella Breccia per guadagnare Frammenti di Breccia. Si spendono al Bazar della Breccia per Casse, Essenza e altre cosette."
+UI_QUESTS_TUT_RIFT_3,"Bring food and a sensible build. The Rift does not hold your hand.","Porta cibo e un assetto sensato. La Breccia non ti tiene per mano."
+UI_QUESTS_TUT_WORLD_BOSSES_1,"World Bosses: enormous, grumpy and fond of crossing towns. Everyone runs. You get paid to stay.","Boss Mondiali: enormi, scontrosi e affezionati ad attraversare le città. Tutti scappano. A te pagano per restare."
+UI_QUESTS_TUT_WORLD_BOSSES_2,"Each boss appears for a limited time, but no reward is exclusive to the window. If you miss one, you can call it with a Rally Horn.","Ogni boss compare per un tempo limitato, ma nessuna ricompensa è esclusiva della finestra. Se ne perdi uno, lo evochi con un Corno dell'Adunata."
+UI_QUESTS_TUT_WORLD_BOSSES_3,They are tough: check your food and gear before the fight. Mercenaries can help in raids.,Sono duri: controlla cibo e equipaggiamento prima dello scontro. I mercenari possono aiutare nelle incursioni.
+UI_QUESTS_TUT_TALENTS_1,Talents: every two Hero levels give you a point to spend on your class tree. Unspent points are like a gym membership: useful only if you go.,Talenti: ogni due livelli Eroe ottieni un punto da spendere nell'albero della tua classe. I punti non spesi sono come un abbonamento in palestra: servono solo se ci vai.
+UI_QUESTS_TUT_TALENTS_2,"Open the Talents menu, pick a branch and raise ranks. A dot next to the menu entry tells you when points are waiting.","Apri il menù Talenti, scegli un ramo e alza i gradi. Un pallino accanto alla voce del menù ti avvisa quando ci sono punti in attesa."
+UI_QUESTS_TUT_TALENTS_3,"You can reset them for gold if you change your mind. Nobody judges. Well, the gold does.","Puoi azzerarli pagando oro, se cambi idea. Nessuno ti giudica. Beh, l'oro sì."
+UI_QUESTS_TUT_PERKS_1,Skill perks: at certain levels each skill offers three options and you pick one. Choose the one that looks cleverest.,Talenti di mansione: a certi livelli ogni mansione offre tre opzioni e tu ne scegli una. Scegli quella che ti sembra più furba.
+UI_QUESTS_TUT_PERKS_2,"Open the skill's page: pending choices are marked with a dot in the side menu. Perks work on the skill itself, forever.","Apri la pagina della mansione: le scelte in sospeso sono segnate da un pallino nel menù laterale. I talenti valgono per quella mansione, per sempre."
+UI_QUESTS_TUT_PERKS_3,"With 3 Stars in a skill you can pick two options per tier. Change your mind later? You'll pay for it, but you can.","Con 3 Stelle in una mansione scegli due opzioni per livello. Cambi idea più tardi? Si paga, ma si può."
+UI_QUESTS_FEATURE_TALENTS,Talents,Talenti
+UI_QUESTS_FEATURE_PERKS,Skill perks,Talenti di mansione
+UI_BADGE_TALENTS,You have unspent talent points.,Hai punti talento da spendere.
+UI_BADGE_PERKS,You have a skill perk to choose.,Hai un talento di mansione da scegliere.
+UI_COMBAT_SAFE_RED_FOOD,Risky: food lasts less than 1 hour,Rischio: il cibo dura meno di 1 ora
+UI_QUESTS_TALK,Talk,Parla
+UI_QUESTS_TALK_DONE,"{name} stamps a form and hands it to you. Nobody knows what it is for, so it must be important.","{name} timbra un modulo e te lo porge. Nessuno sa a cosa serva, quindi sarà importante."
+UI_CONTRACTS_TITLE,Commissions,Commissioni
+UI_CONTRACTS_INTRO,"Small jobs that pile up while you play or are away. Nothing is lost: daily ones stay for 7 days, weekly ones for 14, finished ones never expire. No streaks, no penalties, nothing exclusive.","Piccoli lavori che si accumulano mentre giochi o sei via. Non si perde nulla: le giornaliere restano 7 giorni, le settimanali 14, quelle finite non scadono mai. Niente serie di accessi, niente penalità, niente di esclusivo."
+UI_CONTRACTS_TOKENS,Commission Tokens: {n},Gettoni di Commissione: {n}
+UI_CONTRACTS_DAILY,Daily commissions,Commissioni giornaliere
+UI_CONTRACTS_WEEKLY,Weekly commissions,Commissioni settimanali
+UI_CONTRACTS_EMPTY,"No commissions right now. New ones arrive as time passes, even while you are away.","Nessuna commissione per ora. Ne arrivano di nuove col passare del tempo, anche mentre sei via."
+UI_CONTRACTS_REROLL,Swap (1 free per day),Cambia (1 gratis al giorno)
+UI_CONTRACTS_SHOP,Token shop,Negozio dei Gettoni
+UI_CONTRACTS_COST,{n} tokens,{n} gettoni
+UI_CONTRACTS_BUY,Buy,Compra
+UI_CONTRACTS_REWARD_LINE,"Reward: {tokens} tokens, {gold} gold","Ricompensa: {tokens} gettoni, {gold} oro"
+UI_CONTRACTS_DAYS_LEFT,Time left: {n} d,Restano {n} g
+UI_CONTRACTS_RW_TOKENS,{n} Commission Tokens,{n} Gettoni di Commissione
+UI_CONTRACTS_CLAIMED,Commission done: {rewards},Commissione conclusa: {rewards}

@@ -1,0 +1,130 @@
+keys,en,it
+UI_MENU_FACTIONS,Factions,Fazioni
+UI_MENU_SECRETS,Secret Spots,Luoghi Segreti
+UI_GUILD2_TAB_ACH,Feats,Imprese
+UI_GUILD2_TAB_TITLES,Titles,Titoli
+UI_GUILD2_TAB_PETS,Familiars,Famigli
+UI_GUILD2_TAB_COLL,Collections,Collezioni
+UI_GUILD2_NONE,none,nessuno
+UI_GUILD2_HEAD_TITLE,Title: {title},Titolo: {title}
+UI_GUILD2_HEAD_FRAME,Frame: {name},Cornice: {name}
+UI_GUILD2_HEAD_PET,Companion: {name},Compagno: {name}
+UI_GUILD2_HEAD_COUNTS,Feats {ach}/{ach_t} · Familiars {pets}/{pets_t} · Titles {titles}/{titles_t},Imprese {ach}/{ach_t} · Famigli {pets}/{pets_t} · Titoli {titles}/{titles_t}
+UI_GUILD2_ACH_FILTER,Category:,Categoria:
+UI_GUILD2_ACH_HELP,Feats unlock by themselves when you reach the goal: no button to press. Each one pays Stardust and sometimes a title. Hidden feats stay a mystery until you do them (or trip over them).,Le imprese si sbloccano da sole quando raggiungi l'obiettivo: nessun pulsante da premere. Ognuna paga Polvere Stellare e a volte un titolo. Quelle nascoste restano un mistero finché non le fai (o non ci inciampi).
+UI_GUILD2_ACH_DONE,Done,Fatta
+UI_GUILD2_ACH_HIDDEN_NAME,Secret feat,Impresa segreta
+UI_GUILD2_ACH_HIDDEN_DESC,"No hints. But somewhere, someone is laughing.",Nessun indizio. Ma da qualche parte qualcuno sta ridendo.
+UI_GUILD2_ACH_REWARD_DUST,{n} Stardust,{n} Polvere Stellare
+UI_GUILD2_ACH_REWARD_TITLE,Title: {name},Titolo: {name}
+UI_GUILD2_ACH_NEW,"Feat unlocked: {name}. A pigeon nodded, which is the highest honor.","Impresa sbloccata: {name}. Un piccione ha annuito, che è il massimo degli onori."
+UI_GUILD2_CAT_ALL,All,Tutte
+UI_GUILD2_CAT_SKILLS,Skills,Mansioni
+UI_GUILD2_CAT_COMBAT,Combat,Combattimento
+UI_GUILD2_CAT_CRATES,Crates,Casse
+UI_GUILD2_CAT_STORY,Story,Storia
+UI_GUILD2_CAT_PRESTIGE,Prestige,Prestigio
+UI_GUILD2_CAT_ECONOMY,Economy,Economia
+UI_GUILD2_CAT_ESTATE,Estate,Tenuta
+UI_GUILD2_CAT_MISC,Odds and ends,Varie
+UI_GUILD2_CAT_PETS,Familiars,Famigli
+UI_GUILD2_TITLES_HELP,"Titles come from quests, feats, golden collections and faction ranks. The one you wear shows next to your name. It gives no bonus: pure style.","I titoli arrivano da missioni, imprese, collezioni auree e gradi di fazione. Quello che indossi compare accanto al tuo nome. Non dà bonus: è puro stile."
+UI_GUILD2_TITLES_SECTION,Titles,Titoli
+UI_GUILD2_TITLE_LOCKED,Title not earned yet,Titolo non ancora ottenuto
+UI_GUILD2_TITLE_WEAR,Wear,Indossa
+UI_GUILD2_TITLE_REMOVE,Take off,Togli
+UI_GUILD2_TITLE_NEW,"New title: “{name}”.",Nuovo titolo: «{name}».
+UI_GUILD2_FRAMES_SECTION,Profile frames,Cornici del profilo
+UI_GUILD2_FRAMES_COUNT,Frames owned: {n} / {total}. Frames are cosmetic only (no bonus). Earn them with skill quests and Stars.,Cornici possedute: {n} / {total}. Sono solo estetica (nessun bonus). Si ottengono con le missioni di mansione e con le Stelle.
+UI_GUILD2_FRAME_USE,Use,Usa
+UI_GUILD2_FRAME_REMOVE,Take off,Togli
+UI_GUILD2_FRAME_NEW,New frame: {name}.,Nuova cornice: {name}.
+UI_GUILD2_PETS_HELP,"Every familiar you own gives its bonus, no need to equip anything. The companion is just for show (and company). A duplicate turns into Stardust: you still have one familiar, but it loves you twice as much.","Ogni famiglio che possiedi dà il suo bonus, senza equipaggiare nulla. Il compagno è solo di bella presenza (e di compagnia). Un doppione si trasforma in Polvere Stellare: il famiglio resta uno, ma ti vuole il doppio del bene."
+UI_GUILD2_PET_UNKNOWN,Unknown familiar,Famiglio sconosciuto
+UI_GUILD2_PET_COMPANION,Make companion,Fai compagno
+UI_GUILD2_PET_COMPANION_ON,Companion,Compagno
+UI_GUILD2_PET_DUPES,Duplicates turned into Stardust: {n},Doppioni trasformati in Polvere Stellare: {n}
+UI_GUILD2_PET_NEW,"New familiar: {name}! It will follow you everywhere, especially to the kitchen.","Nuovo famiglio: {name}! Ti seguirà ovunque, soprattutto in cucina."
+UI_GUILD2_PET_DUPE,You already have {name}: the duplicate turned into {dust} Stardust.,{name} ce l'hai già: il doppione si è trasformato in {dust} Polvere Stellare.
+UI_GUILD2_PET_SRC_SKILL,Found slowly while doing {skill}. Rare: bring patience.,"Lo trovi col tempo, mentre fai {skill}. Raro: porta pazienza."
+UI_GUILD2_PET_SRC_BOSS,Found by defeating {name} (very rare).,Lo trovi sconfiggendo {name} (molto raro).
+UI_GUILD2_PET_SRC_RAID,Found in raids: {name}.,Lo trovi nelle incursioni: {name}.
+UI_GUILD2_PET_SRC_CRATE,Hides among the ★ of: {name}.,Si nasconde tra le ★ di: {name}.
+UI_GUILD2_PET_SRC_EVENT,Comes with a seasonal event.,Arriva con un evento stagionale.
+UI_GUILD2_COLL_HELP,"One collection per crate: complete it for a permanent bonus, add every ★ for the Golden one (a second bonus and a title). Item-by-item details are in the Album.","Una collezione per cassa: completala per un bonus permanente, aggiungi tutte le ★ per quella Aurea (un secondo bonus e un titolo). I dettagli oggetto per oggetto sono nell'Album."
+UI_GUILD2_COLL_OPEN_ALBUM,Open the Album,Apri l'Album
+UI_GUILD2_COLL_PROGRESS,Skins {owned}/{total} · Relics ★ {relics}/{relics_total},Finiture {owned}/{total} · Reliquie ★ {relics}/{relics_total}
+UI_GUILD2_COLL_COMPLETE,Complete,Completa
+UI_GUILD2_COLL_GOLDEN,Golden,Aurea
+UI_GUILD2_COLL_OPEN,In progress,In corso
+UI_GUILD2_RW_REP,{n} reputation ({name}),{n} reputazione ({name})
+UI_GUILD2_RW_TITLE,Title: {name},Titolo: {name}
+UI_GUILD2_RW_FRAME,Frame: {name},Cornice: {name}
+UI_GUILD2_FAC_INTRO,"Five factions, five bosses with strong opinions. Every completed assignment pays gold and reputation; reputation raises your rank, and each rank gives a permanent bonus. Accept an assignment, do it at your own pace (even while doing other things), then collect. Chains go in order.","Cinque fazioni, cinque capi con opinioni forti. Ogni incarico completato paga oro e reputazione; la reputazione ti fa salire di grado e ogni grado regala un bonus permanente. Accetta un incarico, svolgilo con calma (anche mentre fai altro), poi riscuoti. Le catene vanno in ordine."
+UI_GUILD2_FAC_QUESTS,Assignments,Incarichi
+UI_GUILD2_FAC_RANK,{rank} — from {rep} points: {reward},{rank} — da {rep} punti: {reward}
+UI_GUILD2_FAC_NEXT,"Rank: {rank} · {rep} / {need} points to “{next}”",Grado: {rank} · {rep} / {need} punti per «{next}»
+UI_GUILD2_FAC_MAX,Rank: {rank} (maximum) · {rep} points. They know your name by now.,Grado: {rank} (massimo) · {rep} punti. Ormai ti chiamano per nome.
+UI_GUILD2_FAC_RANKUP,"{faction}: you are now “{rank}”. Permanent bonus unlocked, handshake included.","{faction}: ora sei «{rank}». Bonus permanente sbloccato, stretta di mano inclusa."
+UI_GUILD2_FQ_ACCEPT,Accept,Accetta
+UI_GUILD2_FQ_CLAIM,Collect,Riscuoti
+UI_GUILD2_FQ_DONE,Done,Fatto
+UI_GUILD2_FQ_LOCKED,Locked: finish the previous assignment first (or unlock Factions with the story).,Chiuso: prima l'incarico precedente (o sblocca le Fazioni con la storia).
+UI_GUILD2_FQ_PENDING,Coming soon: it needs a feature that is not in the game yet.,In arrivo: serve una funzione che nel gioco non c'è ancora.
+UI_GUILD2_SEC_INTRO,"Map Fragments reveal a Secret Spot for a limited time (Survey expeditions find them, other expeditions now and then). While it is open you can send timed explorations: extra XP in that skill and, with luck, a rare item. Each spot also pays a Stardust gift the first time you discover it.","I Frammenti di Mappa rivelano un Luogo Segreto per un tempo limitato (li trovi con le spedizioni di Cartografia, ogni tanto anche con le altre). Finché è aperto puoi mandare esplorazioni a tempo: XP extra in quella mansione e, con un po' di fortuna, un oggetto raro. Ogni luogo, la prima volta che lo scopri, regala anche Polvere Stellare."
+UI_GUILD2_SEC_FRAGMENTS,Map Fragments: {n} · Spots discovered: {found} / {total},Frammenti di Mappa: {n} · Luoghi scoperti: {found} / {total}
+UI_GUILD2_SEC_REQ,{skill} level {lv} · {frag} Map Fragments to reveal,{skill} al livello {lv} · {frag} Frammenti di Mappa per rivelarlo
+UI_GUILD2_SEC_PREVIEW,"Exploration: {min} min → about {xp} XP and, on average, {n} × {item}.","Esplorazione: {min} min → circa {xp} XP e, in media, {n} × {item}."
+UI_GUILD2_SEC_DISCOVERED,discovered,scoperto
+UI_GUILD2_SEC_HIDDEN,Hidden. You need a map (and a bit of faith).,Nascosto. Serve una mappa (e un po' di fede).
+UI_GUILD2_SEC_OPEN,Open: {t} left · explorations left: {runs},Aperto: ancora {t} · esplorazioni rimaste: {runs}
+UI_GUILD2_SEC_RUNNING,Exploring… {t} left,In esplorazione… ancora {t}
+UI_GUILD2_SEC_REVEAL,Reveal,Rivela
+UI_GUILD2_SEC_EXPLORE,Explore,Esplora
+UI_GUILD2_SEC_WHY_LEVEL,Skill level too low,Livello della mansione troppo basso
+UI_GUILD2_SEC_WHY_FRAGMENTS,Not enough Map Fragments,Frammenti di Mappa insufficienti
+UI_GUILD2_SEC_WHY_REVEALED,Already revealed,Già rivelato
+UI_GUILD2_SEC_WHY_UNKNOWN,Unknown spot,Luogo sconosciuto
+UI_GUILD2_SEC_NO_HIDDEN,Reveal the spot first. It's called “secret” for a reason.,Prima rivela il luogo. Si chiama «segreto» per un motivo.
+UI_GUILD2_SEC_NO_BUSY,An exploration is already running. One mystery at a time.,Un'esplorazione è già in corso. Un mistero alla volta.
+UI_GUILD2_SEC_NO_NO_RUNS,No explorations left in this window. The spot wants some peace.,Esplorazioni finite per questa finestra. Il luogo vuole un po' di pace.
+UI_GUILD2_SEC_NO_NO_ACTION,"No unlocked action in this skill yet. Nothing to do here, sadly.","Nessuna azione sbloccata in questa mansione. Qui non c'è niente da fare, purtroppo."
+UI_GUILD2_SEC_NO_UNKNOWN,Unknown spot. Livia marked it “somewhere around here.”,Luogo sconosciuto. Livia lo ha segnato come «da queste parti».
+UI_GUILD2_SECRET_REVEALED,"{name} is open for {h} hours. Hurry, before the map changes its mind.","{name} è aperto per {h} ore. Sbrigati, prima che la mappa cambi idea."
+UI_GUILD2_SECRET_DONE,Exploration of {name} finished: +{xp} XP and {n} × {item}. Dario swears he was here first.,Esplorazione di {name} finita: +{xp} XP e {n} × {item}. Dario giura di esserci stato prima di te.
+UI_QUESTS_FEATURE_SECRETS,Secret Spots,Luoghi Segreti
+UI_QUESTS_TUT_SECRETS_1,You found your first Map Fragment. Collect enough of them and a Secret Spot opens for a limited time.,"Hai trovato il primo Frammento di Mappa. Mettine insieme abbastanza e si apre un Luogo Segreto, ma solo per un po'."
+UI_QUESTS_TUT_SECRETS_2,"While a spot is open you can send timed explorations: extra XP in its skill and, with luck, a rare item.","Finché un luogo è aperto puoi mandare esplorazioni a tempo: XP extra nella sua mansione e, con un po' di fortuna, un oggetto raro."
+UI_QUESTS_TUT_SECRETS_3,Open “Secret Spots” in the City menu. Map Fragments come from Survey expeditions at the Tavern.,Apri «Luoghi Segreti» nel menù Città. I Frammenti di Mappa arrivano dalle spedizioni di Cartografia della Taverna.
+UI_GUILD2_WB_ACH,Feats unlocked while you were away: {n},{n} imprese sbloccate mentre eri via
+UI_GUILD2_WB_SECRET,Exploration finished: {name},Esplorazione finita: {name}
+UI_GUILD2_BANK_DISCARD,Discard…,Scarta…
+UI_GUILD2_BANK_DISCARD_HELP,Destroys the items for no gold. Frees up Bank space.,Distrugge i pezzi senza dare oro. Libera spazio nel Deposito.
+UI_GUILD2_BANK_DISCARD_BLOCKED,"Can't discard: it is locked, worn, in use, or a quest item.","Non si può scartare: è bloccato, indossato, in uso oppure è un oggetto di missione."
+UI_GUILD2_BANK_DISCARD_TITLE,Discard items,Scarta oggetti
+UI_GUILD2_BANK_DISCARD_ASK,Discard {name}? It's gone for good and pays no gold. The bin doesn't do refunds.,Scartare {name}? Sparisce per sempre e non paga niente. Il cestino non fa resi.
+UI_GUILD2_BANK_DISCARD_OK,Discard,Scarta
+UI_GUILD2_BANK_DISCARD_CANCEL,Cancel,Annulla
+UI_GUILD2_BANK_DISCARDED,Discarded {n} × {name}. The Bank can breathe again.,Scartati {n} × {name}. Il Deposito torna a respirare.
+UI_GUILD2_BANK_NOT_TRADEABLE,"The Market won't buy this (Bertoldo: “School stuff, not stall stuff”). Keep it, use it or discard it.","Il Mercato non lo compra (Bertoldo: «Roba da scuola, non da banco»). Tienilo, usalo o scartalo."
+UI_GUILD2_FULL_HINT,"Make room: open the Bank and press “Discard…” on things you don't need.",Fai spazio: apri il Deposito e premi «Scarta…» su ciò che non ti serve.
+UI_GUILD2_FULL_MORE,and {n} more,e altri {n}
+UI_GUILD2_FULL_SOMETHING,something,qualcosa
+UI_GUILD2_FULL_MANY_1,"Bank full: {n} items lost along the way ({list}). Open the Bank and use “Discard…” to make room.",Deposito pieno: {n} oggetti persi per strada ({list}). Apri il Deposito e usa «Scarta…» per fare spazio.
+UI_GUILD2_FULL_MANY_2,"Bank full, again: {n} items rolled away ({list}). Discard something from the Bank.","Deposito pieno, di nuovo: {n} pezzi sono rotolati via ({list}). Scarta qualcosa dal Deposito."
+UI_GUILD2_FULL_MANY_3,"The Bank is stuffed like a turkey: {n} things didn't fit ({list}). “Discard…” works wonders.",Il Deposito è pieno come un uovo: {n} cose non ci stavano ({list}). «Scarta…» fa miracoli.
+UI_GUILD2_LVL_ONE_1,{skill}: level {n}! Ilde would stamp this.,{skill}: livello {n}! Ilde ci metterebbe un timbro.
+UI_GUILD2_LVL_ONE_2,"{skill}: level {n}. The paperwork piles up, but so do you.","{skill}: livello {n}. I moduli si accumulano, ma anche tu."
+UI_GUILD2_LVL_ONE_3,{skill}: level {n}! Gunilde raised an eyebrow. It happens once a year.,{skill}: livello {n}! Gunilde ha alzato un sopracciglio. Succede una volta l'anno.
+UI_GUILD2_LVL_ONE_4,{skill}: level {n}. The Bank pigeon applauds with one wing.,{skill}: livello {n}. Il piccione del Deposito applaude con un'ala sola.
+UI_GUILD2_LVL_ONE_5,"{skill}: level {n}! Sefora says “fascinating” and asks if you've seen her glasses.",{skill}: livello {n}! Sefora dice «affascinante» e ti chiede se hai visto i suoi occhiali.
+UI_GUILD2_LVL_ONE_6,"{skill}: level {n}. Bertoldo is already selling you a commemorative plaque (“used only once”).",{skill}: livello {n}. Bertoldo ti sta già vendendo una targa commemorativa («usata una volta sola»).
+UI_GUILD2_LVL_MANY_1,"{skill}: levels {from}–{n} ({count} in one go)! Ilde would stamp this. Once, to save ink.","{skill}: livelli {from}–{n} ({count} in un colpo)! Ilde ci metterebbe un timbro. Uno solo, per risparmiare l'inchiostro."
+UI_GUILD2_LVL_MANY_2,{skill}: up to level {n}! That's {count} levels: bureaucracy sends you a basket of forms.,{skill}: fino al livello {n}! Sono {count} livelli: la burocrazia ti manda un cesto di moduli.
+UI_GUILD2_LVL_MANY_3,"{skill}: {count} levels in a row, now at {n}. The Bank pigeon is asking for a raise.","{skill}: {count} livelli di fila, ora al {n}. Il piccione del Deposito chiede un aumento."
+UI_GUILD2_LVL_MANY_4,"{skill}: level {n}! ({count} steps skipped; Bertoldo says they were “used only once.”)",{skill}: livello {n}! (Hai saltato {count} gradini; Bertoldo dice che erano «usati una volta sola».)
+UI_GUILD2_LVL_SKILLS,Levels gained in {n} skills ({levels} in all): {names}… The log chose to summarize; it ran out of ink.,Livelli guadagnati in {n} mansioni ({levels} in tutto): {names}… Il registro ha preferito riassumere: aveva finito l'inchiostro.
+UI_GUILD2_DIGEST_ACH,Feats unlocked ({n}): {list}.,{n} imprese sbloccate: {list}.
+UI_GUILD2_DIGEST_TITLE,New titles ({n}): {list}.,{n} nuovi titoli: {list}.
+UI_GUILD2_DIGEST_PET_DUPE,Familiar duplicates ({n}) turned into {dust} Stardust.,{n} doppioni di famigli trasformati in {dust} Polvere Stellare.
+UI_GUILD2_DIGEST_FRAME,New frames ({n}): {list}.,{n} nuove cornici: {list}.

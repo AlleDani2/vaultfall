@@ -1,0 +1,37 @@
+{
+  "env": {
+    "PYTHONUTF8": "1",
+    "PYTHONIOENCODING": "utf-8"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(python tools/*)",
+      "Bash(py tools/*)",
+      "PowerShell(python tools/*)",
+      "PowerShell(py tools/*)",
+      "Read(./docs/**)",
+      "Read(./data/**)",
+      "Read(./assets_plan/**)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python",
+            "args": [
+              "${CLAUDE_PROJECT_DIR}/.claude/hooks/guard_data.py"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

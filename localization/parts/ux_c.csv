@@ -1,0 +1,6 @@
+keys,en,it
+UI_UXC_TIP_FIRST,"First step: open Woodcutting in the left menu, then press Start on Pine. Everything else unlocks from there.","Primo passo: apri Taglialegna nel menù a sinistra e premi Avvia su Pino. Il resto si sblocca da lì."
+UI_UXC_GO_SKILL,"Start with {skill}","Comincia con {skill}"
+UI_UXC_CLASS_NOT_IN_COMBAT,"Stop the fight to change class.","Ferma il combattimento per cambiare classe."
+UI_UIB_REQ_LEVEL_LINK,"See what to train","Vedi cosa allenare"
+UI_UXA_NOW_IDLE,"Nothing in progress.","Nessuna attività in corso."

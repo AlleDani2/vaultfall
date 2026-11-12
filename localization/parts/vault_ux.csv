@@ -1,0 +1,84 @@
+keys,en,it
+UI_VUX_WHAT_FOR,What it is for,A cosa serve
+UI_VUX_GO,Go: {to},Vai: {to}
+UI_VUX_HOW_TO_FILL,How it fills up,Come si riempie
+UI_VUX_PREVIEW,Preview,Anteprima
+UI_VUX_RES_CRATES,Crates you own,Casse possedute
+UI_VUX_RES_NO_KEYS,No keys yet: you get them by playing,Nessuna chiave: si ottengono giocando
+UI_VUX_RES_SHARDS,Vault Shards (you get them by fusing pieces),Schegge del Caveau (si ottengono fondendo i pezzi)
+UI_VUX_RES_GOLD,Gold,Oro
+UI_VUX_LOCKED_TABS,Still closed: {list}. They open as you complete quests.,Ancora chiuse: {list}. Si aprono completando missioni.
+UI_VUX_CARD_READY,Ready to open,Pronta da aprire
+UI_VUX_CARD_FULL,Bank full,Deposito pieno
+UI_VUX_CARD_NEED_KEY,Key missing,Manca la chiave
+UI_VUX_NEED_KEY,To open it you need: {key}. You have {n}.,Per aprirla ti serve: {key}. Ne hai {n}.
+UI_VUX_WHERE_KEY,Where to find the key,Dove trovare la chiave
+UI_VUX_NEED_COST,To open it you need {c} × {item}. You have {n}.,Per aprirla servono {c} × {item}. Ne hai {n}.
+UI_VUX_NEED_N,"Opening ×{n} needs {n} crates, {n} keys and Bank space. Right now you can open {have}.","Aprirne {n} insieme richiede {n} casse, {n} chiavi e spazio nel Deposito. Adesso ne puoi aprire {have}."
+UI_VUX_HALL_EMPTY_TITLE,"The Vault is empty, for now","Il Caveau è vuoto, per ora"
+UI_VUX_HALL_EMPTY_WHAT,"This is where crates get opened: each one holds skins for the Wardrobe and, with luck, a ★ Relic. Every probability can be read before you open anything.","Qui si aprono le casse: ognuna contiene finiture per il Guardaroba e, con un po' di fortuna, una Reliquia ★. Tutte le probabilità si leggono prima di aprire."
+UI_VUX_HALL_STEP_1,"Crates come from quests, bosses, bounties, expeditions and events.","Le casse arrivano da missioni, boss, Taglie, spedizioni ed eventi."
+UI_VUX_HALL_STEP_2,"You need the right key: keys are forged, found, or bought with Shards.","Serve la chiave giusta: le chiavi si forgiano, si trovano o si comprano con le Schegge."
+UI_VUX_HALL_STEP_3,"Open one at a time or in groups (×5, ×10): the result is already decided before the reel.","Si apre una cassa alla volta o a gruppi (×5, ×10): il risultato è già deciso prima del rullo."
+UI_VUX_GHOST_TIP,Not found yet: this is what it will look like.,Non l'hai ancora trovata: ecco com'è fatta.
+UI_VUX_HALL_ODDS_NOTE,"Once you own a crate, its full odds and contents appear here. Nothing is hidden.","Quando avrai una cassa, qui vedrai probabilità e contenuto completi. Niente è nascosto."
+UI_VUX_ALBUM_TOTAL,Collections complete: {done}/{n} · pieces found: {o}/{t},Collezioni complete: {done}/{n} · pezzi trovati: {o}/{t}
+UI_VUX_ALBUM_EMPTY_TITLE,The Album is still blank,L'Album è ancora bianco
+UI_VUX_ALBUM_EMPTY_WHAT,Every crate has its own collection: each skin you find fills a silhouette. Completing a collection gives a permanent bonus.,Ogni cassa ha la sua collezione: ogni finitura che trovi riempie una sagoma. Completarla dà un bonus permanente.
+UI_VUX_ALBUM_STEP_1,Open crates in the Vault Hall: every new piece shows up here on its own.,Apri casse nella Sala dei Caveau: ogni pezzo nuovo compare qui da solo.
+UI_VUX_ALBUM_STEP_2,"Duplicates do not count for the Album, but they can be fused into Shards.","I doppioni non servono all'Album, ma si possono fondere in Schegge."
+UI_VUX_ALBUM_STEP_3,All skins give the bonus; all skins plus Relics give the Golden version.,"Con tutte le finiture ottieni il bonus; con anche le Reliquie, la versione Aurea."
+UI_VUX_ALBUM_BONUS_OFF,Bonus when complete (not active yet): {b},Bonus a collezione completa (non ancora attivo): {b}
+UI_VUX_ALBUM_BONUS_ON,Bonus active: {b},Bonus attivo: {b}
+UI_VUX_ALBUM_FIND_IN,Found in: {crate},Si trova in: {crate}
+UI_VUX_ALBUM_MISSING_TIP,Not found yet. It comes from: {crate}.,Non ancora trovato. Esce da: {crate}.
+UI_VUX_WD_SLOTS_FILLED,Slots in use: {n}/{t},Slot in uso: {n}/{t}
+UI_VUX_WD_FREE,free,libero
+UI_VUX_WD_NONE_OWNED,You do not own any skin for this slot yet.,Non possiedi ancora finiture per questo slot.
+UI_VUX_WD_FOUND_IN,They come from: {list},Escono da: {list}
+UI_VUX_WD_TO_FIND,Still to find,Ancora da trovare
+UI_VUX_WD_PICK_TITLE,Pick a slot,Scegli uno slot
+UI_VUX_WD_PICK_WHAT,Every slot holds one skin and its bonus is always on. Tap a slot on the left to see what you can wear there and what is still missing.,Ogni slot ospita una finitura e il suo bonus vale sempre. Tocca uno slot a sinistra per vedere cosa puoi indossare e cosa ti manca.
+UI_VUX_WD_PICK_STEP_1,Grayed-out slots are empty: you are leaving their bonus on the table.,Gli slot in grigio sono liberi: ne perdi il bonus.
+UI_VUX_WD_PICK_STEP_2,Skins come from crates: each crate covers different slots.,Le finiture escono dalle casse: ogni cassa copre slot diversi.
+UI_VUX_WD_PICK_STEP_3,"Better condition means a bigger bonus, so keep the best one.",Condizione migliore significa bonus più alto: tieni la migliore.
+UI_VUX_WD_RELIC_TITLE,No Relic to place yet,Nessuna Reliquia da sistemare
+UI_VUX_WD_RELIC_WHAT,"★ Relics are the rarest pieces: strong bonuses that stay on while they are in the Reliquary. They come out of crates with a low, always visible probability.","Le Reliquie ★ sono i pezzi più rari: bonus forti, sempre attivi finché stanno nel Reliquiario. Escono dalle casse con una probabilità bassa e sempre visibile."
+UI_VUX_WD_RELIC_STEP,"Open crates: the odds of a ★ are shown in the Vault Hall, and the pity counter guarantees one eventually.",Apri casse: la probabilità di una ★ è nella Sala dei Caveau e il contatore pity ne garantisce una prima o poi.
+UI_VUX_WD_RELIC_FREE,Free Reliquary slot,Posto libero nel Reliquiario
+UI_VUX_WD_EQUIP,Wear,Indossa
+UI_VUX_WD_WORN,worn,indossata
+UI_VUX_WD_TOTALS,Active bonuses,Bonus attivi
+UI_VUX_CT_EMPTY_TITLE,Nothing to reshuffle yet,"Niente da rimpastare, per ora"
+UI_VUX_CT_EMPTY_WHAT,"A Reshuffle turns 10 skins of the same rarity into 1 of the next rarity. The outcome odds are shown before you sign, and nothing is ever staked.",Un Rimpasto trasforma 10 finiture della stessa rarità in 1 di rarità superiore. Le probabilità dell'esito si vedono prima di firmare e non c'è mai nulla in palio.
+UI_VUX_CT_STEP_1,Open crates to collect skins: duplicates are the best ones to use.,Apri casse per accumulare finiture: i doppioni sono i migliori da usare.
+UI_VUX_CT_STEP_2,Pieces that are locked or worn are never used.,I pezzi bloccati o indossati non vengono mai usati.
+UI_VUX_RF_EMPTY_TITLE,Nothing to refine yet,"Niente da affinare, per ora"
+UI_VUX_RF_EMPTY_WHAT,"The Refinery polishes the float of a skin to improve its condition, or engraves the Annalist mark. It costs Shards and the preview is the real result.","L'Affinatura lucida il float di una finitura per migliorarne la condizione, oppure incide il segno dell'Annalista. Costa Schegge e l'anteprima è l'esito vero."
+UI_VUX_RF_STEP_1,Open crates to get skins.,Apri casse per ottenere finiture.
+UI_VUX_RF_STEP_2,Fuse pieces you do not need to earn Shards.,Fondi i pezzi che non ti servono per guadagnare Schegge.
+UI_VUX_BK_EMPTY_TITLE,No Shards yet,Ancora nessuna Scheggia
+UI_VUX_BK_EMPTY_WHAT,"Shards are earned by fusing skins and Relics you do not need. Here they buy keys, hourglasses and capsules at fixed prices.","Le Schegge si ottengono fondendo le finiture e le Reliquie che non ti servono. Qui comprano chiavi, clessidre e capsule a prezzo fisso."
+UI_VUX_BK_STEP_1,Open a crate and fuse a spare piece from its result.,Apri una cassa e fondi un pezzo in più dal risultato.
+UI_VUX_BK_NO_FUSE,Nothing of this rarity can be fused in bulk right now (locked and worn pieces are skipped).,Al momento nessun pezzo di questa rarità si può fondere in blocco (quelli bloccati e indossati sono esclusi).
+UI_VUX_CH_LOCKED_TITLE,The Collectors' Challenge is not open yet,La Sfida dei Collezionisti non è ancora aperta
+UI_VUX_CH_LOCKED_WHAT,Every week you compete against three rivals: your score is the rarity of what you find by opening crates. Nothing is staked and you lose nothing if you skip a week.,Ogni settimana gareggi contro tre rivali: il punteggio è la rarità di ciò che trovi aprendo casse. Non si scommette nulla e saltare una settimana non costa niente.
+UI_VUX_CH_PREVIEW_PRIZE,"Prizes: Shards and keys, waiting for you to claim them.","Premi: Schegge e chiavi, in attesa finché non le ritiri."
+UI_VUX_MORE_HINT,To open in groups you need more crates and keys: right now you can open {have}.,Per aprire a gruppi servono più casse e chiavi: adesso ne puoi aprire {have}.
+UI_VUX_WHERE_ITEM,Where to find it,Dove trovarlo
+UI_VUX_ORDER_MISSING,You are still missing {n} to deliver.,Te ne mancano ancora {n} per consegnare.
+UI_VUX_SCOPE_ALL,all skills,tutte le mansioni
+UI_VUX_SCOPE_CURRENT,current action,azione in corso
+UI_VUX_SCOPE_GATHERING,gathering skills,mansioni di raccolta
+UI_VUX_SCOPE_ARTISAN,crafting skills,mansioni di produzione
+UI_VUX_SCOPE_SPECIAL,special skills,mansioni speciali
+UI_VUX_SCOPE_COMBAT,combat,combattimento
+UI_VUX_WHY_OFF,Why it is off: {why},Perché è spento: {why}
+UI_VUX_SHOP_GOLD_NEED,You need {n} more gold.,Ti servono altri {n} di oro.
+UI_VUX_MK_EMPTY_TITLE,Nothing to sell yet,"Niente da vendere, per ora"
+UI_VUX_MK_EMPTY_WHAT,"The Market buys what is in your Bank, at a price that changes over time. Without goods in the Bank there is nothing to list.","Il Mercato compra ciò che sta nel Deposito, a un prezzo che cambia nel tempo. Senza merci nel Deposito non c'è nulla da mettere in lista."
+UI_VUX_MK_STEP_1,"Gather, craft or fight to fill the Bank.","Raccogli, produci o combatti per riempire il Deposito."
+UI_VUX_MK_STEP_2,Check the trend chart before selling: prices go up and down.,Guarda il grafico dell'andamento prima di vendere: i prezzi salgono e scendono.
+UI_VUX_OR_EMPTY_TITLE,No orders on the board,Nessuna commessa in bacheca
+UI_VUX_OR_EMPTY_WHAT,Townsfolk post orders: deliver the goods they ask for to earn gold and reputation. New orders arrive on a schedule; none expire in a way that hurts you.,I cittadini espongono commesse: consegna ciò che chiedono per ottenere oro e reputazione. Ne arrivano di nuove a intervalli regolari e nessuna scade in modo punitivo.
+UI_VUX_OR_EMPTY_STEP,Come back later: the next refresh time is shown above.,Torna più tardi: l'orario del prossimo aggiornamento è indicato sopra.

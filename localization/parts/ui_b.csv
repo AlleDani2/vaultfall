@@ -1,0 +1,64 @@
+keys,en,it
+UI_UIB_REQ_HINT_PRODUCE,Click to open the skill that makes it,Clic per aprire la mansione che lo produce
+UI_UIB_REQ_HINT_BUY,Click to open the Market,Clic per aprire il Mercato
+UI_UIB_REQ_HINT_BUILD,Click to open the Estate,Clic per aprire la Tenuta
+UI_UIB_REQ_HINT_QUEST,Click to see the quest that unlocks it,Clic per vedere la missione che lo sblocca
+UI_UIB_REQ_HINT_LEVEL,Click to see what you can already train,Clic per vedere cosa puoi già allenare
+UI_UIB_REQ_LEVEL_LINK,Needs level {n}: see what to train,Serve il livello {n}: vedi cosa allenare
+UI_UIB_REQ_ITEM_LINK,Missing {item}: where to get it,Manca {item}: dove trovarlo
+UI_UIB_REQ_QUEST_LINK,Quest needed: {quest},Missione richiesta: {quest}
+UI_UIB_REQ_QUEST_LINK_GENERIC,Show me the quest that unlocks this,Mostrami la missione che lo sblocca
+UI_UIB_FILTER_CLEAR,Show all,Mostra tutto
+UI_UIB_FILTER_PRODUCES,Showing only what makes: {item},Solo ciò che produce: {item}
+UI_UIB_FILTER_AVAILABLE,Showing only what you can already do,Solo ciò che puoi già fare
+UI_UIB_LOCKED_CLICK,Click to see how to unlock it.,Clic per vedere come sbloccarla.
+UI_UIB_ETA_TOP,Lv {lv} in {time},Liv. {lv} tra {time}
+UI_UIB_ETA_MAX,Max level,Livello massimo
+UI_UIB_ETA_TIP,"Estimated time to the next level of the active skill, at the current yield.","Tempo stimato al prossimo livello della mansione attiva, alla resa di adesso."
+UI_UIB_PARALLELS,In parallel,Paralleli
+UI_UIB_PAR_TIP_ACTIVE,Active skill: click to open it.,Mansione attiva: clic per aprirla.
+UI_UIB_PAR_TIP_FARM,Garden and orchard: click to open the Farming screen.,Orto e frutteto: clic per aprire la schermata dell'Agricoltura.
+UI_UIB_PAR_TIP_EXP,Expeditions: click to open the Guild.,Spedizioni: clic per aprire la Gilda.
+UI_UIB_PAR_TIP_APP,Apprentices: click to open the Guild.,Apprendisti: clic per aprire la Gilda.
+UI_UIB_PAR_TIP_QUEUE,Action queue: click to open it.,Coda azioni: clic per aprirla.
+UI_UIB_PAR_FARM_TITLE,Garden,Orto
+UI_UIB_PAR_FARM_EMPTY,Nothing planted,Niente di piantato
+UI_UIB_PAR_FARM,{ready}/{n} ready,{ready}/{n} pronti
+UI_UIB_PAR_EXP_TITLE,Expeditions,Spedizioni
+UI_UIB_PAR_EXP_NONE,None out,Nessuna in corso
+UI_UIB_PAR_EXP,{n} out · {time},{n} in corso · {time}
+UI_UIB_PAR_APP_TITLE,Apprentices,Apprendisti
+UI_UIB_PAR_APP,{n}/{max} busy,{n}/{max} attivi
+UI_UIB_PAR_QUEUE_TITLE,Queue,Coda
+UI_UIB_PAR_QUEUE_RUN,{n} queued · running,{n} in coda · in corso
+UI_UIB_PAR_QUEUE_PAUSED,{n} queued · paused,{n} in coda · in pausa
+UI_UIB_BADGE_CRATES,Crates ready to open: {n},Casse da aprire: {n}
+UI_UIB_BADGE_QUESTS,Quests ready to claim: {n},Missioni da riscuotere: {n}
+UI_UIB_BADGE_FARM,Ready to harvest or to choose: {n},Da raccogliere o da scegliere: {n}
+UI_UIB_BADGE_ORDERS,Orders you can deliver now: {n},Commesse da consegnare ora: {n}
+UI_UIB_BADGE_EVENTS,Event rewards to claim: {n},Ricompense di evento da riscuotere: {n}
+UI_UIB_BADGE_PERKS,Perks to choose: {n},Talenti da scegliere: {n}
+UI_UIB_GRIP_TIP,Drag to resize the right column. Double-click to reset.,Trascina per ridimensionare la colonna destra. Doppio clic per ripristinare.
+UI_UIB_GAZETTE_TAG,Gazette,Gazzetta
+UI_UIB_KEY_HINT,Shortcut: {key},Scorciatoia: {key}
+UI_UIB_SC_MENU,Open one of the first nine menu entries,Apri una delle prime nove voci del menù
+UI_UIB_SC_SEARCH,Search in the open screen,Cerca nella schermata aperta
+UI_UIB_SC_ESCAPE,"Close the open window, or go back to the Summary (from the Summary: Settings)","Chiudi la finestra aperta, oppure torna al Riepilogo (dal Riepilogo: Impostazioni)"
+UI_UIB_SC_QUEUE,Action queue,Coda azioni
+UI_UIB_SC_BANK,Bank,Deposito
+UI_UIB_SC_HERO,Hero,Eroe
+UI_UIB_SC_MANUAL,Manual,Manuale
+UI_UIB_SC_COLUMN,Show or hide the right column,Mostra o nascondi la colonna destra
+UI_UIB_SC_REEL,Skip the crate reel,Salta il rullo delle Casse
+UI_UIB_SC_NO_QUEUE,No skill is ready for the queue yet. Unlock one first.,Nessuna mansione è pronta per la coda. Sbloccane una prima.
+UI_UIB_SET_INTERFACE,Layout and help,Disposizione e aiuti
+UI_UIB_SET_RIGHT_COL,Right column,Colonna destra
+UI_UIB_SET_RIGHT_COL_TIP,Shows the In parallel panel and the log. You can also drag its edge to resize it.,Mostra il riquadro Paralleli e il registro. Puoi anche trascinarne il bordo per ridimensionarla.
+UI_UIB_SET_TUTORIALS,Tutorial cards,Schede tutorial
+UI_UIB_SET_TUTORIALS_TIP,A short three-line card the first time each feature unlocks. Turn it off if you already know the ropes.,Una scheda di tre righe la prima volta che si sblocca ogni funzione. Spegnila se conosci già il gioco.
+UI_UIB_SET_COZY_TITLE,Cozy Mode,Modalità Cozy
+UI_UIB_SET_COZY,Cozy Mode (+XP),Modalità Cozy (+XP)
+UI_UIB_SET_COZY_TIP,"More XP in every skill, for a slower, calmer pace. You can switch it off at any time.","Più XP in ogni mansione, per un ritmo più calmo. Puoi spegnerla quando vuoi."
+UI_UIB_SET_COZY_NOTE,"Adds +{n}% XP to every skill. Same fun, fewer grinding evenings. The save remembers it, and it does not count for leaderboards.","Aggiunge +{n}% di XP a ogni mansione. Stesso divertimento, meno serate di fatica. Il salvataggio lo ricorda e non conta per le classifiche."
+UI_UIB_COZY_ON,Cozy Mode is on: +{n}% XP. Pour yourself a tea.,Modalità Cozy attiva: +{n}% di XP. Versati un tè.
+UI_UIB_SET_SHORTCUTS,Shortcuts,Scorciatoie

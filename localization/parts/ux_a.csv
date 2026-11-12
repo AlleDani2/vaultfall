@@ -1,0 +1,16 @@
+keys,en,it
+UI_UXA_NOW_TITLE,Right now,Adesso
+UI_UXA_NOW_DOING,In progress,In corso
+UI_UXA_NOW_IDLE,"Nothing in progress: pick an activity from the menu on the left. It keeps going even when you are away.","Nessuna attività in corso: scegli una mansione dal menù a sinistra. Va avanti anche quando non ci sei."
+UI_UXA_NOW_NO_QUEST,No main quest pending. Wander at your own pace. Ilde is pretending not to notice.,Nessuna missione principale in sospeso. Vai con calma. Ilde fa finta di non accorgersene.
+UI_UXA_NOW_QUEST,Next step: {title},Prossimo passo: {title}
+UI_UXA_NOW_QUEST_READY,{title} is done and waiting for its reward,{title} è completata e aspetta la sua ricompensa
+UI_UXA_NOW_OPEN_QUESTS,Open Quests,Apri le Missioni
+UI_UXA_NOW_GO_CLAIM,Go and claim the reward,Vai a riscattare la ricompensa
+UI_UXA_LOG_EMPTY,"The journal fills up here: levels, rewards and news. For now it only has a doodle of a goose.","Qui si riempie il diario: livelli, ricompense e novità. Per ora c'è solo il disegno di un'oca."
+UI_UXA_START_LAST,Last game,Ultima partita
+UI_UXA_START_FIRST,First time here?,Prima volta qui?
+UI_UXA_START_FIRST_BODY,"Choose New game and start with a single task: the rest of the world opens one step at a time. The game keeps going while you are away.","Scegli Nuova partita e comincia da un solo mestiere: il resto del mondo si apre un passo alla volta. Il gioco va avanti anche quando non ci sei."
+UI_UXA_WB_ORDERS_ONE,1 new order on the Market board,1 nuova commessa sulla bacheca del Mercato
+UI_UXA_WB_GAZETTE_ONE,1 new Gazette headline,1 nuova notizia della Gazzetta
+UI_UXA_WB_KILLS_ONE,1 victory against {name},1 vittoria contro {name}

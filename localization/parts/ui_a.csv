@@ -1,0 +1,185 @@
+keys,en,it
+UI_UIA_CAT_EQUIPMENT,Equipment,Equipaggiamento
+UI_UIA_CAT_MATERIAL,Materials,Materiali
+UI_UIA_CAT_FOOD,Food,Cibo
+UI_UIA_CAT_POTION,Potions,Pozioni
+UI_UIA_CAT_AMMO,Ammo,Munizioni
+UI_UIA_CAT_SEED,Seeds,Semi
+UI_UIA_CAT_GLYPH,Glyphs,Glifi
+UI_UIA_CAT_SKIN,Finishes,Finiture
+UI_UIA_CAT_TOOL,Tools,Attrezzi
+UI_UIA_CAT_RELIC,Relics,Reliquie
+UI_UIA_CAT_CRATE,Crates,Casse
+UI_UIA_CAT_KEY,Keys,Chiavi
+UI_UIA_CAT_COSMETIC,Cosmetics,Cosmetici
+UI_UIA_CAT_CURRENCY,Currency,Valute
+UI_UIA_CAT_CONSUMABLE,Consumables,Consumabili
+UI_UIA_CAT_OPENABLE,Openables,Apribili
+UI_UIA_CAT_MISC,Odds and ends,Varie
+UI_UIA_CAT_QUEST,Quest items,Oggetti di missione
+UI_UIA_RAR_COMMON,Common,Comune
+UI_UIA_RAR_RARE,Rare,Rara
+UI_UIA_RAR_EPIC,Epic,Epica
+UI_UIA_RAR_LEGENDARY,Legendary,Leggendaria
+UI_UIA_RAR_MYTHIC,Mythic,Mitica
+UI_UIA_RAR_RELIC,Relic,Reliquia
+UI_UIA_RULE_TIER,up to tier {t},fino al tier {t}
+UI_UIA_RULE_QUALITY,up to {q} quality,fino alla qualità {q}
+UI_UIA_RULE_RARITY,up to {r} rarity,fino alla rarità {r}
+UI_UIA_F_CAT,Category,Categoria
+UI_UIA_F_TIER,Highest tier,Tier massimo
+UI_UIA_F_TIER_TIP,0 means any tier.,0 vuol dire qualsiasi tier.
+UI_UIA_F_QUALITY,Highest quality,Qualità massima
+UI_UIA_F_RARITY,Highest rarity,Rarità massima
+UI_UIA_F_ANY,Any,Qualsiasi
+UI_UIA_SELL_BTN,Sell in bulk...,Vendi in blocco...
+UI_UIA_SELL_BTN_TIP,"Pick a category and a limit, see exactly what would go, then confirm. Locked and worn items never leave.","Scegli una categoria e un limite, guarda cosa partirebbe, poi conferma. Bloccati e indossati non si toccano."
+UI_UIA_SELL_TITLE,Bulk sale,Vendita in blocco
+UI_UIA_SELL_OK,Sell it all,Vendi tutto
+UI_UIA_SELL_CANCEL,Never mind,Lascia stare
+UI_UIA_SELL_HELP,"Choose what to clear out. The preview below is the truth: nothing is sold until you press the button, and anything locked or worn stays put.","Scegli cosa sgomberare. L'anteprima qui sotto dice la verità: non si vende niente finché non premi il pulsante, e ciò che è bloccato o indossato resta dov'è."
+UI_UIA_SELL_NONE,Nothing matches. Your shelves are safe from you.,Non corrisponde niente. Gli scaffali sono al sicuro da te.
+UI_UIA_SELL_SUMMARY,Selling {n} pieces for about {gold} gold:,Vendi {n} pezzi per circa {gold} oro:
+UI_UIA_SELL_MORE,...and {n} more kinds,...e altri {n} tipi
+UI_UIA_SELL_SAFE,"Kept safe: {locked} locked, {use} in use.","Al sicuro: {locked} bloccati, {use} in uso."
+UI_UIA_SELL_DONE,Sold {n} pieces for {gold} gold. The shelves sigh with relief.,Venduti {n} pezzi per {gold} oro. Gli scaffali sospirano di sollievo.
+UI_UIA_AUTO_BTN,Auto-sell rules...,Vendita automatica...
+UI_UIA_AUTO_BTN_TIP,"Rules that sell junk for you while you are busy doing better things.","Regole che vendono la roba inutile al posto tuo, mentre fai cose migliori."
+UI_UIA_AUTO_TITLE,Auto-sell rules,Regole di vendita automatica
+UI_UIA_AUTO_CLOSE,Done,Fatto
+UI_UIA_AUTO_HELP,"Every few seconds the rules below sell whatever matches. Locked, worn and unique items are never touched, and the Market still applies its usual demand and tax.","Ogni pochi secondi le regole qui sotto vendono ciò che corrisponde. Bloccati, indossati e unici non si toccano mai, e il Mercato applica la solita domanda e la solita tassa."
+UI_UIA_AUTO_LOCKED,"Locked. Buy the Auto-Sell node in the Constellations to unlock this, and the Market must be open too.","Bloccato. Compra il nodo Vendita Automatica nelle Costellazioni per averlo, e anche il Mercato deve essere aperto."
+UI_UIA_AUTO_MASTER,Auto-sell is on,Vendita automatica attiva
+UI_UIA_AUTO_RULES,Your rules,Le tue regole
+UI_UIA_AUTO_NONE,No rules yet. The hoarding continues.,Nessuna regola per ora. L'accumulo continua.
+UI_UIA_AUTO_NEW,New rule,Nuova regola
+UI_UIA_AUTO_PREVIEW,This rule would sell {n} pieces for about {gold} gold right now.,Questa regola venderebbe adesso {n} pezzi per circa {gold} oro.
+UI_UIA_AUTO_ADD,Add rule,Aggiungi regola
+UI_UIA_AUTO_DELETE,Remove,Togli
+UI_UIA_AUTO_FULL,All rule slots are taken.,Hai già usato tutti i posti per le regole.
+UI_UIA_AUTO_DUP,"That rule already exists, or the limit is reached.","Quella regola esiste già, oppure hai raggiunto il limite."
+UI_UIA_AUTOSOLD,Auto-sell: {n} pieces gone for {gold} gold.,Vendita automatica: {n} pezzi via per {gold} oro.
+UI_UIA_ACT_EQUIP,Equip,Equipaggia
+UI_UIA_ACT_UNEQUIP,Take off,Togli
+UI_UIA_ACT_LOCK,Lock,Blocca
+UI_UIA_ACT_UNLOCK,Unlock,Sblocca
+UI_UIA_ACT_SELL,Sell,Vendi
+UI_UIA_ACT_FUSE,Melt into Shards,Fondi in Schegge
+UI_UIA_ACT_COMPARE,Compare with equipped,Confronta con l'indossato
+UI_UIA_ACT_WHY_DUNGEON,Not possible during a dungeon run.,Non si può durante un dungeon.
+UI_UIA_ACT_WHY_SELL,"Locked, worn, or the Market is not open yet.","Bloccato, indossato, oppure il Mercato non è ancora aperto."
+UI_UIA_ACT_WHY_FUSE,Locked or in use: it cannot be melted.,Bloccato o in uso: non si può fondere.
+UI_UIA_ACT_FUSED,Melted into {n} Shards. It had a good run.,Fuso in {n} Schegge. Ha fatto la sua parte.
+UI_UIA_TIP_VS,Compared with your {name},Confronto con il tuo {name}
+UI_UIA_TIP_SAME,Exactly the same numbers. Pick whichever looks cooler.,Numeri identici. Scegli quello che sta meglio.
+UI_UIA_TIP_RANK,Rank +{r},Grado +{r}
+UI_UIA_TIP_SPEED,Attacks every {s} s,Attacca ogni {s} s
+UI_UIA_TIP_VALUE,Base value: {v} gold,Valore di base: {v} oro
+UI_UIA_BONUS_BTN,Active bonuses,Bonus attivi
+UI_UIA_BONUS_BTN_TIP,Every bonus you have right now and where it comes from.,Ogni bonus che hai adesso e da dove arriva.
+UI_UIA_BONUS_TITLE,Active bonuses,Bonus attivi
+UI_UIA_BONUS_HELP,"Totals per bonus, with every source listed underneath. When a cap clips the total, it says so.","Totali per bonus, con ogni fonte elencata sotto. Quando un tetto taglia il totale, lo dice."
+UI_UIA_BONUS_SEARCH,Search a bonus...,Cerca un bonus...
+UI_UIA_BONUS_COUNT,{n} bonuses in play,{n} bonus in gioco
+UI_UIA_BONUS_NONE,No bonuses yet. Go and earn some.,Ancora nessun bonus. Vai a guadagnartene qualcuno.
+UI_UIA_BONUS_CAPPED,(limit reached: max {cap}),(limite raggiunto: massimo {cap})
+UI_UIA_BONUS_ON,active,attivo
+UI_UIA_SRC_EQUIP,Equipment,Equipaggiamento
+UI_UIA_SRC_WARDROBE,Finish,Finitura
+UI_UIA_SRC_RELIC,Relic,Reliquia
+UI_UIA_SRC_PET,Familiar,Famiglio
+UI_UIA_SRC_STAR,Star,Stella
+UI_UIA_SRC_CONSTELLATION,Constellations,Costellazioni
+UI_UIA_SRC_TALENTS,Talents,Talenti
+UI_UIA_SRC_COLLECTION,Collection,Collezione
+UI_UIA_SRC_COLLECTION_GOLD,Golden collection,Collezione aurea
+UI_UIA_SRC_POTION,Potion,Pozione
+UI_UIA_SRC_BUFF,Temporary boost,Potenziamento temporaneo
+UI_UIA_SRC_EVENT,Event,Evento
+UI_UIA_SRC_FACTION,Faction,Fazione
+UI_UIA_SRC_DUNGEON,Dungeon,Dungeon
+UI_UIA_SRC_TRIAL,Trial,Prova
+UI_UIA_SRC_PERK,Skill perk,Vantaggio di mansione
+UI_UIA_SRC_TOOL,Skill tool,Attrezzo di mansione
+UI_UIA_SRC_PARTNERS,Partners,Soci
+UI_UIA_SRC_ESTATE,Estate,Tenuta
+UI_UIA_SRC_MODE,Game mode,Modalità di gioco
+UI_UIA_SRC_ERA,Era,Era
+UI_UIA_TAB_ITEMS,Items,Oggetti
+UI_UIA_TAB_MONSTERS,Monsters,Mostri
+UI_UIA_TAB_UNIQUES,Uniques,Unici
+UI_UIA_TAB_TOTALS,Totals,Totali
+UI_UIA_HEAD_COMPLETION,Completion {pct},Completamento {pct}
+UI_UIA_CODEX_PROGRESS,{have} of {total} ({pct}),{have} su {total} ({pct})
+UI_UIA_CODEX_ONLY_MISSING,Only what I am missing,Solo quelli che mi mancano
+UI_UIA_CODEX_MISSING,not yet,non ancora
+UI_UIA_CODEX_ITEMS_HELP,"Every item in the game. Colored ones you have owned at least once, even if you sold them. Gray ones are still out there.","Ogni oggetto del gioco. A colori quelli che hai avuto almeno una volta, anche se li hai venduti. In grigio quelli che ti aspettano ancora."
+UI_UIA_CODEX_UNIQUES_HELP,"One-of-a-kind boss drops. Slim odds, big bragging rights.","Drop unici dei boss. Probabilità sottili, vanto enorme."
+UI_UIA_CODEX_MON_HELP,"Kills per monster, and the drops from its table: colored boxes are drops you have seen, gray boxes are still missing. Odds live in the Manual.","Uccisioni per mostro e drop della sua tabella: le caselle a colori sono drop già visti, quelle grigie mancano ancora. Le probabilità stanno nel Manuale."
+UI_UIA_CODEX_LV,Lv,Liv
+UI_UIA_CODEX_KILLS,{n} kills,{n} uccisioni
+UI_UIA_CODEX_MON_PICK,Pick a monster on the left to see its drops.,Scegli un mostro a sinistra per vedere i suoi drop.
+UI_UIA_CODEX_MON_INFO,Level {lv} · {kills} defeated · {zone},Livello {lv} · {kills} sconfitti · {zone}
+UI_UIA_CODEX_DROPS,Drops seen: {have} of {total},Drop visti: {have} su {total}
+UI_UIA_CODEX_NO_DROPS,This monster drops nothing worth a box.,Questo mostro non lascia niente degno di una casella.
+UI_UIA_CODEX_TOTAL,Overall completion,Completamento totale
+UI_UIA_CODEX_TOTAL_LINE,{pct} ({have} of {total}),{pct} ({have} su {total})
+UI_UIA_CODEX_SEC_ITEMS,Items,Oggetti
+UI_UIA_CODEX_SEC_MONSTERS,Monsters met,Mostri incontrati
+UI_UIA_CODEX_SEC_UNIQUES,Uniques,Unici
+UI_UIA_CODEX_SEC_PETS,Familiars,Famigli
+UI_UIA_CODEX_LIFETIME,Lifetime counters,Contatori a vita
+UI_UIA_CODEX_LIFETIME_HELP,"Everything you have done since the first swing, in one place. The numbers do not judge.","Tutto ciò che hai fatto dal primo colpo, in un posto solo. I numeri non giudicano."
+UI_UIA_CODEX_LT_KILLS,Monsters defeated,Mostri sconfitti
+UI_UIA_CODEX_LT_ACTIONS,Skill actions,Azioni di mansione
+UI_UIA_CODEX_LT_CRATES,Crates opened,Casse aperte
+UI_UIA_CODEX_LT_STARS,Star finds,★ trovate
+UI_UIA_CODEX_LT_GOLD,Gold earned,Oro guadagnato
+UI_UIA_CODEX_LT_PLAYTIME_S,Time played,Tempo giocato
+UI_UIA_CODEX_LT_OFFLINE_S,Time away (offline),Tempo offline
+UI_UIA_COS_SECTION_BANNER,Banners,Stendardi
+UI_UIA_COS_SECTION_EMBLEM,Emblems,Emblemi
+UI_UIA_COS_COUNT,{n} of {total} collected,{n} su {total} ottenuti
+UI_UIA_COS_NONE_BANNER,"No banners yet. They come out of Banner Capsules and events.","Nessuno stendardo per ora. Escono dalle Capsule degli Stendardi e dagli eventi."
+UI_UIA_COS_NONE_EMBLEM,"No emblems yet. They come out of Emblem Capsules.","Nessun emblema per ora. Escono dalle Capsule degli Emblemi."
+UI_UIA_COS_USE,Show on your profile,Mostra nel profilo
+UI_UIA_COS_REMOVE,Take off your profile,Togli dal profilo
+UI_UIA_PROFILE_EDIT,Change...,Cambia...
+UI_UIA_PROFILE_NO_TITLE,No title worn,Nessun titolo indossato
+UI_UIA_PROFILE_EMPTY,"No banner or emblem yet. Pick them in the Compendium once you own some.","Nessuno stendardo o emblema per ora. Sceglili nel Compendio quando ne avrai."
+UI_UIA_BD_BASE,base,base
+UI_UIA_BD_LEVEL,from level,dal livello
+UI_UIA_BD_PRIMARY,from main attribute,dall'attributo principale
+UI_UIA_BD_DEX,from Dexterity,dalla Destrezza
+UI_UIA_BD_VIT,from Vitality,dalla Vitalità
+UI_UIA_BD_GEAR,from equipment,dall'equipaggiamento
+UI_UIA_BD_WEAPON,from weapon,dall'arma
+UI_UIA_BD_POWER,from attack power,dalla potenza
+UI_UIA_BD_BONUS,from bonuses,dai bonus
+UI_UIA_BD_HASTE,from haste,dalla rapidità
+UI_UIA_BD_OTHER,from other effects,da altri effetti
+UI_UIA_DRAG_TIP,Drag to change the priority of this ability.,Trascina per cambiare la priorità di questa abilità.
+UI_UIA_SET_NOTIFY,Notifications,Notifiche
+UI_UIA_SET_NOTIFY_HELP,"Switch off the chatter you do not want. Warnings, errors and a full bank always get through.","Spegni le chiacchiere che non ti servono. Avvisi importanti, errori e Deposito pieno passano sempre."
+UI_UIA_NOTIFY_LOOT,Loot and sales,Bottino e vendite
+UI_UIA_NOTIFY_PROGRESS,Progress and rewards,Progressi e ricompense
+UI_UIA_NOTIFY_ACHIEVEMENTS,Feats and titles,Imprese e titoli
+UI_UIA_NOTIFY_LEVELS,Level ups,Salite di livello
+UI_UIA_NOTIFY_EVENTS,Events and secrets,Eventi e luoghi segreti
+UI_UIA_NOTIFY_BOSS,World boss alerts,Avvisi del boss mondiale
+UI_UIA_NOTIFY_INFO,General info,Informazioni generali
+UI_UIA_SET_COMBAT_LOG,Combat log,Registro di combattimento
+UI_UIA_SET_CONFIRM_QUIT,Ask before closing during a fight,Chiedi conferma se chiudo durante un combattimento
+UI_UIA_LOG_ON,Log on,Registro attivo
+UI_UIA_LOG_ON_TIP,"Turn the log off if you want a quieter screen. Everything else keeps working.","Spegnilo se vuoi uno schermo più quieto. Tutto il resto continua a funzionare."
+UI_UIA_LOG_F_ALL,Everything,Tutto
+UI_UIA_LOG_F_RARE,Rare drops only,Solo drop rari
+UI_UIA_LOG_F_BOSS,Boss events only,Solo eventi del boss
+UI_UIA_LOG_RARE_DROP,Rare drop: {name},Drop raro: {name}
+UI_UIA_QUIT_TITLE,Leave in the middle of a fight?,Esci nel mezzo di uno scontro?
+UI_UIA_QUIT_OK,Save and quit,Salva ed esci
+UI_UIA_QUIT_CANCEL,Stay,Resta
+UI_UIA_QUIT_BODY,"Your hero is fighting. The game saves right now and the fight carries on while you are away, within your offline limit.","Il tuo eroe sta combattendo. Il gioco salva subito e lo scontro prosegue mentre sei via, entro il tuo limite offline."
+UI_UIA_QUIT_SAFETY,Hero status: {state},Stato dell'eroe: {state}
+UI_UIA_QUIT_FOOD,Food lasts: {time},Il cibo dura: {time}
+UI_UIA_QUIT_NOSAFE,"No safety estimate for this fight. Eat something before you go.","Nessuna stima di sicurezza per questo scontro. Mangia qualcosa prima di andare."

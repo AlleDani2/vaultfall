@@ -1,0 +1,49 @@
+keys,en,it
+UI_GAPM_RANK_SECTION,Item Rank,Rango degli oggetti
+UI_GAPM_RANK_HELP,"Each Rank adds +4% to the item's weapon damage, armor, ward, health, accuracy and evasion. It costs Era Essence plus gold, and the cap grows with your highest Era. Gunilde does the hammering; you do the paying.","Ogni Rango aggiunge +4% a danno dell'arma, armatura, barriera, vita, precisione ed evasione dell'oggetto. Costa Essenza d'Era più oro, e il tetto cresce con la tua Era più alta. Gunilde martella, tu paghi."
+UI_GAPM_RANK_NONE,No gear to rank up. Find or craft a piece of equipment first: even Gunilde can't polish thin air.,Nessun equipaggiamento da migliorare. Prima trova o crea un pezzo: nemmeno Gunilde sa lucidare l'aria.
+UI_GAPM_RANK_TITLE,Rank,Rango
+UI_GAPM_RANK_LINE,Rank {from} → {to} (max {cap}),Rango {from} → {to} (massimo {cap})
+UI_GAPM_RANK_COST,Cost: {essence} Era Essence (you have {have_e}) + {gold} gold (you have {have_g}),Costo: {essence} Essenza d'Era (ne hai {have_e}) + {gold} oro (ne hai {have_g})
+UI_GAPM_RANK_GAIN,Gain: {stats},Guadagno: {stats}
+UI_GAPM_RANK_BUTTON,Rank up,Sali di Rango
+UI_GAPM_RANK_CONFIRM,"Spend it all on this piece? Ranks never go away, and neither do the coins once Gunilde pockets them.
+
+{text}","Spendi tutto per questo pezzo? Il Rango resta per sempre, e anche le monete, una volta in tasca a Gunilde.
+
+{text}"
+UI_GAPM_RANK_DONE,"Rank {rank} reached. The item is shinier, and so is your ego.","Rango {rank} raggiunto. L'oggetto luccica di più, e anche il tuo ego."
+UI_GAPM_RANK_REASON_NO_ITEM,This item isn't in the Bank anymore.,Questo oggetto non è più nel Deposito.
+UI_GAPM_RANK_REASON_NOT_GEAR,"Only Hero equipment can rank up (no skill tools, skins or relics).","Solo l'equipaggiamento dell'Eroe sale di Rango (niente attrezzi di mansione, finiture o reliquie)."
+UI_GAPM_RANK_REASON_LOCKED,Ranks open up from Era {era}: beat the Vault Warden to get there. Era Essence you find earlier is kept for later.,I Ranghi si aprono dall'Era {era}: batti il Custode del Caveau per arrivarci. L'Essenza d'Era trovata prima resta da parte.
+UI_GAPM_RANK_REASON_CAP,Maximum Rank for now. Unlock a higher Era to raise the cap.,"Rango massimo, per ora. Sblocca un'Era più alta per alzare il tetto."
+UI_GAPM_RANK_REASON_DUNGEON,Not inside a dungeon: gear stays as it is until you're out.,Non dentro un dungeon: l'equipaggiamento resta com'è finché non esci.
+UI_GAPM_RANK_REASON_ESSENCE,"Not enough Era Essence. Elites, bosses and dungeon bosses drop it (more in higher Eras).","Essenza d'Era insufficiente. La lasciano élite, boss e boss dei dungeon (di più nelle Ere alte)."
+UI_GAPM_RANK_REASON_GOLD,"Not enough gold. Gunilde accepts only coins, not compliments.","Oro insufficiente. Gunilde accetta solo monete, non complimenti."
+UI_GAPM_HG_RULES,"Turn the hourglass: your current action instantly gets 1 hour of progress, just like time away. Works for skills and zone combat only (no dungeons, raids, Rift, world bosses or Trials). The rest of the world keeps its own pace.","Gira la clessidra: l'azione in corso riceve subito 1 ora di progresso, come il tempo offline. Vale solo per mansioni e combattimento nelle zone (niente dungeon, incursioni, Breccia, boss mondiali o Prove). Il resto del mondo va col suo passo."
+UI_GAPM_HG_USE,Turn the Hourglass,Gira la Clessidra
+UI_GAPM_HG_CONFIRM,Use one Keeper's Hourglass and give {time} of progress to the current action? Ilde says time in a box is still time.,Usare una Clessidra del Custode e dare {time} di progresso all'azione in corso? Ilde dice che il tempo in scatola è sempre tempo.
+UI_GAPM_HG_WB_ROW,Keeper's Hourglass: {time} of progress given to the current action.,Clessidra del Custode: {time} di progresso all'azione in corso.
+UI_GAPM_HG_REASON_NONE,You don't have a Keeper's Hourglass.,Non hai una Clessidra del Custode.
+UI_GAPM_HG_REASON_IDLE,Start an action or a zone fight first: the hour has to go somewhere.,Prima avvia un'azione o un combattimento in una zona: l'ora deve andare da qualche parte.
+UI_GAPM_HG_REASON_ACTIVITY,"Not here: in dungeons, raids, the Rift and world bosses the clock is part of the challenge.","Non qui: in dungeon, incursioni, Breccia e boss mondiali l'orologio fa parte della sfida."
+UI_GAPM_HG_REASON_TRIAL,"Not during a Keeper's Trial: you play against the rules, not against the clock.","Non durante una Prova del Custode: si gioca contro le regole, non contro l'orologio."
+UI_GAPM_CLOCK_REWOUND,"Your computer's clock went back by {time}: no time-away progress this round, and the reference has been reset. Time travel is not a skill (yet).","L'orologio del computer è tornato indietro di {time}: niente progressi offline stavolta, e il riferimento è stato riallineato. Viaggiare nel tempo non è una mansione (per ora)."
+UI_GAPM_PET_DUPE_NODUST,"You already have {name}. Event familiars have no powers, so the duplicate brings no Stardust: just a second hug.","{name} ce l'hai già. I famigli degli eventi non hanno poteri, quindi il doppione non dà Polvere Stellare: solo un secondo abbraccio."
+UI_GAPM_SET_SECTION,Loadouts,Set di equipaggiamento
+UI_GAPM_SET_EMPTY,Slot {n}: empty,Posto {n}: vuoto
+UI_GAPM_SET_DEFAULT_NAME,Loadout {n},Set {n}
+UI_GAPM_SET_PIECES,({n} pieces),({n} pezzi)
+UI_GAPM_SET_MISSING,{n} missing,{n} mancanti
+UI_GAPM_SET_SAVE,Save,Salva
+UI_GAPM_SET_SAVE_HELP,Saves the gear you're wearing now (ammo included) in this slot.,Salva in questo posto l'equipaggiamento che indossi ora (munizioni comprese).
+UI_GAPM_SET_SAVED,Loadout {n} saved.,Set {n} salvato.
+UI_GAPM_SET_OVERWRITE,Replace loadout {n} with what you're wearing now?,Sostituire il set {n} con quello che indossi ora?
+UI_GAPM_SET_APPLY,Wear,Indossa
+UI_GAPM_SET_APPLY_HELP,Takes off your current gear and puts on this loadout. Sold or discarded pieces are skipped.,Toglie l'equipaggiamento attuale e indossa questo set. I pezzi venduti o scartati si saltano.
+UI_GAPM_SET_APPLIED,Loadout on: {n} pieces worn. Looking sharp.,Set indossato: {n} pezzi. Che eleganza.
+UI_GAPM_SET_APPLIED_PART,"Loadout on: {n} pieces worn, {skip} skipped (gone from the Bank or level too low).","Set indossato: {n} pezzi, {skip} saltati (spariti dal Deposito o livello troppo basso)."
+UI_GAPM_SET_CLEAR,Clear,Svuota
+UI_GAPM_SET_CLEAR_CONFIRM,Clear loadout {n}? The items stay in the Bank; only the list is forgotten.,Svuotare il set {n}? Gli oggetti restano nel Deposito; si dimentica solo l'elenco.
+UI_GAPM_SET_REASON_EMPTY,This slot is empty: save a loadout first.,Questo posto è vuoto: prima salva un set.
+UI_GAPM_SET_REASON_DUNGEON,Not inside a dungeon: finish the run first.,Non dentro un dungeon: prima finisci la corsa.

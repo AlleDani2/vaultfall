@@ -1,0 +1,8 @@
+keys,en,it
+UI_Q97_PREP_TITLE,Not ready to fight,Meglio prepararsi prima di combattere
+UI_Q97_PREP_GO,Fight anyway,Combatti lo stesso
+UI_Q97_PREP_WAIT,I'll get ready,Mi preparo
+UI_Q97_PREP_BODY,"You are missing: {list}. Fighting like this you will fall in under a minute. Craft and wear your gear (Hero screen), cook some food, then come back.","Ti manca: {list}. Combattendo così cadrai in meno di un minuto. Forgia e indossa l'equipaggiamento (schermata Eroe), cucina del cibo e poi torna qui."
+UI_Q97_MISSING_WEAPON,a weapon,un'arma
+UI_Q97_MISSING_ARMOR,armor,l'armatura
+UI_Q97_MISSING_FOOD,food,il cibo

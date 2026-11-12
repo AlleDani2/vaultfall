@@ -1,0 +1,31 @@
+keys,en,it
+UI_GSA_COMBAT_REST,No enemy yet: pick a target below and press Start fighting.,Nessun nemico: scegli un bersaglio qui sotto e premi «Inizia a combattere».
+UI_GSA_PR_NOW,If you act now,Se agisci ora
+UI_GSA_PR_NEXT,Next step,Prossimo passo
+UI_GSA_PR_BUY,Worth buying,Da comprare
+UI_GSA_PR_GAIN_DUST,+{n} Stardust,+{n} Polvere Stellare
+UI_GSA_PR_GAIN_PARTNERS,+{n} Partners,+{n} Soci
+UI_GSA_PR_DETAIL_XP,{skill}: skill XP from {from} to {to},{skill}: XP della mansione da {from} a {to}
+UI_GSA_PR_DETAIL_REFOUND,Estate production reaches +{bonus},La produzione della Tenuta arriva a +{bonus}
+UI_GSA_PR_DETAIL_NODE,"Costs {cost}, you have {dust} Stardust","Costa {cost}, hai {dust} Polvere Stellare"
+UI_GSA_PR_STEP,{skill}: level {lv} of {target},{skill}: livello {lv} su {target}
+UI_GSA_PR_STEP_RITE,to reach the Rite,per arrivare al Rito
+UI_GSA_PR_STEP_STAR,to reach the next Star,per arrivare alla prossima Stella
+UI_GSA_PR_CTA_STAR,Earn the Star,Ottieni la Stella
+UI_GSA_PR_CTA_RITE,Perform the Rite,Fai il Rito
+UI_GSA_PR_CTA_REFOUND,Refound the Estate,Rifonda la Tenuta
+UI_GSA_PR_CTA_NODE,Go to Constellations,Vai alle Costellazioni
+UI_GSA_PR_PREVIEW,What happens if you do it,Cosa succede se lo fai
+UI_GSA_PR_COMING,What is coming,Cosa arriverà
+UI_GSA_PR_LOCKED,Locked,Bloccato
+UI_GSA_PR_TEASE_CONSTELLATIONS,Permanent bonuses bought with Stardust. They open with your first Star.,Bonus permanenti da comprare con la Polvere Stellare. Si aprono con la tua prima Stella.
+UI_GSA_PR_TEASE_REFOUND,Start the Estate over and earn Partners that boost it for good. Opens with the Estate.,Ricomincia la Tenuta e ottieni Soci che la potenziano per sempre. Si apre con la Tenuta.
+UI_GSA_PR_TEASE_ERA,Climb to a harder world with bigger rewards. Opens after beating the Vault Warden.,Sali in un mondo più difficile con ricompense maggiori. Si apre battendo il Custode del Caveau.
+UI_GSA_PR_TEASE_TRIALS,Challenges with special rules and permanent prizes. They open in Chapter V of the story.,Sfide con regole speciali e premi permanenti. Si aprono nel Capitolo V della storia.
+UI_GSA_SUM_LEVEL,Total level,Livello totale
+UI_GSA_SUM_BANK,Bank,Deposito
+UI_GSA_SUM_FREE,{n} free slots,{n} spazi liberi
+UI_GSA_SUM_OPEN,Open {what},Apri {what}
+UI_GSA_SUM_TODO_MORE,and {n} more,e altri {n}
+UI_GSA_HERO_LEVEL,Level {level},Livello {level}
+UI_GSA_TAL_SPEND,Spend your points,Spendi i punti

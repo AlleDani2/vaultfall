@@ -1,0 +1,5 @@
+keys,en,it
+UI_TOTLV_WITH_MIN,"{n} (minimum {min})","{n} (minimo {min})"
+UI_TOTLV_TIP,"Total level: the sum of all task levels. Every task starts at level 1, so the minimum is {min}.","Livello totale: la somma dei livelli di tutte le mansioni. Ognuna parte dal livello 1, quindi il minimo è {min}."
+UI_FIN_CTL_RESET_SWAP,"Another command was using those keys: {names} got the keys of this one in exchange.","Un altro comando usava quei tasti: {names} ha ricevuto in cambio i tasti di questo."
+UI_SAVESAFE_IMPORT_ERR_BAD_SLOT,"That save slot does not exist.","Quel slot di salvataggio non esiste."

@@ -1,0 +1,115 @@
+keys,en,it
+UI_MENU_VAULT_WORKSHOP,Vault Workshop,Bottega dei Caveau
+UI_CRATES2_TAB_LOCKED,Locked for now. Keep playing: the Magpie will teach you.,Ancora bloccata. Continua a giocare: la Gazza te la insegnerà.
+UI_CRATES2_LOCKED_MARK,[locked],[bloccata]
+UI_CRATES2_YES,"Yes, do it","Sì, procedi"
+UI_CRATES2_NO,"No, wait","No, aspetta"
+UI_CRATES2_WHY_LOCKED_FEATURE,Not unlocked yet.,Non ancora sbloccato.
+UI_CRATES2_WHY_COUNT,Not the right number of items yet.,Non c'è ancora il numero giusto di pezzi.
+UI_CRATES2_WHY_MISSING,That item is no longer in your Bank.,Questo pezzo non è più nel Deposito.
+UI_CRATES2_WHY_LOCKED,It is locked. Unlock it first (the lock is there to protect you from yourself).,È bloccato. Sbloccalo prima (il blocco serve a proteggerti da te stesso).
+UI_CRATES2_WHY_IN_USE,It is in use in the Wardrobe or Reliquary. Take it off first.,È in uso nel Guardaroba o nel Reliquiario. Toglilo prima.
+UI_CRATES2_WHY_KIND,"This only works on skins, not on other kinds of items.","Funziona solo con le finiture, non con altri tipi di oggetto."
+UI_CRATES2_WHY_RARITY,"All items must share the same rarity, and that rarity must be allowed by this reshuffle.","Tutti i pezzi devono avere la stessa rarità, e quella rarità deve essere ammessa da questo rimpasto."
+UI_CRATES2_WHY_VARIANT,Do not mix normal and Annalist skins in the same reshuffle.,Non mescolare finiture normali e Annaliste nello stesso rimpasto.
+UI_CRATES2_WHY_DUP,The same item was picked twice. Nice try.,Lo stesso pezzo è stato scelto due volte. Bel tentativo.
+UI_CRATES2_WHY_NO_OUTPUT,This crate has nothing of the next rarity to give. Pick skins from another crate.,Questa cassa non ha nulla della rarità successiva. Scegli finiture di un'altra cassa.
+UI_CRATES2_WHY_MAX,"Maximum polish reached for this item. It shines enough, really.","Lucidatura massima raggiunta per questo pezzo. Brilla abbastanza, davvero."
+UI_CRATES2_WHY_AT_MIN,Already as good as this skin can get: nothing left to polish.,Più bello di così questa finitura non può diventare: non c'è altro da lucidare.
+UI_CRATES2_WHY_SHARDS,Not enough Vault Shards. Melt a few items to get some.,Schegge del Caveau insufficienti. Fondi qualche pezzo per procurartene.
+UI_CRATES2_WHY_ALREADY,Already an Annalist.,È già Annalista.
+UI_CRATES2_WHY_GOLD,Not enough gold.,Oro insufficiente.
+UI_CRATES2_WHY_SPACE,Your Bank is full. Make room first.,Il Deposito è pieno. Fai spazio prima.
+UI_CRATES2_WHY_NONE,Nothing to collect. The counter clerk is polishing a lid instead.,Niente da ritirare. Allo sportello c'è solo un coperchio da lucidare.
+UI_CRATES2_WHY_UNKNOWN,That is not on sale.,Questo non è in vendita.
+UI_CRATES2_WHY_UNSELLABLE,This item cannot be sold.,Questo pezzo non si può vendere.
+UI_CRATES2_ALREADY_EQUIPPED,Already equipped.,È già equipaggiato.
+UI_CRATES2_LOCK,Lock,Blocca
+UI_CRATES2_UNLOCK,Unlock,Sblocca
+UI_CRATES2_LOCK_TIP,"A locked item cannot be sold, melted or used in reshuffles. Think of it as a seatbelt.","Un pezzo bloccato non si vende, non si fonde e non entra nei rimpasti. Una cintura di sicurezza, insomma."
+UI_CRATES2_FUSE,Melt (+{n} Shards),Fondi (+{n} Schegge)
+UI_CRATES2_FUSE_TIP,Melts the item into Vault Shards. The item is gone; the Shards buy keys and more at the Vault Bank.,Scioglie il pezzo in Schegge del Caveau. Il pezzo sparisce; le Schegge comprano chiavi e altro al Banco dei Caveau.
+UI_CRATES2_SELL,Sell (+{g} gold),Vendi (+{g} oro)
+UI_CRATES2_SELL_TIP,"Sells the item to the in-game Market for gold. Game gold only, nothing real.","Vende il pezzo al Mercato di gioco in cambio di oro. Solo oro di gioco, niente di reale."
+UI_CRATES2_CONTRACT,Reshuffle,Rimpasto
+UI_CRATES2_CONTRACT_TIP,Goes to the Reshuffles with this skin already picked. Nothing happens until you confirm.,Va ai Rimpasti con questa finitura già scelta. Non succede nulla finché non confermi.
+UI_CRATES2_CONTRACT_TIP_GOLDEN,Goes to the Golden Reshuffle with this Mythic already picked. Nothing happens until you confirm.,Va al Rimpasto Aureo con questa Mitica già scelta. Non succede nulla finché non confermi.
+UI_CRATES2_RELIC_FULL,No free Reliquary slot. Take a Relic off in the Wardrobe first.,Nessuno slot libero nel Reliquiario. Togli prima una Reliquia dal Guardaroba.
+UI_CRATES2_CONFIRM_FUSE,"Melt {name}? It will be gone for good and you get Vault Shards instead. No take-backs, not even with Ilde's stamp.","Fondere {name}? Sparirà per sempre e otterrai Schegge del Caveau al suo posto. Niente ripensamenti, nemmeno col timbro di Ilde."
+UI_CRATES2_CONFIRM_SELL,Sell {name}? It will be gone for good and you get gold instead. Bertoldo is already rubbing his hands.,Vendere {name}? Sparirà per sempre e otterrai oro al suo posto. Bertoldo si sta già strofinando le mani.
+UI_CRATES2_FUSED,Melted: +{n} Vault Shards. The item sends its regards.,Fuso: +{n} Schegge del Caveau. Il pezzo manda i suoi saluti.
+UI_CRATES2_SOLD,Sold for {g} gold. Bertoldo smiles in a way you do not like.,Venduto per {g} oro. Bertoldo sorride in un modo che non ti piace.
+UI_CRATES2_BEST,The best of the lot: {name} ({rarity}),La migliore del lotto: {name} ({rarity})
+UI_CRATES2_BEST_TAG,The best of this batch,La migliore di questo lotto
+UI_CRATES2_FILTER_ALL,All,Tutte
+UI_CRATES2_PICK_HINT,Click an item to see its details and actions. Use the filters to show only some rarities.,Clicca un pezzo per vedere dettagli e azioni. Con i filtri mostri solo alcune rarità.
+UI_CRATES2_BULK_FUSE,Melt the {c} Rares of this batch (+{n} Shards),Fondi le {c} Rare di questo lotto (+{n} Schegge)
+UI_CRATES2_BULK_FUSE_TIP,Only Rares that are not locked and not equipped. You will be asked to confirm.,Solo le Rare non bloccate e non equipaggiate. Ti verrà chiesta conferma.
+UI_CRATES2_CONFIRM_BULK,Melt {c} items? They will be gone for good. That's a lot of goodbyes.,Fondere {c} pezzi? Spariranno per sempre. Sono tanti saluti.
+UI_CRATES2_BULK_DONE,Melted {c} items: +{n} Vault Shards.,Fusi {c} pezzi: +{n} Schegge del Caveau.
+UI_CRATES_FOUND_PLAIN,You got: {name},Hai ottenuto: {name}
+UI_CRATES2_CT_INTRO,"Reshuffles turn spare skins into something better. Pick your items, read every possible outcome with its probability, then confirm. There are no stakes: you cannot choose a target, a multiplier or a risk. The outcome is fixed by the rules you see below.","I rimpasti trasformano le finiture in avanzo in qualcosa di meglio. Scegli i pezzi, leggi ogni esito possibile con la sua probabilità, poi conferma. Nessuna posta in gioco: non si sceglie un obiettivo, un moltiplicatore o un rischio. L'esito dipende solo dalle regole che vedi qui sotto."
+UI_CRATES2_CT_MODE_TRADE,Reshuffle,Rimpasto
+UI_CRATES2_CT_MODE_GOLDEN,Golden Reshuffle,Rimpasto Aureo
+UI_CRATES2_CT_TRADE_RULE,Reshuffle: 10 skins of the same rarity and the same variant (all normal or all Annalist) become 1 skin of the next rarity. Each collection is drawn in proportion to how many of your 10 came from it.,Rimpasto: 10 finiture della stessa rarità e della stessa variante (tutte normali o tutte Annaliste) diventano 1 finitura della rarità successiva. La collezione si estrae in proporzione a quanti dei tuoi 10 pezzi ne facevano parte.
+UI_CRATES2_CT_GOLDEN_RULE,"Golden Reshuffle: 5 Mythic skins become 1 Relic ★ from the collections of your 5 skins, again in proportion. The Relic's color phase is drawn with the odds listed below.","Rimpasto Aureo: 5 finiture Mitiche diventano 1 Reliquia ★ delle collezioni dei tuoi 5 pezzi, sempre in proporzione. La fase colore della Reliquia si estrae con le probabilità elencate qui sotto."
+UI_CRATES2_CT_VARIANT_NORMAL,Normal,Normali
+UI_CRATES2_CT_VARIANT_ANNALIST,Annalist,Annaliste
+UI_CRATES2_CT_AUTO,Pick the {n} worst,Scegli i {n} peggiori
+UI_CRATES2_CT_AUTO_TIP,"Picks the items with the worst condition among those you can spend: not locked, not equipped.",Sceglie i pezzi con la condizione peggiore tra quelli che puoi spendere: non bloccati e non equipaggiati.
+UI_CRATES2_CT_CLEAR,Clear selection,Svuota la scelta
+UI_CRATES2_CT_SELECTED,Selected: {n}/{need},Scelti: {n}/{need}
+UI_CRATES2_CT_NO_CANDIDATES,You have no spendable items of this kind. Locked and equipped ones are not listed: the list isn't that mean.,Non hai pezzi spendibili di questo tipo. I bloccati e gli equipaggiati non sono in elenco: l'elenco non è così cattivo.
+UI_CRATES2_CT_NEED,Pick exactly {n} items to see the outcomes. Not one fewer: the form is very clear.,Scegli esattamente {n} pezzi per vedere gli esiti. Non uno di meno: il modulo è molto chiaro.
+UI_CRATES2_CT_OUTCOMES,Every possible outcome,Tutti gli esiti possibili
+UI_CRATES2_CT_OUT_RARITY,You will receive: 1 item of rarity {r} ({v}),Riceverai: 1 pezzo di rarità {r} ({v})
+UI_CRATES2_CT_FLOAT_RULE,The patina is not drawn: it follows from your inputs. Average of your items' positions in their patina range: {m}. The result sits at the same position in the new item's range.,La patina non si estrae: deriva dai tuoi ingressi. Posizione media dei tuoi pezzi nel loro intervallo di patina: {m}. Il risultato sta nella stessa posizione dell'intervallo del nuovo pezzo.
+UI_CRATES2_CT_PREDICTED,predicted patina {f} ({c}),patina prevista {f} ({c})
+UI_CRATES2_CT_TOTAL,Total: {p},Totale: {p}
+UI_CRATES2_CT_PHASES,Color phase of the Relic: {list},Fase colore della Reliquia: {list}
+UI_CRATES2_CT_SIGN,Confirm the reshuffle (spends {n} items),Conferma il rimpasto (consuma {n} pezzi)
+UI_CRATES2_CT_CONFIRM,Sign? The {n} chosen items will be spent for good. The outcome is drawn when you confirm.,Firmare? I {n} pezzi scelti saranno consumati per sempre. L'esito si estrae alla conferma.
+UI_CRATES2_CT_RESULT,Result,Risultato
+UI_CRATES2_RF_INTRO,"The Refinery Bench improves what you already own. Everything here is exact and costs Vault Shards (or gold): you always see the result before paying, and the item never leaves your hands.","Il Banco di Affinatura migliora ciò che già possiedi. Qui tutto è esatto e costa Schegge del Caveau (o oro): vedi sempre il risultato prima di pagare, e il pezzo non lascia mai le tue mani."
+UI_CRATES2_RF_BALANCE,Vault Shards: {s} · Gold: {g},Schegge del Caveau: {s} · Oro: {g}
+UI_CRATES2_RF_NO_ITEMS,"No skins or Relics to work on. Open a few crates first, then come back with something to fuss over.","Nessuna finitura o Reliquia su cui lavorare. Apri prima qualche cassa, poi torna con qualcosa da rifinire."
+UI_CRATES2_RF_EQUIPPED,equipped,equipaggiata
+UI_CRATES2_RF_PICK,Pick an item from the list to see what the Bench can do for it.,Scegli un pezzo dall'elenco per vedere cosa può fare per lui il Banco di Affinatura.
+UI_CRATES2_RF_POLISH,Polish,Lucidatura
+UI_CRATES2_RF_POLISH_PREVIEW,Patina {a} ({ca}) becomes {b} ({cb}). Cost: {cost} Shards. Polishes done: {n}/{max}.,La patina {a} ({ca}) diventa {b} ({cb}). Costo: {cost} Schegge. Lucidature fatte: {n}/{max}.
+UI_CRATES2_RF_POLISH_BTN,Polish ({cost} Shards),Lucida ({cost} Schegge)
+UI_CRATES2_RF_ENGRAVE,Annalist engraving,Incisione Annalista
+UI_CRATES2_RF_ENGRAVE_INFO,Turns a normal skin into an Annalist one: it starts counting actions or kills and grows stronger. Cost: {cost} Shards.,Rende Annalista una finitura normale: comincia a contare azioni o uccisioni e diventa più forte. Costo: {cost} Schegge.
+UI_CRATES2_RF_ENGRAVE_BTN,Engrave ({cost} Shards),Incidi ({cost} Schegge)
+UI_CRATES2_RF_TAG,Name tag,Targhetta
+UI_CRATES2_RF_TAG_INFO,"Gives the item a name of your own. Costs {g} gold. Leave it empty to remove the tag (free). Keep it friendly, it is a tiny plate.","Dà al pezzo un nome tutto tuo. Costa {g} oro. Lascia vuoto per togliere la targhetta (gratis). Resta gentile, è una targhetta minuscola."
+UI_CRATES2_RF_TAG_PLACEHOLDER,Name tag,Targhetta
+UI_CRATES2_RF_TAG_BTN,Apply ({g} gold),Applica ({g} oro)
+UI_CRATES2_RF_TAG_REMOVE,Remove tag,Togli targhetta
+UI_CRATES2_RF_POLISHED,Polished! New patina {f} ({c}).,Lucidato! Nuova patina {f} ({c}).
+UI_CRATES2_RF_ENGRAVED,Engraved: this skin is now an Annalist.,Inciso: ora questa finitura è Annalista.
+UI_CRATES2_RF_TAGGED,Name tag applied.,Targhetta applicata.
+UI_CRATES2_RF_TAG_REMOVED,Name tag removed.,Targhetta tolta.
+UI_CRATES2_VB_INTRO,"The Vault Bank swaps Vault Shards for keys, hourglasses and capsules at fixed prices. Shards come from melting items from your crates. No real money anywhere in here, and no trading with other players.","Il Banco dei Caveau scambia Schegge del Caveau con chiavi, clessidre e capsule a prezzi fissi. Le Schegge vengono dalla fusione dei pezzi delle tue casse. Niente denaro reale, e niente scambi con altri giocatori."
+UI_CRATES2_VB_BALANCE,Vault Shards: {s},Schegge del Caveau: {s}
+UI_CRATES2_VB_STOCK,On sale,In vendita
+UI_CRATES2_VB_OWNED,you have {n},ne hai {n}
+UI_CRATES2_VB_BUY,Buy ({n} Shards),Compra ({n} Schegge)
+UI_CRATES2_VB_BOUGHT,Bought: {name}. Straight into your Bank.,Comprato: {name}. Dritto nel Deposito.
+UI_CRATES2_VB_FUSE,Melt in bulk,Fusione in blocco
+UI_CRATES2_VB_FUSE_INFO,"Melts every item of the chosen rarity, except locked ones and those you are wearing. Rare 1 · Epic 5 · Legendary 25 · Mythic 125 · Relic 500 Shards (before bonuses).","Fonde tutti i pezzi della rarità scelta, tranne i bloccati e quelli che indossi. Rara 1 · Epica 5 · Leggendaria 25 · Mitica 125 · Reliquia 500 Schegge (prima dei bonus)."
+UI_CRATES2_VB_FUSE_BTN,Melt {c} items of rarity {r} (+{n} Shards),Fondi {c} pezzi di rarità {r} (+{n} Schegge)
+UI_CRATES2_CH_INTRO,"Every week you and three rivals compare what you found. Your score is the sum of rarity points of the items you find by opening crates during the week. Nothing is wagered and nothing is put up: you cannot lose anything, and skipping a week costs nothing.","Ogni settimana tu e tre rivali confrontate le vostre scoperte. Il tuo punteggio è la somma dei punti rarità dei pezzi che trovi aprendo casse durante la settimana. Nessuna scommessa, nessun pezzo in palio: non puoi perdere nulla, e saltare una settimana non costa niente."
+UI_CRATES2_CH_PENDING,Prize waiting for you,Premio in attesa
+UI_CRATES2_CH_PENDING_TEXT,Last week you placed {place} with {score} points. Prize: {rewards}.,La settimana scorsa hai chiuso al {place}° posto con {score} punti. Premio: {rewards}.
+UI_CRATES2_CH_NO_REWARD,no prize (only the glory),nessun premio (solo la gloria)
+UI_CRATES2_CH_CLAIM,Collect the prize,Ritira il premio
+UI_CRATES2_CH_CLAIMED,Prize collected. Ilde stamped the receipt.,Premio ritirato. Ilde ha timbrato la ricevuta.
+UI_CRATES2_CH_BOARD,This week's standings,Classifica della settimana
+UI_CRATES2_CH_TIME,Time left this week: {t} of play time,Tempo alla fine della settimana: {t} di gioco
+UI_CRATES2_CH_YOU,You,Tu
+UI_CRATES2_CH_POINTS,Points per rarity,Punti per rarità
+UI_CRATES2_CH_POINTS_NOTE,"Only what you find by opening crates counts. Reshuffles, melting and selling do not change your score.","Contano solo i pezzi trovati aprendo casse. Rimpasti, fusioni e vendite non cambiano il punteggio."
+UI_CRATES2_CH_PRIZES,Prizes by place,Premi per posizione
+UI_CRATES2_CH_STATS,First places: {w} · Best place: {b} · Your rivals play at tier {t},Primi posti: {w} · Miglior piazzamento: {b} · I tuoi rivali giocano al livello {t}
+UI_CRATES2_CH_NO_STAKES,"Rivals are not real people and nothing is traded or staked. In a tie, you place ahead.",I rivali non sono persone vere e non si scambia né si punta nulla. A parità di punti passi avanti tu.

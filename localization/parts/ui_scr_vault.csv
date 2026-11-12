@@ -1,0 +1,12 @@
+keys,en,it
+UI_F11_LEGAL_SHORT,In-game currency only · no real purchases · no trading · odds always shown,Solo valuta di gioco · nessun acquisto reale · nessuno scambio · probabilità sempre visibili
+UI_F11_CONTENTS,Full contents (odds per item),Contenuto completo (probabilità per finitura)
+UI_F11_ALBUM_SKINS,Skins {o}/{t},Finiture {o}/{t}
+UI_F11_ALBUM_ACTIVE,In progress ({n}),In corso ({n})
+UI_F11_ALBUM_DONE,Finished ({n}),Finite ({n})
+UI_F11_ALBUM_UNSTARTED,Not started ({n}),Non iniziate ({n})
+UI_F11_ALBUM_BONUS_TOTAL,Collection bonuses active: {n}/{t},Bonus di collezione attivi: {n}/{t}
+UI_F11_WD_TAB_WORN,Worn,Indossati
+UI_F11_WD_TAB_BONUS,Active bonuses,Bonus attivi
+UI_F11_WD_TAB_RELIQ,Reliquaries,Reliquiari
+UI_F11_WD_PICK_HINT,Pick a slot to see what you can wear there and what is still missing.,Scegli uno slot per vedere cosa puoi indossare e cosa ti manca.

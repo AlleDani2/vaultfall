@@ -1,0 +1,6 @@
+keys,en,it
+UI_ERA_CRATE_NOTICE,"The Vault Warden left behind {n}× {crate}. It is in your Bank: open it from the Crates screen, odds printed on top.","Il Custode del Caveau ha lasciato {n}× {crate}. È nel Deposito: si apre dalla schermata Casse, probabilità scritte sopra."
+UI_TRIALS_FAIL_OFFLINE,"the game was closed and a timed Trial cannot wait","il gioco è stato chiuso e una Prova a tempo non può aspettare"
+UI_TRIALS_WB_CANCELLED,"Trial “{name}” canceled: its clock does not stop while you are away. Nothing lost, start it again from the Trials tab.","Prova «{name}» annullata: il suo cronometro non si ferma mentre sei via. Non hai perso nulla, puoi ricominciarla dalla scheda Prove."
+UI_TRIALS_TIMED_WARNING,"Timed Trial: the clock starts now and the Trial is canceled if you close the game.","Prova a tempo: il cronometro parte adesso e la Prova si annulla se chiudi il gioco."
+UI_PRESTIGE_REASON_RITE_HERO,"No Rite for the Hero: it would reset the level that opens the zones of the story. The Hero's Star comes at level 100.","Niente Rito per l'Eroe: azzererebbe il livello che apre le zone della storia. La Stella dell'Eroe arriva al livello 100."

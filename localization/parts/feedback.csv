@@ -1,0 +1,80 @@
+keys,en,it
+UI_FB_VERSION,VAULTFALL {v} (build {build}),VAULTFALL {v} (build {build})
+UI_FB_SECTION,Help the development (Alpha),Aiuta lo sviluppo (Alfa)
+UI_FB_NEWS_TITLE,What's new,Novità
+UI_FB_NEWS_INTRO,"What changed since last time, written by someone who slept too little.","Cosa è cambiato dall'ultima volta, scritto da qualcuno che ha dormito poco."
+UI_FB_NEWS_VERSION_LINE,Version {v} · {date},Versione {v} · {date}
+UI_FB_NEWS_EMPTY,No news. Strange: there is usually something to brag about.,Nessuna novità. Strano: di solito c'è sempre qualcosa di cui vantarsi.
+UI_FB_REPORT_BUTTON,Report a problem,Segnala un problema
+UI_FB_REPORT_HINT,Makes a ZIP file you can send to the developer. Nothing is sent by itself.,Crea un file ZIP da mandare allo sviluppatore. Non parte niente da solo.
+UI_FB_REPORT_TITLE,Report a problem,Segnala un problema
+UI_FB_REPORT_INTRO,"Something broke, looks weird or made you groan? Good: that is exactly what we need.
+When you press “Create the file” I prepare a ZIP on your Desktop. You send it (chat, email, carrier pigeon) to the friend who gave you the game. I send nothing to anybody: I do not even dare to knock on the internet's door.","Qualcosa si è rotto, è strano o ti ha fatto sbuffare? Bene: ci serve proprio questo.
+Premendo «Crea il file» preparo uno ZIP sul tuo Desktop. Tu lo mandi (chat, mail, piccione viaggiatore) a chi ti ha dato il gioco. Io non mando niente a nessuno: non ho nemmeno il coraggio di bussare a internet."
+UI_FB_REPORT_CONTENTS,"Inside the ZIP: the game version, your operating system and resolution, your settings, the error log, the last 50 lines of the game log, a short summary (total level, hours played, chapter, unlocked systems) and a copy of your save, so we can relive the disaster.","Dentro lo ZIP: la versione del gioco, il tuo sistema operativo e la risoluzione, le impostazioni, il registro degli errori, le ultime 50 righe del registro di gioco, un riepilogo (livello totale, ore giocate, capitolo, sistemi sbloccati) e una copia della tua partita, così possiamo rivivere il disastro."
+UI_FB_REPORT_PRIVACY,"Not inside: passwords, your PC or user name, personal files, holiday photos. Nothing that lives outside VAULTFALL. Want to check? A ZIP opens with a double click.","Non c'è dentro: password, nome del PC o dell'utente, file personali, foto delle vacanze. Niente di ciò che sta fuori da VAULTFALL. Vuoi controllare? Uno ZIP si apre con doppio clic."
+UI_FB_REPORT_NOTE_LABEL,What were you doing? (optional),Cosa stavi facendo? (facoltativo)
+UI_FB_REPORT_NOTE_HINT,E.g. “I was opening a Crate and the game froze. I swore a little.”,Es.: «Stavo aprendo una Cassa e il gioco si è bloccato. Ho imprecato un pochino.»
+UI_FB_REPORT_CREATE,Create the file,Crea il file
+UI_FB_REPORT_CANCEL,Cancel,Annulla
+UI_FB_REPORT_CLOSE,Close,Chiudi
+UI_FB_REPORT_OPEN_FOLDER,Open the folder,Apri la cartella
+UI_FB_REPORT_DONE,"Done! The file is here:
+{path}
+Now send it to whoever gave you the game. Thank you: you just did a favor to your future self (and everyone else's).","Fatto! Il file è qui:
+{path}
+Ora mandalo a chi ti ha dato il gioco. Grazie: hai appena fatto un favore al te stesso del futuro (e a quello di tutti gli altri)."
+UI_FB_REPORT_FAILED,"I could not create the file ({err}). It happens to the best of us. Try again, or take a screenshot of this message and send that instead.","Non sono riuscito a creare il file ({err}). Capita anche ai migliori. Riprova, oppure fai uno screenshot di questo messaggio e manda quello."
+UI_FB_ZIP_README,"VAULTFALL - report file
+
+Hi! The game made this ZIP when someone pressed “Report a problem.”
+Inside: riepilogo.txt (version, system, game state), nota_dell_utente.txt (what they were doing), impostazioni.cfg, log/ (error log and last lines of the game log), salvataggio/ (a copy of the save).
+It contains no passwords, user names or personal files. It was NOT sent anywhere: the person who made it sends it by hand.","VAULTFALL - file di segnalazione
+
+Ciao! Questo ZIP l'ha creato il gioco quando qualcuno ha premuto «Segnala un problema».
+Cosa c'è dentro: riepilogo.txt (versione, sistema, stato della partita), nota_dell_utente.txt (cosa stava facendo), impostazioni.cfg, log/ (registro degli errori e ultime righe del registro di gioco), salvataggio/ (copia della partita).
+Non contiene password, nomi utente o file personali. Non è stato inviato da nessuna parte: lo manda a mano la persona che lo ha creato."
+UI_FB_STATS_TITLE,Play statistics (optional),Statistiche di gioco (facoltative)
+UI_FB_STATS_EXPLAIN,"Off by default. If you switch them on, the game jots down ON YOUR PC where you spend your time, how long passes between rewards, how often you die and in which chapter you quit. Only numbers: no names, no texts, no internet. You can export them and send them to whoever you like (or nobody), and erase them whenever you want.","Spente di default. Se le attivi, il gioco annota SUL TUO PC dove passi il tempo, quanto passa tra una ricompensa e l'altra, quante volte muori e in che capitolo chiudi il gioco. Solo numeri: niente nomi, niente testi, niente internet. Puoi esportarle e mandarle a chi vuoi (o a nessuno) e cancellarle quando vuoi."
+UI_FB_STATS_OPTIN,Record anonymous statistics (on this PC only),Registra le statistiche anonime (solo su questo PC)
+UI_FB_STATS_ID,Random ID (not linked to you): {id},ID casuale (non legato a te): {id}
+UI_FB_STATS_SUMMARY,"Recorded so far: {sessions} sessions, {time} of play.","Registrate finora: {sessions} sessioni, {time} di gioco."
+UI_FB_STATS_EMPTY,Nothing recorded yet. The secret diary is empty.,Ancora niente di registrato. Il diario segreto è vuoto.
+UI_FB_STATS_EXPORT,Export my statistics,Esporta le mie statistiche
+UI_FB_STATS_CLEAR,Erase everything,Cancella tutto
+UI_FB_STATS_CLEAR_CONFIRM,Erase all recorded statistics and the random ID? This cannot be undone.,Cancello tutte le statistiche registrate e l'ID casuale? Non si può annullare.
+UI_FB_STATS_EXPORTED,"Done! I put a CSV file (opens in Excel) and a JSON file here:
+{dir}","Fatto! Ho messo un file CSV (si apre con Excel) e uno JSON qui:
+{dir}"
+UI_FB_STATS_EXPORT_FAILED,Could not write the files. The folder is being shy.,Non sono riuscito a scrivere i file. La cartella è timida.
+UI_FB_STATS_CLEARED,Everything erased. As if it never happened.,Cancellato tutto. Come se non fosse mai successo.
+UI_FB_PAUSE_TITLE,Paused,In pausa
+UI_FB_PAUSE_RESUME,Resume,Riprendi
+UI_FB_DEV_TITLE,Developer tools (F10),Strumenti da sviluppatore (F10)
+UI_FB_DEV_WARNING,For developers only: this touches the real game state. Copy the save slot first.,Solo per chi sviluppa: tocca lo stato della partita vera. Prima fai una copia dello slot.
+UI_FB_DEV_TIME,Skip ahead in time,Salta avanti nel tempo
+UI_FB_DEV_GOLD,Gold,Oro
+UI_FB_DEV_GIVE,Give,Dai
+UI_FB_DEV_ITEM,Item (id and quantity),Oggetto (id e quantità)
+UI_FB_DEV_LEVELS,Levels,Livelli
+UI_FB_DEV_SET,Set,Imposta
+UI_FB_DEV_ALL_SKILLS,All skills to this level,Tutte le mansioni a questo livello
+UI_FB_DEV_CHAPTER,Chapters,Capitoli
+UI_FB_DEV_UNLOCK,Unlock up to,Sblocca fino a
+UI_FB_DEV_DATE,Event date (YYYY-MM-DD),Data degli eventi (AAAA-MM-GG)
+UI_FB_DEV_REAL_CLOCK,Real clock,Orologio vero
+UI_FB_DEV_SAVE,Save,Salvataggio
+UI_FB_DEV_FORCE_SAVE,Force a save now,Forza il salvataggio ora
+UI_FB_DEV_FRIEND,Load a friend's save,Carica il salvataggio di un'altra persona
+UI_FB_DEV_FRIEND_HINT,Pick a .sav file or a report ZIP. It goes into the chosen slot (it overwrites it!).,Scegli un file .sav o lo ZIP di una segnalazione. Finisce nello slot scelto (lo sovrascrive!).
+UI_FB_DEV_BROWSE,Browse…,Sfoglia…
+UI_FB_DEV_LOAD,Load,Carica
+UI_FB_DEV_CLOSE,Close (F10),Chiudi (F10)
+UI_FB_DEV_OK,Done,Fatto
+UI_FB_DEV_FAIL,Did not work,Non riuscito
+UI_FB_DEV_DONE_TIME,Skipped {h} hours,Saltate {h} ore
+UI_FB_DEV_DONE_ITEM,Added {n} items,Aggiunti {n} oggetti
+UI_FB_DEV_DONE_LEVEL,Level reached: {n},Livello raggiunto: {n}
+UI_FB_DEV_DONE_ALL,{n} skills updated,{n} mansioni aggiornate
+UI_FB_DEV_DONE_CHAPTER,{n} quests claimed,{n} missioni riscattate
+UI_FB_DEV_LOAD_FAILED,Load failed: {err},Caricamento fallito: {err}

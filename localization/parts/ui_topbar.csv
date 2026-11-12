@@ -1,0 +1,30 @@
+keys,en,it
+UI_TOP_SC_PAUSE,Pause / resume,Pausa / riprendi
+UI_TOP_CUR_TITLE,Currencies,Valute
+UI_TOP_CUR_INTRO,"Everything you own besides items, and where each one is spent.","Tutto ciò che possiedi oltre agli oggetti, e dove si spende."
+UI_TOP_CUR_GOLD_USE,"Gold: buys at shops, expands the Bank and pays for most upgrades. Sell items at the Market to earn more.","Oro: si spende nei negozi, per espandere il Deposito e per quasi ogni miglioria. Vendi gli oggetti al Mercato per averne di più."
+UI_TOP_GOLD_TIP,{n} gold · click for all currencies,{n} oro · clic per tutte le valute
+UI_TOP_DUST_TIP,{n} Stardust · spent in the Constellations (click to open),{n} Polvere Stellare · si spende nelle Costellazioni (clic per aprire)
+UI_TOP_BANK_FREE,{n} free,{n} liberi
+UI_TOP_BANK_FREE_WARN,{n} free!,{n} liberi!
+UI_TOP_BANK_FULL,FULL,PIENO
+UI_TOP_BANK_FULL_CART,FULL · {n},PIENO · {n}
+UI_TOP_BANK_TIP,"Slots {used}/{cap} · Cart {cart} · key {key}
+Click to open the Bank","Spazi {used}/{cap} · Carro {cart} · tasto {key}
+Clic per aprire il Deposito"
+UI_TOP_PAUSED,❚❚ PAUSED,❚❚ IN PAUSA
+UI_TOP_IDLE_HINT,— pick an activity ▸,— scegli un'attività ▸
+UI_TOP_IDLE_TIP,Nothing in progress. Click to open the Summary and pick an activity.,Nessuna attività in corso. Clic per aprire il Riepilogo e sceglierne una.
+UI_TOP_ACT_TIP,Click to open this activity,Clic per aprire questa attività
+UI_TOP_WAITING,Out of materials,Materiali finiti
+UI_TOP_COMBAT,Combat,Combattimento
+UI_TOP_KILLS,{n} kills,{n} uccisioni
+UI_TOP_KILLS_ONE,{n} kill,{n} uccisione
+UI_TOP_PAUSE_TIP,Pause · key {key},Pausa · tasto {key}
+UI_TOP_PAUSE_TIP_ON,Resume · key {key},Riprendi · tasto {key}
+UI_TOP_SAVE_TIP,Save now · {when},Salva ora · {when}
+UI_TOP_SAVE_NOW,saved just now,salvato adesso
+UI_TOP_SAVE_AGO,saved {time} ago · autosave on,salvato {time} fa · autosalvataggio attivo
+UI_TOP_SETTINGS_TIP,Settings · key {key},Impostazioni · tasto {key}
+UI_TOP_BANK_FREE_ONE,{n} free,{n} libero
+UI_TOP_BANK_FREE_WARN_ONE,{n} free!,{n} libero!

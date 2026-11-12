@@ -1,0 +1,118 @@
+[gd_resource type="Theme" format=3]
+
+[ext_resource type="Texture2D" path="res://assets/ui/frames/panel_card_progress.png" id="1_rfrkf"]
+[ext_resource type="Texture2D" path="res://assets/ui/frames/panel_content_progress.png" id="2_pr6xe"]
+[ext_resource type="Texture2D" path="res://assets/ui/frames/progress_fill_indigo.png" id="3_24usx"]
+[ext_resource type="FontFile" path="res://assets/fonts/AtkinsonHyperlegibleNext-Bold.ttf" id="4_bgivx"]
+[ext_resource type="FontFile" path="res://assets/fonts/VaultfallSymbols-Regular.ttf" id="5_8rae8"]
+[ext_resource type="FontFile" path="res://assets/fonts/DepartureMono-Regular.otf" id="6_iym7s"]
+[ext_resource type="Texture2D" path="res://assets/ui/frames/banner_section_progress.png" id="7_iljxx"]
+[ext_resource type="Texture2D" path="res://assets/ui/frames/banner_title_progress.png" id="8_ub3e1"]
+[ext_resource type="Texture2D" path="res://assets/ui/frames/topbar_progress.png" id="9_q1mv8"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_gyqjv"]
+content_margin_left = 10.0
+content_margin_top = 8.0
+content_margin_right = 10.0
+content_margin_bottom = 8.0
+texture = ExtResource("1_rfrkf")
+texture_margin_left = 8.0
+texture_margin_top = 8.0
+texture_margin_right = 8.0
+texture_margin_bottom = 8.0
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_5itjs"]
+content_margin_left = 12.0
+content_margin_top = 10.0
+content_margin_right = 12.0
+content_margin_bottom = 10.0
+texture = ExtResource("2_pr6xe")
+texture_margin_left = 10.0
+texture_margin_top = 10.0
+texture_margin_right = 10.0
+texture_margin_bottom = 10.0
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_6pj0n"]
+content_margin_left = 2.0
+content_margin_top = 2.0
+content_margin_right = 2.0
+content_margin_bottom = 2.0
+texture = ExtResource("3_24usx")
+texture_margin_left = 2.0
+texture_margin_top = 2.0
+texture_margin_right = 2.0
+texture_margin_bottom = 2.0
+
+[sub_resource type="SystemFont" id="SystemFont_f88yu"]
+font_names = PackedStringArray("Segoe UI Symbol", "Noto Sans Symbols2", "DejaVu Sans", "Arial", "sans-serif")
+
+[sub_resource type="FontVariation" id="FontVariation_6sxls"]
+fallbacks = Array[Font]([ExtResource("5_8rae8"), ExtResource("6_iym7s"), SubResource("SystemFont_f88yu")])
+base_font = ExtResource("4_bgivx")
+opentype_features = {
+"tnum": 1
+}
+spacing_top = -1
+spacing_bottom = -2
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_qsmm4"]
+content_margin_left = 16.0
+content_margin_top = 2.0
+content_margin_right = 6.0
+content_margin_bottom = 3.0
+texture = ExtResource("7_iljxx")
+texture_margin_left = 12.0
+texture_margin_top = 2.0
+texture_margin_right = 6.0
+texture_margin_bottom = 2.0
+
+[sub_resource type="FontVariation" id="FontVariation_6ofjc"]
+fallbacks = Array[Font]([ExtResource("5_8rae8"), SubResource("SystemFont_f88yu")])
+base_font = ExtResource("6_iym7s")
+opentype_features = {
+"tnum": 1
+}
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_5p5np"]
+content_margin_left = 30.0
+content_margin_top = 3.0
+content_margin_right = 30.0
+content_margin_bottom = 3.0
+texture = ExtResource("8_ub3e1")
+texture_margin_left = 22.0
+texture_margin_top = 4.0
+texture_margin_right = 22.0
+texture_margin_bottom = 4.0
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_mtjjb"]
+content_margin_left = 12.0
+content_margin_top = 4.0
+content_margin_right = 12.0
+content_margin_bottom = 12.0
+texture = ExtResource("9_q1mv8")
+texture_margin_bottom = 8.0
+axis_stretch_horizontal = 1
+
+[resource]
+CardPanel/base_type = &"PanelContainer"
+CardPanel/styles/panel = SubResource("StyleBoxTexture_gyqjv")
+ContentPanel/base_type = &"PanelContainer"
+ContentPanel/styles/panel = SubResource("StyleBoxTexture_5itjs")
+ProgressBar/styles/fill = SubResource("StyleBoxTexture_6pj0n")
+SectionLabel/base_type = &"Label"
+SectionLabel/colors/font_color = Color(0.59607846, 0.6509804, 1, 1)
+SectionLabel/font_sizes/font_size = 18
+SectionLabel/fonts/font = SubResource("FontVariation_6sxls")
+SectionLabel/styles/normal = SubResource("StyleBoxTexture_qsmm4")
+TitleLabel/base_type = &"Label"
+TitleLabel/colors/font_color = Color(0.9411765, 0.8509804, 0.627451, 1)
+TitleLabel/colors/font_outline_color = Color(0.02745098, 0.03137255, 0.043137256, 1)
+TitleLabel/colors/font_shadow_color = Color(0, 0, 0, 0.55)
+TitleLabel/constants/outline_size = 4
+TitleLabel/constants/shadow_offset_x = 0
+TitleLabel/constants/shadow_offset_y = 2
+TitleLabel/font_sizes/font_size = 22
+TitleLabel/fonts/font = SubResource("FontVariation_6ofjc")
+TitleLabel/styles/normal = SubResource("StyleBoxTexture_5p5np")
+TopBarPanel/base_type = &"PanelContainer"
+TopBarPanel/styles/panel = SubResource("StyleBoxTexture_mtjjb")

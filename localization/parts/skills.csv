@@ -1,0 +1,78 @@
+keys,en,it
+UI_SKILLS_START,Start,Avvia
+UI_SKILLS_STOP,Stop,Ferma
+UI_SKILLS_IDLE_TITLE,"Resting, officially","A riposo, ufficialmente"
+UI_SKILLS_IDLE,"Nothing in progress. Pick an action below and press Start: it keeps going on its own, even while you are away. Nobody is judging. Livia would do the same, from the couch.","Niente in corso. Scegli un'azione qui sotto e premi Avvia: va avanti da sola, anche quando non ci sei. Nessuno ti giudica: Livia farebbe lo stesso, dal divano."
+UI_SKILLS_LEVEL,Level {n},Livello {n}
+UI_SKILLS_LEVEL_MAX,Level {n} (maximum),Livello {n} (massimo)
+UI_SKILLS_XP,{cur} / {need} XP,{cur} / {need} XP
+UI_SKILLS_NEXT_LEVEL,Next level in {time},Prossimo livello tra {time}
+UI_SKILLS_REQ_LEVEL,Unlocks at level {n},Si sblocca al livello {n}
+UI_SKILLS_TIME_XP,{time} · {xp} XP,{time} · {xp} XP
+UI_SKILLS_SUCCESS,success {n},successo {n}
+UI_SKILLS_BURN,burn risk {n},rischio di bruciare {n}
+UI_SKILLS_QUALITY,Normal {a} · Fine {b} · Excellent {c} · Masterwork {d},Normale {a} · Fine {b} · Eccellente {c} · Capolavoro {d}
+UI_SKILLS_PER_HOUR,~{list} / h,~{list} all'ora
+UI_SKILLS_GOLD_PER_HOUR,{n} gold,{n} oro
+UI_SKILLS_XP_PER_HOUR,{n} XP / h,{n} XP all'ora
+UI_SKILLS_INGREDIENTS,Needs: {list},Servono: {list}
+UI_SKILLS_MASTERY,Mastery {n},Maestria {n}
+UI_SKILLS_MASTERY_MAX,Mastery {n} (mastered!),Maestria {n} (padronanza!)
+UI_SKILLS_GAIN,+{n} {item},+{n} {item}
+UI_SKILLS_GOLD,gold,oro
+UI_SKILLS_LEVEL_UP,{skill}: level {n}! Ilde would stamp this.,{skill}: livello {n}! Ilde ci metterebbe un timbro.
+UI_SKILLS_LEVEL_UP_FX,Level {n}!,Livello {n}!
+UI_SKILLS_STUNNED,Caught! Stunned for {time}. The Magpie shakes her head.,Beccato! Stordito per {time}. La Gazza scuote la testa.
+UI_SKILLS_TOOL,Tool: {name},Attrezzo: {name}
+UI_SKILLS_TOOL_BASE,Tool: basic,Attrezzo: di base
+UI_SKILLS_PERKS,Perks,Talenti
+UI_SKILLS_PERK_AVAILABLE,"A new perk is waiting for you: pick one! It won't wait forever, but it's very patient.","Un nuovo talento ti aspetta: scegline uno! Non aspetta in eterno, ma è molto paziente."
+UI_SKILLS_PERK_TIER,Level {n},Livello {n}
+UI_SKILLS_PERK_CHANGE,Change ({gold} gold),Cambia ({gold} oro)
+UI_SKILLS_FILTER_ALL,All,Tutte
+UI_SKILLS_SEARCH,Search…,Cerca...
+UI_SKILLS_ONLY_CRAFTABLE,Only what I can do now,Solo ciò che posso fare ora
+UI_SKILLS_TOPBAR,{skill} (Lv {lv}) · {action},{skill} (Liv. {lv}) · {action}
+UI_SKILLS_TOPBAR_IDLE,Resting,A riposo
+UI_SKILLS_STOP_MATERIALS,"You ran out of materials, so the work stopped. Gather some more and start again (the cupboard stares at you in silence).","Sono finiti i materiali, quindi il lavoro si è fermato. Procurane altri e riparti (la dispensa ti guarda in silenzio)."
+UI_SKILLS_STOP_BANK_FULL,"The Bank is full: the work goes on and what you make waits in the Pickup Cart. Make some room. Yes, that includes the sock collection.","Il Deposito è pieno: il lavoro continua e ciò che produci aspetta nel Carro di Ritiro. Fai un po' di posto. Sì, anche la collezione di calzini."
+UI_SKILLS_REASON_UNKNOWN,That action does not exist. Not even Sefora has heard of it.,Questa azione non esiste. Nemmeno Sefora ne ha mai sentito parlare.
+UI_SKILLS_REASON_FARMING,"Gardens are tended on the Estate, not here. Berta insists.","Gli orti si curano alla Tenuta, non qui. Berta insiste."
+UI_SKILLS_REASON_LEVEL,"Your level is not high enough yet. Come back stronger, or at least taller.","Il tuo livello non è ancora sufficiente. Torna più forte, o almeno più alto."
+UI_SKILLS_REASON_MATERIALS,"You don't have the materials for this yet. Bertoldo sells some, “used only once.”","Non hai ancora i materiali per questa. Bertoldo ne vende, «usati una volta sola»."
+UI_SKILLS_MOD_SKILL_HASTE_PCT,+{v}% speed,+{v}% velocità
+UI_SKILLS_MOD_SKILL_DOUBLE_PCT,+{v}% double yield,+{v}% di resa doppia
+UI_SKILLS_MOD_SKILL_XP_PCT,+{v}% XP,+{v}% XP
+UI_SKILLS_MOD_CRAFT_QUALITY_PCT,+{v}% better quality,+{v}% di qualità migliore
+UI_SKILLS_MOD_SKILL_SAVE_PCT,+{v}% chance to save materials,+{v}% di probabilità di risparmiare i materiali
+UI_SKILLS_MOD_CRATE_FIND_PCT,+{v}% crate finds,+{v}% di casse trovate
+UI_SKILLS_MOD_THIEVERY_STUN_REDUCTION_PCT,-{v}% stun time,-{v}% di tempo da stordito
+UI_SKILLS_MOD_THIEVERY_SUCCESS_PCT,+{v}% success,+{v}% di successo
+UI_SKILLS_MOD_GOLD_GAIN_PCT,+{v}% gold,+{v}% di oro
+UI_SKILLS_MOD_KEY_CRAFT_SAVE_PCT,+{v}% chance to save on keys,+{v}% di risparmio sulle chiavi
+UI_SKILLS_CAT_OILS,Oils,Oli
+UI_SKILLS_CAT_POTIONS,Potions,Pozioni
+UI_SKILLS_CAT_FEAST,Feasts,Banchetti
+UI_SKILLS_CAT_FISH,Fish,Pesce
+UI_SKILLS_CAT_MEAT,Meat,Carne
+UI_SKILLS_CAT_AMULETS,Amulets,Amuleti
+UI_SKILLS_CAT_CUTTING,Gem cutting,Taglio gemme
+UI_SKILLS_CAT_RINGS,Rings,Anelli
+UI_SKILLS_CAT_KEYS,Keys,Chiavi
+UI_SKILLS_CAT_LOCKPICKS,Lockpicks,Grimaldelli
+UI_SKILLS_CAT_PADLOCKS,Padlocks,Lucchetti
+UI_SKILLS_CAT_GLYPHS,Glyphs,Glifi
+UI_SKILLS_CAT_RUNES,Runes,Rune
+UI_SKILLS_CAT_TOMES,Tomes,Tomi
+UI_SKILLS_CAT_PLATE,Plate armor,Armature a piastre
+UI_SKILLS_CAT_SMELTING,Smelting,Fusione
+UI_SKILLS_CAT_TOOLS,Tools,Attrezzi
+UI_SKILLS_CAT_WEAPONS,Weapons,Armi
+UI_SKILLS_CAT_CAPES,Capes,Mantelli
+UI_SKILLS_CAT_CLOTH_ARMOR,Cloth armor,Armature di stoffa
+UI_SKILLS_CAT_LEATHER_ARMOR,Leather armor,Armature di cuoio
+UI_SKILLS_CAT_STRINGS,Cords,Corde
+UI_SKILLS_CAT_TANNING,Tanning,Concia
+UI_SKILLS_CAT_WEAVING,Weaving,Tessitura
+UI_SKILLS_CAT_AMMO,Ammunition,Munizioni
+UI_SKILLS_CAT_PLANKS,Planks,Assi

@@ -1,0 +1,288 @@
+keys,en,it
+UI_MENU_COOP_LOBBY,Friends (Lobby),Amici (Lobby)
+UI_MENU_COOP_GUILD,Friends' Guild,Gilda di amici
+UI_COOPNET_PANEL_TITLE,Friends ({n}) {arrow},Amici ({n}) {arrow}
+UI_COOPNET_PANEL_EMPTY,No friends around. Idle games are better with an audience.,Nessun amico in giro. Un idle si gioca meglio con il pubblico.
+UI_COOPNET_PANEL_OPEN_LOBBY,Open the Lobby,Apri la Lobby
+UI_COOPNET_ROW_NAME,{name} · Lv {lvl},{name} · Liv. {lvl}
+UI_COOPNET_ROW_CONN_ONLINE,● online · {ms} ms,● collegato · {ms} ms
+UI_COOPNET_ROW_CONN_STALE,● lagging… · {ms} ms,● in ritardo… · {ms} ms
+UI_COOPNET_ROW_CONN_OFFLINE,○ gone (probably snacks),○ assente (probabilmente merenda)
+UI_COOPNET_ZZZ,zZz,zZz
+UI_COOPNET_ST_OFFLINE,Not connected,Non collegato
+UI_COOPNET_ST_HOSTING,You are the host,Sei tu l'host
+UI_COOPNET_ST_CONNECTING,Knocking on the door…,Bussando alla porta…
+UI_COOPNET_ST_CONNECTED,Connected · {ms} ms,Collegato · {ms} ms
+UI_COOPNET_ST_SUSPENDED,"Host gone: guild paused, retrying","Host sparito: gilda in pausa, riprovo"
+UI_COOPNET_ACT_SKILL,{skill}: {action},{skill}: {action}
+UI_COOPNET_ACT_COMBAT,Bonking {monster} in {zone},Mena {monster} a {zone}
+UI_COOPNET_ACT_COMBAT_ZONE,Fighting in {zone},Combatte a {zone}
+UI_COOPNET_ACT_RAID,On a raid (do not disturb),In incursione (non disturbare)
+UI_COOPNET_ACT_WBOSS,Poking a world boss,Punzecchia un boss mondiale
+UI_COOPNET_ACT_RIFT,Diving into the Rift,Si tuffa nella Breccia
+UI_COOPNET_ACT_ESTATE,Playing tycoon at the Estate,Fa il tycoon nella Tenuta
+UI_COOPNET_ACT_CRATE,Opening a Crate (sparkles!),Apre una Cassa (scintille!)
+UI_COOPNET_ACT_MARKET,Haggling at the Market,Contratta al Mercato
+UI_COOPNET_ACT_REST,Napping (zZz),Pisolino (zZz)
+UI_COOPNET_ACT_MENU,In the menus,Nei menù
+UI_COOPNET_CARD_TITLE,Friend's card,Scheda dell'amico
+UI_COOPNET_CARD_HINT,Click to open the friend's card,Clic per aprire la scheda dell'amico
+UI_COOPNET_CARD_NAME,Name: {name},Nome: {name}
+UI_COOPNET_CARD_CLASS,Class: {cls},Classe: {cls}
+UI_COOPNET_CARD_NO_CLASS,still deciding,ancora indeciso
+UI_COOPNET_CARD_LEVELS,Total level {lvl} · Hero level {hl},Livello totale {lvl} · Livello Eroe {hl}
+UI_COOPNET_CARD_ACT,Doing: {act},Sta facendo: {act}
+UI_COOPNET_CARD_PING,Latency: {ms} ms,Latenza: {ms} ms
+UI_COOPNET_CARD_NO_CODE,No hero code shared yet.,Nessun codice-eroe condiviso per ora.
+UI_COOPNET_CARD_CODE,Hero code: {code},Codice-eroe: {code}
+UI_COOPNET_CARD_CODE_COPIED,(copied to the clipboard),(copiato negli appunti)
+UI_COOPNET_LOBBY_TITLE,Friends · Lobby,Amici · Lobby
+UI_COOPNET_LOBBY_INTRO,"You play together, each with your own save. One friend opens a “room” on their PC (they are the “host”), the others join with the host's address (a number like 25.12.34.56). Nobody shares items: you only see each other and chip in to a common guild fund. First time? Read “Step by step” at the bottom of the page: it takes five minutes.","Si gioca insieme, ognuno con il proprio salvataggio. Un amico apre una «stanza» sul suo PC (si chiama «host»), gli altri entrano con il suo indirizzo (un numero tipo 25.12.34.56). Nessuno si scambia oggetti: ci si vede e si contribuisce a un fondo di gilda comune. Se è la prima volta, leggi «Passo passo» in fondo alla pagina: ci vogliono cinque minuti."
+UI_COOPNET_LOBBY_NICK,Your nickname,Il tuo soprannome
+UI_COOPNET_LOBBY_NICK_HINT,"letters, numbers, spaces","lettere, numeri, spazi"
+UI_COOPNET_LOBBY_PRIVACY,"Privacy: friends in the room see only your nickname, class, level and what you are doing. With a direct connection the friends see the host's IP address. Nothing is sent outside the room.","Riservatezza: gli amici nella stanza vedono solo soprannome, classe, livello e cosa stai facendo. Con il collegamento diretto gli amici vedono l'indirizzo IP dell'host. Nulla viene inviato fuori dalla stanza."
+UI_COOPNET_LOBBY_HOST_TITLE,Create a room (you are the host),Crea una stanza (sei tu l'host)
+UI_COOPNET_LOBBY_HOST_DESC,"Your PC becomes the “room”: friends connect to you. 1) Type your nickname above. 2) Press “Create room.” 3) Send your friends ONE of the addresses shown below (and the port, only if you changed it). If you close the game the room closes and the guild pauses: nobody loses anything.","Il tuo PC fa da «stanza»: gli amici si collegano a te. 1) Scrivi il soprannome qui sopra. 2) Premi «Crea stanza». 3) Manda agli amici UNO degli indirizzi che compaiono qui sotto (e la porta, solo se l'hai cambiata). Se chiudi il gioco la stanza si chiude e la gilda va in pausa: nessuno perde niente."
+UI_COOPNET_LOBBY_GUILD_NAME,Guild name,Nome della gilda
+UI_COOPNET_LOBBY_GUILD_NAME_HINT,e.g. The Snack Brigade,es. La Brigata Merenda
+UI_COOPNET_LOBBY_PORT,Port,Porta
+UI_COOPNET_LOBBY_PASSWORD,Room password,Parola d'ordine
+UI_COOPNET_LOBBY_PASSWORD_HINT,optional,facoltativa
+UI_COOPNET_LOBBY_HOST_BTN,Create room,Crea stanza
+UI_COOPNET_LOBBY_MY_IPS,Your addresses to share: {list},I tuoi indirizzi da dare agli amici: {list}
+UI_COOPNET_IP_HAMACHI,Hamachi,Hamachi
+UI_COOPNET_IP_OTHER,LAN / ZeroTier / other VPN,LAN / ZeroTier / altra VPN
+UI_COOPNET_IP_NONE,none found (are you connected?),nessuno trovato (la rete è attiva?)
+UI_COOPNET_LOBBY_RESUME,Host the saved guild {id} again,Ospita di nuovo la gilda salvata {id}
+UI_COOPNET_LOBBY_JOIN_TITLE,Join with IP,Entra con IP
+UI_COOPNET_LOBBY_JOIN_DESC,"Type the address your host friend sent you: only the numbers separated by dots (e.g. 25.12.34.56), WITHOUT a colon and port. Leave the port as it is unless the host told you another number. The password is only needed if the host set one. Then press “Join.”","Scrivi l'indirizzo che ti ha mandato l'amico host: solo i numeri separati da punti (es. 25.12.34.56), SENZA i due punti e la porta. Lascia la porta com'è, a meno che l'host non ti abbia detto un altro numero. La parola d'ordine serve solo se l'host l'ha messa. Poi premi «Entra»."
+UI_COOPNET_LOBBY_IP,Host IP,IP dell'host
+UI_COOPNET_LOBBY_IP_HINT,e.g. 25.12.34.56,es. 25.12.34.56
+UI_COOPNET_LOBBY_JOIN_BTN,Join,Entra
+UI_COOPNET_LOBBY_LEAVE_ROOM,Leave room,Esci dalla stanza
+UI_COOPNET_LOBBY_GO_GUILD,Guild,Gilda
+UI_COOPNET_LOBBY_MEMBERS,Members,Soci
+UI_COOPNET_LOBBY_NO_GUILD,No guild yet: create a room or join a friend's.,Ancora nessuna gilda: crea una stanza o entra in quella di un amico.
+UI_COOPNET_MEMBER_ROW,{name} · {role} · {where},{name} · {role} · {where}
+UI_COOPNET_MEMBER_YOU,you,tu
+UI_COOPNET_MEMBER_ONLINE,online,collegato
+UI_COOPNET_MEMBER_AWAY,away,assente
+UI_COOPNET_MEMBER_DEP,{name} · {role} · chipped in {pts},{name} · {role} · ha versato {pts}
+UI_COOPNET_MEMBER_KICK,Kick,Espelli
+UI_COOPNET_MEMBER_KICK_HINT,Their contributions stay in the guild.,I suoi contributi restano alla gilda.
+UI_COOPNET_ROLE_LEADER,Leader,Capo
+UI_COOPNET_ROLE_MEMBER,Member,Socio
+UI_COOPNET_HELP_TITLE,Step by step: playing with a friend,Passo passo: giocare con un amico
+UI_COOPNET_HELP_HAMACHI_T,With Hamachi (easiest over the Internet),Con Hamachi (il più facile via Internet)
+UI_COOPNET_HELP_HAMACHI,"1) Everyone downloads LogMeIn Hamachi from the official site (free for small groups), installs it and creates an account.
+2) The HOST opens Hamachi, presses the round power button, then “Network” › “Create network.” They pick a network name and password and send them to the friends (these are not the game's room password).
+3) Each FRIEND opens Hamachi, switches it on, then “Network” › “Join an existing network” and types the same name and password.
+4) In the Hamachi window you must see each other with a green dot. If not, stop here: the problem is Hamachi, not the game.
+5) In VAULTFALL the host types a nickname and presses “Create room.” Among “Your addresses” the one starting with 25. (also written at the top of the Hamachi window) is the one to send.
+6) Each friend types that address in “Join with IP,” leaves the port as it is and presses “Join.”
+7) If it doesn't work, press “Check connection” and read what it says.","1) Tutti scaricano LogMeIn Hamachi dal sito ufficiale (gratis per piccoli gruppi), lo installano e creano un account.
+2) L'HOST apre Hamachi, preme il tasto tondo di accensione, poi «Rete» › «Crea una nuova rete». Sceglie un nome e una password della rete e li manda agli amici (non sono la parola d'ordine della stanza del gioco).
+3) Ogni AMICO apre Hamachi, lo accende, poi «Rete» › «Entra in una rete esistente» e scrive lo stesso nome e la stessa password.
+4) Nella finestra di Hamachi dovete vedere l'altro con un pallino verde. Se non lo vedete, fermatevi qui: il problema è di Hamachi, non del gioco.
+5) In VAULTFALL l'host scrive il soprannome e preme «Crea stanza». Tra «I tuoi indirizzi» c'è quello che comincia con 25. (è anche scritto in cima alla finestra di Hamachi): lo manda agli amici.
+6) Ogni amico scrive quell'indirizzo in «Entra con IP», lascia la porta com'è e preme «Entra».
+7) Se non va, premi «Controlla connessione» e leggi cosa dice."
+UI_COOPNET_HELP_ZEROTIER_T,With ZeroTier (or Tailscale),Con ZeroTier (o Tailscale)
+UI_COOPNET_HELP_ZEROTIER,"1) The HOST creates an account at my.zerotier.com and presses “Create A Network”: copy the “Network ID” (16 characters) and send it to the friends.
+2) EVERYONE installs ZeroTier One, clicks its icon near the clock, picks “Join New Network” and pastes the ID.
+3) On the website, in the “Members” list the HOST ticks “Auth” for each friend. Until it is ticked the friend can't get in.
+4) Wait until each one gets an address in the “Managed IPs” column (like 10.x.x.x or 172.x.x.x).
+5) In VAULTFALL the host presses “Create room” and sends the friends the ZeroTier address shown among “Your addresses.” Friends type it in “Join with IP” and press “Join.”
+Tailscale works the same way: everyone installs the app, joins the same network and the address starts with 100.","1) L'HOST crea un account su my.zerotier.com e preme «Create A Network»: copia il «Network ID» (16 caratteri) e lo manda agli amici.
+2) TUTTI installano ZeroTier One, cliccano la sua icona vicino all'orologio, scelgono «Join New Network» e incollano l'ID.
+3) L'HOST, sul sito, nella lista «Members» mette la spunta «Auth» a ogni amico. Finché non c'è la spunta l'amico non entra.
+4) Aspettate che a ognuno compaia un indirizzo nella colonna «Managed IPs» (tipo 10.x.x.x o 172.x.x.x).
+5) In VAULTFALL l'host preme «Crea stanza» e manda agli amici l'indirizzo ZeroTier che vede tra «I tuoi indirizzi». Gli amici lo scrivono in «Entra con IP» e premono «Entra».
+Con Tailscale è uguale: tutti installano l'app, entrano nella stessa rete e l'indirizzo comincia con 100."
+UI_COOPNET_HELP_LAN_T,Same house (LAN / same Wi-Fi),Stessa casa (LAN / stesso Wi-Fi)
+UI_COOPNET_HELP_LAN,"Nothing to install, but you must be on the SAME router (same Wi-Fi or cable; beware of “guest” Wi-Fi, which often isolates devices).
+1) The host presses “Create room.”
+2) Among “Your addresses” the one starting with 192.168. or 10. is the one to send.
+3) Friends type it in “Join with IP” and press “Join.”","Niente da installare, ma dovete essere collegati allo STESSO router (stesso Wi-Fi o cavo; attenzione al Wi-Fi «ospiti», che spesso isola i dispositivi).
+1) L'host preme «Crea stanza».
+2) Tra «I tuoi indirizzi» c'è quello che comincia con 192.168. o 10.: lo manda agli amici.
+3) Gli amici lo scrivono in «Entra con IP» e premono «Entra»."
+UI_COOPNET_HELP_FIREWALL_T,Windows firewall,Firewall di Windows
+UI_COOPNET_HELP_FIREWALL,"The firewall is Windows' gatekeeper: without permission nobody can get into the room. Only the HOST needs this.
+1) The first time you create the room Windows shows a warning (“Windows Defender Firewall has blocked some features”). Tick “Private networks” AND “Public networks” (Windows often treats Hamachi as a public network) and press “Allow access.”
+2) If you closed the warning: Start › type “Allow an app through Windows Firewall” › “Change settings” › “Allow another app” › pick VAULTFALL › tick “Private” and “Public” › OK.
+3) If your antivirus has its own firewall, add VAULTFALL to its exceptions too.
+The game talks over UDP (a fast kind of connection) on the port shown in the “Create a room” card (the default is fine). If you must open the port by hand choose “UDP,” not “TCP.” On Linux/Steam Deck nothing is usually needed.","Il firewall è il guardiano di Windows: se non dai il permesso, nessuno riesce a entrare nella stanza. Serve solo all'HOST.
+1) La prima volta che crei la stanza Windows mostra un avviso («Windows Defender Firewall ha bloccato alcune funzionalità»). Metti la spunta su «Reti private» E su «Reti pubbliche» (Windows considera spesso Hamachi una rete pubblica) e premi «Consenti accesso».
+2) Se hai chiuso l'avviso: Start › scrivi «Consenti app attraverso Windows Firewall» › «Modifica impostazioni» › «Consenti un'altra app» › scegli VAULTFALL › spunta «Privata» e «Pubblica» › OK.
+3) Se hai un antivirus con il suo firewall, aggiungi VAULTFALL alle eccezioni anche lì.
+Il gioco comunica in UDP (un tipo di collegamento veloce) sulla porta scritta nella scheda «Crea una stanza» (quella standard va bene). Se devi aprire la porta a mano scegli «UDP», non «TCP». Su Linux/Steam Deck di solito non serve niente."
+UI_COOPNET_HELP_TROUBLE_T,It doesn't connect?,Non si collega?
+UI_COOPNET_HELP_TROUBLE,"Follow the list in order, stop at the first thing that doesn't match:
+1) Press “Check connection”: it explains in plain words what is wrong.
+2) Do you see each other in Hamachi (green dot) or ZeroTier (ONLINE)? If not, the problem is the VPN: redo the steps above.
+3) Did the host press “Create room” and does the top say “You are the host”? Friends can only join after that.
+4) Did the friend type the HOST's address (not their own), without spaces and without “:port,” and is the port the same for everyone?
+5) Same game version and, if set, the same room password (mind capitals and spaces).
+6) The host's firewall: see above. To find out if it's the culprit, switch it off for a minute and retry, then switch it back ON and add the exception.
+7) Is the game open only once on the host's PC? Two copies fight over the same port.
+8) Direct Internet without a VPN is not recommended: the host would have to open the UDP port on the router (port forwarding) and many providers don't allow it. Use Hamachi or ZeroTier.
+If you get in but see “lagging,” the connection is just slow: that's fine.","Segui l'elenco in ordine, ci si ferma al primo che non torna:
+1) Premi «Controlla connessione»: ti dice in parole semplici cosa non va.
+2) Vi vedete in Hamachi (pallino verde) o in ZeroTier (ONLINE)? Se no, il problema è della VPN: riprovate i passi sopra.
+3) L'host ha premuto «Crea stanza» e in alto legge «Sei tu l'host»? Gli amici entrano solo dopo.
+4) L'amico ha scritto l'indirizzo dell'HOST (non il proprio), senza spazi e senza «:porta», e la porta è uguale per tutti?
+5) Stessa versione del gioco e, se c'è, stessa parola d'ordine (attenzione a maiuscole e spazi).
+6) Firewall dell'host: vedi sopra. Per capire se è lui, spegnilo per un minuto e riprova, poi RIACCENDILO e metti l'eccezione.
+7) Il gioco è aperto una volta sola sul PC dell'host? Due copie litigano per la stessa porta.
+8) Internet diretto senza VPN è sconsigliato: l'host dovrebbe aprire la porta UDP sul router (port forwarding) e spesso il provider lo impedisce. Usate Hamachi o ZeroTier.
+Se entri ma vedi «in ritardo», la connessione è solo lenta: va bene lo stesso."
+UI_COOPNET_GUILD_TITLE,Friends' Guild,Gilda di amici
+UI_COOPNET_GUILD_NONE,You are not in a guild. Create a room in the Lobby (your guild is born with it) or join a friend's room.,Non sei in una gilda. Crea una stanza nella Lobby (la gilda nasce con lei) o entra in quella di un amico.
+UI_COOPNET_GUILD_HEADER,{name} · {n} members · {trophies} trophies · you are {role},{name} · {n} soci · {trophies} trofei · sei {role}
+UI_COOPNET_GUILD_PAUSED,Not connected: you see the last known copy. Your actions wait in the outbox and leave as soon as the host is back. Bonuses stay active.,Non collegato: vedi l'ultima copia nota. Le tue azioni aspettano nella cassetta in uscita e partono appena l'host torna. I bonus restano attivi.
+UI_COOPNET_GUILD_PENDING,{n} actions waiting for the host's confirmation.,{n} azioni in attesa della conferma dell'host.
+UI_COOPNET_GUILD_LEAVE,Leave the guild,Lascia la gilda
+UI_COOPNET_LEAVE_PENDING,"Some deposits are still waiting for the host. They will be sent BEFORE you leave (confirmed, or given back if refused). Leave anyway?","Alcuni versamenti aspettano ancora l'host. Partiranno PRIMA dell'uscita (confermati, o restituiti se rifiutati). Uscire comunque?"
+UI_COOPNET_FUND_TITLE,Common fund (deposit only),Fondo comune (solo versamenti)
+UI_COOPNET_FUND_DESC,"Gold and basic raw materials go in, nothing ever comes out to anyone: the fund is only spent on guild projects, whose bonuses are the same for everybody. No crates, keys or relics.","Entrano oro e materie prime di base, non esce mai niente verso nessuno: il fondo si spende solo nei progetti di gilda, con bonus uguali per tutti. Niente Casse, chiavi o reliquie."
+UI_COOPNET_FUND_POINTS,Fund: {pts} guild points (spent on projects: {spent}),Fondo: {pts} punti gilda (spesi in progetti: {spent})
+UI_COOPNET_FUND_ALLOW,You can deposit {pts} points now (the daily drawer piles up for {days} days).,Puoi versare {pts} punti adesso (il cassetto giornaliero si accumula per {days} giorni).
+UI_COOPNET_FUND_GOLD,Gold ({n}),Oro ({n})
+UI_COOPNET_GOLD,gold,oro
+UI_COOPNET_FUND_DEPOSIT,Deposit,Versa
+UI_COOPNET_PROJ_TITLE,Guild projects,Progetti di gilda
+UI_COOPNET_PROJ_DESC,"The Leader proposes, the members vote: with the majority the project starts and is built as soon as the fund is enough. Bonuses are equal for all and work even when you play alone.","Il Capo propone, i soci votano: con la maggioranza il progetto parte e si costruisce appena il fondo basta. I bonus sono uguali per tutti e valgono anche quando giochi da solo."
+UI_COOPNET_PROJ_PROPOSAL,"Proposal: {name} · yes {yes}, no {no} (needed {need})","Proposta: {name} · sì {yes}, no {no} (servono {need})"
+UI_COOPNET_PROJ_VOTE_YES,Yes,Sì
+UI_COOPNET_PROJ_VOTE_NO,No,No
+UI_COOPNET_PROJ_DECIDE,Decide (Leader),Decidi (Capo)
+UI_COOPNET_PROJ_DECIDE_HINT,"Allowed 24 h after the proposal, if the majority did not vote no.","Possibile 24 h dopo la proposta, se la maggioranza non ha votato no."
+UI_COOPNET_PROJ_TARGET,Under construction: {name} (needs {pts} points),In costruzione: {name} (servono {pts} punti)
+UI_COOPNET_PROJ_ROW,"{name} · level {lv}/{max} · now {cur}, next {next} (cap {cap}%)","{name} · livello {lv}/{max} · ora {cur}, prossimo {next} (tetto {cap}%)"
+UI_COOPNET_PROJ_PROPOSE,Propose ({pts} pts),Proponi ({pts} punti)
+UI_COOPNET_PROJ_BONUS,All guild bonuses together stay below +{cap}% per bonus: playing solo is never a bad choice.,Tutti i bonus di gilda insieme restano sotto +{cap}% per bonus: giocare da soli non è mai una scelta peggiore.
+UI_COOPNET_BOSS_TITLE,Boss of the week,Boss della settimana
+UI_COOPNET_BOSS_HP,Damage dealt: {dmg} / {hp},Danno inflitto: {dmg} / {hp}
+UI_COOPNET_BOSS_MINE,Your share: {mine} (weekly cap {cap}) · attempts in the drawer: {att},Il tuo contributo: {mine} (tetto settimanale {cap}) · tentativi nel cassetto: {att}
+UI_COOPNET_BOSS_ATTACK,"Attack (local fight, 2 min)","Attacca (scontro locale, 2 min)"
+UI_COOPNET_BOSS_RESULT,Your hero chipped {pts} points off the boss!,Il tuo eroe ha tolto {pts} punti al boss!
+UI_COOPNET_BOSS_DONE,Defeated! Everyone gets the same reward: points in the common fund and a guild trophy.,Sconfitto! Tutti ricevono lo stesso premio: punti nel fondo comune e un trofeo di gilda.
+UI_COOPNET_BOSS_DESC,"No fixed schedule: attempts pile up for 7 days. Each member has a weekly cap, so nobody carries the group alone.","Nessun orario fisso: i tentativi si accumulano per 7 giorni. Ogni socio ha un tetto settimanale, così nessuno porta il gruppo da solo."
+UI_COOPNET_LOG_TITLE,Guild log,Registro della gilda
+UI_COOPNET_LOG_FOUND,{who} founded the guild “{a}.”,{who} ha fondato la gilda «{a}».
+UI_COOPNET_LOG_JOIN,{a} joined the guild. Welcome!,{a} entra nella gilda. Accoglienza a cura della casa!
+UI_COOPNET_LOG_REJOIN,{a} is back (old contributions included).,{a} è tornato (con i contributi di prima).
+UI_COOPNET_LOG_LEAVE,{who} left the guild. Contributions stay.,{who} ha lasciato la gilda. I contributi restano.
+UI_COOPNET_LOG_KICK,{who} kicked {a}. Contributions stay.,{who} ha espulso {a}. I contributi restano.
+UI_COOPNET_LOG_LEADER,{who} is the new Leader.,{who} è il nuovo Capo.
+UI_COOPNET_LOG_DEPOSIT,{who} deposited {b} × {a}.,{who} ha versato {b} × {a}.
+UI_COOPNET_LOG_PROPOSE,{who} proposed {a}.,{who} ha proposto {a}.
+UI_COOPNET_LOG_VOTE,{who} voted {b} on {a}.,{who} ha votato {b} su {a}.
+UI_COOPNET_LOG_APPROVED,Approved: {a}!,Approvato: {a}!
+UI_COOPNET_LOG_REJECTED,Rejected: {a}.,Respinto: {a}.
+UI_COOPNET_LOG_LEVEL,{a} reached level {b}! Bonus for everyone.,{a} è salito al livello {b}! Bonus per tutti.
+UI_COOPNET_LOG_BOSS_NEW,A new boss of the week shows up: {a}.,Arriva il nuovo boss della settimana: {a}.
+UI_COOPNET_LOG_BOSS_HIT,{who} hit the boss for {a} points.,{who} ha colpito il boss per {a} punti.
+UI_COOPNET_LOG_BOSS_DOWN,{a} is down! +{b} points in the fund for everyone.,{a} è a terra! +{b} punti nel fondo per tutti.
+UI_COOPNET_NOTE_JOINED,{name} entered the room.,{name} è entrato nella stanza.
+UI_COOPNET_NOTE_LEFT,{name} left the room.,{name} è uscito dalla stanza.
+UI_COOPNET_NOTE_DESYNC,Guild copy out of sync: fresh copy requested from the host.,Copia della gilda non allineata: chiesta una copia fresca all'host.
+UI_COOPNET_NOTE_HOST_LOST,The host vanished. Keep playing: the guild pauses and I retry by myself.,L'host è sparito. Continua a giocare: la gilda va in pausa e riprovo da solo.
+UI_COOPNET_REJECT_VERSION,Different game version from the host: update both.,Versione del gioco diversa da quella dell'host: aggiornate entrambi.
+UI_COOPNET_REJECT_PASSWORD,Wrong room password.,Parola d'ordine sbagliata.
+UI_COOPNET_REJECT_FULL,The guild is full.,La gilda è piena.
+UI_COOPNET_REJECT_KICKED,You were removed from the guild. Unconfirmed deposits have been given back.,La gilda ti ha tolto dall'elenco dei soci. I versamenti non confermati ti sono stati restituiti.
+UI_COOPNET_REJECT_DUP_UID,This save is already in the room (same player twice?).,Questo salvataggio è già nella stanza (lo stesso giocatore due volte?).
+UI_COOPNET_REJECT_BAD_NAME,Nickname not valid.,Soprannome non valido.
+UI_COOPNET_ERR_BAD_NAME,"Pick a nickname (letters, numbers, spaces).","Scegli un soprannome (lettere, numeri, spazi)."
+UI_COOPNET_ERR_PORT,"I can't open that port: usually another program (maybe a second copy of VAULTFALL) is using it. Close it, or type another port (e.g. 24681) and tell your friends.","Non riesco ad aprire quella porta: di solito la sta già usando un altro programma (forse un'altra copia di VAULTFALL). Chiudilo, oppure scrivi un'altra porta (es. 24681) e dilla agli amici."
+UI_COOPNET_ERR_NO_RULES,Co-op data missing: reinstall or update the game.,Mancano i dati del coop: reinstalla o aggiorna il gioco.
+UI_COOPNET_ERR_FULL,The guild is full.,La gilda è piena.
+UI_COOPNET_ERR_GUILD,Can't open this guild save.,Non riesco ad aprire questa gilda salvata.
+UI_COOPNET_ERR_BAD_IP,"Type the host's address: four numbers separated by dots, like 25.12.34.56.","Scrivi l'indirizzo dell'host: quattro numeri separati da punti, tipo 25.12.34.56."
+UI_COOPNET_ERR_CONNECT,I can't reach that address. Press “Check connection” to find out why; meanwhile the game retries by itself.,Non riesco a collegarmi a quell'indirizzo. Premi «Controlla connessione» per capire perché; il gioco intanto riprova da solo.
+UI_COOPNET_ERR_NOT_MEMBER,You are not a member of this guild.,Questa gilda non ti ha tra i suoi soci.
+UI_COOPNET_ERR_NOT_DEPOSITABLE,Only gold and basic raw materials can be deposited.,Si versano solo oro e materie prime di base.
+UI_COOPNET_ERR_BAD_QTY,Invalid quantity.,Quantità non valida.
+UI_COOPNET_ERR_CAP,Over today's deposit cap: the drawer refills tomorrow.,Oltre il tetto di oggi: il cassetto si riempie domani.
+UI_COOPNET_ERR_OUTBOX_FULL,Too many actions waiting for the host: wait for the connection.,Troppe azioni in attesa dell'host: aspetta il collegamento.
+UI_COOPNET_ERR_NO_GAME,Start a game first.,Prima avvia una partita.
+UI_COOPNET_ERR_LOCKED,That item is locked in your Bank.,Quell'oggetto è bloccato nel Deposito.
+UI_COOPNET_ERR_NOT_ENOUGH,You don't have that many.,Non ne hai abbastanza.
+UI_COOPNET_ERR_NO_GUILD,No guild yet.,Ancora nessuna gilda.
+UI_COOPNET_ERR_PENDING,Some actions are still waiting for the host.,Alcune azioni aspettano ancora l'host.
+UI_COOPNET_ERR_BOSS_DONE,The boss of the week is already down. See you next week!,Il boss della settimana è già a terra. Alla prossima settimana!
+UI_COOPNET_ERR_NO_BOSS,No boss this week (yet).,Nessun boss questa settimana (per ora).
+UI_COOPNET_ERR_NO_ATTEMPTS,No attempts left: the drawer refills every day.,Tentativi finiti: il cassetto si riempie ogni giorno.
+UI_COOPNET_ERR_NO_HERO,Choose a hero class first.,Prima scegli una classe per l'eroe.
+UI_COOPNET_ERR_OTHER_GUILD,Action meant for another guild: canceled (deposits given back).,Azione per un'altra gilda: annullata (versamenti restituiti).
+UI_COOPNET_ERR_NOT_LEADER,Only the Leader can do that.,Può farlo solo il Capo.
+UI_COOPNET_ERR_BAD_TARGET,Not a valid member.,Socio non valido.
+UI_COOPNET_ERR_BAD_PROJECT,Unknown project.,Progetto sconosciuto.
+UI_COOPNET_ERR_MAX_LEVEL,Project already at max level.,Progetto già al livello massimo.
+UI_COOPNET_ERR_BUSY,Another project is under construction.,C'è già un progetto in costruzione.
+UI_COOPNET_ERR_NO_PROPOSAL,There is no proposal to vote on.,Non c'è nessuna proposta da votare.
+UI_COOPNET_ERR_TOO_EARLY,Wait 24 h after the proposal (or get the votes).,Aspetta 24 h dalla proposta (o raccogli i voti).
+UI_COOPNET_ERR_REJECTED,The majority voted no.,La maggioranza ha votato no.
+UI_COOPNET_ERR_STALE_WEEK,That boss is from last week.,Quel boss è della settimana scorsa.
+UI_COOPNET_ERR_BAD_PTS,Contribution out of range.,Contributo fuori dai limiti.
+UI_COOPNET_ERR_DUP,Already done.,Già fatto.
+UI_COOPNET_ERR_GAP,Waiting for an earlier action.,In attesa di un'azione precedente.
+UI_COOPNET_ERR_BAD_OP,Action not allowed.,Azione non consentita.
+UI_COOPNET_ERR_ALREADY,Already a member.,Già socio.
+UI_COOPNET_ERR_BAD_MEMBER,Member not valid.,Socio non valido.
+UI_COOPNET_ERR_BAD_VOTE,Vote not valid.,Voto non valido.
+UI_COOPNET_ERR_BAD_TS,Clock problem on the host.,Problema con l'orologio dell'host.
+UI_COOPNET_HELP_START_T,Before you start,Prima di cominciare
+UI_COOPNET_HELP_START,"You need: the SAME game version on every PC (shown on the “News” screen), a nickname and a way to “see each other” on the network.
+• Same house, same Wi-Fi or router: nothing to install (see “Same house”).
+• Different houses: pick ONE of Hamachi or ZeroTier (both free) and everyone uses the same one.
+Whoever opens the room is the “host” and must stay in the game; the others are the “friends” and just type the host's address.","Servono: la STESSA versione del gioco su tutti i PC (è scritta nella schermata «Novità»), un soprannome e un modo per «vedervi» in rete.
+• Siete nella stessa casa, sullo stesso Wi-Fi o router: non serve installare niente (vedi «Stessa casa»).
+• Siete in case diverse: scegliete UNO fra Hamachi e ZeroTier (gratis) e usate lo stesso programma tutti.
+Chi apre la stanza si chiama «host» e deve restare in gioco; gli altri sono gli «amici» e basta che inseriscano il suo indirizzo."
+UI_COOPNET_DIAG_BTN,Check connection,Controlla connessione
+UI_COOPNET_DIAG_MARK_OK,[OK],[OK]
+UI_COOPNET_DIAG_MARK_WARN,[!],[!]
+UI_COOPNET_DIAG_MARK_BAD,[X],[X]
+UI_COOPNET_DIAG_MARK_INFO,[i],[i]
+UI_COOPNET_DIAG_NET_NONE_BAD,"This PC doesn't seem to be on any network. Connect to Wi-Fi or a cable and, if you use Hamachi or ZeroTier, switch it on: an address must show up here.","Questo PC non sembra collegato a nessuna rete. Collegati al Wi-Fi o al cavo e, se usi Hamachi o ZeroTier, accendilo: qui deve comparire un indirizzo."
+UI_COOPNET_DIAG_NET_OK_OK,This PC is on a network. Its addresses: {list}.,Questo PC è in rete. I suoi indirizzi: {list}.
+UI_COOPNET_DIAG_PORT_RANGE_BAD,The port must be a number between {min} and {max}. Use the default one.,La porta deve essere un numero fra {min} e {max}. Usa quella standard.
+UI_COOPNET_DIAG_PORT_OTHER_WARN,"You are using port {port} instead of the default ({def}). That's fine, but host and friends must type the SAME number.","Stai usando la porta {port} invece di quella standard ({def}). Va bene, ma host e amici devono scrivere LO STESSO numero."
+UI_COOPNET_DIAG_PORT_OK_OK,Port {port}: that's the default one.,Porta {port}: è quella standard.
+UI_COOPNET_DIAG_HOST_OPEN_OK,The room is open: friends can join.,La stanza è aperta: gli amici possono entrare.
+UI_COOPNET_DIAG_PORT_BUSY_BAD,"Port {port} is already used by another program (maybe a second copy of VAULTFALL). Close it or pick another port, for example 24681, and tell your friends.","La porta {port} è già usata da un altro programma (forse un'altra copia di VAULTFALL). Chiudi l'altro programma oppure scegli un'altra porta, per esempio 24681, e dillo agli amici."
+UI_COOPNET_DIAG_PORT_FREE_OK,The port is free: you can create the room.,La porta è libera: puoi creare la stanza.
+UI_COOPNET_DIAG_HOST_SHARE_HAMACHI_OK,Send your friends the address starting with 25. (that's Hamachi's). All your addresses: {list}.,Agli amici manda l'indirizzo che comincia con 25. (è quello di Hamachi). Tutti i tuoi indirizzi: {list}.
+UI_COOPNET_DIAG_HOST_SHARE_LAN_OK,Send your friends one of these addresses: {list}. At home the one starting with 192.168. or 10. is enough; in different houses you need Hamachi or ZeroTier switched on (I can't see it on this PC).,Agli amici manda uno di questi indirizzi: {list}. In casa basta quello che comincia con 192.168. o 10.; in case diverse serve Hamachi o ZeroTier acceso (non lo vedo su questo PC).
+UI_COOPNET_DIAG_FIREWALL_TIP_INFO,If a friend can't get in it's almost always the host's firewall: when Windows asks for permission press “Allow” (private AND public networks). The game uses UDP on the given port.,"Se l'amico non riesce a entrare, quasi sempre è il firewall dell'host: quando Windows chiede il permesso premi «Consenti» (reti private E pubbliche). Il gioco usa UDP sulla porta indicata."
+UI_COOPNET_DIAG_IP_EMPTY_BAD,The host's address is missing: ask your friend to press “Create room” and send you the number (like 25.12.34.56).,Manca l'indirizzo dell'host: chiedi all'amico di premere «Crea stanza» e di mandarti il numero (tipo 25.12.34.56).
+UI_COOPNET_DIAG_IP_WITH_PORT_BAD,You typed the port inside the address. In the address box type only {ip} and put {port} in the “Port” box.,Hai scritto anche la porta nell'indirizzo. Nella casella dell'indirizzo scrivi solo {ip} e metti {port} nella casella «Porta».
+UI_COOPNET_DIAG_IP_FORMAT_BAD,"“{ip}” is not a valid address. It must be four numbers separated by dots, like 25.12.34.56 (no letters or spaces).","«{ip}» non è un indirizzo valido. Devono essere quattro numeri separati da punti, come 25.12.34.56 (niente lettere né spazi)."
+UI_COOPNET_DIAG_IP_SELF_BAD,"{ip} is THIS PC's address. Here you need the address of the friend who created the room. (If you are creating the room, use “Create room.”)","{ip} è l'indirizzo di QUESTO PC. Qui serve quello dell'amico che ha creato la stanza. (Se la stanza la crei tu, usa «Crea stanza».)"
+UI_COOPNET_DIAG_IP_LINKLOCAL_BAD,Addresses starting with 169.254. are what a PC gives itself when it has no network. Ask the room's host for the right address.,Gli indirizzi che cominciano con 169.254. sono quelli che un PC si dà quando non ha rete. Fatti dare da chi crea la stanza l'indirizzo giusto.
+UI_COOPNET_DIAG_IP_HAMACHI_ON_OK,It's a Hamachi address and Hamachi is on in this PC: good.,È un indirizzo Hamachi e Hamachi è acceso su questo PC: bene.
+UI_COOPNET_DIAG_IP_HAMACHI_OFF_BAD,"The address starts with 25., so it's a Hamachi one, but Hamachi doesn't seem to be on in this PC. Open Hamachi, press the power button and join the host's network.","L'indirizzo comincia con 25., cioè è di Hamachi, ma su questo PC Hamachi non risulta acceso. Apri Hamachi, premi il tasto di accensione ed entra nella rete dell'host."
+UI_COOPNET_DIAG_IP_LAN_SAME_OK,{ip} is on your own network: good.,{ip} è nella tua stessa rete: bene.
+UI_COOPNET_DIAG_IP_LAN_OTHER_WARN,"{ip} is a private-network address, but none of your networks seems to match. If you are not in the same house, switch on the host's same Hamachi/ZeroTier/Tailscale network.","{ip} è un indirizzo di rete privata, ma nessuna delle tue reti sembra quella. Se non siete nella stessa casa, accendi la stessa rete Hamachi/ZeroTier/Tailscale dell'host."
+UI_COOPNET_DIAG_IP_PUBLIC_WARN,"{ip} is an “open” Internet address. It only works if the host opened the UDP port on the router. To start, Hamachi or ZeroTier are much easier.",{ip} è un indirizzo Internet «aperto». Funziona solo se l'host ha aperto la porta UDP sul router. Per cominciare è molto più facile usare Hamachi o ZeroTier.
+UI_COOPNET_DIAG_PROBLEM_VERSION_BAD,The host has a different game version from yours: update both to the same one.,L'host ha una versione del gioco diversa dalla tua: aggiornate entrambi alla stessa.
+UI_COOPNET_DIAG_PROBLEM_PASSWORD_BAD,The room password is wrong. Ask the host again (mind capitals and spaces).,La parola d'ordine della stanza non è giusta. Chiedila di nuovo all'host (attenzione a maiuscole e spazi).
+UI_COOPNET_DIAG_PROBLEM_FULL_BAD,The room is full.,La stanza è piena.
+UI_COOPNET_DIAG_PROBLEM_KICKED_BAD,"The host removed you from the guild. If that's a mistake, ask them to let you back in.","L'host ti ha tolto dalla gilda. Se è un errore, chiedigli di farti rientrare."
+UI_COOPNET_DIAG_PROBLEM_DUP_UID_BAD,"This save is already in the room (maybe the game is open twice, or the same save is on two PCs). Close the other copy.","Questo salvataggio è già nella stanza (forse il gioco è aperto due volte, o lo stesso salvataggio è su due PC). Chiudi l'altra copia."
+UI_COOPNET_DIAG_PROBLEM_BAD_NAME_BAD,"The nickname is not valid: use only letters, numbers and spaces.","Il soprannome non è valido: usa solo lettere, numeri e spazi."
+UI_COOPNET_DIAG_PROBLEM_HOST_LOST_BAD,"The host isn't answering. They may have closed the game or not pressed “Create room” yet, have a firewall blocking it, or not be on your same Hamachi/ZeroTier network. The game retries by itself.","L'host non risponde. Può aver chiuso il gioco o non aver ancora premuto «Crea stanza», avere il firewall che blocca, o non essere nella tua stessa rete Hamachi/ZeroTier. Il gioco riprova da solo."
+UI_COOPNET_DIAG_PROBLEM_CONNECT_BAD,I couldn't even try to connect: check the address and port again.,Non sono riuscito nemmeno a provare a collegarmi: ricontrolla indirizzo e porta.
+UI_COOPNET_DIAG_LINK_OK_OK,You are connected to the host ({ms} ms). Everything works.,Collegamento all'host riuscito ({ms} ms). Tutto funziona.
+UI_COOPNET_DIAG_LINK_WAITING_WARN,I'm knocking on the host's door but nobody answers (yet). Common causes: the host didn't press “Create room”; the host's firewall blocks the game; Hamachi/ZeroTier doesn't link you; wrong address or port.,Sto bussando alla porta dell'host ma nessuno risponde (ancora). Cause comuni: l'host non ha premuto «Crea stanza»; il firewall dell'host blocca il gioco; Hamachi/ZeroTier non vi collega; indirizzo o porta sbagliati.
+UI_COOPNET_DIAG_LINK_LOST_WARN,The connection dropped: the game retries by itself. Check that the host is still in the game.,Il collegamento si è interrotto: il gioco riprova da solo. Controlla che l'host sia ancora in gioco.
+UI_COOPNET_DIAG_LINK_HOSTING_WARN,"You are the host: to join a friend's room, leave yours first.","Stai facendo da host: per entrare nella stanza di un amico, esci prima dalla tua."
+UI_COOPNET_DIAG_NOT_TRIED_OK,What you typed looks fine. Press “Join.”,Quello che hai scritto sembra a posto. Premi «Entra».
+UI_COOPNET_DIAG_VERDICT_OK,Everything looks fine.,Tutto sembra a posto.
+UI_COOPNET_DIAG_VERDICT_WARN,"No errors, but {n} things to keep an eye on (the lines with [!]).","Nessun errore, ma {n} cose da tenere d'occhio (le righe con [!])."
+UI_COOPNET_DIAG_VERDICT_BAD,There are {n} problems to fix (the lines with [X]): start from the first.,Ci sono {n} problemi da sistemare (le righe con [X]): comincia dal primo.
+UI_COOPNET_ST_NOANSWER,"No answer: check IP and port, retrying","Nessuna risposta: controlla IP e porta, riprovo"
+UI_COOPNET_NOTE_NO_ANSWER,"Nobody answers at that address. Check the IP and port, and that the host pressed “Create room.” I keep retrying by myself; “Check connection” tells you what is wrong.",Nessuno risponde a quell'indirizzo. Controlla IP e porta e che l'host abbia premuto «Crea stanza». Riprovo da solo; «Controlla connessione» ti dice cosa non va.

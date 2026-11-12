@@ -1,0 +1,22 @@
+keys,en,it
+UI_CRED_TITLE,Credits,Crediti
+UI_CRED_BUTTON,Credits,Crediti
+UI_CRED_INTRO,"VAULTFALL is a single-player idle game of trades, crates and vaults. It runs offline and needs no account.","VAULTFALL è un gioco idle per un giocatore, fatto di mestieri, casse e caveau. Funziona offline e non richiede nessun account."
+UI_CRED_ENGINE_H,Engine,Motore
+UI_CRED_ENGINE,"Godot Engine 4.7, MIT license. © 2014-present Godot Engine contributors, © 2007-2014 Juan Linietsky, Ariel Manzur. godotengine.org. The licenses of the engine's third-party components are in the licenses folder shipped with the game.","Godot Engine 4.7, licenza MIT. © 2014-oggi i collaboratori di Godot Engine, © 2007-2014 Juan Linietsky, Ariel Manzur. godotengine.org. Le licenze dei componenti di terze parti del motore sono nella cartella licenses distribuita con il gioco."
+UI_CRED_FONTS_H,Fonts,Caratteri
+UI_CRED_FONT_ATKINSON,Atkinson Hyperlegible Next: text and numbers. © The Atkinson Hyperlegible Next Project Authors (Braille Institute). SIL Open Font License 1.1.,Atkinson Hyperlegible Next: testi e numeri. © The Atkinson Hyperlegible Next Project Authors (Braille Institute). SIL Open Font License 1.1.
+UI_CRED_FONT_DEPARTURE,Departure Mono: titles and logo. © Helena Zhang. SIL Open Font License 1.1.,Departure Mono: titoli e logo. © Helena Zhang. SIL Open Font License 1.1.
+UI_CRED_FONT_SYMBOLS,"Vaultfall Symbols: symbols, a modified subset of Noto Sans Symbols 2. © The Noto Project Authors. SIL Open Font License 1.1.","Vaultfall Symbols: simboli, sottoinsieme modificato di Noto Sans Symbols 2. © The Noto Project Authors. SIL Open Font License 1.1."
+UI_CRED_ART_H,Art and sound,Arte e suoni
+UI_CRED_ART,Interface frames are drawn by project scripts. Music and sound effects are synthesized by the project: no third-party samples.,I telai dell'interfaccia sono disegnati da script del progetto. Musica ed effetti sono sintetizzati dal progetto: nessun campione di terzi.
+UI_CRED_TOOLS_H,Tools,Strumenti
+UI_CRED_TOOLS,"Godot Engine and the GUT test framework (MIT), Python with Pillow and NumPy for data, balancing and image tools, and Claude (Anthropic), an AI assistant, for programming and writing help.","Godot Engine e il framework di test GUT (MIT), Python con Pillow e NumPy per dati, bilanciamento e strumenti d'immagine e Claude (Anthropic), un assistente basato su IA, per l'aiuto nella programmazione e nei testi."
+UI_CRED_ORIGINAL,"All names, texts and artwork are original. The game uses no trademarks or material from other games. Crates open with in-game currency only.","Tutti i nomi, i testi e le immagini sono originali. Il gioco non usa marchi né materiali di altri giochi. Le Casse si aprono solo con valuta di gioco."
+UI_CRED_THANKS,Thank you for playing.,Grazie per aver giocato.
+UI_START_TAGLINE,"Idle trades, crates and vaults","Mestieri, casse e caveau, anche mentre non ci sei"
+UI_START_OVERWRITE,Overwrite,Sovrascrivi
+UI_START_KEEP,Keep it,Conserva
+UI_START_OVERWRITE_TITLE,Overwrite this slot?,Sovrascrivere questo slot?
+UI_START_LAST_BADGE,Last played,Ultima giocata
+UI_START_DELETE_TITLE,Delete this save?,Eliminare questo salvataggio?

@@ -1,0 +1,3 @@
+keys,en,it
+UI_ERA_CURRENT_N,Now: {name} · highest unlocked: Era {max},Ora: {name} · la più alta sbloccata: Era {max}
+UI_ERA_UNLOCKED_N,The Vault Warden falls. Unlocked: {name}! +{dust} Stardust. He says he will file a complaint.,Il Custode del Caveau cade. Sbloccata: {name}! +{dust} Polvere Stellare. Dice che presenterà reclamo.

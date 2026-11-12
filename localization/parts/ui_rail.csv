@@ -1,0 +1,15 @@
+keys,en,it
+UI_RAIL_LOG_TIP,Log (key L),Registro (tasto L)
+UI_RAIL_LOG_NEW_TIP,Log: something rare happened (key L),Registro: è successo qualcosa di raro (tasto L)
+UI_RAIL_FRIENDS,Friends,Amici
+UI_RAIL_FRIENDS_TIP,Friends (key L),Amici (tasto L)
+UI_RAIL_PIN_TIP,Keep this panel open as a column,Tieni aperto questo pannello come colonna
+UI_RAIL_UNPIN_TIP,Back to a drawer (key L),Torna a cassetto (tasto L)
+UI_RAIL_PIN_WIDE_ONLY,Pinning is available in wide windows only,Fissare è possibile solo con la finestra larga
+UI_RAIL_CLOSE_TIP,Close (Esc or L),Chiudi (Esc o L)
+UI_RAIL_FILTERS,Filters,Filtri
+UI_RAIL_FILTERS_TIP,Choose which kinds of messages go in the log,Scegli quali messaggi finiscono nel Registro
+UI_RAIL_MIGRATION,The right column is now a drawer: key L,La colonna destra ora è un cassetto: tasto L
+UI_RAIL_GOAL_TIP,Goal: {how},Obiettivo: {how}
+UI_UIB_SC_COLUMN,Open or close the right drawer (Log and Friends),Apri o chiudi il cassetto destro (Registro e Amici)
+UI_TUT_G_MOVE_B,"The left menu leads everywhere: click an entry to open it. On the keyboard, 1–9 open the first entries, B opens the Bank, C the Hero, M the Quests, Q the queue, L opens the right drawer (Log, Friends), F1 the Manual and Esc goes back to the Summary. Gray entries unlock with quests: click one to see which.","Il menù a sinistra porta ovunque: clicca una voce per aprirla. Da tastiera, 1–9 aprono le prime voci, B il Deposito, C l'Eroe, M le Missioni, Q la coda, L apre il cassetto destro (Registro, Amici), F1 il Manuale ed Esc torna al Riepilogo. Le voci grigie si sbloccano con le missioni: cliccane una per vedere quale."

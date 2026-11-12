@@ -1,0 +1,9 @@
+keys,en,it
+UI_FIXC_ERA_RANKS_NONE,"No item Ranks needed in this Era: your normal gear is enough. The Rank cap with your highest Era is {cap}.","In questa Era non servono Ranghi degli oggetti: basta l'equipaggiamento normale. Il tetto dei Ranghi con la tua Era più alta è {cap}."
+UI_FIXC_WB_DEATHS,"The Hero fell {n} times and got back up every time ({pct}% stats for {min} min after each fall).","L'Eroe è caduto {n} volte e si è sempre rialzato ({pct}% alle statistiche per {min} min dopo ogni caduta)."
+UI_FIXC_WB_DEATHS_ONE,"The Hero fell once and got back up ({pct}% stats for {min} min).","L'Eroe è caduto una volta e si è rialzato ({pct}% alle statistiche per {min} min)."
+UI_FIXC_ERA_LOSE_HARDER_NORANK,"Monsters get tougher: ×{from} → ×{to} (still no item Ranks needed).","I mostri si irrobustiscono: ×{from} → ×{to} (ancora senza bisogno di Ranghi)."
+UI_FIXC_AMBUSH_BANNER,Ambush!,Imboscata!
+UI_FIXC_AMBUSH_LOG,"Ambush! {name} comes back as an elite: HP ×{hp}, reward ×{reward}. It never kills you: if things go badly it runs away.","Imboscata! {name} torna come élite: vita ×{hp}, premio ×{reward}. Non ti uccide mai: se va male, scappa."
+UI_FIXC_AMBUSH_FLED,"The ambusher ran away (no reward, no harm done).","L'imboscata si ritira (niente premio, nessun danno)."
+UI_FIXC_WB_AMBUSHES,"Ambushes beaten: {n} (XP and gold ×{reward}).","Imboscate sconfitte: {n} (XP e oro ×{reward})."

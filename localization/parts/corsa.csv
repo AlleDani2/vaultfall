@@ -1,0 +1,72 @@
+keys,en,it
+UI_C2_TALENT_WHY_INACTIVE,This is the {spec} branch: it only counts while {spec} is your active specialization. Points stay where they are.,Questo è il ramo di {spec}: conta solo quando {spec} è la specializzazione attiva. I punti restano dove sono.
+UI_RUN_TITLE,The Run,La Corsa
+UI_RUN_HINT,"Every {k} kills in this zone you pick 1 of {o} perks. Each one helps and costs something. After {max} picks the Run Champion shows up: beat it for a prize, then a fresh Run starts. Changing zone ends the Run; stopping, doing skills or dungeons only pauses it. Offline the Run waits: nothing is lost.","Ogni {k} uccisioni in questa zona scegli 1 voce su {o}. Ognuna aiuta e costa qualcosa. Dopo {max} scelte arriva il Campione della Corsa: battilo per un premio, poi riparte una Corsa nuova. Cambiare zona chiude la Corsa; fermarsi, fare mansioni o dungeon la mette solo in pausa. Offline la Corsa aspetta: niente si perde."
+UI_RUN_PROGRESS,Picks {n}/{max} · next pick in {k} kills,Scelte {n}/{max} · prossima scelta tra {k} uccisioni
+UI_RUN_PROGRESS_FULL,Picks {n}/{max} · the Champion is next,Scelte {n}/{max} · tocca al Campione
+UI_RUN_PAUSED,Paused: fight in {zone} again to resume ({n} picks kept).,In pausa: torna a combattere in {zone} per riprenderla ({n} scelte tenute).
+UI_RUN_PAUSED_NONE,Fight in a zone to start a Run.,Combatti in una zona per iniziare una Corsa.
+UI_RUN_LOCKED,The Run unlocks at Hero level {lvl}.,La Corsa si sblocca al livello Eroe {lvl}.
+UI_RUN_OFFER_TITLE,Pick a perk ({n}/{max}),Scegli una voce ({n}/{max})
+UI_RUN_OFFER_TIMER,"No rush: if you don't pick, in {s} s I'll take “{name}” (your priority).","Con calma: se non scegli, tra {s} s prendo «{name}» (la tua priorità)."
+UI_RUN_AUTO_MARK,★ your priority's pick,★ scelta della tua priorità
+UI_RUN_REROLL,Reroll ({n}),Rilancia ({n})
+UI_RUN_REROLL_TIP,Three new perks instead of these. Once per Run.,Tre voci nuove al posto di queste. Una volta per Corsa.
+UI_RUN_BANISH,Exclude,Escludi
+UI_RUN_BANISH_TIP,Remove this perk from the Run and replace it ({n} left).,Togli questa voce dalla Corsa e sostituiscila (ne restano {n}).
+UI_RUN_MODE_AUTO,Pick for me,Scegli per me
+UI_RUN_MODE_TIP,"On: perks are picked at once with your priority. Off: the pick waits for you, then follows your priority after a while.","Acceso: le voci si scelgono subito con la tua priorità. Spento: la scelta ti aspetta, poi dopo un po' segue la tua priorità."
+UI_RUN_ORDER,Priority: {list},Priorità: {list}
+UI_RUN_ORDER_TIP,"Order used by “Pick for me.” If “Safe to idle” is red, Defense goes first.","Ordine usato da «Scegli per me». Se «Sicuro in idle» è rosso, la Difesa passa davanti."
+UI_RUN_ORDER_UP,Move {name} up,Sposta {name} più in alto
+UI_RUN_PICKS_NONE,No perks yet.,Ancora nessuna voce.
+UI_RUN_PICKS,Perks: {list},Voci: {list}
+UI_RUN_TOTAL_TIP,Total effect while the Run is active:,Effetto complessivo mentre la Corsa è attiva:
+UI_RUN_CHAMPION_DUE,"The Run Champion comes with the next spawn: HP ×{hp}, rewards ×{r}. It never kills you: if things go badly it backs off.","Il Campione della Corsa arriva alla prossima comparsa: vita ×{hp}, premio ×{r}. Non ti uccide: se va male si ritira."
+UI_RUN_CHAMPION_FIGHT,The Run Champion is here!,Il Campione della Corsa è in campo!
+UI_RUN_CHAMPION_WAIT,The Champion backed off: it comes back in {k} kills.,Il Campione si è ritirato: torna tra {k} uccisioni.
+UI_RUN_LAST,"Last Run: {zone}, {n} picks, {end}.","Ultima Corsa: {zone}, {n} scelte, {end}."
+UI_RUN_END_CHAMPION,Champion beaten,Campione battuto
+UI_RUN_END_CHAMPION_FLED,Champion got away,Campione sfuggito
+UI_RUN_END_ZONE,zone changed,zona cambiata
+UI_RUN_ODDS,"Odds: every available perk has the same chance ({p}). No cost, no stake.","Probabilità: ogni voce disponibile ha la stessa probabilità ({p}). Nessun costo, nessuna posta."
+UI_RUN_NOTICE_OFFER,Run: new pick ({n}).,Corsa: nuova scelta ({n}).
+UI_RUN_BANNER_CHAMPION,RUN CHAMPION,CAMPIONE DELLA CORSA
+UI_RUN_LOG_CHAMPION,The Run Champion steps up: {name}!,Si fa avanti il Campione della Corsa: {name}!
+UI_RUN_LOG_CHAMPION_WON,Champion beaten! The Run closes with its prize; a new one begins.,Campione battuto! La Corsa si chiude con il premio; ne comincia una nuova.
+UI_RUN_LOG_CHAMPION_FLED,The Champion backs off before knocking you down.,Il Campione si ritira prima di metterti al tappeto.
+UI_RUN_LOG_PICK,Run: you take “{name}”.,Corsa: prendi «{name}».
+UI_RUN_MOD_COMBAT_DMG_PCT,{v}% damage,{v}% danno
+UI_RUN_MOD_COMBAT_DMG_TAKEN_PCT,{v}% damage taken,{v}% danni subiti
+UI_RUN_MOD_COMBAT_HASTE_PCT,{v}% attack speed,{v}% velocità d'attacco
+UI_RUN_MOD_COMBAT_EVA_PCT,{v}% evasion,{v}% evasione
+UI_RUN_MOD_COMBAT_ACC_PCT,{v}% accuracy,{v}% precisione
+UI_RUN_MOD_COMBAT_HP_PCT,{v}% max HP,{v}% vita massima
+UI_RUN_MOD_COMBAT_DEFENSE_PCT,{v}% armor and ward,{v}% armatura e protezione
+UI_RUN_MOD_COMBAT_CRIT_CHANCE_PCT,{v} pts crit chance,{v} punti di critico
+UI_RUN_MOD_COMBAT_CRIT_DMG_PCT,{v} pts crit damage,{v} punti di danno critico
+UI_RUN_MOD_COMBAT_ARMOR_PEN_PCT,{v}% defences ignored,{v}% difese ignorate
+UI_RUN_MOD_COMBAT_MULTIHIT_PCT,{v}% chance to hit twice,{v}% di colpire due volte
+UI_RUN_MOD_COMBAT_LIFESTEAL_PCT,{v}% life steal,{v}% rubavita
+UI_RUN_MOD_COMBAT_REGEN_HPS_PCT,{v}% HP regen per second,{v}% vita rigenerata al secondo
+UI_RUN_MOD_COMBAT_RESOURCE_REGEN_PCT,"{v}% Fury, Focus or Mana","{v}% Furia, Concentrazione o Mana"
+UI_RUN_MOD_COMBAT_DOT_DMG_PCT,{v}% damage over time,{v}% danni nel tempo
+UI_RUN_MOD_COMBAT_STATUS_RESIST_PCT,{v}% status resistance,{v}% resistenza agli stati
+UI_RUN_MOD_SUMMON_DMG_PCT,{v}% summon damage,{v}% danno delle evocazioni
+UI_RUN_MOD_ELEMENT_DMG_PCT,{v}% elemental damage,{v}% danno elementale
+UI_RUN_MOD_FOOD_HEAL_PCT,{v}% food healing,{v}% cura del cibo
+UI_RUN_MOD_SKILL_XP_PCT,{v}% Hero XP,{v}% XP dell'Eroe
+UI_RUN_MOD_GOLD_GAIN_PCT,{v}% gold from combat,{v}% oro dal combattimento
+UI_RUN_MOD_MONSTER_DROP_PCT,{v}% monster drops,{v}% drop dei mostri
+UI_RUN_MOD_COMBAT_THORNS_PCT,{v}% damage reflected,{v}% danno rinviato
+UI_RUN_TAKE,Take,Prendi
+UI_PREP_SUMMARY,Prepared {n}/{t},Preparazione {n}/{t}
+UI_PREP_ANS_GUARD,Answer: a shield or a defensive buff active when it lands halves the blow (equip one among your techniques).,Risposta: uno scudo o un potenziamento difensivo attivo quando arriva dimezza il colpo (equipaggiane uno tra le tecniche).
+UI_PREP_ANS_PIERCE,Answer: {min}% defences ignored or a damage-over-time effect on the boss halves the Barrier (you: {v}%).,Risposta: {min}% di difese ignorate o un danno nel tempo sul boss dimezzano la Barriera (tu: {v}%).
+UI_PREP_ANS_RESIST,"Answer: status resistance cuts it down (you: {v}%, suggested {min}%: potions, talents, the Run).","Risposta: la resistenza agli stati la riduce (tu: {v}%, consigliata {min}%: pozioni, talenti, la Corsa)."
+UI_PREP_ANS_MULTI,Answer: multi-hit techniques or summons deal with the minions.,Risposta: tecniche a colpi multipli o evocazioni per i servitori.
+UI_PREP_READY,ready,pronto
+UI_PREP_MISSING,missing,manca
+UI_QUESTS_TUT_RUN_1,New in Combat: the Run. Every 30 kills in the same zone you pick 1 of 3 perks.,Novità nel Combattimento: la Corsa. Ogni 30 uccisioni nella stessa zona scegli 1 voce su 3.
+UI_QUESTS_TUT_RUN_2,Each perk helps and costs something: pick what suits your build and the zone. “Pick for me” does it with your priority.,Ogni voce aiuta e costa qualcosa: scegli quello che serve alla tua build e alla zona. «Scegli per me» lo fa con la tua priorità.
+UI_QUESTS_TUT_RUN_3,After 12 picks the Run Champion arrives; then a new Run starts. Offline the Run simply waits.,"Dopo 12 scelte arriva il Campione della Corsa, poi ne parte una nuova. Offline la Corsa aspetta e basta."

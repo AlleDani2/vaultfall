@@ -1,0 +1,16 @@
+keys,en,it
+UI_MSK_PIECE,{need}× {item} (you have {have}),{need}× {item} (ne hai {have})
+UI_MSK_PIECE_SHORT,"{need}× {item} (you have {have}, {miss} short)","{need}× {item} (ne hai {have}, ne mancano {miss})"
+UI_MSK_MISSING_ONE,"Missing {n} {item}: you need {need}, you have {have}","Ti manca {n} {item}: ne servono {need}, ne hai {have}"
+UI_MSK_MISSING_MANY,"Missing {n} {item}: you need {need}, you have {have}","Ti mancano {n} {item}: ne servono {need}, ne hai {have}"
+UI_MSK_LEVEL,Needs level {req} (yours: {cur}),Richiede livello {req} (il tuo: {cur})
+UI_MSK_LEVEL_SENTENCE,"{skill} needs level {req}: yours is {cur}","Serve il livello {req} in {skill}: il tuo è {cur}"
+UI_MSK_GOLD,"You are {n} gold short: you need {need}, you have {have}","Ti mancano {n} oro: ne servono {need}, ne hai {have}"
+UI_MSK_GIVES,Gives: {list},"Dà: {list}"
+UI_MSK_GIVE_ITEM,{qty} {item} (you have {have}),{qty} {item} (ne hai {have})
+UI_MSK_PER_HOUR,Per hour: ~{list},Ogni ora: ~{list}
+UI_MSK_XP,{n} XP,{n} XP
+UI_MSK_ALSO,May also give: {list},Può dare anche: {list}
+UI_MSK_FARM_YIELD,Per harvest: ~{n} {item} (you have {have}) · grows in {time} · XP: {plant} sowing + {harv} harvest,Per raccolto: ~{n} {item} (ne hai {have}) · cresce in {time} · XP: {plant} semina + {harv} raccolto
+UI_MSK_ORDER_SHORT,"You have {have} / {qty}: {miss} short","Ne hai {have} / {qty}: ne mancano {miss}"
+UI_MSK_SHOP_GOLD,"{n} gold short (you have {have})","Mancano {n} oro (ne hai {have})"

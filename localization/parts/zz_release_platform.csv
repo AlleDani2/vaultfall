@@ -1,0 +1,15 @@
+keys,en,it
+UI_PLAT_PRESENCE_MENU,In the main menu,Nel menù principale
+UI_PLAT_PRESENCE_PLAYING,Playing,In partita
+UI_PLAT_SUPPORT_LINE,Support: {contact},Assistenza: {contact}
+UI_PLAT_OPEN_SUPPORT,Open the support page,Apri la pagina di assistenza
+UI_FB_REPORT_HINT,Makes a ZIP file you can send to support. Nothing is sent by itself.,Crea un file ZIP da mandare all'assistenza. Non parte niente da solo.
+UI_FB_REPORT_INTRO,"Something broke or looks wrong? Tell us.
+When you press “Create the file” a ZIP is prepared on your Desktop. You send it to support yourself. The game sends nothing to anybody.","Qualcosa si è rotto o non sembra giusto? Faccelo sapere.
+Premendo «Crea il file» viene preparato uno ZIP sul tuo Desktop. Lo mandi tu all'assistenza. Il gioco non invia niente a nessuno."
+UI_FB_REPORT_DONE,"Done! The file is here:
+{path}
+Now send it to support. Thank you: it really helps.","Fatto! Il file è qui:
+{path}
+Ora mandalo all'assistenza. Grazie: è un aiuto vero."
+UI_MAN2_FEEDBACK_WHAT,If something breaks you can create a ZIP file to send to support. Anonymous statistics are optional and stay on your PC.,Se qualcosa si rompe puoi creare un file ZIP da mandare all'assistenza. Le statistiche anonime sono facoltative e restano sul tuo PC.

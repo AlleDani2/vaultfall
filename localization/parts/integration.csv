@@ -1,0 +1,15 @@
+keys,en,it
+UI_INTEG_WB_ACTIONS,Work done: {action} ×{n},Lavoro svolto: {action} ×{n}
+UI_INTEG_WB_KILLS,{n} victories against {name},{n} vittorie contro {name}
+UI_INTEG_WB_FOOD,Portions of food eaten: {n},{n} porzioni di cibo mangiate
+UI_INTEG_WB_DIED,"The hero got knocked out and is resting: combat stopped. Better armor or more food will help.","L'eroe è finito KO e si sta riposando: il combattimento si è fermato. Armatura migliore o più cibo aiuteranno."
+UI_INTEG_WB_NO_FOOD,"The food ran out, so combat stopped. Cook some more and go back.","Il cibo è finito, quindi il combattimento si è fermato. Cucina ancora e torna a combattere."
+UI_INTEG_WB_ORDERS,{n} new orders on the Market board,{n} nuove commesse sulla bacheca del Mercato
+UI_INTEG_WB_GAZETTE,{n} new Gazette headlines,{n} nuove notizie della Gazzetta
+UI_INTEG_TOPBAR_COMBAT,Combat · {zone} · {monster},Combattimento · {zone} · {monster}
+UI_INTEG_TOPBAR_RANDOM,any common monster,un mostro comune a caso
+UI_INTEG_LOCKED_LATER,Unlocks later in the story,Si sblocca più avanti nella storia
+UI_INTEG_TOME_PICK,Choose the skill that receives the experience:,Scegli la mansione che riceve l'esperienza:
+UI_INTEG_TOME_USE,Read the Tome,Leggi il Tomo
+UI_INTEG_TOOL_EQUIP,Use as tool,Usa come attrezzo
+UI_INTEG_TOOL_IN_USE,Tool in use,Attrezzo in uso

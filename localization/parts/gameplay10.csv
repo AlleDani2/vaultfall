@@ -1,0 +1,5 @@
+keys,en,it
+UI_WB_FOOD_OUT,"The food ran out, so the Hero fell and combat stopped. Cook or buy more food, put it in a food slot, and go back to fighting.","Il cibo è finito, quindi l'Eroe è caduto e il combattimento si è fermato. Cucina o compra altro cibo, mettilo in uno slot cibo e torna a combattere."
+UI_WB_FOOD_OUT_RISK,"The food was running out, so the Hero withdrew before falling (Extreme mode). Cook or buy more food, put it in a food slot, and go back to fighting.","Il cibo stava finendo, quindi l'Eroe si è ritirato prima di cadere (modalità Estrema). Cucina o compra altro cibo, mettilo in uno slot cibo e torna a combattere."
+UI_OFFL_RESUMED_SKILL,The big fight is over and the Hero went back to what they were doing: the remaining {time} went to {action}.,Lo scontro grosso è finito e l'Eroe è tornato a quello che faceva: le {time} rimaste sono andate a: {action}.
+UI_OFFL_RESUMED_FIGHT,The big fight is over and the Hero went back to the previous fight: it ran for the remaining {time}.,Lo scontro grosso è finito e l'Eroe è tornato al combattimento di prima: è proseguito per le {time} rimaste.

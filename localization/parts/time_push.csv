@@ -1,0 +1,44 @@
+keys,en,it
+UI_PUSH_TITLE,Time Push,Spinta del Tempo
+UI_PUSH_SAND,Keeper's Sand,Sabbia del Custode
+UI_PUSH_RESERVE,Sand {cur} / {cap},Sabbia {cur} / {cap}
+UI_PUSH_TODAY,Today +{time},Oggi +{time}
+UI_PUSH_TIP,"Each click advances your current action by {click} s. Sand refills by itself, even while you are away.","Ogni clic fa avanzare di {click} s l'azione in corso. La Sabbia si ricarica da sola, anche quando sei via."
+UI_PUSH_EMPTY,Out of sand: next click in {s} s,Sabbia esaurita: prossimo clic fra {s} s
+UI_PUSH_REASON_NONE,Start an action to use the Push,Avvia un'azione per usare la Spinta
+UI_PUSH_REASON_TRIAL,Not during a Trial,Non durante una Prova
+UI_PUSH_REASON_ACT,Not available in this activity,Non disponibile in questa attività
+UI_PUSH_REASON_PAUSE,The game is paused,Il gioco è in pausa
+UI_PUSH_REASON_EXTREME,Not available in Extreme mode,Non disponibile in modalità Estrema
+UI_PUSH_REASON_LOCKED,Not unlocked yet,Non ancora sbloccata
+UI_OFFL_PUSH_ROW,Sand refilled: +{time},Sabbia ricaricata: +{time}
+UI_MAN2_PUSH_T,Keeper's Sand,Sabbia del Custode
+UI_MAN2_PUSH_WHAT,"Keeper's Sand is a small reserve of time. Spend it with the Time Push button and your current action (a skill or its queue) moves forward at once. It is optional: nothing in the game requires it.","La Sabbia del Custode è una piccola riserva di tempo. Spendila con il pulsante della Spinta del Tempo e l'azione in corso (una mansione o la sua coda) avanza subito. È facoltativa: nulla nel gioco la richiede."
+UI_MAN2_PUSH_HOW_1,"Start a skill action. The Sand unlocks at the end of the first chapter, with a small gift.","Avvia un'azione di mansione. La Sabbia si sblocca alla fine del primo capitolo, con un piccolo regalo."
+UI_MAN2_PUSH_HOW_2,"Press the Push button: each click spends a little Sand and advances the action. When the Sand runs out the button waits for the next drop.","Premi il pulsante della Spinta: ogni clic spende un po' di Sabbia e fa avanzare l'azione. Quando la Sabbia finisce il pulsante aspetta la prossima goccia."
+UI_MAN2_PUSH_HOW_3,"The Sand refills slowly while you play and a little while you are away. Clicking faster never gives more: the Sand is the same for everyone, so external auto-clickers gain nothing extra.","La Sabbia si ricarica piano mentre giochi e un po' mentre sei via. Cliccare più in fretta non dà di più: la Sabbia è la stessa per tutti, quindi gli autoclicker esterni non danno vantaggi."
+UI_MAN2_PUSH_F_1,"Each click advances the action by {click} s. The reserve holds at most {cap} minutes and refills {on}% of your playing time (only with an action running) and {off}% of the time you are away.","Ogni clic fa avanzare l'azione di {click} s. La riserva contiene al massimo {cap} minuti e si ricarica del {on}% del tuo tempo di gioco (solo con un'azione in corso) e del {off}% del tempo in cui sei via."
+UI_MAN2_PUSH_F_2,"Example: 4 hours of play plus a 12-hour night away refill about {min} minutes of Sand. The unlock gift is {gift} s, once.","Esempio: 4 ore di gioco più una notte di 12 ore via ricaricano circa {min} minuti di Sabbia. Il regalo di sblocco è di {gift} s, una volta sola."
+UI_MAN2_PUSH_F_3,"The button ignores clicks beyond {cps} per second (only to spare your computer). It does not work during Trials, dungeons, raids, rifts, world bosses, combat or Extreme mode.","Il pulsante ignora i clic oltre {cps} al secondo (solo per risparmiare il computer). Non funziona durante Prove, dungeon, incursioni, Brecce, boss mondiali, combattimento o modalità Estrema."
+UI_MAN2_PUSH_TIPS,"Save a few clicks for long actions that are about to finish, or spend it all in a burst when you come back from a break.","Tieni qualche clic per le azioni lunghe che stanno per finire, oppure spendi tutto in una raffica quando torni da una pausa."
+UI_MAN2_PUSH_DONT,"Don't wait for the Sand to fill up before playing: it never changes crates, drops chances or the weekly co-op events.","Non aspettare che la Sabbia si riempia per giocare: non cambia mai le Casse, le probabilità di drop né gli eventi coop della settimana."
+UI_MAN2_PUSH_JOKE,"The Keeper says sand is just time that stopped being in a hurry. Nobody asked him to be less poetic.","Il Custode dice che la sabbia è solo tempo che ha smesso di avere fretta. Nessuno gli ha chiesto di essere meno poetico."
+UI_QUESTS_FEATURE_TIME_PUSH,Keeper's Sand,Sabbia del Custode
+UI_PUSH_GAIN,+{s} s,+{s} s
+UI_PUSH_WAIT_SHORT,in {s} s,fra {s} s
+UI_PUSH_TIP_KEYS,Key T · controller X,Tasto T · controller X
+UI_PUSH_TIP_AUTO,Assisted click: it spends the Sand as it refills,Clic assistito: spende la Sabbia man mano che si ricarica
+UI_PUSH_SC,Keeper's Sand: advance the current action,Sabbia del Custode: fa avanzare l'azione in corso
+UI_PUSH_SET_ENABLED,Show the Keeper's Sand button,Mostra il pulsante della Sabbia del Custode
+UI_PUSH_SET_FLOATERS,Show the time gained (+N s),Mostra il tempo guadagnato (+N s)
+UI_PUSH_SET_SOUND,Click sound,Suono del clic
+UI_PUSH_SET_HELP,"External auto-clickers give no advantage: the Sand is the same for everyone. If clicking is tiring, turn on “Assisted click.”","Gli autoclicker esterni non danno vantaggi: la Sabbia è la stessa per tutti. Se cliccare è faticoso, attiva ""Clic assistito""."
+UI_PUSH_ASSIST,Assisted click,Clic assistito
+UI_PUSH_ASSIST_OFF,Assisted click: off,Clic assistito: spento
+UI_PUSH_ASSIST_HOLD,Assisted click: hold,Clic assistito: tieni premuto
+UI_PUSH_ASSIST_TOGGLE,Assisted click: switch,Clic assistito: interruttore
+UI_PUSH_ASSIST_AUTO,Assisted click: automatic,Clic assistito: automatico
+UI_PUSH_ASSIST_RATE,Assisted click speed,Velocità del Clic assistito
+UI_PUSH_RATE_VALUE,{n} clicks/s,{n} clic/s
+UI_TUT_F_PUSH_T,Keeper's Sand,Sabbia del Custode
+UI_TUT_F_PUSH_B,"The Keeper gives you a small gift of Sand and a button on the right. Each click spends a little Sand and advances your current action at once. The Sand refills slowly by itself and while you are away. It never changes crates or drops. If clicking is tiring, Settings has “Assisted click” (hold, switch or automatic).","Il Custode ti dà un piccolo regalo di Sabbia e un pulsante sulla destra. Ogni clic spende un po' di Sabbia e fa avanzare subito l'azione in corso. La Sabbia si ricarica piano da sola e mentre sei via. Non cambia mai Casse o drop. Se cliccare è faticoso, nelle Impostazioni trovi il ""Clic assistito"" (tieni premuto, interruttore o automatico)."

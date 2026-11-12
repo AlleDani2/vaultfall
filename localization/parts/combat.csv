@@ -1,0 +1,98 @@
+keys,en,it
+UI_COMBAT_ZONE,Zone,Zona
+UI_COMBAT_MONSTER,Who to fight,Chi affrontare
+UI_COMBAT_RANDOM,Any common monster,Un mostro comune a caso
+UI_COMBAT_LV,Lv,Liv.
+UI_COMBAT_LOCKED,locked,bloccata
+UI_COMBAT_TYPE_ELITE,elite,élite
+UI_COMBAT_TYPE_BOSS,boss,boss
+UI_COMBAT_TYPE_DUNGEON_BOSS,dungeon boss,boss del dungeon
+UI_COMBAT_TYPE_RAID_BOSS,raid boss,boss d'incursione
+UI_COMBAT_TYPE_WORLD_BOSS,world boss,boss mondiale
+UI_COMBAT_TYPE_NORMAL,common,comune
+UI_COMBAT_START,Start fighting,Inizia a combattere
+UI_COMBAT_STOP,Stop fighting,Smetti di combattere
+UI_COMBAT_HERO,Hero,Eroe
+UI_COMBAT_LOG,Battle log,Registro di battaglia
+UI_COMBAT_RECENT_DROPS,Recent loot,Bottino recente
+UI_COMBAT_NO_DROPS,Nothing yet. Go and earn something: the monsters aren't going to hand it over politely.,Ancora niente. Vai a guadagnarti qualcosa: i mostri non lo consegnano per gentilezza.
+UI_COMBAT_KILLS,Kills: {n},Uccisioni: {n}
+UI_COMBAT_WOUNDED,Wounded: -10% to your stats for {time},Ferito: -10% alle statistiche per {time}
+UI_COMBAT_DEAD,You went down. Back on your feet in {time}. Dario says it happened to him once. It happened to him a lot.,"Sei a terra. Ti rialzi tra {time}. Dario dice che è successo anche a lui, una volta. Più di una."
+UI_COMBAT_IDLE,"Resting. Pick a place and start. The monsters are waiting, bored.","A riposo. Scegli dove andare e comincia. I mostri aspettano, annoiati."
+UI_COMBAT_FIGHTING,Fighting on its own. You may watch with a snack.,Si combatte da soli. Puoi guardare con uno spuntino.
+UI_COMBAT_MISS,Miss,Mancato
+UI_COMBAT_DODGE,Dodged,Schivato
+UI_COMBAT_LOG_HIT,You hit for {n}.,Colpisci per {n}.
+UI_COMBAT_LOG_CRIT,Critical hit! {n} damage.,Colpo critico! {n} danni.
+UI_COMBAT_LOG_MHIT,It hits you for {n}.,Ti colpisce per {n}.
+UI_COMBAT_LOG_HEAVY,A devastating blow is incoming!,Un colpo devastante!
+UI_COMBAT_LOG_EAT,You eat and recover {n} health.,Mangi e recuperi {n} vita.
+UI_COMBAT_LOG_KILL,"{name} defeated: +{xp} XP, +{gold} gold.","{name} sconfitto: +{xp} XP, +{gold} oro."
+UI_COMBAT_LOG_CRATE,A Crate dropped: {name}!,È caduta una cassa: {name}!
+UI_COMBAT_LOG_PET,A tiny companion has decided to follow you!,Un piccolo compagno ha deciso di seguirti!
+UI_COMBAT_LOG_DIE,You were defeated. Nothing is lost; rest a moment.,Hai perso lo scontro. Non perdi nulla: riprendi fiato.
+UI_COMBAT_LOG_REVIVE,"You get back up, a bit bruised.","Ti rialzi, un po' ammaccato."
+UI_COMBAT_LOG_OFFLINE,Victories while you were away: {n}.,Mentre eri via: {n} vittorie.
+UI_COMBAT_SAFE_GREEN,Safe to leave idle,Sicuro in idle
+UI_COMBAT_SAFE_YELLOW,Careful: food will run out,Attenzione: il cibo finirà
+UI_COMBAT_SAFE_RED,Risky: one blow may defeat you,Rischio: un colpo può abbatterti
+UI_COMBAT_SAFE_TIP,Strongest blow: {hit}. Auto-eat starts at {thr} health. Food lasts: {food}.,Colpo più forte: {hit}. Si mangia sotto {thr} di vita. Il cibo dura: {food}.
+UI_COMBAT_FOOD_INF,as long as you like,quanto vuoi
+UI_COMBAT_NO_AMMO,You have no ammunition equipped for this weapon. Insulting the enemy does not count as ammunition.,Non hai munizioni equipaggiate per quest'arma. Insultare il nemico non conta come munizione.
+UI_COMBAT_AMMO_OUT,Out of ammunition: combat stopped. Even Dario knows when to stop.,Munizioni finite: combattimento fermato. Persino Dario sa quando fermarsi.
+UI_HERO_CLASS,Class,Classe
+UI_HERO_CLASS_FREE,You can change class for free for now.,Per ora puoi cambiare classe gratis.
+UI_HERO_CLASS_COST,Changing class costs {gold} gold (once an hour).,Cambiare classe costa {gold} oro (una volta all'ora).
+UI_HERO_CLASS_DENIED,You can't change class right now. Ilde has a form for this.,Ora non puoi cambiare classe. Ilde ha un modulo apposta.
+UI_HERO_ATTRIBUTES,Attributes,Attributi
+UI_HERO_AUTO_ALLOC,Automatic points,Punti automatici
+UI_HERO_FREE_POINTS,Free points,Punti liberi
+UI_HERO_STATS,Combat stats,Statistiche di combattimento
+UI_HERO_ST_LEVEL,Hero level,Livello Eroe
+UI_HERO_ST_HP,Health,Vita
+UI_HERO_ST_MAX_HIT,Damage per hit,Danno per colpo
+UI_HERO_ST_INTERVAL,Attack every,Attacca ogni
+UI_HERO_ST_AP,Attack power,Potenza
+UI_HERO_ST_ACC,Accuracy,Precisione
+UI_HERO_ST_EVA,Evasion,Evasione
+UI_HERO_ST_ARMOR,Armor,Armatura
+UI_HERO_ST_WARD,Arcane ward,Protezione arcana
+UI_HERO_ST_CRIT,Critical chance,Probabilità critica
+UI_HERO_ST_CRITD,Critical damage,Danno critico
+UI_HERO_ST_REGEN,Regeneration,Rigenerazione
+UI_HERO_STAT_STR,Strength,Forza
+UI_HERO_STAT_DEX,Dexterity,Destrezza
+UI_HERO_STAT_INT,Intellect,Intelletto
+UI_HERO_STAT_VIT,Vitality,Vitalità
+UI_HERO_STAT_DAMAGE,damage,danno
+UI_HERO_STAT_ARMOR,armor,armatura
+UI_HERO_STAT_WARD,ward,protezione
+UI_HERO_STAT_HP,health,vita
+UI_HERO_STAT_AP,power,potenza
+UI_HERO_STAT_ACCURACY,accuracy,precisione
+UI_HERO_STAT_EVASION,evasion,evasione
+UI_HERO_STAT_CRIT_CHANCE,crit,critico
+UI_HERO_EQUIPMENT,Equipment,Equipaggiamento
+UI_HERO_UNEQUIP,Remove,Togli
+UI_HERO_EMPTY,(empty),(vuoto)
+UI_HERO_NONE_AVAILABLE,Nothing suitable in storage. Try Bertoldo: everything he sells was “used only once.”,Niente di adatto nel Deposito. Prova da Bertoldo: tutto ciò che vende è «usato una volta sola».
+UI_HERO_SLOT_WEAPON,Weapon,Arma
+UI_HERO_SLOT_OFFHAND,Off-hand,Mano secondaria
+UI_HERO_SLOT_AMMO,Ammunition,Munizioni
+UI_HERO_SLOT_HELM,Helm,Elmo
+UI_HERO_SLOT_BODY,Body,Corazza
+UI_HERO_SLOT_LEGS,Legs,Gambali
+UI_HERO_SLOT_GLOVES,Gloves,Guanti
+UI_HERO_SLOT_BOOTS,Boots,Stivali
+UI_HERO_SLOT_CAPE,Cape,Mantello
+UI_HERO_SLOT_AMULET,Amulet,Amuleto
+UI_HERO_SLOT_RING,Ring,Anello
+UI_HERO_SLOT_RING2,Second ring,Secondo anello
+UI_HERO_SLOT_INSIGNIA,Insignia,Insegna
+UI_HERO_LEVEL_REQ,You need Hero level {n} to wear this. Growing helps.,Serve il livello Eroe {n} per indossarlo. Crescere aiuta.
+UI_HERO_TWO_HANDED,"Your weapon needs both hands. There is no third hand, we checked.","L'arma che impugni richiede due mani. Una terza non c'è, abbiamo controllato."
+UI_HERO_FOOD,Food,Cibo
+UI_HERO_EAT_NOW,Eat now,Mangia ora
+UI_HERO_EAT_BELOW,Eat when health drops below {pct}%,Mangia quando la vita scende sotto il {pct}%
+UI_HERO_EAT_INFO,"Eats until {target}% health, recovering {eff}% of the food's value. Portions in storage: {n}.","Mangia fino al {target}% di vita, recuperando il {eff}% del valore del cibo. Porzioni nel Deposito: {n}."

@@ -1,0 +1,25 @@
+{
+ "note": "Dimensioni NATIVE delle immagini pixel art (generate a questa misura, mai ridimensionate a mano). In Godot si ingrandiscono solo a multipli interi con filtro Nearest.",
+ "by_path_prefix": {
+  "res://assets/icons/items/": {"w": 32, "h": 32, "display_scale": 2},
+  "res://assets/icons/skins/": {"w": 32, "h": 32, "display_scale": 2},
+  "res://assets/icons/relics/": {"w": 32, "h": 32, "display_scale": 2},
+  "res://assets/icons/crates/": {"w": 32, "h": 32, "display_scale": 2},
+  "res://assets/icons/skills/": {"w": 32, "h": 32, "display_scale": 2},
+  "res://assets/icons/abilities/": {"w": 32, "h": 32, "display_scale": 2},
+  "res://assets/icons/talents/": {"w": 32, "h": 32, "display_scale": 2},
+  "res://assets/icons/factions/": {"w": 32, "h": 32, "display_scale": 2},
+  "res://assets/icons/cosmetics/": {"w": 32, "h": 32, "display_scale": 2},
+  "res://assets/icons/estate/": {"w": 64, "h": 64, "display_scale": 2},
+  "res://assets/icons/achievements/": {"w": 64, "h": 64, "display_scale": 1},
+  "res://assets/portraits/monsters/": {"w": 64, "h": 64, "display_scale": 3},
+  "res://assets/portraits/npcs/": {"w": 64, "h": 64, "display_scale": 3},
+  "res://assets/portraits/pets/": {"w": 64, "h": 64, "display_scale": 2},
+  "res://assets/portraits/classes/": {"w": 128, "h": 128, "display_scale": 2},
+  "res://assets/banners/": {"w": 320, "h": 96, "display_scale": 3}
+ },
+ "overrides": {
+  "boss_portraits": {"w": 128, "h": 128, "applies_to": "mostri di tipo boss, dungeon_boss, raid_boss, world_boss"},
+  "showcase": {"w": 64, "h": 64, "applies_to": "versione grande di Reliquie ★, casse (chiusa/aperta) per la schermata di apertura"}
+ }
+}

@@ -1,0 +1,48 @@
+keys,en,it
+UI_BONUS_HELP,"Everything that gives you an edge right now, grouped by what it helps with, and where each one comes from.","Tutto ciò che ti dà un vantaggio adesso, raggruppato per ciò che aiuta, e da dove arriva ognuno."
+UI_BONUS_LEGEND,"+ adds up with other bonuses of the same kind. × (multiplier) multiplies the total instead: it never adds up with the rest and always counts in full.","+ si somma agli altri bonus dello stesso tipo. × (moltiplicatore) moltiplica il totale: non si somma al resto e vale sempre per intero."
+UI_BONUS_COUNT,{n} active bonuses,{n} bonus attivi
+UI_BONUS_COUNT_ONE,{n} active bonus,{n} bonus attivo
+UI_BONUS_COUNT_CAPPED,{n} at the limit,{n} al limite
+UI_BONUS_NO_MATCH,"No bonus matches your search.","Nessun bonus corrisponde alla ricerca."
+UI_BONUS_BTN_N,Active bonuses ({n}),Bonus attivi ({n})
+UI_BONUS_STAT_TIP_MORE,Click to see all active bonuses.,Clic per vedere tutti i bonus attivi.
+UI_BONUS_UNKNOWN,Other bonus,Altro bonus
+UI_BONUS_MORE_CHIP,multiplier,moltiplicatore
+UI_BONUS_MORE_TIP,"A multiplier (×) works on the whole total: it does not add up with the other bonuses, it multiplies them.","Un moltiplicatore (×) agisce sul totale intero: non si somma agli altri bonus, li moltiplica."
+UI_BONUS_CAP_CHIP,limit reached,limite raggiunto
+UI_BONUS_CAP_USING,Limit {cap}: {pct}% in use.,Tetto {cap}: utilizzo {pct}%.
+UI_BONUS_CAP_OVER,You have {have}: the rest does not count.,Ne hai {have}: il resto non conta.
+UI_BONUS_FROM_ONE,From: {src},Da: {src}
+UI_BONUS_FROM_MANY,Where it comes from,Da dove viene
+UI_BONUS_FROM_TIP,Click to show or hide every source of this bonus.,Clic per mostrare o nascondere tutte le fonti di questo bonus.
+UI_BONUS_CAT_SKILLS,Skills,Mansioni
+UI_BONUS_CAT_COMBAT,Combat,Combattimento
+UI_BONUS_CAT_LOOT,Crates & Loot,Casse e Bottino
+UI_BONUS_CAT_MARKET,Economy,Economia
+UI_BONUS_CAT_ESTATE,Estate,Tenuta
+UI_BONUS_CAT_PRESTIGE,Prestige,Prestigio
+UI_BONUS_CAT_SYSTEM,Space & comfort,Spazio e comodità
+UI_BONUS_SRC_OTHER,Other source,Altra fonte
+UI_BONUS_SRC_SHOP,Shop purchase,Acquisto al Negozio
+UI_BONUS_SRC_GUILD,Guild project,Progetto di Gilda
+UI_BONUS_SRC_RUN,The Run,La Corsa
+UI_BONUS_SRC_COMBAT,Combat potion,Pozione di combattimento
+UI_BONUS_SRC_PRESTIGE,Prestige,Prestigio
+UI_BONUS_SRC_FEAST,Feast,Banchetto
+UI_BONUS_SRC_TRIAL_ACTIVE,Trial in progress,Prova in corso
+UI_BONUS_SCOPE_CURRENT,current skill,mansione in corso
+UI_BONUS_SCOPE_GATHERING,Gathering,Raccolta
+UI_BONUS_SCOPE_ARTISAN,Crafting,Artigianato
+UI_BONUS_SCOPE_SPECIAL,Special skills,Mansioni speciali
+UI_BONUS_SCOPE_COMBAT,Combat,Combattimento
+UI_BONUS_SCOPE_FIRE,fire,fuoco
+UI_BONUS_SCOPE_FROST,frost,gelo
+UI_BONUS_SCOPE_LIGHTNING,lightning,fulmine
+UI_BONUS_SCOPE_POISON,poison,veleno
+UI_BONUS_SCOPE_HOLY,holy light,luce sacra
+UI_BONUS_SCOPE_SHADOW,shadow,ombra
+UI_BONUS_SCOPE_MARKET,Market,Mercato
+UI_BONUS_SCOPE_ESTATE,Estate,Tenuta
+UI_BONUS_SCOPE_QUESTS,Quests,Missioni
+UI_BONUS_SCOPE_SKILLING,skilling,mansioni

@@ -1,0 +1,66 @@
+keys,en,it
+UI_FARM_TITLE,Garden,Giardino
+UI_FARM_SUBTITLE,"Sow, wait, harvest. Potatoes are in no hurry, and neither are you.","Semina, aspetta, raccogli. Le patate non hanno fretta, e nemmeno tu."
+UI_FARM_LEVEL,Farming level {n},"Coltivazione, livello {n}"
+UI_FARM_READY_N,{n} ready to harvest,{n} pronti da raccogliere
+UI_FARM_NONE_READY,"Nothing to harvest. The grass is growing, I swear.","Niente da raccogliere. L'erba cresce, giuro."
+UI_FARM_HARVEST_ALL,Harvest all,Raccogli tutto
+UI_FARM_PLANT_ALL,Sow everywhere,Semina ovunque
+UI_FARM_SEED_PICK,Seed:,Seme:
+UI_FARM_SEED_OPT,"{name} (Lv {lv}, ×{n} seeds)","{name} (Lv {lv}, x{n} semi)"
+UI_FARM_EMPTY,Empty plot,Appezzamento libero
+UI_FARM_GROWING,Growing: {time},Cresce: {time}
+UI_FARM_READY,Ready!,Pronto!
+UI_FARM_PLANT,Sow,Semina
+UI_FARM_HARVEST,Harvest,Raccogli
+UI_FARM_AUTO,Automatic,Automatico
+UI_FARM_AUTO_ON,Automatic plots harvest and re-sow on their own while seeds last. Granny Berta approves.,Gli appezzamenti automatici raccolgono e riseminano da soli finché ci sono semi. Nonna Berta approva.
+UI_FARM_AUTO_LOCKED,"Automatic plots unlock with 1 Star in Farming. Until then, your thumbs are the automation.",Gli appezzamenti automatici si sbloccano con 1 Stella in Coltivazione. Fino ad allora l'automazione sono i tuoi pollici.
+UI_FARM_AUTO_NO_SEEDS,An automatic plot stopped: out of seeds. Berta is already muttering a proverb about it.,Un appezzamento automatico si è fermato: semi finiti. Berta sta già borbottando un proverbio.
+UI_FARM_BUY_PLOT,Buy another plot ({cost} gold),Compra un altro appezzamento ({cost} oro)
+UI_FARM_MAXED,Every plot is yours. The neighbors are jealous.,Hai tutti gli appezzamenti. I vicini rosicano.
+UI_FARM_HARVESTED,+{n} {item},+{n} {item}
+UI_FARM_REASON_UNKNOWN,That plot or crop does not exist. Nice try.,Quell'appezzamento o quella coltura non esiste. Bel tentativo.
+UI_FARM_REASON_KIND,"That plant does not go in this plot: trees to the orchard, veg to the garden.","Quella pianta non va qui: gli alberi al frutteto, gli ortaggi all'orto."
+UI_FARM_REASON_BUSY,No free plots: everything is already growing.,Nessun appezzamento libero: è già tutto in crescita.
+UI_FARM_REASON_LEVEL,Your Farming level is too low for that one.,Il tuo livello di Coltivazione non basta per questa.
+UI_FARM_REASON_SEEDS,"Out of seeds. Seeds do not grow on trees, only trees do.","Semi finiti. I semi non crescono sugli alberi, al massimo gli alberi."
+UI_SKILLS_WAITING_MATERIALS,"Out of ingredients: waiting, and the action restarts on its own as soon as they come back.",Ingredienti finiti: si resta in attesa e l'azione riparte da sola appena tornano.
+UI_QUEUE_REASON_ACTION,That action cannot go in the queue.,Quell'azione non può andare in coda.
+UI_QUEUE_REASON_MODE,Unknown end condition.,Condizione di fine sconosciuta.
+UI_QUEUE_REASON_VALUE,Pick a number above zero: even patience has a minimum.,Scegli un numero maggiore di zero: anche la pazienza ha un minimo.
+UI_QUEUE_REASON_EXHAUST,Only actions that use ingredients can run until they run out. The rest don't know how to stop.,Solo le azioni con ingredienti possono andare avanti finché finiscono. Le altre non sanno come fermarsi.
+UI_QUEUE_REASON_FULL,The queue is full. Buy more slots at the Emporium or finish something first.,La coda è piena. Compra altri posti all'Emporio o finisci qualcosa prima.
+UI_QUEUE_SKIPPED,A queued action could not run and was skipped.,Un'azione in coda non poteva partire ed è stata saltata.
+UI_QUEUE_DONE,Queue finished. Time for a well-earned snack.,Coda finita. È ora di un meritato spuntino.
+UI_POTION_FINISHED,The potion is finished. The aftertaste lingers.,La pozione è finita. Il retrogusto resta.
+UI_EXTRAS_TITLE,"Queue, potions and feasts","Coda, pozioni e banchetti"
+UI_EXTRAS_AUTO_ON,"Automation active: if ingredients run out, the action waits and restarts by itself.","Automazione attiva: se finiscono gli ingredienti, l'azione aspetta e riparte da sola."
+UI_EXTRAS_AUTO_LOCKED,"Automation is not unlocked yet. It needs 1 Star in this skill, or one Mastered action (Mastery 50). Until then, when the ingredients run out the action stops and you have to start it again by hand.","Automazione non ancora sbloccata. Serve 1 Stella in questa mansione, oppure un'azione Padroneggiata (Maestria 50). Finché non c'è, quando gli ingredienti finiscono l'azione si ferma e devi riavviarla a mano."
+UI_EXTRAS_QUEUE_TITLE,Action queue,Coda delle azioni
+UI_EXTRAS_QUEUE_SLOTS,Slots: {n} of {max},Posti: {n} su {max}
+UI_EXTRAS_QUEUE_LOCKED,No queue yet. The Action Notebook at the Emporium gives you your first slots.,Ancora nessuna coda. Il Taccuino delle Azioni all'Emporio ti dà i primi posti.
+UI_EXTRAS_ADD,Add,Aggiungi
+UI_EXTRAS_REMOVE,Remove,Togli
+UI_EXTRAS_UP,Up,Su
+UI_EXTRAS_START_QUEUE,Start queue,Avvia la coda
+UI_EXTRAS_STOP_QUEUE,Stop queue,Ferma la coda
+UI_EXTRAS_MIN_SUFFIX,min,min
+UI_EXTRAS_MODE_QTY,Times,Volte
+UI_EXTRAS_MODE_LEVEL,Until level,Fino al livello
+UI_EXTRAS_MODE_TIME,For minutes,Per minuti
+UI_EXTRAS_MODE_EXHAUST,Until it runs out,Finché dura
+UI_EXTRAS_ENTRY_QTY,{name}: {done} of {value} times,{name}: {done} volte su {value}
+UI_EXTRAS_ENTRY_LEVEL,{name}: until level {value},{name}: fino al livello {value}
+UI_EXTRAS_ENTRY_TIME,{name}: {done} of {total},{name}: {done} su {total}
+UI_EXTRAS_ENTRY_EXHAUST,{name}: until the ingredients run out,{name}: finché finiscono gli ingredienti
+UI_EXTRAS_POTION_TITLE,Potions and feasts,Pozioni e banchetti
+UI_EXTRAS_POTION_NONE_SKILL,No potion slot for this skill: some jobs are best done sober.,Nessuna pozione per questa mansione: certi lavori si fanno meglio da sobri.
+UI_EXTRAS_POTION_NONE,No active potion for this group. The cauldron is on its break.,Nessuna pozione attiva per questo gruppo. Il calderone è in pausa.
+UI_EXTRAS_POTION_ACTIVE,{name} (charges left: {n}),{name}: {n} cariche rimaste
+UI_EXTRAS_DRINK,Drink,Bevi
+UI_EXTRAS_FEAST_NONE,No feast in progress. Cooking is a love language.,Nessun banchetto in corso. La cucina è un linguaggio d'amore.
+UI_EXTRAS_FEAST_ACTIVE,{name}: {time} left,{name}: ancora {time}
+UI_EXTRAS_EAT,Eat,Mangia
+UI_EXTRAS_AUTO_MASTERED,"Automation is active for your Mastered actions: {list}. For the other actions it needs 1 Star in this skill. When the ingredients run out, the action waits and starts again by itself.","Automazione attiva per le tue azioni Padroneggiate: {list}. Per le altre serve 1 Stella in questa mansione. Quando gli ingredienti finiscono, l'azione aspetta e riparte da sola."
+UI_EXTRAS_AUTO_NOINPUT,"Nothing to automate here: these actions use no ingredients, so they already repeat by themselves until you press Stop. Automation matters for crafting skills, where ingredients can run out.","Qui non serve automatizzare: queste azioni non consumano ingredienti, quindi si ripetono già da sole finché non premi Ferma. L'automazione conta nelle mansioni di produzione, dove gli ingredienti possono finire."

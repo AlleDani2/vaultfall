@@ -1,0 +1,13 @@
+keys,en,it
+UI_OFFL_OVERFLOW_CLAIMED,"The Pickup Cart unloaded {n} items into the Bank.","Il Carro di Ritiro ha scaricato {n} oggetti nel Deposito."
+UI_OFFL_OVERFLOW_WAITING,"Bank full: {n} items are waiting in the Pickup Cart. Free some space and they unload by themselves.","Deposito pieno: {n} oggetti aspettano nel Carro di Ritiro. Fai spazio e si scaricano da soli."
+UI_OFFL_OVERFLOW_SOLD,"The Cart was full too: {n} pieces were sold at market price for {gold} gold.","Anche il Carro era pieno: {n} pezzi sono stati venduti al prezzo di mercato per {gold} oro."
+UI_OFFL_ESTATE_AUTO,"The Estate Pantry took {n} rations from the Bank.","La Dispensa della Tenuta ha preso {n} razioni dal Deposito."
+UI_OFFL_PANTRY_AUTO,"Restock automatically","Rifornisci da sola"
+UI_OFFL_PANTRY_AUTO_TIP,"When the Pantry is empty it takes up to 24 hours of rations from the Bank: cheapest food first, never locked food nor the food in the hero's slots.","Quando la Dispensa è vuota prende dal Deposito fino a 24 ore di razioni: prima il cibo più economico, mai quello bloccato né quello negli slot cibo dell'Eroe."
+UI_OFFL_FALLBACK,"The fight ended early, so the remaining {time} went to {action}.","Il combattimento si è fermato prima, quindi le {time} rimaste sono andate a: {action}."
+UI_OFFL_FALLBACK_NONE,"The fight ended early and {time} went unused: do a skill before fighting so it can take over next time.","Il combattimento si è fermato prima e {time} sono andate inutilizzate: svolgi una mansione prima di combattere e potrà subentrare la prossima volta."
+UI_OFFL_FALLBACK_OPT,"Safe skill while away","Mansione di riserva offline"
+UI_OFFL_FALLBACK_OPT_TIP,"If the fight stops while you are away (fallen hero, out of food or ammo), the remaining time goes to the last skill you did before fighting.","Se il combattimento si ferma mentre sei via (Eroe caduto, cibo o munizioni finiti), il tempo che resta va all'ultima mansione svolta prima di combattere."
+UI_OFFL_UNCOUNTED,"{time} of your absence went past the {limit} limit and was not counted (only the calendar moved on).","{time} della tua assenza hanno superato il limite di {limit} e non sono state contate (è andato avanti solo il calendario)."
+UI_OFFL_NOREF,"This save has no valid date: no offline time was granted.","Questo salvataggio non ha una data valida: nessun tempo offline concesso."

@@ -1,0 +1,94 @@
+keys,en,it
+UI_PRESTIGE_NO_SYSTEM,Prestige is not available in this game. The stars are on a coffee break.,Il Prestigio non è disponibile in questa partita. Le stelle sono in pausa caffè.
+UI_PRESTIGE_INTRO,Prestige is a reset YOU choose: you give up some progress and get permanent bonuses in return. Nothing happens without a preview and a double confirmation. Nobody is ever forced to reset.,Il Prestigio è un reset che scegli TU: rinunci a un po' di strada e in cambio ottieni bonus per sempre. Non succede nulla senza anteprima e doppia conferma. Nessuno ti obbliga mai a ricominciare.
+UI_PRESTIGE_ADVISOR,The Adviser (only one suggestion at a time),Il Consigliere (un solo suggerimento alla volta)
+UI_PRESTIGE_ADVISOR_GO,Show me,Fammi vedere
+UI_PRESTIGE_ADV_STAR,Best move today: earn a Star in {skill}. You get {dust} Stardust and skill XP goes from {from} to {to}.,Oggi ti conviene: ottenere una Stella in {skill}. Ricevi {dust} Polvere Stellare e l'XP della mansione passa da {from} a {to}.
+UI_PRESTIGE_ADV_RITE,"Best move today: perform the Rite in {skill}, a trial Star that comes early. You get {dust} Stardust and skill XP goes from {from} to {to}. Level 1 again, but faster.","Oggi ti conviene: fare il Rito in {skill}, una Stella di prova che arriva presto. Ricevi {dust} Polvere Stellare e l'XP della mansione passa da {from} a {to}. Torni al livello 1, ma più veloce."
+UI_PRESTIGE_ADV_REFOUND,Best move today: refound the Estate. You get new Partners: {n} (Estate production reaches +{bonus}).,Oggi ti conviene: rifondare la Tenuta. Ottieni {n} nuovi Soci (la produzione della Tenuta arriva a +{bonus}).
+UI_PRESTIGE_ADV_NODE,You have {dust} Stardust. Cheapest useful thing to buy: “{name}” for {cost}.,Hai {dust} Polvere Stellare. La cosa utile più economica da comprare: «{name}» a {cost}.
+UI_PRESTIGE_ADV_NONE,"Nothing to do here right now. Go and play, the stars are patient (they have had a few billion years of practice).","Per ora non c'è niente da fare qui. Vai a giocare, le stelle sanno aspettare (hanno qualche miliardo di anni di esperienza)."
+UI_PRESTIGE_ADV_NEXT_RITE,Nothing to do yet. Closest step: {skill} at level {lv}/{target} for the Rite.,Per ora niente. Il passo più vicino: {skill} al livello {lv}/{target} per il Rito.
+UI_PRESTIGE_ADV_NEXT_STAR,Nothing to do yet. Closest step: {skill} at level {lv}/{target} for the next Star.,Per ora niente. Il passo più vicino: {skill} al livello {lv}/{target} per la prossima Stella.
+UI_PRESTIGE_GOAL,"Big Goal: {name} ({cur}/{qty}), reward {dust} Stardust","Grande Obiettivo: {name} ({cur}/{qty}), premio {dust} Polvere Stellare"
+UI_PRESTIGE_GOAL_RITE,Your first Rite,Il tuo primo Rito
+UI_PRESTIGE_GOAL_FIRST_STAR,Your first Star,La tua prima Stella
+UI_PRESTIGE_GOAL_NODES_10,10 Constellation levels,10 livelli di Costellazione
+UI_PRESTIGE_GOAL_STARS_5,5 Stars in total,5 Stelle in totale
+UI_PRESTIGE_GOAL_PARTNER,Your first Partner (Estate refounding),Il tuo primo Socio (Rifondazione della Tenuta)
+UI_PRESTIGE_GOAL_NODES_30,30 Constellation levels,30 livelli di Costellazione
+UI_PRESTIGE_GOAL_STARS_10,10 Stars in total,10 Stelle in totale
+UI_PRESTIGE_GOAL_STARS_20,20 Stars in total,20 Stelle in totale
+UI_PRESTIGE_DUST,Stardust: {n},Polvere Stellare: {n}
+UI_PRESTIGE_STARS_TOTAL,Stars: {n},Stelle: {n}
+UI_PRESTIGE_PARTNERS,Partners: {n},Soci: {n}
+UI_PRESTIGE_TAB_STAR,Stars,Stelle
+UI_PRESTIGE_TAB_CONSTELLATIONS,Constellations,Costellazioni
+UI_PRESTIGE_TAB_REFOUND,Estate Refounding,Rifondazione Tenuta
+UI_PRESTIGE_STAR_INFO,"A Star resets ONE skill to level 1 and gives permanent bonuses to that skill, plus Stardust. It needs level 100. Before that you can do the Rite once per skill: same reward as a first Star, but from a lower level. Pick a skill to see exactly what you lose and what you get.","Una Stella riporta UNA mansione al livello 1 e le dà bonus permanenti, più Polvere Stellare. Serve il livello 100. Prima puoi fare il Rito, una volta per mansione: stessa ricompensa di una prima Stella, ma da un livello più basso. Scegli una mansione per vedere cosa perdi e cosa ottieni."
+UI_PRESTIGE_PREVIEW_BTN,Preview,Anteprima
+UI_PRESTIGE_READY_BTN,Ready! Preview,Pronta! Anteprima
+UI_PRESTIGE_ROW_LEVEL,Level {lv}/{req},Livello {lv}/{req}
+UI_PRESTIGE_ROW_STARS,{n} Stars,{n} Stelle
+UI_PRESTIGE_PICK_SKILL,"Pick a skill from the list: you will see here what you lose, what you keep and what you gain.","Scegli una mansione dall'elenco: qui vedrai cosa perdi, cosa conservi e cosa guadagni."
+UI_PRESTIGE_PREVIEW_STAR,Star in {skill},Stella in {skill}
+UI_PRESTIGE_PREVIEW_RITE,Rite in {skill} (trial Star),Rito in {skill} (Stella di prova)
+UI_PRESTIGE_LOSE,You lose:,Cosa perdi:
+UI_PRESTIGE_KEEP,You keep:,Cosa conservi:
+UI_PRESTIGE_GAIN,You gain:,Cosa guadagni:
+UI_PRESTIGE_LOSE_LEVEL,The skill goes from level {level} back to level 1,La mansione torna dal livello {level} al livello 1
+UI_PRESTIGE_LOSE_PERKS,Chosen perks: {n} (the game remembers them: one click to pick them again),{n} talenti scelti (il gioco li ricorda: un clic per riscegliere gli stessi)
+UI_PRESTIGE_KEEP_STAR,"Mastery, items, quests, the level record (it gives you the Echo) and every other skill","Maestrie, oggetti, missioni, il record di livello (che ti dà l'Eco) e tutte le altre mansioni"
+UI_PRESTIGE_KEEP_PERKS,The memory of your perk choices,La memoria delle tue scelte di talento
+UI_PRESTIGE_GAIN_STAR,Star number {n},Stella numero {n}
+UI_PRESTIGE_GAIN_DUST,{n} Stardust,{n} Polvere Stellare
+UI_PRESTIGE_GAIN_XP,Skill XP: {from} → {to},XP della mansione: {from} -> {to}
+UI_PRESTIGE_GAIN_HASTE,Speed: {from} → {to},Velocità: {from} -> {to}
+UI_PRESTIGE_GAIN_MOD,{name}: {from} → {to},{name}: {from} -> {to}
+UI_PRESTIGE_GAIN_TITLE,A new title,Un nuovo titolo
+UI_PRESTIGE_GAIN_FRAME,A new frame for the skill,Una nuova cornice per la mansione
+UI_PRESTIGE_GAIN_UNLOCK,Unlock: {what},Sblocco: {what}
+UI_PRESTIGE_BACK,Estimated time to get back to level 100: {t} (Echo included),Tempo stimato per tornare al livello 100: {t} (Eco compreso)
+UI_PRESTIGE_BACK_UNKNOWN,Time to get back to level 100: it depends on how you play,Tempo per tornare al livello 100: dipende da come giochi
+UI_PRESTIGE_CONFIRM_STAR,Earn the Star,Ottieni la Stella
+UI_PRESTIGE_CONFIRM_RITE,Perform the Rite,Fai il Rito
+UI_PRESTIGE_CONFIRM_REFOUND,Refound the Estate,Rifonda la Tenuta
+UI_PRESTIGE_SURE,"Are you sure? Press again to confirm. The stars will wait, they have time.","Confermi? Premi di nuovo per confermare. Le stelle aspettano, hanno tempo."
+UI_PRESTIGE_REAPPLY,Pick my perks again,Riscegli i miei talenti
+UI_PRESTIGE_REAPPLY_TIP,"Applies the perk choices you had before the reset, for the levels you have already reached.","Riapplica le scelte di talento che avevi prima del reset, per i livelli già raggiunti."
+UI_PRESTIGE_REAPPLIED,Perks picked again: {n},Talenti riscelti: {n}
+UI_PRESTIGE_REASON_NO_SKILL,This skill has no Stars. It didn't apply.,Questa mansione non ha Stelle. Non ha fatto domanda.
+UI_PRESTIGE_REASON_LEVEL,"{skill} must reach level {req} first (now {lv}). The Rite is possible from level {rite}, once.","{skill} deve prima arrivare al livello {req} (ora {lv}). Il Rito è possibile dal livello {rite}, una volta."
+UI_PRESTIGE_REASON_RITE_LEVEL,"The Rite starts at level {rite} (now {lv}). Keep going, it is worth it.","Il Rito parte dal livello {rite} (ora {lv}). Continua, ne vale la pena."
+UI_PRESTIGE_REASON_RITE_DONE,The Rite is already done here: the next step is level {req} for a real Star.,Il Rito qui è già fatto: il prossimo passo è il livello {req} per una vera Stella.
+UI_PRESTIGE_CONST_INFO,"Constellations are bonuses bought with Stardust. They never take anything away, and some have no limit (but cost more and more: even stars have a budget). Each star needs the previous one in its row.","Le Costellazioni sono bonus comprati con la Polvere Stellare. Non tolgono mai niente, e alcune non hanno limite (ma costano sempre di più: anche le stelle hanno un budget). Ogni stella richiede la precedente della sua riga."
+UI_PRESTIGE_LEGEND,Click a star. Glowing ring = you can buy it. Number = your level. Gold ring = maximum. Empty dot = the effect switches on when its system arrives.,Clicca una stella. Anello luminoso = puoi comprarla. Numero = il tuo livello. Anello dorato = massimo. Puntino vuoto = l'effetto si accende quando arriva il suo sistema.
+UI_PRESTIGE_NODE_EFFECT,{what}: {from} → {to} (level {lv} → {lv2}),{what}: {from} -> {to} (livello {lv} -> {lv2})
+UI_PRESTIGE_NODE_MAX,Maximum level: {n},Livello massimo: {n}
+UI_PRESTIGE_NODE_NOMAX,No maximum level (the cost grows faster and faster),Nessun livello massimo (il costo cresce sempre più in fretta)
+UI_PRESTIGE_NODE_DORMANT,Dormant: the bonus is saved but nothing uses it yet. It will switch on by itself when its system arrives.,Dormiente: il bonus viene registrato ma per ora nessuno lo usa. Si accenderà da solo quando arriverà il suo sistema.
+UI_PRESTIGE_BUY1,Buy 1 level ({cost}),Compra 1 livello ({cost})
+UI_PRESTIGE_BUYMAX,Buy {n} levels ({cost}),Compra {n} livelli ({cost})
+UI_PRESTIGE_REASON_NO_NODE,Pick a star on the map. Any star. Preferably a useful one.,Scegli una stella sulla mappa. Una qualsiasi. Meglio se utile.
+UI_PRESTIGE_REASON_NODE_REQ,Locked: buy the previous star in this row first. The stars like to queue.,Bloccata: compra prima la stella precedente di questa riga. Alle stelle piace fare la fila.
+UI_PRESTIGE_REASON_NODE_MAX,Maximum level reached. This star has nothing left to give. It's glowing with pride.,Livello massimo raggiunto. Questa stella non ha altro da dare ed è tutta fiera.
+UI_PRESTIGE_REASON_NO_DUST,Not enough Stardust. The stars don't do credit.,Polvere Stellare insufficiente. Le stelle non fanno credito.
+UI_PRESTIGE_REASON_NOTHING_SPENT,Nothing to refund yet.,Non c'è ancora niente da rimborsare.
+UI_PRESTIGE_RESPEC_INFO,Full refund: you get back {refund} Stardust and all stars go to zero. Cost: {cost} Stardust (free once every 7 days of game time; next free one in {t}).,Rimborso totale: riavrai {refund} Polvere Stellare e tutte le stelle tornano a zero. Costo: {cost} Polvere (gratis una volta ogni 7 giorni di gioco; la prossima gratuita tra {t}).
+UI_PRESTIGE_RESPEC_BTN,Refund everything,Rimborsa tutto
+UI_PRESTIGE_RESPEC_DONE,"Refunded {n} Stardust. Spend it better this time (or the same way, no judgment).","Rimborsate {n} Polvere Stellare. Spendile meglio, stavolta (o allo stesso modo, nessun giudizio)."
+UI_PRESTIGE_REF_INFO,"Estate Refounding is the Estate's own Star: buildings, storage and settlers start over, and you get Partners (+2% Estate production each, forever). Lifetime Estate production is never lost, so more Partners keep coming.","La Rifondazione è la Stella della Tenuta: edifici, magazzino e coloni ricominciano, e ottieni Soci (+2% produzione della Tenuta ciascuno, per sempre). La produzione a vita non si perde mai, quindi altri Soci arrivano col tempo."
+UI_PRESTIGE_REF_PREVIEW,Refounding preview,Anteprima della Rifondazione
+UI_PRESTIGE_REF_CURRENT,Now: Partners {n} (+{bonus} Estate production),Ora: {n} Soci (+{bonus} produzione della Tenuta)
+UI_PRESTIGE_REF_AFTER,After: Partners {n} (+{bonus} Estate production),Dopo: {n} Soci (+{bonus} produzione della Tenuta)
+UI_PRESTIGE_GAIN_PARTNERS,New Partners: {n},{n} nuovi Soci
+UI_PRESTIGE_LOSE_ESTATE,"Building levels, Storage and settlers (the Manor goes back to level 1)","Livelli degli edifici, Magazzino e coloni (il Casolare torna al livello 1)"
+UI_PRESTIGE_KEEP_ESTATE,"Partners, unlocked ranks, lifetime statistics, and everything outside the Estate","Soci, gradi sbloccati, statistiche a vita e tutto ciò che sta fuori dalla Tenuta"
+UI_PRESTIGE_REASON_ESTATE_UNITS,"You need more lifetime Estate production: {units} of {min}. The settlers are doing their best, honestly.","Serve più produzione della Tenuta a vita: {units} su {min}. I coloni fanno del loro meglio, davvero."
+UI_PRESTIGE_REASON_NO_PARTNERS,No new Partners yet: keep producing. Handshakes take time.,Ancora nessun nuovo Socio: continua a produrre. Le strette di mano richiedono tempo.
+UI_PRESTIGE_FX_STAR,{skill}: Star number {n}!,{skill}: Stella numero {n}!
+UI_PRESTIGE_FX_DUST,+{n} Stardust,+{n} Polvere Stellare
+UI_PRESTIGE_FX_NODE,{name} level {lv},{name} livello {lv}
+UI_PRESTIGE_FX_REFOUND,Estate refounded: +{n} Partners!,Tenuta rifondata: {n} nuovi Soci!
+UI_PRESTIGE_FX_BONUS,Production +{p} forever,Produzione +{p} per sempre
+UI_PRESTIGE_TRIALS_SOON,The Keeper's Trials are coming soon. The Warden is still rehearsing his speech.,Le Prove del Custode arriveranno presto. Il Custode sta ancora provando il discorso.

@@ -1,0 +1,9 @@
+keys,en,it
+UI_BANK_SLOTS_BAR,"Slots {bar} {used}/{cap}","Spazi {bar} {used}/{cap}"
+UI_BANK_HELP,?,?
+UI_BANK_HELP_TIP,"How the Bank's space works (opens the Manual)","Come funziona lo spazio del Deposito (apre il Manuale)"
+UI_BANK_FILTERS,"Filters ▾","Filtri ▾"
+UI_BANK_FILTERS_N,"Filters ▾ ({n})","Filtri ▾ ({n})"
+UI_BANK_FILTERS_TIP,"Descending order, locked only, equipped only","Ordine decrescente, solo bloccati, solo equipaggiati"
+UI_BANK_SELL_MENU,"Sell ▾","Vendita ▾"
+UI_BANK_SELL_MENU_TIP,"Bulk sale, automatic rules, duplicates","Vendita in blocco, regole automatiche, doppioni"

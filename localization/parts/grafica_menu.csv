@@ -1,0 +1,9 @@
+keys,en,it
+UI_GM_RAIL_LOG,Log,Registro
+UI_GM_RAIL_SAND,Sand,Sabbia
+UI_GM_CAT_MENU,Categories ▾,Categorie ▾
+UI_GM_CAT_MENU_ON,{name} ▾,{name} ▾
+UI_GM_CAT_TIP,Show only one category of items,Mostra una sola categoria di oggetti
+UI_GM_ACTIONS,Actions ▾,Azioni ▾
+UI_GM_ACTIONS_TIP,"Select, sell mode, bulk and automatic sale, duplicates","Selezione, modalità vendita, vendita in blocco e automatica, doppioni"
+UI_GM_BANK_NOTICE,New: gear has its own Armory and takes no Space.,Novità: l'equipaggiamento ha la sua Armeria e non occupa Spazio.

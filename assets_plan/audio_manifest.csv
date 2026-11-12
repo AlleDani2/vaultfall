@@ -1,0 +1,113 @@
+id,categoria,descrizione_prompt,durata,milestone,cartella,contesto
+mus_menu_1,music,"Vaelmora e menù: liuto arpeggiato, flauto e pad morbido (72 bpm, aeolian, loop 40 s, variante 1)",40 s,AUDIO-2,audio/music,menu
+mus_menu_2,music,"Vaelmora e menù: liuto arpeggiato, flauto e pad morbido (66 bpm, dorian, loop 29 s, variante 2)",29 s,AUDIO-2,audio/music,menu
+mus_menu_3,music,"Vaelmora e menù: liuto arpeggiato, flauto e pad morbido (84 bpm, mixolydian, loop 34 s, variante 3)",34 s,AUDIO-2,audio/music,menu
+mus_skilling_1,music,"Mansioni: arpa, pizzicati e pad sereno, produttività tranquilla (80 bpm, ionian, loop 36 s, variante 1)",36 s,AUDIO-2,audio/music,skilling
+mus_skilling_2,music,"Mansioni: arpa, pizzicati e pad sereno, produttività tranquilla (76 bpm, lydian, loop 38 s, variante 2)",38 s,AUDIO-2,audio/music,skilling
+mus_skilling_3,music,"Mansioni: arpa, pizzicati e pad sereno, produttività tranquilla (88 bpm, dorian, loop 33 s, variante 3)",33 s,AUDIO-2,audio/music,skilling
+mus_combat_early_1,music,"Combattimento zone 1-4: avventuroso leggero, tamburi morbidi, archi (108 bpm, dorian, loop 36 s, variante 1)",36 s,AUDIO-2,audio/music,combat_early
+mus_combat_early_2,music,"Combattimento zone 1-4: avventuroso leggero, tamburi morbidi, archi (112 bpm, mixolydian, loop 34 s, variante 2)",34 s,AUDIO-2,audio/music,combat_early
+mus_combat_mid_1,music,"Combattimento zone 5-7: più cupo, archi bassi, percussioni (112 bpm, phrygian, loop 34 s, variante 1)",34 s,AUDIO-2,audio/music,combat_mid
+mus_combat_mid_2,music,"Combattimento zone 5-7: più cupo, archi bassi, percussioni (116 bpm, harmonic, loop 33 s, variante 2)",33 s,AUDIO-2,audio/music,combat_mid
+mus_combat_late_1,music,"Combattimento zone 8-10: epico e celeste, coro senza parole, campane (120 bpm, lydian, loop 32 s, variante 1)",32 s,AUDIO-2,audio/music,combat_late
+mus_combat_late_2,music,"Combattimento zone 8-10: epico e celeste, coro senza parole, campane (116 bpm, aeolian, loop 33 s, variante 2)",33 s,AUDIO-2,audio/music,combat_late
+mus_dungeon_1,music,"Dungeon: tensione bassa, droni, campanelli lontani (60 bpm, phrygian, loop 40 s, variante 1)",40 s,AUDIO-2,audio/music,dungeon
+mus_dungeon_2,music,"Dungeon: tensione bassa, droni, campanelli lontani (54 bpm, aeolian, loop 44 s, variante 2)",44 s,AUDIO-2,audio/music,dungeon
+mus_boss_1,music,"Boss mondiali e Incursioni: ritmico, ottoni dolci, crescendo controllato (126 bpm, harmonic, loop 30 s, variante 1)",30 s,AUDIO-2,audio/music,boss
+mus_boss_2,music,"Boss mondiali e Incursioni: ritmico, ottoni dolci, crescendo controllato (120 bpm, phrygian, loop 32 s, variante 2)",32 s,AUDIO-2,audio/music,boss
+mus_rift_1,music,"La Breccia: pad scalare a toni interi, scintille di vetro, battito profondo (70 bpm, wholetone, loop 41 s, variante 1)",41 s,AUDIO-2,audio/music,rift
+mus_rift_2,music,"La Breccia: pad scalare a toni interi, scintille di vetro, battito profondo (64 bpm, wholetone, loop 38 s, variante 2)",38 s,AUDIO-2,audio/music,rift
+mus_estate_1,music,"Tenuta: campagna serena, chitarra e fisarmonica leggera (76 bpm, ionian, loop 38 s, variante 1)",38 s,AUDIO-2,audio/music,estate
+mus_estate_2,music,"Tenuta: campagna serena, chitarra e fisarmonica leggera (88 bpm, mixolydian, loop 33 s, variante 2)",33 s,AUDIO-2,audio/music,estate
+mus_prestige_1,music,"Prestigio ed Ere: cori lenti, arpeggi aperti, campane (56 bpm, lydian, loop 34 s, variante 1)",34 s,AUDIO-2,audio/music,prestige
+mus_prestige_2,music,"Prestigio ed Ere: cori lenti, arpeggi aperti, campane (60 bpm, ionian, loop 32 s, variante 2)",32 s,AUDIO-2,audio/music,prestige
+mus_vault_1,music,"Sala dei Caveau e Rullo: celesta e vibrafono, misterioso e scintillante (84 bpm, aeolian, loop 34 s, variante 1)",34 s,AUDIO-2,audio/music,vault
+mus_vault_2,music,"Sala dei Caveau e Rullo: celesta e vibrafono, misterioso e scintillante (78 bpm, dorian, loop 37 s, variante 2)",37 s,AUDIO-2,audio/music,vault
+mus_event_1,music,"Eventi (fiere, mercato): festoso e leggero, pizzicati e flauto (104 bpm, ionian, loop 37 s, variante 1)",37 s,AUDIO-2,audio/music,event
+mus_event_2,music,"Eventi (fiere, mercato): festoso e leggero, pizzicati e flauto (100 bpm, mixolydian, loop 38 s, variante 2)",38 s,AUDIO-2,audio/music,event
+ui_click,sfx_ui,clic di interfaccia,0.1-5 s,AUDIO-2,audio/sfx,
+ui_confirm,sfx_ui,conferma,0.1-5 s,AUDIO-2,audio/sfx,
+ui_error,sfx_ui,errore,0.1-5 s,AUDIO-2,audio/sfx,
+ui_notify,sfx_ui,notifica,0.1-5 s,AUDIO-2,audio/sfx,
+action_done,sfx_ui,azione/spedizione completata,0.1-5 s,AUDIO-2,audio/sfx,
+ui_achievement,sfx_ui,impresa sbloccata (stinger),0.1-5 s,AUDIO-2,audio/sfx,
+ui_pet,sfx_ui,famiglio trovato,0.1-5 s,AUDIO-2,audio/sfx,
+ui_star,sfx_ui,stella ottenuta,0.1-5 s,AUDIO-2,audio/sfx,
+ui_welcome,sfx_ui,jingle del Bentornato (offline),0.1-5 s,AUDIO-2,audio/sfx,
+ui_unlock,sfx_ui,funzione sbloccata,0.1-5 s,AUDIO-2,audio/sfx,
+crate_open,sfx_crate,apertura della Cassa,0.1-5 s,AUDIO-2,audio/sfx,
+reel_tick,sfx_crate,tick del rullo (volume/tono dal segnale),0.1-5 s,AUDIO-2,audio/sfx,
+hit,sfx_combat,colpo dell'eroe,0.1-5 s,AUDIO-2,audio/sfx,
+coin,sfx_ui,moneta,0.1-5 s,AUDIO-2,audio/sfx,
+sell,sfx_ui,vendita,0.1-5 s,AUDIO-2,audio/sfx,
+level_up,sfx_ui,level up (stinger),0.1-5 s,AUDIO-2,audio/sfx,
+quest_done,sfx_ui,missione completata (stinger),0.1-5 s,AUDIO-2,audio/sfx,
+victory,sfx_combat,vittoria (stinger),0.1-5 s,AUDIO-2,audio/sfx,
+defeat,sfx_combat,sconfitta di una prova (stinger morbido),0.1-5 s,AUDIO-2,audio/sfx,
+death,sfx_combat,morte dell'eroe,0.1-5 s,AUDIO-2,audio/sfx,
+prestige,sfx_ui,rito/prestigio (stinger ampio),0.1-5 s,AUDIO-2,audio/sfx,
+era,sfx_ui,nuova Era (stinger),0.1-5 s,AUDIO-2,audio/sfx,
+reveal_rare,sfx_crate,rivelazione Rara (accordo semplice),0.1-5 s,AUDIO-2,audio/sfx,
+reveal_epic,sfx_crate,rivelazione Epica,0.1-5 s,AUDIO-2,audio/sfx,
+reveal_legendary,sfx_crate,rivelazione Leggendaria,0.1-5 s,AUDIO-2,audio/sfx,
+reveal_mythic,sfx_crate,rivelazione Mitica,0.1-5 s,AUDIO-2,audio/sfx,
+reveal_relic,sfx_crate,rivelazione ★ Reliquia (fanfara breve),0.1-5 s,AUDIO-2,audio/sfx,
+hit_crit,sfx_combat,colpo critico,0.1-5 s,AUDIO-2,audio/sfx,
+dodge,sfx_combat,schivata,0.1-5 s,AUDIO-2,audio/sfx,
+hurt,sfx_combat,colpo subito dall'eroe,0.1-5 s,AUDIO-2,audio/sfx,
+kill,sfx_combat,mostro sconfitto,0.1-5 s,AUDIO-2,audio/sfx,
+buy,sfx_ui,acquisto,0.1-5 s,AUDIO-2,audio/sfx,
+crate_found,sfx_crate,Cassa trovata,0.1-5 s,AUDIO-2,audio/sfx,
+drop_rare,sfx_ui,oggetto raro ottenuto,0.1-5 s,AUDIO-2,audio/sfx,
+coop_link,sfx_ui,co-op: amico collegato,0.1-5 s,AUDIO-2,audio/sfx,
+sk_woodcutting_1,sfx_skill,"colpo d'ascia su tronco (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:woodcutting
+sk_woodcutting_2,sfx_skill,"colpo d'ascia su tronco (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:woodcutting
+sk_woodcutting_3,sfx_skill,"colpo d'ascia su tronco (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:woodcutting
+sk_mining_1,sfx_skill,"piccone su roccia con eco (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:mining
+sk_mining_2,sfx_skill,"piccone su roccia con eco (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:mining
+sk_mining_3,sfx_skill,"piccone su roccia con eco (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:mining
+sk_fishing_1,sfx_skill,"lenza lanciata e splash (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:fishing
+sk_fishing_2,sfx_skill,"lenza lanciata e splash (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:fishing
+sk_fishing_3,sfx_skill,"lenza lanciata e splash (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:fishing
+sk_foraging_1,sfx_skill,"falcetto che taglia l'erba (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:foraging
+sk_foraging_2,sfx_skill,"falcetto che taglia l'erba (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:foraging
+sk_foraging_3,sfx_skill,"falcetto che taglia l'erba (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:foraging
+sk_trapping_1,sfx_skill,"scatto di trappola di legno (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:trapping
+sk_trapping_2,sfx_skill,"scatto di trappola di legno (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:trapping
+sk_trapping_3,sfx_skill,"scatto di trappola di legno (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:trapping
+sk_smithing_1,sfx_skill,"martello su incudine (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:smithing
+sk_smithing_2,sfx_skill,"martello su incudine (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:smithing
+sk_smithing_3,sfx_skill,"martello su incudine (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:smithing
+sk_woodworking_1,sfx_skill,"sega a mano (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:woodworking
+sk_woodworking_2,sfx_skill,"sega a mano (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:woodworking
+sk_woodworking_3,sfx_skill,"sega a mano (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:woodworking
+sk_tailoring_1,sfx_skill,"forbici su stoffa (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:tailoring
+sk_tailoring_2,sfx_skill,"forbici su stoffa (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:tailoring
+sk_tailoring_3,sfx_skill,"forbici su stoffa (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:tailoring
+sk_cooking_1,sfx_skill,"sfrigolio in padella (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:cooking
+sk_cooking_2,sfx_skill,"sfrigolio in padella (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:cooking
+sk_cooking_3,sfx_skill,"sfrigolio in padella (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:cooking
+sk_alchemy_1,sfx_skill,"bollicine e vetro (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:alchemy
+sk_alchemy_2,sfx_skill,"bollicine e vetro (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:alchemy
+sk_alchemy_3,sfx_skill,"bollicine e vetro (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:alchemy
+sk_jewelcrafting_1,sfx_skill,"scalpello su gemma (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:jewelcrafting
+sk_jewelcrafting_2,sfx_skill,"scalpello su gemma (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:jewelcrafting
+sk_jewelcrafting_3,sfx_skill,"scalpello su gemma (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:jewelcrafting
+sk_runecarving_1,sfx_skill,"incisione di una runa (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:runecarving
+sk_runecarving_2,sfx_skill,"incisione di una runa (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:runecarving
+sk_runecarving_3,sfx_skill,"incisione di una runa (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:runecarving
+sk_keysmithing_1,sfx_skill,"lima su chiave (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:keysmithing
+sk_keysmithing_2,sfx_skill,"lima su chiave (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:keysmithing
+sk_keysmithing_3,sfx_skill,"lima su chiave (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:keysmithing
+sk_thievery_1,sfx_skill,"monete e mantello (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:thievery
+sk_thievery_2,sfx_skill,"monete e mantello (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:thievery
+sk_thievery_3,sfx_skill,"monete e mantello (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:thievery
+sk_farming_1,sfx_skill,"zappa nel terreno (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:farming
+sk_farming_2,sfx_skill,"zappa nel terreno (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:farming
+sk_farming_3,sfx_skill,"zappa nel terreno (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:farming
+sk_hero_1,sfx_skill,"fendente di spada (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:hero
+sk_hero_2,sfx_skill,"fendente di spada (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:hero
+sk_hero_3,sfx_skill,"fendente di spada (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:hero
+sk_bounty_1,sfx_skill,"timbro sul manifesto (variante 1), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:bounty
+sk_bounty_2,sfx_skill,"timbro sul manifesto (variante 2), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:bounty
+sk_bounty_3,sfx_skill,"timbro sul manifesto (variante 3), morbido, volume basso",0.5-0.8 s,AUDIO-2,audio/sfx,mansione:bounty

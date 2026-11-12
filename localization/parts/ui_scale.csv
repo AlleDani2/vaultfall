@@ -1,0 +1,6 @@
+keys,en,it
+UI_SCALE_SECTION,Interface,Interfaccia
+UI_SCALE_LABEL,Interface size,Dimensione interfaccia
+UI_SCALE_AUTO,Automatic,Automatica
+UI_SCALE_HELP,"Automatic fits the interface to your screen: on large screens you see more at once. The percentages enlarge or shrink it relative to Automatic. 100% keeps the classic fixed size (1280×720 area).","Automatica adatta l'interfaccia al tuo schermo: sugli schermi grandi vedi più cose insieme. Le percentuali ingrandiscono o rimpiccioliscono rispetto all'automatica. 100% mantiene la dimensione fissa classica (area 1280×720)."
+UI_SCALE_MIGRATED,"The interface now makes better use of large screens: you can adjust it in Settings → Interface.","L'interfaccia ora usa meglio lo schermo grande: puoi regolarla in Impostazioni → Interfaccia."

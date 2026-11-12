@@ -1,0 +1,38 @@
+name: CI
+
+# Only what runs WITHOUT the (unpublished) game data, art and Godot. No secrets are used.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  python:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Byte-compile the Python sources
+        run: python -m compileall -q tools tests
+      - name: GDScript sanity check (brackets, strings, indentation)
+        run: python tools/gd_lint.py game
+      - name: Tests that need no game data
+        run: python tests/test_framework_standalone.py
+      - name: JSON files are well formed
+        run: |
+          python - <<'PY'
+          import json, glob, sys
+          bad = 0
+          for f in glob.glob("game/*.json") + glob.glob("assets_plan/*.json") + glob.glob("tests/*.json") + glob.glob("tools/*.json"):
+              try:
+                  json.load(open(f, encoding="utf-8"))
+              except Exception as e:
+                  print("BAD", f, e)
+                  bad += 1
+          sys.exit(1 if bad else 0)
+          PY

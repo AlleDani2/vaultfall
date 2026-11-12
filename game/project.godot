@@ -1,0 +1,57 @@
+; Engine configuration file.
+; Impostazioni di docs/17 §1 (T-0.1 / spike S1). Non modificare a mano senza aggiornare docs/17.
+
+config_version=5
+
+[application]
+
+config/name="VAULTFALL"
+config/version="1.0.0"
+run/main_scene="res://src/ui/start/StartScreen.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+run/low_processor_mode=true
+config/use_custom_user_dir=true
+config/custom_user_dir_name="VAULTFALL"
+
+[autoload]
+
+EventBus="*res://src/autoload/EventBus.gd"
+DataRegistry="*res://src/autoload/DataRegistry.gd"
+Clock="*res://src/autoload/Clock.gd"
+Settings="*res://src/autoload/Settings.gd"
+Loc="*res://src/autoload/Loc.gd"
+GameState="*res://src/autoload/GameState.gd"
+Rng="*res://src/autoload/Rng.gd"
+Modifiers="*res://src/autoload/Modifiers.gd"
+SaveService="*res://src/autoload/SaveService.gd"
+Game="*res://src/autoload/Game.gd"
+AudioManager="*res://src/autoload/AudioManager.gd"
+CoopNet="*res://src/coop/net/CoopNetService.gd"
+Feedback="*res://src/autoload/Feedback.gd"
+PlatformService="*res://src/platform/PlatformService.gd"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/size/window_width_override=1600
+window/size/window_height_override=900
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+window/stretch/scale_mode="fractional"
+
+[gui]
+
+theme/custom="res://src/ui/theme/main_theme.tres"
+
+[internationalization]
+
+locale/translations=PackedStringArray("res://localization/ui_strings.en.translation", "res://localization/ui_strings.it.translation")
+locale/fallback="en"
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/canvas_textures/default_texture_filter=0
+2d/snap/snap_2d_transforms_to_pixel=true

@@ -1,0 +1,12 @@
+{
+  "_nota": "Single place where contacts and links are configured. Leave empty what you do not have.",
+  "support_url": "",
+  "support_email": "",
+  "privacy_url": "",
+  "wiki_url": "",
+  "store_url": "",
+  "copyright_holder": "",
+  "steam_app_id": 0,
+  "steam_achievement_phase": 1,
+  "steam_cloud": true
+}

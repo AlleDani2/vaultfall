@@ -1,0 +1,102 @@
+keys,en,it
+UI_MENU_SHOP,Emporium,Emporio
+UI_MENU_ORDERS,Orders,Commesse
+UI_MARKET_NO_SYSTEM,"The market is closed today. Nobody knows why, the sign just says “back soon.”",Il Mercato è chiuso. Nessuno sa perché: il cartello dice solo 'torno subito'.
+UI_MARKET_INTRO,"Sell what's in your Bank. The more of one thing you dump, the less the merchants want it (they get bored fast). Mix it up, wait a bit, watch the news.","Qui vendi quello che hai nel Deposito. Più scarichi la stessa cosa, meno la vogliono (i mercanti si annoiano in fretta). Varia, aspetta un po' e tieni d'occhio le notizie."
+UI_MARKET_SEARCH,Search the Bank…,Cerca nel Deposito…
+UI_MARKET_GOLD,Gold: {gold},Oro: {gold}
+UI_MARKET_GAZETTE,Vaelmora Gazette:,Gazzetta di Vaelmora:
+UI_MARKET_GAZETTE_QUIET,Vaelmora Gazette: slow news day. A pigeon was seen walking. Prices are normal.,Gazzetta di Vaelmora: giornata tranquilla. Un piccione ha camminato. I prezzi sono nella norma.
+UI_MARKET_PICK,Pick something from the list on the left. Merchant Bertoldo is pretending to be busy.,Scegli qualcosa dalla lista a sinistra. Bertoldo il Mercante finge di essere occupato.
+UI_MARKET_DETAIL,"{name}  (you own {own})
+Price now: {price} gold each  |  base value: {base}
+Category trend: {trend}  |  demand: {demand}  |  tax: {tax}
+Demand back to 90% in about {wait} h.","{name}  (ne hai {own})
+Prezzo ora: {price} oro l'uno  |  valore base: {base}
+Tendenza della categoria: {trend}  |  domanda: {demand}  |  tassa: {tax}
+La domanda torna al 90% tra circa {wait} h."
+UI_MARKET_PREVIEW,"Selling {qty} would pay about {gold} gold ({avg} each, on average).",Vendendo {qty} incassi circa {gold} oro ({avg} in media a pezzo).
+UI_MARKET_SOLD,Sold {qty} × {name} for {gold} gold. Bertoldo says it was a pleasure. He says that to everyone.,Venduti {qty} × {name} per {gold} oro. Bertoldo dice che è stato un piacere. Lo dice a tutti.
+UI_MARKET_CHART_TREND,"Category trend, last 30 days (dashed line = normal)","Tendenza della categoria, ultimi 30 giorni (linea tratteggiata = normale)"
+UI_MARKET_CHART_DEMAND,Demand over the next 24 hours (it recovers by itself),Domanda nelle prossime 24 ore (si riprende da sola)
+UI_MARKET_SELL,Sell,Vendi
+UI_MARKET_SELL_QTY,Sell this many,Vendi questa quantità
+UI_MARKET_SELL_ONE,Sell 1,Vendi 1
+UI_MARKET_SELL_ALL,Sell all,Vendi tutto
+UI_MARKET_MASS,Bulk sale,Vendita di massa
+UI_MARKET_MASS_INTRO,"Sell a whole category in one go. “All the safe stuff” skips gear and crate items, so you won't accidentally sell your favorite hat.","Vendi un'intera categoria in un colpo. 'Tutto il sicuro' salta equipaggiamento e oggetti da cassa, così non svendi per sbaglio il tuo cappello preferito."
+UI_MARKET_KEEP,Keep at least,Tieni almeno
+UI_MARKET_MASS_GO,Sell,Vendi
+UI_MARKET_MASS_SAFE,All the safe stuff,Tutto il sicuro
+UI_MARKET_MASS_NONE,Nothing to sell with these settings. Bertoldo yawns.,Niente da vendere con queste impostazioni. Bertoldo sbadiglia.
+UI_MARKET_MASS_PREVIEW,"Kinds of items: {kinds}, pieces: {pieces}, about {gold} gold.","{kinds} tipi di oggetti, {pieces} pezzi, circa {gold} oro."
+UI_MARKET_MASS_DONE,Bulk sale done for {gold} gold (kinds of items: {kinds}). Your Bank feels lighter.,Vendita di massa fatta: {kinds} tipi di oggetti per {gold} oro. Il Deposito respira.
+UI_MARKET_CAT_LOG,Logs,Tronchi
+UI_MARKET_CAT_PLANK,Planks,Assi
+UI_MARKET_CAT_ORE,Ore,Minerali
+UI_MARKET_CAT_BAR,Bars,Lingotti
+UI_MARKET_CAT_GEM_RAW,Rough gems,Gemme grezze
+UI_MARKET_CAT_GEM,Cut gems,Gemme tagliate
+UI_MARKET_CAT_FISH_RAW,Raw fish,Pesce crudo
+UI_MARKET_CAT_FOOD,Food,Cibo
+UI_MARKET_CAT_FIBER,Fibers,Fibre
+UI_MARKET_CAT_CLOTH,Cloth,Tessuti
+UI_MARKET_CAT_HERB,Herbs,Erbe
+UI_MARKET_CAT_POTION,Potions,Pozioni
+UI_MARKET_CAT_HIDE,Hides,Pelli
+UI_MARKET_CAT_LEATHER,Leather,Cuoio
+UI_MARKET_CAT_MEAT_RAW,Raw meat,Carne cruda
+UI_MARKET_CAT_CROP,Crops,Ortaggi
+UI_MARKET_CAT_FRUIT,Fruit,Frutta
+UI_MARKET_CAT_RUNE,Runes,Rune
+UI_MARKET_CAT_ARROW,Arrows,Frecce
+UI_MARKET_CAT_MONSTER_MAT,Monster parts,Parti di mostro
+UI_MARKET_CAT_EQUIPMENT,Equipment,Equipaggiamento
+UI_MARKET_CAT_SKIN,Finishes,Finiture
+UI_MARKET_CAT_RELIC,Relics,Reliquie
+UI_SHOP_INTRO,"Fixed prices, no haggling. The shopkeeper has a sign that says 'no refunds' and another that says 'no, really'.","Prezzi fissi, niente sconti. Il negoziante ha un cartello che dice 'niente rimborsi' e un altro che dice 'no, davvero'."
+UI_SHOP_GOLD,Gold: {gold},Oro: {gold}
+UI_SHOP_SEC_UPGRADES,Upgrades,Potenziamenti
+UI_SHOP_SEC_BANK,Bank space,Spazio nel Deposito
+UI_SHOP_SEC_GOODS,Everyday goods,Roba di tutti i giorni
+UI_SHOP_SEC_KEYS,"Keys (a few per day, the keysmith needs her naps)","Chiavi (poche al giorno, la fabbra deve fare i suoi riposini)"
+UI_SHOP_BUY,Buy,Compra
+UI_SHOP_BUY_10,Buy 10,Compra 10
+UI_SHOP_PRICE,{p} gold,{p} oro
+UI_SHOP_OWNED,Owned. It looks great on you.,Già tuo. Ti sta benissimo.
+UI_SHOP_NEEDS_ITEM,"First buy: {name}. Order matters, says Ilde.","Prima compra: {name}. L'ordine conta, lo dice Ilde."
+UI_SHOP_NEEDS_LEVEL,"Needs Hero level {lv}. Not negotiable, not even with Bertoldo.","Serve Eroe di livello {lv}. Non si tratta, nemmeno con Bertoldo."
+UI_SHOP_NEEDS_FACTION,"Needs rank {rank} with {faction}. Paperwork, you know.","Serve il grado {rank} con {faction}. Le scartoffie, si sa."
+UI_SHOP_LIMIT_REACHED,Daily limit reached. Come back tomorrow (game time).,Limite giornaliero raggiunto. Torna domani (tempo di gioco).
+UI_SHOP_NEEDS_GOLD,"Not enough gold. The shopkeeper pointedly looks at your purse, then at the ceiling.","Oro insufficiente. Il negoziante guarda eloquentemente la tua borsa, poi il soffitto."
+UI_SHOP_DAILY_LEFT,{n} of {max} left today.,Oggi ne restano {n} su {max}.
+UI_SHOP_COUNT,Bought {n} of {max}.,Comprati {n} su {max}.
+UI_SHOP_BOUGHT,Bought: {name} × {qty}. No refunds.,Comprato: {name} × {qty}. Niente rimborsi.
+UI_SHOP_DESC_AUTO_EAT_1,"Eats food by itself when you're hurt (below 25% life, up to 55%, 90% efficiency). The sandwich is in the pocket.","Mangia da solo quando stai male (sotto il 25% di vita, fino al 55%, efficienza 90%). Il panino è nella tasca."
+UI_SHOP_DESC_AUTO_EAT_2,"Better belt: eats below 35% life, up to 70%, 95% efficiency. Fewer crumbs, more dignity.","Cintura migliore: mangia sotto il 35% di vita, fino al 70%, efficienza 95%. Meno briciole, più dignità."
+UI_SHOP_DESC_AUTO_EAT_3,"Champion belt: eats below 45% life, up to 85%, 100% efficiency. Zero crumbs wasted.","Cintura da campione: mangia sotto il 45% di vita, fino all'85%, efficienza 100%. Nemmeno una briciola sprecata."
+UI_SHOP_DESC_ACTION_QUEUE_1,Queue more actions so you can go and make tea. Gives 3 queue slots. Mirta recommends the “relaxing” one.,Metti in coda più azioni e vai a farti un tè. Dà 3 posti in coda. Mirta consiglia quello «rilassante».
+UI_SHOP_DESC_ACTION_QUEUE_2,"The grown-up version. Gives 6 queue slots. Ilde approves, in triplicate.","La versione da adulti. Dà 6 posti in coda. Ilde approva, in triplice copia."
+UI_SHOP_DESC_LOADOUT_SLOT,One more equipment set to swap in a click. Price triples with each rack (max 5). Pina already has her own.,Un set di equipaggiamento in più da cambiare con un clic. Il prezzo triplica a ogni rastrelliera (max 5). Pina ha già la sua.
+UI_SHOP_DESC_RELIC_SLOT_2,A second Reliquary for your relics. Needs Hero level 50. For shiny things the first one can't hold.,Un secondo Reliquiario per le tue reliquie. Serve Eroe di livello 50. Per le cose che brillano e nel primo non entrano.
+UI_SHOP_DESC_MARKET_LICENSE_1,"Market tax -20% (of the tax itself, not of your dignity). Needs Friendly with the Merchant League.","Tassa di mercato -20% (della tassa, non della tua dignità). Serve il grado Amico con la Lega dei Mercanti."
+UI_SHOP_DESC_MARKET_LICENSE_2,Another -20% on market tax. The paperwork is longer than the benefit.,Un altro -20% sulla tassa di mercato. Le scartoffie sono più lunghe del vantaggio.
+UI_SHOP_DESC_BANK_SLOT,"One more Bank slot. The price creeps up with every slot, up to a cap of 5,000,000. A drawer, basically.","Uno spazio in più nel Deposito. Il prezzo sale a ogni spazio, fino a un tetto di 5.000.000. In pratica, un cassetto."
+UI_SHOP_DESC_KEY,Opens Crates of its tier. Sold in limited numbers per day.,Apre le Casse del suo livello. Se ne vendono pochi al giorno.
+UI_ORDERS_INTRO,"Townsfolk ask for things and pay better than the Market. No rush: orders stay on the board for 7 days, nobody punishes you for going away, nobody holds a grudge. Probably.","Gli abitanti chiedono cose e pagano meglio del Mercato. Nessuna fretta: le commesse restano in bacheca 7 giorni, nessuno ti punisce se te ne vai, nessuno porta rancore. Forse."
+UI_ORDERS_GOLD,Gold: {gold},Oro: {gold}
+UI_ORDERS_NEXT,Board slots: {slots}. Fresh orders in {t}.,Posti in bacheca: {slots}. Nuove commesse tra {t}.
+UI_ORDERS_BOARD,Order board,Bacheca delle commesse
+UI_ORDERS_FACTIONS,Factions,Fazioni
+UI_ORDERS_EMPTY,The board is empty. Gather or craft something new and the townsfolk will notice. Eventually. Maybe after lunch.,La bacheca è vuota. Raccogli o produci qualcosa di nuovo e gli abitanti se ne accorgeranno. Prima o poi. Magari dopo pranzo.
+UI_ORDERS_HAVE,You have {have} / {qty},Ne hai {have} / {qty}
+UI_ORDERS_EXPIRES,Stays on the board for {t},Resta in bacheca per {t}
+UI_ORDERS_ASK,{npc} wants {qty} × {item}.,{npc} vuole {qty} × {item}.
+UI_ORDERS_CRATE,  + a Crate: {crate},  + una Cassa: {crate}
+UI_ORDERS_REWARD,"Reward: {gold} gold, {rep} reputation with {faction}.{crate}","Ricompensa: {gold} oro, {rep} reputazione con {faction}.{crate}"
+UI_ORDERS_DELIVER,Deliver,Consegna
+UI_ORDERS_REJECT,Decline,Rifiuta
+UI_ORDERS_REJECT_TIP,Declining has no penalty: the spot is refilled after 30 minutes.,Rifiutare non costa nulla: il posto si riempie di nuovo dopo 30 minuti.
+UI_ORDERS_DONE,"Order delivered. Everyone is happy, including the pigeon outside.","Commessa consegnata. Sono tutti contenti, anche il piccione qui fuori."
+UI_ORDERS_NEXT_RANK,Reputation {rep} / {need} for {rank}. Next reward: {reward},Reputazione {rep} / {need} per {rank}. Prossima ricompensa: {reward}
+UI_ORDERS_MAX_RANK,Reputation {rep}. Top rank! They'd name a pastry after you if they could.,"Reputazione {rep}. Grado massimo! Ti dedicherebbero un dolce, se potessero."

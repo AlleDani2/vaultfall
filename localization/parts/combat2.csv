@@ -1,0 +1,106 @@
+keys,en,it
+UI_MENU_TALENTS,Talents,Talenti
+UI_MENU_DUNGEON,Dungeons,Dungeon
+UI_MENU_BOUNTY,Bounties,Taglie
+UI_C2_OPEN_DUNGEON,Dungeons…,Dungeon…
+UI_C2_ABILITIES,Abilities,Tecniche
+UI_C2_NO_ABILITIES,No abilities equipped. Pick up to 4 in the Hero screen: the sword alone can't do miracles.,Nessuna tecnica equipaggiata. Ne scegli fino a 4 nella schermata Eroe: la spada da sola non fa miracoli.
+UI_C2_ABILITY_TIP,{desc} · Cost: {cost} · Cooldown: {cd} s,{desc} · Costo: {cost} · Ricarica: {cd} s
+UI_C2_STATUS_SHIELD,Barrier up,Barriera attiva
+UI_C2_STATUS_SHIELD_N,Shield {n},Scudo {n}
+UI_C2_STATUS_POISON,Toxic cloud,Nube tossica
+UI_C2_STATUS_ADDS,Minions: {n},Servitori: {n}
+UI_C2_STATUS_SLOW,Slowed,Rallentato
+UI_C2_STATUS_DOT,Damage over time,Danno nel tempo
+UI_C2_WANTED,WANTED,RICERCATO
+UI_C2_MECHS,Mechanics,Meccaniche
+UI_C2_DUNGEON_WAVE,{name}: room {n} of {total},{name}: stanza {n} di {total}
+UI_C2_POTION_ACTIVE,{name} (charges left: {n}),{name}: {n} cariche rimaste
+UI_C2_LOG_CAST,Ability: {name}!,Tecnica: {name}!
+UI_C2_LOG_MECH_HEAVY,The boss winds up a devastating blow!,Il boss carica un colpo devastante!
+UI_C2_LOG_MECH_POISON,Toxic cloud! Breathing is now optional (but encouraged).,Nube tossica! Respirare ora è facoltativo (ma consigliato).
+UI_C2_LOG_MECH_SHIELD,A barrier shimmers: your hits tickle.,Una barriera scintilla: i tuoi colpi fanno il solletico.
+UI_C2_LOG_MECH_STUN,"Stunned! Stars, little birds, the usual.","Stordimento in corso! Stelline, uccellini, il solito."
+UI_C2_LOG_MECH_ADDS,The boss calls for backup. Not very sporting.,Il boss chiama i rinforzi. Poco sportivo.
+UI_C2_LOG_REVIVE_ONCE,Not today! You get back up.,Oggi no! Ti rialzi.
+UI_C2_LOG_WANTED,A Wanted target! Its mother must be so proud.,Un Ricercato! Sua madre sarà fierissima.
+UI_C2_DUNGEON_CLEARED,Dungeon cleared!,Dungeon completato!
+UI_C2_DUNGEON_FAILED,Run failed (dignity: partial),Corsa fallita (dignità: parziale)
+UI_C2_LOG_DUNGEON_DONE,Dungeon cleared: {name}! Reward: {gold} gold plus the good stuff.,Dungeon completato: {name}! Premio: {gold} oro più la roba buona.
+UI_C2_LOG_DUNGEON_FAIL,"The run is over, but the loot from the rooms you won stays yours. Dignity: partial.","La corsa è finita, ma il bottino delle stanze vinte resta tuo. Dignità: parziale."
+UI_C2_DUNGEON_TITLE,New title unlocked: a dungeon conqueror is born.,Nuovo titolo sbloccato: nasce un conquistatore di dungeon.
+UI_C2_SPEC,Specialization,Specializzazione
+UI_C2_SPEC_NONE,None,Nessuna
+UI_C2_SPEC_NONE_SHORT,No specialization,Nessuna specializzazione
+UI_C2_SPEC_HYBRID,Hybrid classes have no specializations: they're too busy switching stance.,Le classi ibride non hanno specializzazioni: sono troppo impegnate a cambiare postura.
+UI_C2_SPEC_NOT_IN_COMBAT,Change this outside of combat. Mid-fight costume changes are for theater.,Cambialo fuori dal combattimento. I cambi d'abito a metà scontro sono roba da teatro.
+UI_C2_SPEC_HINT,Unlocked at Hero level 30 with the class quest. You can switch for free whenever you're not fighting.,"Si sblocca al livello Eroe 30 con la missione di classe. Cambi gratis, quando non combatti."
+UI_C2_SPEC_DENIED,You can't pick that specialization yet.,Quella specializzazione non è ancora tua.
+UI_C2_CLASS_COOLDOWN,Next change in {time}.,Prossimo cambio tra {time}.
+UI_C2_ABILITY_AUTO,Choose abilities for me,Scegli le tecniche per me
+UI_C2_ABILITY_SLOT_TIP,Abilities fire in this order: the first one that's ready goes first.,Le tecniche partono in quest'ordine: la prima pronta scatta per prima.
+UI_C2_ABILITY_WRONG_WEAPON,"Your weapon doesn't match your class: no class abilities, only plain hits.","L'arma non è dello stile della tua classe: niente tecniche, solo colpi semplici."
+UI_C2_ABILITY_NONE_YET,No abilities yet. They arrive as you level up. The hero is practicing in the mirror.,Ancora nessuna tecnica: arrivano salendo di livello. Intanto l'eroe fa le prove davanti allo specchio.
+UI_C2_ABILITY_PRIORITY,Up to 4 abilities. An ability takes the place of your normal attack when it's ready and you have the resource.,Fino a 4 tecniche. Una tecnica prende il posto dell'attacco normale quando è pronta e hai la risorsa.
+UI_C2_POTION,Combat potion,Pozione di combattimento
+UI_C2_POTION_NONE,No potions,Nessuna pozione
+UI_C2_POTION_DRINK,Drink,Bevi
+UI_C2_POTION_HINT,One at a time; each attack uses up a charge.,Una alla volta; ogni attacco consuma una carica.
+UI_C2_GLYPHS,Glyph sockets,Incastri dei Glifi
+UI_C2_GLYPH_NONE,No sockets,Nessun incastro
+UI_C2_GLYPH_EMPTY,empty socket,incastro vuoto
+UI_C2_GLYPH_SOCKET,Socket,Incastona
+UI_C2_GLYPH_REMOVE,Remove,Rimuovi
+UI_C2_GLYPH_REMOVE_TIP,Careful: removing a glyph destroys it.,Attenzione: rimuovere un Glifo lo distrugge.
+UI_C2_GLYPH_NONE_AVAILABLE,No glyphs in storage,Nessun Glifo nel Deposito
+UI_C2_BRANCH_GENERAL,General,Generale
+UI_C2_BRANCH_HYBRID,Hybrid,Ibrida
+UI_C2_TALENT_POINTS,Points: {free} free out of {total},Punti: {free} liberi su {total}
+UI_C2_TALENT_HINT,Click a node to add a rank. Every node needs points already spent in its branch. You earn 1 point every 2 Hero levels.,Clicca un nodo per aggiungere un rango. Ogni nodo vuole punti già spesi nel suo ramo. Guadagni 1 punto ogni 2 livelli Eroe.
+UI_C2_TALENT_NO_POINTS_YET,"No points yet: they start arriving at Hero level 2. Hold on, they're on their way.","Ancora nessun punto: iniziano ad arrivare dal livello Eroe 2. Pazienza, sono in viaggio."
+UI_C2_TALENT_PER_RANK,Each rank:,Per ogni rango:
+UI_C2_TALENT_NOW,Current rank: {n},Rango attuale: {n}
+UI_C2_TALENT_WHY_CLASS,This node belongs to another class.,Questo nodo appartiene a un'altra classe.
+UI_C2_TALENT_WHY_MAX,Maxed out. Nothing left to squeeze.,Al massimo. Più di così non si spreme.
+UI_C2_TALENT_WHY_POINTS,"No points left. Level up, or earn a Hero Star.",Punti finiti. Sali di livello o guadagna una Stella dell'Eroe.
+UI_C2_TALENT_WHY_SPEC,Unlock {spec} first (level 30 and the class quest).,Prima sblocca {spec} (livello 30 e missione di classe).
+UI_C2_TALENT_WHY_BRANCH,Spend {need} points in this branch first (so far: {spent}).,Prima spendi {need} punti in questo ramo (finora: {spent}).
+UI_C2_RESPEC_FREE,"Reset talents (free, for now)","Azzera i talenti (gratis, per ora)"
+UI_C2_RESPEC_COST,Reset talents ({gold} gold),Azzera i talenti ({gold} oro)
+UI_C2_RESPEC_CONFIRM,Really? Click again to confirm. The talents will pretend not to be offended.,Confermi davvero? Clicca ancora. I talenti faranno finta di non offendersi.
+UI_C2_RESPEC_TIP,Gives back all your points. Not during a fight: the monsters would laugh.,Restituisce tutti i punti. Non durante un combattimento: i mostri riderebbero.
+UI_C2_RESPEC_DENIED,Not enough gold to reset.,Oro insufficiente per azzerare.
+UI_C2_DUNGEON_INTRO,"A string of rooms, one boss at the end, no outfit changes inside. If you fall, the loot you've already won stays: only your pride resets.","Una sfilza di stanze, un boss in fondo, niente cambi d'equipaggiamento dentro. Se cadi il bottino già vinto resta: si azzera solo l'orgoglio."
+UI_C2_DUNGEON_LEAVE,Leave the dungeon,Esci dal dungeon
+UI_C2_DUNGEON_REPEAT,Repeat after clearing,Ripeti dopo il completamento
+UI_C2_DUNGEON_ENTER,Enter,Entra
+UI_C2_DUNGEON_DENIED,"You can't go in: the dungeon is locked, or you have no ammunition.",Non puoi entrare: il dungeon è bloccato oppure mancano le munizioni.
+UI_C2_DUNGEON_SUB,{zone} · Hero level {lv}+ · clears: {clears},{zone} · Livello Eroe {lv}+ · completato {clears} volte
+UI_C2_DUNGEON_LOCKED,Locked: you need Hero level {lv} and the key you get from the quest that opens this door (check your quest log).,Bloccato: serve il livello Eroe {lv} e la chiave che ottieni con la missione di questa porta (guarda il diario).
+UI_C2_DUNGEON_WAVES,Rooms,Stanze
+UI_C2_DUNGEON_REWARD,Reward,Ricompensa
+UI_C2_DUNGEON_MILESTONES,Milestones,Traguardi
+UI_C2_MILESTONE_10,{n} clears: you get quicker inside this dungeon,{n} completamenti: diventi più rapido in questo dungeon
+UI_C2_MILESTONE_50,{n} clears: this dungeon pays out more loot,{n} completamenti: questo dungeon rende più bottino
+UI_C2_MILESTONE_250,{n} clears: an exclusive title for the stubborn,{n} completamenti: un titolo esclusivo per i testardi
+UI_C2_REWARD_GOLD,{n} gold,{n} oro
+UI_C2_REWARD_UNIQUES,Rare unique drops from the boss: {list},Unici rari dal boss: {list}
+UI_C2_DUNGEON_RISK_TIP,Strongest blow: {hit}. Auto-eat starts at {thr} health. Food per run: {food} (you have {have}). A run takes about {time}.,Colpo più forte: {hit}. Si mangia sotto {thr} di vita. Cibo per corsa: {food} (ne hai {have}). Una corsa dura circa {time}.
+UI_C2_RAIDS,Raids,Incursioni
+UI_C2_RAIDS_NOTE,"Three heroes, one boss, three phases. The mercenary squad is still on its coffee break: coming later.","Tre eroi, un boss, tre fasi. La squadra di mercenari è ancora in pausa caffè: arriva più avanti."
+UI_C2_BOUNTY_INTRO,"Pick a contract, hunt the target, collect Marks. One contract at a time. Wanted targets are rare and extremely touchy.","Scegli un incarico, caccia il bersaglio, incassa i Marchi. Un incarico alla volta. I Ricercati sono rari e permalosissimi."
+UI_C2_BOUNTY_ACTIVE,Active contract,Incarico in corso
+UI_C2_BOUNTY_GO,Go hunting,Vai a caccia
+UI_C2_BOUNTY_ABANDON,Abandon,Abbandona
+UI_C2_BOUNTY_BOARD,Bounty board,Bacheca delle taglie
+UI_C2_BOUNTY_WANTED_NOTE,"Every kill of your target has a {p} chance of being a Wanted: {hp}× health, {dmg}× damage, a Bounty Crate and {marks} extra Marks.","Ogni uccisione del bersaglio ha il {p} di probabilità di essere un Ricercato: vita ×{hp}, danno ×{dmg}, una Cassa delle Taglie e {marks} Marchi extra."
+UI_C2_BOUNTY_STATS,Bounty Hunting level {lv} · contracts done {done} · Marks earned {marks},Livello Caccia alle Taglie {lv} · incarichi svolti {done} · Marchi guadagnati {marks}
+UI_C2_BOUNTY_COMPLETED,Contract complete!,Incarico completato!
+UI_C2_BOUNTY_PROGRESS,{n} / {total} kills · {marks} Marks per kill,{n} / {total} uccisioni · {marks} Marchi per uccisione
+UI_C2_BOUNTY_OFFER,Hunt {kills} · {marks} Marks per kill,Caccia: {kills} · {marks} Marchi per uccisione
+UI_C2_BOUNTY_ACCEPT,Accept,Accetta
+UI_C2_BOUNTY_REROLL_FREE,Swap ({n} free today),Cambia ({n} gratis oggi)
+UI_C2_BOUNTY_REROLL_COST,Swap ({gold} gold),Cambia ({gold} oro)
+UI_C2_BOUNTY_REROLL_DENIED,Not enough gold for a swap.,Oro insufficiente per cambiare.
+UI_C2_BOUNTY_NONE,No contracts available: raise your Bounty Hunting level or unlock new zones. The badgers are lying low.,Nessun incarico disponibile: alza il livello di Caccia alle Taglie o sblocca nuove zone. I tassi si tengono bassi.
+UI_C2_BOUNTY_DONE,Contract complete! Bounty Crate: {crate},Incarico completato! Cassa delle Taglie: {crate}

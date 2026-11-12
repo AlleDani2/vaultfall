@@ -1,0 +1,6 @@
+keys,en,it
+UI_F8_INTRO,"Pick a zone and who to fight, then press Start: the hero fights on their own and eats when health drops. Food, abilities, the Run and the log are right below.","Scegli una zona e chi affrontare, poi premi Inizia: l'Eroe combatte da solo e mangia quando la vita scende. Cibo, tecniche, Corsa e registro sono qui sotto."
+UI_F8_TECH_DETAIL,"Show ability details","Mostra il dettaglio delle tecniche"
+UI_F8_RUN_WAITING,"a choice is waiting","una scelta aspetta"
+UI_F8_RISK_BAD,"Danger: one blow may defeat you","Pericolo: un colpo può abbatterti"
+UI_F8_HITS,"Hit {last} · max {max} · {dps}/s","Colpo {last} · max {max} · {dps}/s"

@@ -1,0 +1,70 @@
+keys,en,it
+UI_QG_GO,Go,Vai
+UI_QG_ERA,Era {n},Era {n}
+UI_QG_SC_QUESTS,Quests,Missioni
+UI_UIB_BADGE_QUESTS,Quests to claim or new things to discover: {n},Missioni da riscattare o novità da scoprire: {n}
+UI_QG_UPCOMING_NONE,No further story quests are waiting.,Nessun'altra missione della storia in attesa.
+UI_QG_TODO_NONE,No story quest in progress right now.,Nessuna missione della storia in corso adesso.
+UI_QG_GO_TO,Go: {name},Vai: {name}
+UI_QG_HINT_GO,Click to open the right screen,Clic per aprire la schermata giusta
+UI_QG_NOW_TITLE,Current goal,Obiettivo attuale
+UI_QG_TODO,To do now,Da fare ora
+UI_QG_NEXT,Coming up,Prossime
+UI_QG_CLAIMABLE,Ready to claim,Da riscattare
+UI_QG_DISCOVER,Worth discovering,Da scoprire
+UI_QG_DISCOVER_LINE,To discover: {title},Da scoprire: {title}
+UI_QG_OTHER,Other quests in progress,Altre missioni in corso
+UI_QG_ELSEWHERE,Feats and orders live in their own pages,Imprese e commesse hanno le loro schede
+UI_QG_OPEN_COMPENDIUM,Feats: open the Compendium,Imprese: apri il Compendio
+UI_QG_OPEN_ORDERS,Orders: open the Orders page,Commesse: apri la scheda Commesse
+UI_QG_CLAIM_ALL,Claim all ({n}),Riscatta tutto ({n})
+UI_QG_HOW_LABEL,How to,Come fare
+UI_QG_WHY_LABEL,Why,Perché
+UI_QG_NOTHING_CLAIM,Nothing to claim right now.,Niente da riscattare adesso.
+UI_QG_MENU_TIP,"What to do next, with a Go button","Cosa fare adesso, con il pulsante Vai"
+UI_QG_HOW_CLAIM,Your goals are reached: press Claim reward to collect it.,Gli obiettivi sono raggiunti: premi Riscatta per ritirare la ricompensa.
+UI_QG_WHY,It unlocks: {list},Sblocca: {list}
+UI_QG_REQUIRES,Available after: {quest},Si apre dopo: {quest}
+UI_QG_WHERE_ACTION,{skill} > {action},{skill} > {action}
+UI_QG_WHERE_LOCKED,{skill} (not open yet: {hint}),{skill} (non ancora aperta: {hint})
+UI_QG_WHERE_DROP,dropped by {monster} in {zone},lo lascia {monster} in {zone}
+UI_QG_WHERE_MARKET,can be bought at the Market,si compra al Mercato
+UI_QG_WHERE_QUEST,it is the reward of the quest “{quest}”,è la ricompensa della missione «{quest}»
+UI_QG_WHERE_OTHER,"it turns up among rewards (Crates, quests, rare monsters)","capita tra le ricompense (Casse, missioni, mostri rari)"
+UI_QG_NEED_LEVEL,Needs level {n} in {skill},Serve il livello {n} in {skill}
+UI_QG_INPUT,You need {n} {item}: {where},Servono {n} {item}: {where}
+UI_QG_ZONE_LOCKED,The zone {zone} is still closed.,La zona {zone} è ancora chiusa.
+UI_QG_HOW_ACTION,"Open {skill}, pick “{action}” and press Start.","Apri {skill}, scegli «{action}» e premi Avvia."
+UI_QG_HOW_NOACTION,{item} is not made by a skill: {where}.,{item} non si ottiene con una mansione: {where}.
+UI_QG_HOW_LOCKED,To get {item} you need {skill} first: {hint}.,Per ottenere {item} serve prima {skill}: {hint}.
+UI_QG_HOW_FARM,"Open {skill}, sow {crop} on a free plot, wait until it is ripe and harvest it.","Apri {skill}, semina {crop} su una parcella libera, aspetta che maturi e raccoglila."
+UI_QG_HOW_KILL,"Open Combat, choose the zone {zone}, pick {monster} in the list and press Start fighting.","Apri Combattimento, scegli la zona {zone}, seleziona {monster} nell'elenco e premi Inizia a combattere."
+UI_QG_HOW_KILL_ANY,"Open Combat, choose any open zone and press Start fighting: every defeated monster counts.","Apri Combattimento, scegli una zona aperta e premi Inizia a combattere: conta ogni mostro sconfitto."
+UI_QG_HOW_KILL_CLASS,"Pick the class {class} in Hero, then fight in Combat: only monsters defeated with it count.","Scegli la classe {class} in Eroe, poi combatti: contano solo i mostri sconfitti con quella classe."
+UI_QG_HOW_DUNGEON,"Open Dungeons, pick the dungeon from the list and press Enter. Reach the end to complete it.","Apri Dungeon, scegli il dungeon dall'elenco e premi Entra. Arriva in fondo per completarlo."
+UI_QG_HOW_RAID,"Open Dungeons > Raids, assemble your squad of mercenaries and start the raid.","Apri Dungeon > Incursioni, forma la squadra di mercenari e avvia l'incursione."
+UI_QG_HOW_WBOSS,"Open Dungeons > World bosses, pick the tier and start the fight.","Apri Dungeon > Boss mondiali, scegli il livello e avvia lo scontro."
+UI_QG_HOW_RIFT,Open Dungeons > The Rift and descend: every cleared floor raises your record.,Apri Dungeon > La Breccia e scendi: ogni piano superato alza il tuo record.
+UI_QG_HOW_LEVEL_HERO,Fight: every defeated monster gives Hero experience. Open Combat and pick a zone suited to your level.,Combatti: ogni mostro sconfitto dà esperienza all'Eroe. Apri Combattimento e scegli una zona adatta al tuo livello.
+UI_QG_HOW_SKILL_LOCKED,{skill} is not open yet: {hint}.,{skill} non è ancora aperta: {hint}.
+UI_QG_HOW_LEVEL_SKILL,Open {skill} and start the actions you can already do: every completed action gives experience.,Apri {skill} e avvia le azioni che puoi già fare: ogni azione completata dà esperienza.
+UI_QG_HOW_TOTAL,"Total level is the sum of all your skills: raise any of the open ones, a little each.","Il livello totale è la somma di tutte le mansioni: fai salire quelle aperte, anche poco ciascuna."
+UI_QG_HOW_EQUIP,"Open Hero, find {item} among your gear and equip it (or use the Equip button in the Bank).","Apri Eroe, trova {item} tra l'equipaggiamento e indossalo (o usa il tasto Equipaggia nel Deposito)."
+UI_QG_HOW_BUILD,"Open Estate, find the card {building} and press +1 until it reaches level {level}.","Apri Tenuta, trova la carta {building} e premi +1 finché arriva al livello {level}."
+UI_QG_HOW_ESTATE,Open Estate and spend gold and materials to raise your buildings.,Apri Tenuta e spendi oro e materiali per far crescere gli edifici.
+UI_QG_HOW_SELL,Open the Market and sell what you do not need until you have earned {gold} gold in total.,Apri Mercato e vendi ciò che non ti serve finché hai incassato {gold} oro in totale.
+UI_QG_HOW_ORDERS,"Open Orders, pick one you can fill from your Bank and press Deliver.","Apri Commesse, scegli una che puoi coprire con il Deposito e premi Consegna."
+UI_QG_HOW_STEAL,"Open {skill}, pick a target and press Start: every successful pickpocket counts.","Apri {skill}, scegli un bersaglio e premi Avvia: conta ogni borseggio riuscito."
+UI_QG_HOW_DELIVER,"Get {item} ({where}), then press Deliver in this quest.","Procurati {item} ({where}), poi premi Consegna in questa missione."
+UI_QG_HOW_TALK,Press Talk in this quest to speak with {name}.,Premi Parla in questa missione per parlare con {name}.
+UI_QG_HOW_CRATES,"Open the Vault Hall, choose a Crate you own, press Open and watch the reel.","Apri la Sala dei Caveau, scegli una Cassa che possiedi, premi Apri e guarda il rullo."
+UI_QG_HOW_TRADEUP,"Open the Vault Workshop > Reshuffle, put in the requested items and confirm.","Apri la Bottega dei Caveau > Rimpasto, inserisci gli oggetti richiesti e conferma."
+UI_QG_HOW_WORKSHOP,Open the Vault Workshop and use the Refine tab on a skin or glyph.,Apri la Bottega dei Caveau e usa la scheda Rifinitura su una finitura o un glifo.
+UI_QG_HOW_RECRUIT,"Open the Guild, go to Mercenaries and press Hire on one of the candidates.","Apri Gilda, vai su Mercenari e premi Assumi su uno dei candidati."
+UI_QG_HOW_EXPEDITION,"Open the Guild, go to Expeditions, pick a map, assign mercenaries and send them.","Apri Gilda, vai su Spedizioni, scegli una mappa, assegna i mercenari e mandali."
+UI_QG_HOW_BOUNTY,"Open Bounties, accept a bounty and defeat its target.","Apri Taglie, accetta una taglia e sconfiggi il bersaglio."
+UI_QG_HOW_STAR,Open Prestige: a maxed skill can be restarted for a Star. Read the page before confirming.,Apri Prestigio: una mansione al massimo si può ricominciare in cambio di una Stella. Leggi la pagina prima di confermare.
+UI_QG_HOW_SECRET,"Open Secret Spots, reveal a place with Map Fragments and send the Hero to explore it.","Apri Luoghi Segreti, rivela un luogo con i Frammenti di Mappa e mandaci l'Eroe in esplorazione."
+UI_QG_HOW_GENERIC,Keep playing: this goal advances on its own as you go. Goal: {goal}.,Continua a giocare: questo obiettivo avanza da solo mentre procedi. Obiettivo: {goal}.
+UI_QG_HOW_FIND,"Open {skill}, pick “{action}” and press Start: {item} turns up now and then as a rare find while you work. Be patient, it counts on its own.","Apri {skill}, scegli «{action}» e premi Avvia: {item} salta fuori ogni tanto come ritrovamento raro mentre lavori. Un po' di pazienza, si conta da solo."
+UI_QG_WHERE_FIND,a rare find while doing {skill} (“{action}”),come ritrovamento raro in {skill} («{action}»)

@@ -1,0 +1,79 @@
+keys,en,it
+UI_WELCOME_BACK,Welcome back! The Vault kept your seat warm.,Rieccoti! Il Caveau ti ha tenuto il posto caldo.
+UI_YOU_DIED,You were defeated (it happens),Hai perso lo scontro (capita)
+UI_SLOT_EMPTY,Empty (ideas welcome),Vuoto (si accettano idee)
+UI_SLOT_CORRUPT,Unreadable save (the ink ran),Salvataggio illeggibile (l'inchiostro è colato)
+UI_SLOT_NEWER,Saved with a newer version of the game (time travel?),Salvato con una versione più recente del gioco (viaggi nel tempo?)
+UI_LOAD_FAILED,The save could not be loaded. Ilde is filing a report.,Non è stato possibile caricare il salvataggio. Ilde sta compilando un verbale.
+UI_SAVE_FAILED,Saving failed. The pigeon dropped the scroll.,Salvataggio non riuscito. Il piccione ha lasciato cadere il rotolo.
+UI_SAVED,Game saved. Safe and sound.,Partita salvata. Al sicuro.
+UI_COMING_SOON,Coming in a future update (the writer is still thinking),In arrivo in un prossimo aggiornamento (lo scrittore sta ancora pensando)
+UI_NO_GAME,No game in progress. The Vault waits.,Nessuna partita in corso. Il Caveau aspetta.
+UI_IMPORT_OK,Save imported. Nothing exploded.,Salvataggio importato. Nulla è esploso.
+UI_IMPORT_FAILED,"Invalid save text. Did you copy all of it, tail included?","Testo del salvataggio non valido. L'hai copiato tutto, coda compresa?"
+UI_COPIED,Copied to clipboard. Paste with confidence.,Copiato negli appunti. Incolla con fiducia.
+UI_NO_KEY,Key missing (check Gunilde's pockets),Chiave mancante (guarda nelle tasche di Gunilde)
+UI_LEVEL_UP,Level reached! Pose optional.,Livello raggiunto! Posa facoltativa.
+UI_PET_FOUND,A familiar joined you! It's not the goose.,Un famiglio si è unito a te! Non è l'oca.
+UI_QUEST_COMPLETE,Quest complete! Form 27-B: filed.,Missione completata! Modulo 27-B: compilato.
+UI_DEMO_LOCKED,"Available in the full game (locked, with feeling)","Disponibile nel gioco completo (chiuso a chiave, con sentimento)"
+UI_BANK_ALMOST_FULL,Bank almost full (the pigeon is moving out),Deposito quasi pieno (il piccione sta traslocando)
+UI_FOOD_LOW,Food running low (Ottavio is sulking),Cibo in esaurimento (Ottavio fa il broncio)
+UI_EXPEDITION_DONE,Expedition complete (Livia claims credit),Spedizione completata (Livia si prende il merito)
+UI_HARVEST_READY,Harvest ready (Berta has a proverb),Raccolto pronto (Berta ha un proverbio)
+UI_WORLD_BOSS_SOON,World boss arriving in 5 minutes (stretch first),Boss mondiale in arrivo tra 5 minuti (fai prima stretching)
+UI_SUMMARY_INTRO,Your adventure in Vaelmora starts here. Pick an activity from the left menu. No pressure: the sky keeps raining Crates.,La tua avventura a Vaelmora comincia qui. Scegli un'attività dal menù a sinistra. Nessuna pressione: dal cielo continuano a piovere Casse.
+UI_REASON_NO_FOOD,the food ran out (Ottavio wept),il cibo è finito (Ottavio ha pianto)
+UI_REASON_BANK_FULL,the Bank is full (not one sock more),il Deposito è pieno (nemmeno un calzino in più)
+UI_REASON_NO_MATERIALS,materials ran out (the cupboard is bare),sono finiti i materiali (la dispensa è vuota)
+UI_REASON_DIED,you were defeated (it happens),hai perso lo scontro (capita)
+UI_HUMOR_TIP_01,"Pick one action and press Start: it keeps going on its own, even while you're away. That's the whole trick. Ilde calls it “efficient laziness.”","Scegli un'azione e premi Avvia: va avanti da sola, anche quando non ci sei. È tutto qui il trucco. Ilde lo chiama «pigrizia efficiente»."
+UI_HUMOR_TIP_02,"Only one action runs at a time, but switching is instant and free. Dario switches every five minutes, for no reason.","Si svolge una sola azione per volta, ma cambiare è immediato e gratuito. Dario cambia ogni cinque minuti, senza motivo."
+UI_HUMOR_TIP_03,"The Manual (F1) has all the formulas. Sefora wrote the footnotes, so read them with a cup of tea.",Il Manuale (F1) contiene tutte le formule. Le note a piè di pagina sono di Sefora: leggile con una tisana.
+UI_HUMOR_TIP_04,"Crates open only with keys earned or forged in game. No real money, ever. Gunilde guards the keys; ask nicely, or with copper.","Le Casse si aprono solo con chiavi ottenute o forgiate giocando. Niente denaro vero, mai. Le chiavi le custodisce Gunilde: chiedi con garbo, o porta rame."
+UI_HUMOR_TIP_05,Every crate shows its real odds before you touch it. Bertoldo would rather you didn't read them. Read them.,Ogni Cassa mostra le sue vere probabilità prima che tu la tocchi. Bertoldo preferirebbe che non le leggessi. Leggile.
+UI_HUMOR_TIP_06,You can skip the opening animation with Space. The result was drawn before the animation anyway: the show is just for show.,Puoi saltare l'animazione di apertura con Spazio. Il risultato è già stato estratto prima: lo spettacolo è solo spettacolo.
+UI_HUMOR_TIP_07,Lock your favorite items in the Bank: a locked item can't be sold or melted by mistake. Not even by Bertoldo.,Blocca i tuoi oggetti preferiti nel Deposito: un oggetto bloccato non si può vendere né fondere per sbaglio. Nemmeno Bertoldo ci riesce.
+UI_HUMOR_TIP_08,"Keep a little food in the Bank: heroes fight better when they're not starving. Ottavio can cook it for you, with commentary.","Tieni un po' di cibo nel Deposito: gli eroi combattono meglio se non sono affamati. Ottavio te lo cucina, con commento."
+UI_HUMOR_TIP_09,"The Auto-Eat belt eats for you when your life gets low. It won't say thank you, but it will chew.","La cintura di auto-mangiare mangia per te quando la vita scende. Non ringrazia, ma mastica."
+UI_HUMOR_TIP_10,"Selling a lot of the same thing lowers its demand. Mix goods and wait a bit: the market recovers by itself, like a sulking merchant.","Vendere troppa roba uguale ne abbassa la domanda. Varia la merce e aspetta un po': il mercato si riprende da solo, come un mercante offeso."
+UI_HUMOR_TIP_11,"Check the Vaelmora Gazette: its news changes prices. When fish drop, Ottavio is sad; when potions soar, Mirta is “relaxed.”","Dai un'occhiata alla Gazzetta di Vaelmora: le notizie cambiano i prezzi. Quando il pesce cala, Ottavio è triste; quando le pozioni salgono, Mirta è «rilassata»."
+UI_HUMOR_TIP_12,Orders stay on the board for 7 days and declining them costs nothing. Nobody holds a grudge. Probably.,Le commesse restano in bacheca 7 giorni e rifiutarle non costa nulla. Nessuno porta rancore. Forse.
+UI_HUMOR_TIP_13,"The Estate keeps producing while you're away. Granny Berta says crops grow faster if you don't watch. She's wrong, but they do grow.","La Tenuta continua a produrre mentre sei via. Nonna Berta dice che le piante crescono più in fretta se non le guardi. Sbaglia, ma crescono."
+UI_HUMOR_TIP_14,"Skins in the Wardrobe give a permanent bonus, even if you don't hold the item. Wearing them is optional; bonuses aren't.","Le finiture nel Guardaroba danno un bonus permanente, anche se non tieni in mano l'oggetto. Indossarle è facoltativo, i bonus no."
+UI_HUMOR_TIP_15,Better skin condition means a better bonus. The Manual explains the numbers; the Magpie explains why she's staring at them.,Una condizione migliore dà un bonus migliore. Il Manuale spiega i numeri; la Gazza spiega perché li fissa.
+UI_HUMOR_TIP_16,"A Star restarts a skill at level 1 in exchange for lasting bonuses. It's like moving house, but the furniture comes back stronger.","Una Stella fa ripartire una mansione dal livello 1 in cambio di bonus duraturi. È come traslocare, ma i mobili tornano più forti."
+UI_HUMOR_TIP_17,Mastery levels up each action on its own. Practice makes perfect; repetition makes Mastery.,La Maestria fa crescere ogni azione per conto suo. Ripetere fa bene: la ripetizione fa Maestria.
+UI_HUMOR_TIP_18,"In dungeons you can't change gear, but you can eat. Pack the sandwich before you walk in.","Nei dungeon non puoi cambiare equipaggiamento, ma puoi mangiare. Prepara il panino prima di entrare."
+UI_HUMOR_TIP_19,"Raids need a team of three mercenaries: a defender, a healer and a striker. Dario insists he can be all three. He can't.","Le incursioni richiedono una squadra di tre mercenari: difensore, guaritore e attaccante. Dario sostiene di poter fare tutti e tre. Non può."
+UI_HUMOR_TIP_20,"World bosses come back every few hours and stay a short while. The more damage you do, the better the prize. Stretch first.","I boss mondiali tornano ogni poche ore e restano poco. Più danno fai, migliore è il premio. Fai prima stretching."
+UI_HUMOR_TIP_21,The style triangle matters: a favorable matchup deals more damage. Choose your monster like you choose your sandwich.,Il triangolo degli stili conta: uno scontro favorevole fa più danno. Scegli il mostro come scegli il panino.
+UI_HUMOR_TIP_22,"A monster's weakness is written in its description. Read it: the guide-book is sarcastic, but accurate.","La debolezza di un mostro è scritta nella descrizione. Leggila: la guida è sarcastica, ma precisa."
+UI_HUMOR_TIP_23,"When the Bank is full, new finds have nowhere to go. Sell, melt or expand. Do not ask the pigeon to move over.","Quando il Deposito è pieno, le nuove cose trovate non hanno dove stare. Vendi, fondi o amplia. Non chiedere al piccione di spostarsi."
+UI_HUMOR_TIP_24,The action queue lets you plan ahead. Put in a few tasks and go make tea. Mirta will recommend which one.,La coda delle azioni ti fa pianificare. Metti qualche compito e vai a farti un tè. Mirta ti consiglierà quale.
+UI_HUMOR_TIP_25,"Quests tell the story and open new areas one at a time. If a menu entry is locked, it tells you how to open it.","Le missioni raccontano la storia e aprono le novità una alla volta. Se una voce del menù è bloccata, ti dice come aprirla."
+UI_HUMOR_TIP_26,"Skill perks unlock as you level. Pick carefully, or pay a little gold to change your mind. Mirta changes hers hourly.","I talenti di mansione si sbloccano salendo di livello. Scegli con cura, o paga un po' d'oro per ripensarci. Mirta ci ripensa ogni ora."
+UI_HUMOR_TIP_27,Potions last for a limited number of charges. Mirta swears the green one is “almost right.” Drink with confidence.,Le pozioni durano per un numero limitato di cariche. Mirta giura che quella verde sia «quasi giusta». Bevi con fiducia.
+UI_HUMOR_TIP_28,Glyphs are socketed into equipment for extra bonuses. Carve them with Runecarving; Sefora will annotate them.,I glifi si incastrano nell'equipaggiamento per bonus extra. Si incidono con l'Incisione Runica; Sefora li annoterà.
+UI_HUMOR_TIP_29,"Pets join you by chance while you work or fight. They don't pay rent, but they do bring bonuses.","I famigli si uniscono a te per caso mentre lavori o combatti. Non pagano l'affitto, ma portano bonus."
+UI_HUMOR_TIP_30,"Event crates come with their own banners, frames and titles. Take your time: the Magpie will wait.","Le casse degli eventi hanno stendardi, cornici e titoli tutti loro. Prenditi il tempo che serve: la Gazza aspetta."
+UI_HUMOR_TIP_31,"Offline progress has a limit, but it's generous. Close the game, go for a walk, come back to a nice report.","I progressi offline hanno un limite, ma generoso. Chiudi il gioco, vai a fare due passi, torna a un bel resoconto."
+UI_HUMOR_TIP_32,Cooking can burn a dish now and then. Ottavio calls it “dramatic charcoal” and gives it zero stars.,"Cucinando, ogni tanto un piatto brucia. Ottavio lo chiama «carbone drammatico» e gli dà zero stelle."
+UI_HUMOR_TIP_33,"Crafting can turn out Fine, Excellent or even Masterwork gear. Skill helps, luck helps more, a nod from Gunilde helps most.","Creando si possono ottenere pezzi Fini, Eccellenti o addirittura Capolavoro. L'abilità aiuta, la fortuna di più, un cenno di Gunilde moltissimo."
+UI_HUMOR_TIP_34,"Reshuffles turn several skins into one better skin, with the odds shown beforehand. Ilde reads them out loud.","I rimpasti trasformano più finiture in una migliore, con le probabilità mostrate prima. Ilde li legge ad alta voce."
+UI_HUMOR_TIP_35,"Factions have ranks, and ranks unlock rewards and discounts. The Merchant League gives you a card; the Magpie, a wink.","Le fazioni hanno dei gradi, e i gradi sbloccano ricompense e sconti. La Lega dei Mercanti ti dà una tessera; la Gazza, un occhiolino."
+UI_HUMOR_TIP_36,The Rift has endless floors with a Guardian every ten. Bring food and good manners.,"La Breccia ha piani infiniti, con un Guardiano ogni dieci. Porta cibo e buone maniere."
+UI_HUMOR_TIP_37,"The Tavern recruits mercenaries and sends expeditions. Livia plans them from the couch, scale: approximate.","La Taverna recluta mercenari e manda spedizioni. Livia le pianifica dal divano, scala: circa."
+UI_HUMOR_TIP_38,"Daily and weekly tasks reset on their own and nobody punishes you for skipping. Not even Ilde. Well, a little.","Gli incarichi giornalieri e settimanali si rinnovano da soli e nessuno ti punisce se salti. Nemmeno Ilde. Be', un pochino."
+UI_HUMOR_TIP_39,"Lockpicks, tools and gear speed you up. A better axe is a better day. Gunilde says: “Axe.”","Grimaldelli, attrezzi ed equipaggiamento ti rendono più veloce. Un'ascia migliore è una giornata migliore. Gunilde dice: «Ascia.»"
+UI_HUMOR_TIP_40,The Emporium sells keys in small daily amounts. The keysmith needs her naps.,L'Emporio vende le chiavi in piccole quantità al giorno. La fabbra deve fare i suoi riposini.
+UI_HUMOR_TIP_41,"The Album lists every skin in a crate, including the ones you haven't found. They're silhouettes: shy, not absent.","L'Album elenca ogni finitura di una cassa, comprese quelle che non hai trovato. Sono silhouette: timide, non assenti."
+UI_HUMOR_TIP_42,Keeper's Trials are optional challenges with rules like “no food.” Ottavio refuses to comment.,Le Prove del Custode sono sfide facoltative con regole come «niente cibo». Ottavio si rifiuta di commentare.
+UI_HUMOR_TIP_43,Constellations are bought with Stardust. Stars are patient: so is the Magpie.,"Le Costellazioni si comprano con la Polvere Stellare. Le stelle sono pazienti, come la Gazza."
+UI_HUMOR_TIP_44,"A familiar's bonus applies as long as you own it. You can't lose it, even if you forget its name.","Il bonus di un famiglio vale finché lo possiedi. Non puoi perderlo, nemmeno se ne dimentichi il nome."
+UI_HUMOR_TIP_45,"Resting is allowed. A hero who naps is a hero who lives. Dario disagrees, then naps.","Riposare è lecito. Un eroe che schiaccia un pisolino è un eroe che vive. Dario non è d'accordo, poi dorme."
+UI_HUMOR_TIP_46,"Your numbers can show short, full or scientific in Settings. Bertoldo prefers “full.” He likes to count zeros.","I numeri possono apparire abbreviati, completi o scientifici nelle Impostazioni. Bertoldo preferisce «completi»: gli piace contare gli zeri."
+UI_HUMOR_TIP_47,"If something seems unclear, hover over it: tooltips explain the numbers. Sefora would add footnotes, but we stopped her.","Se qualcosa non ti è chiaro, passaci sopra col mouse: i suggerimenti spiegano i numeri. Sefora aggiungerebbe note a piè di pagina, ma l'abbiamo fermata."
+UI_HUMOR_TIP_48,Export your save from Settings from time to time. A backup is just a nap for your progress.,Esporta ogni tanto il salvataggio dalle Impostazioni. Un backup è solo un pisolino per i tuoi progressi.
+UI_HUMOR_TIP_49,The goose is not a boss. The goose is a lifestyle. Dario knows.,L'oca non è un boss. L'oca è uno stile di vita. Dario lo sa.
+UI_HUMOR_TIP_50,"Mud Slimes hate everyone, and everyone hates Mud Slimes. The relationship is stable.",Le Melme di Fango odiano tutti e tutti odiano le Melme di Fango. La relazione è stabile.
